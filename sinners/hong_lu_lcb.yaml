@@ -1,9 +1,9 @@
 !!python/object:sinner.Sinner
 name: hong_lu_lcb
 s1: !!python/object:skill.Skill
-  base_power: 7
+  base_power: 3
   coin_count: 1
-  coin_power: 3
+  coin_power: 7
   name: downward_cleave
   offense: 35
   user: hong_lu_lcb
