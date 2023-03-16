@@ -1,0 +1,23 @@
+!!python/object:sinner.Sinner
+name: heathcliff_shi_base
+s1: !!python/object:skill.Skill
+  base_power: 4
+  coin_count: 1
+  coin_power: 6
+  name: extreme_edge
+  offense: 34
+  user: heathcliff_shi_base
+s2: !!python/object:skill.Skill
+  base_power: 5
+  coin_count: 1
+  coin_power: 10
+  name: flying_sword
+  offense: 34
+  user: heathcliff_shi_base
+s3: !!python/object:skill.Skill
+  base_power: 5
+  coin_count: 2
+  coin_power: 6
+  name: flashing_strike
+  offense: 34
+  user: heathcliff_shi_base

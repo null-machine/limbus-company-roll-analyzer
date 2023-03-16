@@ -1,0 +1,23 @@
+!!python/object:sinner.Sinner
+name: ryoshu_lcb
+s1: !!python/object:skill.Skill
+  base_power: 3
+  coin_count: 1
+  coin_power: 7
+  name: paint
+  offense: 36
+  user: ryoshu_lcb
+s2: !!python/object:skill.Skill
+  base_power: 4
+  coin_count: 2
+  coin_power: 4
+  name: splatter
+  offense: 36
+  user: ryoshu_lcb
+s3: !!python/object:skill.Skill
+  base_power: 5
+  coin_count: 3
+  coin_power: 2
+  name: brushstroke
+  offense: 36
+  user: ryoshu_lcb

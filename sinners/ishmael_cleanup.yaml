@@ -1,0 +1,23 @@
+!!python/object:sinner.Sinner
+name: ishmael_cleanup
+s1: !!python/object:skill.Skill
+  base_power: 6
+  coin_count: 1
+  coin_power: 6
+  name: shove
+  offense: 29
+  user: ishmael_cleanup
+s2: !!python/object:skill.Skill
+  base_power: 6
+  coin_count: 3
+  coin_power: 2
+  name: quake_rounds
+  offense: 29
+  user: ishmael_cleanup
+s3: !!python/object:skill.Skill
+  base_power: 6
+  coin_count: 4
+  coin_power: 2
+  name: suppress
+  offense: 29
+  user: ishmael_cleanup
