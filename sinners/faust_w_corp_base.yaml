@@ -1,23 +1,23 @@
 !!python/object:sinner.Sinner
-name: faust_w_corp
+name: faust_w_corp_base
 s1: !!python/object:skill.Skill
-  base_power: 6
+  base_power: 4
   coin_count: 1
   coin_power: 6
   name: energy_cycle
   offense: 29
-  user: faust_w_corp
+  user: faust_w_corp_base
 s2: !!python/object:skill.Skill
-  base_power: 7
+  base_power: 5
   coin_count: 2
   coin_power: 4
   name: leap
   offense: 29
-  user: faust_w_corp
+  user: faust_w_corp_base
 s3: !!python/object:skill.Skill
-  base_power: 8
+  base_power: 6
   coin_count: 3
   coin_power: 2
   name: overcharge
   offense: 29
-  user: faust_w_corp
+  user: faust_w_corp_base
