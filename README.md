@@ -7,4 +7,4 @@
 - An additional chart will be generated for sinners reliant on ego passives, chain passives or conditionals.
 - For sinners with arbitrary power limits, e.g. bodysack passive, read their sinner.yaml file to view which numbers were used.
 
-View https://github.com/null-machine/limbus-company-clash-tool/releases for the generated charts.
+View the `charts` folder to see the sinner clash winrate charts.
