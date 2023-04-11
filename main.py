@@ -29,6 +29,7 @@ for file in files:
 	stream = open(f'sinners/{file}', 'r')
 	sinner = yaml.load(stream, yaml.Loader)
 	plt = sinner.gen_chart()
+	# if is_file(f'charts/{sinner.name}.png')
 	plt.savefig(f'charts/{sinner.name}.png')
 	plt.close()
 
