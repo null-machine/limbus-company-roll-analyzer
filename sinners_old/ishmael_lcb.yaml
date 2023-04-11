@@ -1,0 +1,23 @@
+!!python/object:sinner.Sinner
+name: ishmael_lcb
+s1: !!python/object:skill.Skill
+  base_power: 6
+  coin_count: 1
+  coin_power: 7
+  name: loggerhead
+  offense: 31
+  user: ishmael_lcb
+s2: !!python/object:skill.Skill
+  base_power: 8
+  coin_count: 1
+  coin_power: 8
+  name: slide
+  offense: 31
+  user: ishmael_lcb
+s3: !!python/object:skill.Skill
+  base_power: 10
+  coin_count: 1
+  coin_power: 12
+  name: guard
+  offense: 31
+  user: ishmael_lcb

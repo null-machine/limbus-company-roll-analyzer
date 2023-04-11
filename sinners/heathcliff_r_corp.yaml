@@ -1,23 +1,18 @@
 !!python/object:sinner.Sinner
 name: heathcliff_r_corp
+offense: 41
 s1: !!python/object:skill.Skill
   base_power: 6
   coin_count: 3
   coin_power: 2
   name: graze_the_grass
-  offense: 41
-  user: heathcliff_r_corp
 s2: !!python/object:skill.Skill
   base_power: 6
   coin_count: 4
-  coin_power: 3
+  coin_power: 2
   name: concentrated_fire
-  offense: 41
-  user: heathcliff_r_corp
 s3: !!python/object:skill.Skill
   base_power: 5
   coin_count: 5
   coin_power: 4
   name: quick_suppression
-  offense: 41
-  user: heathcliff_r_corp

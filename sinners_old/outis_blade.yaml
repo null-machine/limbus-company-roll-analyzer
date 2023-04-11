@@ -1,0 +1,23 @@
+!!python/object:sinner.Sinner
+name: outis_blade
+s1: !!python/object:skill.Skill
+  base_power: 4
+  coin_count: 1
+  coin_power: 6
+  name: draw_of_the_sword
+  offense: 34
+  user: outis_blade
+s2: !!python/object:skill.Skill
+  base_power: 5
+  coin_count: 2
+  coin_power: 4
+  name: acupuncture
+  offense: 34
+  user: outis_blade
+s3: !!python/object:skill.Skill
+  base_power: 8
+  coin_count: 2
+  coin_power: 4
+  name: decisive_dive
+  offense: 34
+  user: outis_blade

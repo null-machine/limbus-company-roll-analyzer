@@ -1,23 +1,18 @@
 !!python/object:sinner.Sinner
 name: sinclair_zwei
+offense: 29
 s1: !!python/object:skill.Skill
   base_power: 4
   coin_count: 1
   coin_power: 6
   name: baton
-  offense: 29
-  user: sinclair_zwei
 s2: !!python/object:skill.Skill
   base_power: 6
   coin_count: 2
   coin_power: 1
   name: suppress
-  offense: 29
-  user: sinclair_zwei
 s3: !!python/object:skill.Skill
   base_power: 7
   coin_count: 1
   coin_power: 13
   name: strong_strike
-  offense: 29
-  user: sinclair_zwei

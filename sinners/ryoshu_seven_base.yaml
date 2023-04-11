@@ -1,23 +1,18 @@
 !!python/object:sinner.Sinner
 name: ryoshu_seven_base
+offense: 40
 s1: !!python/object:skill.Skill
   base_power: 4
   coin_count: 1
   coin_power: 6
   name: slash
-  offense: 40
-  user: ryoshu_seven_base
 s2: !!python/object:skill.Skill
   base_power: 4
   coin_count: 1
   coin_power: 12
   name: upper_slash
-  offense: 40
-  user: ryoshu_seven_base
 s3: !!python/object:skill.Skill
   base_power: 4
   coin_count: 3
   coin_power: 5
   name: swash
-  offense: 40
-  user: ryoshu_seven_base

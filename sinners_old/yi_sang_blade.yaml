@@ -1,0 +1,23 @@
+!!python/object:sinner.Sinner
+name: yi_sang_blade
+s1: !!python/object:skill.Skill
+  base_power: 5
+  coin_count: 1
+  coin_power: 6
+  name: strikers_stance
+  offense: 41
+  user: yi_sang_blade
+s2: !!python/object:skill.Skill
+  base_power: 7
+  coin_count: 2
+  coin_power: 1
+  name: heel_turn
+  offense: 41
+  user: yi_sang_blade
+s3: !!python/object:skill.Skill
+  base_power: 8
+  coin_count: 3
+  coin_power: 1
+  name: flank_thrust
+  offense: 41
+  user: yi_sang_blade

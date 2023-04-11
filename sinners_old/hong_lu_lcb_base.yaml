@@ -1,0 +1,23 @@
+!!python/object:sinner.Sinner
+name: hong_lu_lcb_base
+s1: !!python/object:skill.Skill
+  base_power: 3
+  coin_count: 1
+  coin_power: 7
+  name: downward_cleave
+  offense: 35
+  user: hong_lu_lcb_base
+s2: !!python/object:skill.Skill
+  base_power: 4
+  coin_count: 2
+  coin_power: 4
+  name: dual_strike
+  offense: 35
+  user: hong_lu_lcb_base
+s3: !!python/object:skill.Skill
+  base_power: 4
+  coin_count: 2
+  coin_power: 5
+  name: whirlwind
+  offense: 35
+  user: hong_lu_lcb_base

@@ -1,23 +1,18 @@
 !!python/object:sinner.Sinner
 name: rodion_kurokumo
+offense: 35
 s1: !!python/object:skill.Skill
   base_power: 5
   coin_count: 1
   coin_power: 6
   name: sharpened_blade
-  offense: 35
-  user: rodion_kurokumo
 s2: !!python/object:skill.Skill
   base_power: 6
   coin_count: 2
   coin_power: 3
   name: scattering_slash
-  offense: 35
-  user: rodion_kurokumo
 s3: !!python/object:skill.Skill
   base_power: 7
   coin_count: 1
   coin_power: 16
   name: sky_clearing_cut
-  offense: 35
-  user: rodion_kurokumo

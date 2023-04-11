@@ -1,23 +1,18 @@
 !!python/object:sinner.Sinner
 name: rodion_n_corp
+offense: 37
 s1: !!python/object:skill.Skill
-  base_power: 5
+  base_power: 4
   coin_count: 2
   coin_power: 4
   name: devoted_hammering
-  offense: 37
-  user: rodion_n_corp
 s2: !!python/object:skill.Skill
   base_power: 7
   coin_count: 2
   coin_power: 2
   name: zealous_purge
-  offense: 37
-  user: rodion_n_corp
 s3: !!python/object:skill.Skill
   base_power: 5
   coin_count: 4
   coin_power: 2
   name: ironclad_retribution
-  offense: 37
-  user: rodion_n_corp

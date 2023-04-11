@@ -1,23 +1,18 @@
 !!python/object:sinner.Sinner
 name: sinclair_lcb
+offense: 38
 s1: !!python/object:skill.Skill
-  base_power: 4
+  base_power: 3
   coin_count: 1
   coin_power: 7
   name: downward_swing
-  offense: 38
-  user: sinclair_lcb
 s2: !!python/object:skill.Skill
-  base_power: 5
+  base_power: 4
   coin_count: 3
   coin_power: 2
   name: halberd_combo
-  offense: 38
-  user: sinclair_lcb
 s3: !!python/object:skill.Skill
-  base_power: 6
+  base_power: 5
   coin_count: 3
   coin_power: 2
   name: ravaging_cut
-  offense: 38
-  user: sinclair_lcb

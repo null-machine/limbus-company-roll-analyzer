@@ -1,0 +1,23 @@
+!!python/object:sinner.Sinner
+name: ishmael_r_corp
+s1: !!python/object:skill.Skill
+  base_power: 6
+  coin_count: 2
+  coin_power: 5
+  name: mind_strike
+  offense: 32
+  user: ishmael_r_corp
+s2: !!python/object:skill.Skill
+  base_power: 9
+  coin_count: 1
+  coin_power: 10
+  name: flaying_surge
+  offense: 32
+  user: ishmael_r_corp
+s3: !!python/object:skill.Skill
+  base_power: 5
+  coin_count: 4
+  coin_power: 5
+  name: mind_whip
+  offense: 32
+  user: ishmael_r_corp

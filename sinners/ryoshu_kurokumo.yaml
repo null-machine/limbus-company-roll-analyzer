@@ -1,23 +1,18 @@
 !!python/object:sinner.Sinner
 name: ryoshu_kurokumo
+offense: 38
 s1: !!python/object:skill.Skill
   base_power: 5
   coin_count: 1
   coin_power: 6
   name: focus_strike
-  offense: 38
-  user: ryoshu_kurokumo
 s2: !!python/object:skill.Skill
   base_power: 5
   coin_count: 2
   coin_power: 5
   name: clean_up
-  offense: 38
-  user: ryoshu_kurokumo
 s3: !!python/object:skill.Skill
   base_power: 8
   coin_count: 2
   coin_power: 4
   name: lenticular_swirl
-  offense: 38
-  user: ryoshu_kurokumo

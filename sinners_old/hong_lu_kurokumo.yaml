@@ -1,0 +1,23 @@
+!!python/object:sinner.Sinner
+name: hong_lu_kurokumo
+s1: !!python/object:skill.Skill
+  base_power: 4
+  coin_count: 1
+  coin_power: 6
+  name: cleave
+  offense: 32
+  user: hong_lu_kurokumo
+s2: !!python/object:skill.Skill
+  base_power: 5
+  coin_count: 2
+  coin_power: 4
+  name: cloud_cutter
+  offense: 32
+  user: hong_lu_kurokumo
+s3: !!python/object:skill.Skill
+  base_power: 6
+  coin_count: 3
+  coin_power: 2
+  name: cloudburst
+  offense: 32
+  user: hong_lu_kurokumo

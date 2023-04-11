@@ -1,23 +1,18 @@
 !!python/object:sinner.Sinner
 name: rodion_lcb
+offense: 33
 s1: !!python/object:skill.Skill
   base_power: 3
   coin_count: 1
   coin_power: 7
   name: strike_down
-  offense: 33
-  user: rodion_lcb
 s2: !!python/object:skill.Skill
   base_power: 4
   coin_count: 2
   coin_power: 4
   name: axe_combo
-  offense: 33
-  user: rodion_lcb
 s3: !!python/object:skill.Skill
   base_power: 2
   coin_count: 4
   coin_power: 2
   name: slay
-  offense: 33
-  user: rodion_lcb
