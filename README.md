@@ -31,7 +31,7 @@ This tool approximates every sinner's ability to win a clash against a single co
 - The main chart's variance is a weighted average of all skill variances. It approximates how well a sinner can tolerate low sanity or bad luck, with lower values being more desirable.
 - The weighting used for averages assumes two s1, two s2 and one s3 per pool. Two s1 instead of three s1 per pool is chosen for a few reasons:
 	- Despite defense skill cycling being patched, each sinner still has two slots per dashboard, so a weak skill can still theoretically be removed from the pool by just keeping it in a bottom slot, hence the total of five.
-	- Furthermore, ego usage consumes slots, so players that manipulate draw will likely be able to still avoid playing s1 three times per cycle.
+	- Furthermore, ego usage consumes slots, so players that manipulate draw will be able to reduce the effective pool size even further.
 	- Additionally, evade skills are particularly strong after the sanity patch, so sinners with evade can viably use that instead of s1 in tight situations.
 
 ### Assumptions

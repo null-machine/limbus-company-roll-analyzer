@@ -46,6 +46,12 @@ for sinner in sinners:
 	tier_list.write(f'{sinner.gen_display_str()}\n')
 tier_list.close()
 
+tier_list = open('tier_lists/no_prime_no_base_sinner_tier_list.txt', 'w+')
+for sinner in sinners:
+	if not sinner.name.endswith('_base') and not sinner.name.endswith('_prime'):
+		tier_list.write(f'{sinner.gen_display_str()}\n')
+tier_list.close()
+
 skills.sort(reverse=True)
 tier_list = open('tier_lists/skill_tier_list.txt', 'w+')
 for skill in skills:
