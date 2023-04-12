@@ -14,7 +14,7 @@ s3 ryoshu_seven_prime | swash | aggregate: 20.28 | variance: 0.64
 s3 outis_g_corp | focus | aggregate: 20.0 | variance: 0.72
 s3 outis_lcb | piercing_thrust | aggregate: 19.9 | variance: 0.63
 s3 faust_l_corp_base | opportunistic_slash | aggregate: 19.62 | variance: 0.72
-s3 ishmael_lcb_base | shield_bash | aggregate: 19.6 | variance: 0.55
+s3 ishmael_lcb | shield_bash | aggregate: 19.6 | variance: 0.55
 s3 don_quixote_lcb_prime | for_justice | aggregate: 19.48 | variance: 0.66
 s3 ryoshu_seven | swash | aggregate: 19.28 | variance: 0.67
 s3 heathcliff_shi_prime | flashing_strike | aggregate: 19.21 | variance: 0.55

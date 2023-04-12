@@ -21,7 +21,7 @@ s2 heathcliff_r_corp_prime | concentrated_fire | aggregate: 14.83 | variance: 0.
 s2 heathcliff_shi_base | flying_sword | aggregate: 14.3 | variance: 0.63
 s2 heathcliff_n_corp_prime | smackdown | aggregate: 14.2 | variance: 0.51
 s2 heathcliff_r_corp | concentrated_fire | aggregate: 13.83 | variance: 0.49
-s2 ishmael_lcb_base | slide | aggregate: 13.8 | variance: 0.52
+s2 ishmael_lcb | slide | aggregate: 13.8 | variance: 0.52
 s2 hong_lu_lcb | dual_strike | aggregate: 13.71 | variance: 0.64
 s2 don_quixote_lcb | galloping_tilt | aggregate: 13.7 | variance: 0.66
 s2 faust_w_corp_prime | leap | aggregate: 13.41 | variance: 0.52

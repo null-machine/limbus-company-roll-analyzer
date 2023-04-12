@@ -15,7 +15,7 @@ ishmael_r_corp_base | aggregate: 86.0 | variance: 0.71
 heathcliff_shi | aggregate: 85.31 | variance: 0.52
 ryoshu_seven | aggregate: 84.18 | variance: 0.58
 ryoshu_kurokumo | aggregate: 80.33 | variance: 0.51
-ishmael_lcb_base | aggregate: 79.75 | variance: 0.56
+ishmael_lcb | aggregate: 79.75 | variance: 0.56
 gregor_g_corp | aggregate: 78.95 | variance: 0.51
 outis_seven | aggregate: 78.54 | variance: 0.41
 heathcliff_n_corp_prime | aggregate: 78.06 | variance: 0.59

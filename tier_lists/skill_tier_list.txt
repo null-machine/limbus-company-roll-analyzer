@@ -15,7 +15,7 @@ s3 ryoshu_seven_prime | swash | aggregate: 20.28 | variance: 0.64
 s3 outis_g_corp | focus | aggregate: 20.0 | variance: 0.72
 s3 outis_lcb | piercing_thrust | aggregate: 19.9 | variance: 0.63
 s3 faust_l_corp_base | opportunistic_slash | aggregate: 19.62 | variance: 0.72
-s3 ishmael_lcb_base | shield_bash | aggregate: 19.6 | variance: 0.55
+s3 ishmael_lcb | shield_bash | aggregate: 19.6 | variance: 0.55
 s3 don_quixote_lcb_prime | for_justice | aggregate: 19.48 | variance: 0.66
 s3 ryoshu_seven | swash | aggregate: 19.28 | variance: 0.67
 s3 heathcliff_shi_prime | flashing_strike | aggregate: 19.21 | variance: 0.55
@@ -57,7 +57,7 @@ s2 heathcliff_shi_base | flying_sword | aggregate: 14.3 | variance: 0.63
 s2 heathcliff_n_corp_prime | smackdown | aggregate: 14.2 | variance: 0.51
 s1 ishmael_r_corp | mind_strike | aggregate: 13.91 | variance: 0.63
 s2 heathcliff_r_corp | concentrated_fire | aggregate: 13.83 | variance: 0.49
-s2 ishmael_lcb_base | slide | aggregate: 13.8 | variance: 0.52
+s2 ishmael_lcb | slide | aggregate: 13.8 | variance: 0.52
 s3 heathcliff_r_corp_base | quick_suppression | aggregate: 13.74 | variance: 0.61
 s2 hong_lu_lcb | dual_strike | aggregate: 13.71 | variance: 0.64
 s2 don_quixote_lcb | galloping_tilt | aggregate: 13.7 | variance: 0.66
@@ -127,7 +127,7 @@ s1 rodion_n_corp | devoted_hammering | aggregate: 11.01 | variance: 0.64
 s1 heathcliff_r_corp_base | graze_the_grass | aggregate: 10.91 | variance: 0.47
 s3 ryoshu_lcb | brushstroke | aggregate: 10.91 | variance: 0.47
 s1 gregor_g_corp | hack | aggregate: 10.91 | variance: 0.48
-s1 ishmael_lcb_base | loggerhead | aggregate: 10.85 | variance: 0.58
+s1 ishmael_lcb | loggerhead | aggregate: 10.85 | variance: 0.58
 s2 meursault_lcb | nailing_fist | aggregate: 10.8 | variance: 0.67
 s1 rodion_clearance | bludgeon | aggregate: 10.7 | variance: 0.5
 s1 rodion_clearance_base | bludgeon | aggregate: 10.7 | variance: 0.5
