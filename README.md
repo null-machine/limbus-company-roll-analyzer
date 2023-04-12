@@ -56,7 +56,7 @@ If game balance is to be trusted, those with poor clashing ability probably atte
 
 A common alternative approach for approximating clashing ability is to use other sinner skills as a point of reference and pit everyone against each other to see who wins the most. While this works for providing a realistic PvP tier list, it operates under the assumption that enemies will have similar rolls to sinners.
 
-This tool works by integrating win chance curves, which should probably be more encounter agnostic. It consideres clashes at all relevant power levels, not just those of other sinners or existing content.
+This tool works by integrating win chance curves, which should probably be more encounter agnostic. It considers clashes at all relevant power levels, not just those of other sinners or existing content.
 
 ---
 
