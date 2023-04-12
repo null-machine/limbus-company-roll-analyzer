@@ -46,7 +46,7 @@ This tool approximates every sinner's ability to win a clash against a single co
 
 Sinners and their skills can be sorted by their aggregates. [The tier lists can be found in the tier_lists folder](/tier_lists/).
 
-Remember that this tool solely evaluates clashing ability. It provides no information about a sinner's utility or other parts of their kit, so their position in the lists here may not necessarily be entirely reflective their overall power.
+Remember that this tool solely evaluates clashing ability. It provides no information about a sinner's utility or defensive options, so their position in the lists here may not necessarily be entirely reflective their overall power.
 
 If game balance is to be trusted, those with poor clashing ability probably attempt to compensate for that with some other part of their kit (which is especially true for tanks).
 
