@@ -12,12 +12,12 @@ class Sinner:
 		self.s3 = s3
 	
 	def __lt__(self, other):
-		# if self.aggregate == other.aggregate:
-		# 	return self.variance > other.variance
-		# return self.aggregate < other.aggregate
-		if self.variance == other.variance:
-			return self.aggregate < other.aggregate
-		return self.variance > other.variance
+		if self.aggregate == other.aggregate:
+			return self.variance > other.variance
+		return self.aggregate < other.aggregate
+		# if self.variance == other.variance:
+		# 	return self.aggregate < other.aggregate
+		# return self.variance > other.variance
 
 	def __gt__(self, other):
 		return other.__lt__(self)
@@ -29,6 +29,13 @@ class Sinner:
 		return f'{self.name} | aggregate: {round(self.aggregate, 2)} | variance: {round(self.variance, 2)}'
 		
 	def gen_chart(self):
+		self.s1.user = self.name
+		self.s1.type = 's1'
+		self.s2.user = self.name
+		self.s2.type = 's2'
+		self.s3.user = self.name
+		self.s3.type = 's3'
+		
 		plt.style.use('dark_background')
 		matplotlib.rcParams['font.family'] = ['DejaVu Sans Mono', 'monospace']
 		fig, ax = plt.subplots(3, 1)

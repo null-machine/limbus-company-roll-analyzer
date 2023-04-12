@@ -2,13 +2,30 @@ from scipy.stats import binom
 
 class Skill:
 
-	def __init__(self, name, user, base_power, coin_count, coin_power):
+	def __init__(self, name, base_power, coin_count, coin_power):
 		self.name = name
-		self.user = user
 		self.base_power = base_power
 		self.coin_count = coin_count
 		self.coin_power = coin_power
+		self.user = ''
+		self.type = ''
+	
+	def __lt__(self, other):
+		if self.max_aggregate == other.max_aggregate:
+			return self.variance > other.variance
+		return self.max_aggregate < other.max_aggregate
+		# if self.variance == other.variance:
+		# 	return self.aggregate < other.aggregate
+		# return self.variance > other.variance
 
+	def __gt__(self, other):
+		return other.__lt__(self)
+
+	def __eq__(self, other):
+		return self.max_aggregate == other.max_aggregate and self.variance == other.variance
+
+	def gen_display_str(self):
+		return f'{self.type} {self.user} | {self.name} | aggregate: {round(self.max_aggregate, 2)} | variance: {round(self.variance, 2)}'
 
 	def gen_breakpoints(self, offense, enemy_offense=35):
 		offense_power = (offense - enemy_offense) / 5
