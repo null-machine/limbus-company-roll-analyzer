@@ -1,0 +1,18 @@
+!!python/object:sinner.Sinner
+name: heathcliff_n_corp
+offense: 33
+s1: !!python/object:skill.Skill
+  base_power: 4
+  coin_count: 2
+  coin_power: 4
+  name: gawky_nailing
+s2: !!python/object:skill.Skill
+  base_power: 7
+  coin_count: 1
+  coin_power: 8
+  name: smackdown
+s3: !!python/object:skill.Skill
+  base_power: 5
+  coin_count: 3
+  coin_power: 4
+  name: infirm_retribution

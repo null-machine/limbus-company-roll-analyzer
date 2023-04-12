@@ -9,22 +9,34 @@ class Skill:
 		self.coin_count = coin_count
 		self.coin_power = coin_power
 
+
 	def gen_breakpoints(self, offense, enemy_offense=35):
 		offense_power = (offense - enemy_offense) / 5
 		effective_base_power = self.base_power + offense_power
 		breakpoints = []
-		min_chance = []
-		reg_chance = []
 		max_chance = []
+		reg_chance = []
+		min_chance = []
 		breakpoints.append(0)
-		min_chance.append(1)
-		reg_chance.append(1)
 		max_chance.append(1)
+		reg_chance.append(1)
+		min_chance.append(1)
+		self.max_aggregate = 0
+		self.reg_aggregate = 0
+		self.min_aggregate = 0
 		for i in range(self.coin_count + 1):
 			breakpoints.append(effective_base_power + i * self.coin_power)
-			min_chance.append(self.eval_chance(0.05, i))
-			reg_chance.append(self.eval_chance(0.5, i))
 			max_chance.append(self.eval_chance(0.95, i))
+			reg_chance.append(self.eval_chance(0.5, i))
+			min_chance.append(self.eval_chance(0.05, i))
+			# max_chance.append(self.eval_chance(0.7, i))
+			# reg_chance.append(self.eval_chance(0.5, i))
+			# min_chance.append(self.eval_chance(0.3, i))
+			delta_x = effective_base_power + i * self.coin_power - breakpoints[i]
+			self.max_aggregate += delta_x * max_chance[i + 1]
+			self.reg_aggregate += delta_x * reg_chance[i + 1]
+			self.min_aggregate += delta_x * min_chance[i + 1]
+		self.variance = (self.max_aggregate - self.min_aggregate) / self.max_aggregate
 		return breakpoints, min_chance, reg_chance, max_chance
 	
 	def eval_chance(self, heads_chance, required_heads):
