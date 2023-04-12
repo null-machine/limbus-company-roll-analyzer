@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: ishmael_lcb_base
+name: ishmael_lcb
 offense: 31
 s1: !!python/object:skill.Skill
   base_power: 5
