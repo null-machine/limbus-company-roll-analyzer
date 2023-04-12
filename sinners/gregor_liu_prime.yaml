@@ -1,18 +1,18 @@
 !!python/object:sinner.Sinner
-name: gregor_liu_base
+name: gregor_liu_prime
 offense: 40
 s1: !!python/object:skill.Skill
-  base_power: 4
+  base_power: 5
   coin_count: 2
   coin_power: 2
   name: single_point_stab
 s2: !!python/object:skill.Skill
-  base_power: 5
+  base_power: 6
   coin_count: 3
   coin_power: 1
   name: rush_down
 s3: !!python/object:skill.Skill
-  base_power: 4
+  base_power: 5
   coin_count: 4
   coin_power: 2
   name: perfected_palm_strike

@@ -2,17 +2,17 @@
 name: faust_n_corp
 offense: 39
 s1: !!python/object:skill.Skill
-  base_power: 6
+  base_power: 4
   coin_count: 2
   coin_power: 3
   name: cackle
 s2: !!python/object:skill.Skill
-  base_power: 6
+  base_power: 4
   coin_count: 3
   coin_power: 4
   name: the_gripping
 s3: !!python/object:skill.Skill
-  base_power: 8
+  base_power: 6
   coin_count: 3
   coin_power: 2
   name: execution

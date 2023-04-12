@@ -1,18 +1,18 @@
 !!python/object:sinner.Sinner
-name: heathcliff_lcb
-offense: 33
+name: heathcliff_shi_prime
+offense: 34
 s1: !!python/object:skill.Skill
-  base_power: 3
+  base_power: 7
   coin_count: 1
-  coin_power: 7
-  name: bat_bash
+  coin_power: 6
+  name: extreme_edge
 s2: !!python/object:skill.Skill
-  base_power: 4
+  base_power: 8
   coin_count: 1
-  coin_power: 4
-  name: smackdown
+  coin_power: 10
+  name: flying_sword
 s3: !!python/object:skill.Skill
-  base_power: 4
+  base_power: 8
   coin_count: 2
   coin_power: 6
-  name: upheaval
+  name: flashing_strike

@@ -1,18 +1,18 @@
 !!python/object:sinner.Sinner
-name: heathcliff_lcb_base
-offense: 33
+name: faust_lcb_prime
+offense: 28
 s1: !!python/object:skill.Skill
-  base_power: 3
+  base_power: 5
   coin_count: 1
   coin_power: 7
-  name: bat_bash
+  name: downward_slash
 s2: !!python/object:skill.Skill
-  base_power: 4
-  coin_count: 1
-  coin_power: 4
-  name: smackdown
-s3: !!python/object:skill.Skill
-  base_power: 4
+  base_power: 6
   coin_count: 2
-  coin_power: 6
-  name: upheaval
+  coin_power: 4
+  name: upward_slash
+s3: !!python/object:skill.Skill
+  base_power: 8
+  coin_count: 2
+  coin_power: 2
+  name: drilling_stab

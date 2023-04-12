@@ -1,18 +1,18 @@
 !!python/object:sinner.Sinner
-name: faust_n_corp_base
+name: faust_n_corp_prime
 offense: 39
 s1: !!python/object:skill.Skill
-  base_power: 4
+  base_power: 6
   coin_count: 2
   coin_power: 3
   name: cackle
 s2: !!python/object:skill.Skill
-  base_power: 4
+  base_power: 6
   coin_count: 3
   coin_power: 4
   name: the_gripping
 s3: !!python/object:skill.Skill
-  base_power: 6
+  base_power: 8
   coin_count: 3
   coin_power: 2
   name: execution

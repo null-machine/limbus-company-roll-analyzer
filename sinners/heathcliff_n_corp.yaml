@@ -2,17 +2,17 @@
 name: heathcliff_n_corp
 offense: 33
 s1: !!python/object:skill.Skill
-  base_power: 4
+  base_power: 3
   coin_count: 2
   coin_power: 4
   name: gawky_nailing
 s2: !!python/object:skill.Skill
-  base_power: 7
+  base_power: 6
   coin_count: 1
   coin_power: 8
   name: smackdown
 s3: !!python/object:skill.Skill
-  base_power: 5
+  base_power: 4
   coin_count: 3
   coin_power: 4
   name: infirm_retribution

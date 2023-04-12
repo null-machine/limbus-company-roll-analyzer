@@ -29,12 +29,12 @@ This tool approximates every sinner's ability to win a clash against a single co
 
 ### Assumptions
 
+- Additional prime or base charts will be generated for sinners with passives or conditionals that can be reasonably met, with the additional charts representing an abnormal state.
+	- For example, each Faust identity has an additional prime chart to represent her clashing ability while Representation Emitter's passive is active.
+- Determining a sinner's default state is is somewhat arbitrary, so sinner.yaml files can be viewed to see the chosen numbers.
 - Enemy offense level is assumed to be 35.
 	- Technically, this value could be anything for the purposes of comparison, since it affects everyone the same way.
 	- But, 35 is the displayed level of refraction railway at the end screen, so it should result in numbers players are used to seeing.
-- An additional prime or base chart will be generated for sinners with passives or conditionals that can be reasonably met, with the additional chart representing an abnormal state.
-	- For example, each Faust identity has an additional prime chart to represent her clashing ability while Representation Emitter's passive is active.
-- Determining a sinner's default state is is somewhat arbitrary, so sinner.yaml files can be viewed to see the chosen numbers.
 
 ---
 
