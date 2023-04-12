@@ -18,6 +18,8 @@ This tool approximates every sinner's ability to win a clash against a single co
 	- In other words, cyan, yellow and magenta lines are associated a chance of 0.95, 0.5 and 0.05 of getting heads respectively.
 - For example, if a skill has the cyan line at x=12 and y=0.75, it has a 75% of beating a 12 at maximum sanity.
 
+![G Corp Gregor's Chart](./gregor_g_corp.png)
+
 ### Aggregate & Variance
 
 - A subchart's aggregate is the integral of the cyan line, which roughly approximates the power that skill can comfortably beat at max sanity.
@@ -35,6 +37,14 @@ This tool approximates every sinner's ability to win a clash against a single co
 - Enemy offense level is assumed to be 35.
 	- Technically, this value could be anything for the purposes of comparison, since it affects everyone the same way.
 	- But, 35 is the displayed level of refraction railway at the end screen, so it should result in numbers players are used to seeing.
+
+---
+
+## Tier Lists
+
+Sinners and their skills can be sorted by their aggregates. The tier lists can be found as text files in the main directory of this project.
+
+Remember that this tool solely evaluates clashing ability. It provides no information about a sinner's utility or other parts of their kit, so their position in the lists here may not necessarily be entirely reflective their overall power. If game balance is to be trusted, those with poor clashing ability probably attempt to compensate for that with some other part of their kit (which is especially true for tanks).
 
 ---
 
