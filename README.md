@@ -29,10 +29,10 @@ This tool approximates every sinner's ability to win a clash against a single co
 	- This number is kept as a saving grace to some sinners that were affected pretty harshly by the sanity changes, e.g. Blade Lineage Yi Sang.
 - The main chart's aggregate is a weighted sum of all skill aggregates. It compares average power between sinners.
 - The main chart's variance is a weighted average of all skill variances. It approximates how well a sinner can tolerate low sanity or bad luck, with lower values being more desirable.
-- The weighting used for averages assumes two s1, two s2 and one s3. Two s1 instead of three s1 is chosen for a few reasons:
+- The weighting used for averages assumes two s1, two s2 and one s3 per pool. Two s1 instead of three s1 per pool is chosen for a few reasons:
 	- Despite defense skill cycling being patched, each sinner still has two slots per dashboard, so a weak skill can still theoretically be removed from the pool by just keeping it in a bottom slot, hence the total of five.
 	- Furthermore, ego usage consumes slots, so players that manipulate draw will likely be able to still avoid playing s1 three times per cycle.
-	- Additionally, evade skills are strong after the sanity patch, so sinners with evade can viably replace s1 in tight situations.
+	- Additionally, evade skills are particularly strong after the sanity patch, so sinners with evade can viably use that instead of s1 in tight situations.
 
 ### Assumptions
 
