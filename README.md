@@ -18,7 +18,7 @@ This tool approximates every sinner's ability to win a clash against a single co
 - The X-axis represents the power required to win the clash.
 - The three coloured lines represent win chances at maximum, zero and minimum sanity.
 	- In other words, cyan, yellow and magenta lines are associated a chance of 0.95, 0.5 and 0.05 of getting heads respectively.
-- For example, if a skill has the cyan line at x=12 and y=0.75, it has a 75% of beating a 12 at maximum sanity.
+- For example, if a skill has the cyan line at x=12 and y=0.75, it has a 75% chance of beating a 12 at maximum sanity.
 
 ![G Corp Gregor's Chart](/gregor_g_corp.png)
 
@@ -27,9 +27,11 @@ This tool approximates every sinner's ability to win a clash against a single co
 - A subchart's aggregate is the integral of the cyan line, which roughly approximates the power that skill can comfortably beat at max sanity.
 - A subchart's variance is the area between the cyan and magenta lines divided by the skill's aggregate, which roughly approximates the skill's ability to perform well at low sanity. Lower values are more desirable.
 	- This number is kept as a saving grace to some sinners that were affected pretty harshly by the sanity changes, e.g. Blade Lineage Yi Sang.
-- The main chart's aggregate is a weighted sum of all skill aggregates. It can be used to compare average power between sinners.
-	- Since defense cycling is being patched, it should be a decent point of comparison.
+- The main chart's aggregate is a weighted sum of all skill aggregates. It compares average power between sinners.
 - The main chart's variance is a weighted average of all skill variances. It approximates how well a sinner can tolerate low sanity or bad luck, with lower values being more desirable.
+- The weighting used for averages assumes two s1, two s2 and one s3.
+	- Despite defense skill cycling being patched, each sinner still has two slots per dashboard, so a weak skill can still theoretically be removed from the bag by just keeping it in a bottom slot, hence the total of five.
+	- Furthermore, ego usage consumes slots, so players that manipulate draw will likely be able to still avoid playing s1 three times per cycle.
 
 ### Assumptions
 
@@ -48,7 +50,7 @@ Sinners and their skills can be sorted by their aggregates. [The tier lists can 
 
 Remember that this tool solely evaluates clashing ability. It provides no information about a sinner's utility or defensive options, so their position in the lists here may not necessarily be entirely reflective their overall power.
 
-If game balance is to be trusted, those with poor clashing ability probably attempt to compensate for that with some other part of their kit (which is especially true for tanks).
+If game balance is to be trusted, those with poor clashing ability probably attempt to compensate for that with some other part of their kit (especially true for tanks). Likewise, the best clashers may often have restraints, such as charge, ammo or health threshold mechanics.
 
 ---
 
@@ -56,7 +58,7 @@ If game balance is to be trusted, those with poor clashing ability probably atte
 
 A common alternative approach for approximating clashing ability is to use other sinner skills as a point of reference and pit everyone against each other to see who wins the most. While this works for providing a realistic PvP tier list, it operates under the assumption that enemies will have similar rolls to sinners.
 
-This tool works by integrating win chance curves, which should probably be more encounter agnostic. It considers clashes at all relevant power levels, not just those of other sinners or existing content.
+This tool works by integrating win chance curves, which is encounter agnostic. It considers clashes at all relevant power levels, not just those of other sinners or existing content.
 
 ---
 

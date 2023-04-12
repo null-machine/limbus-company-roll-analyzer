@@ -61,8 +61,8 @@ class Sinner:
 		ax[2].set(ylim=(0, 1.1), xlim=(0, 30), yticks=np.arange(0, 1.1, 0.25), xticks=np.arange(0, 30.1, 2))
 		ax[2].set_title(f'{self.s3.name} | aggregate: {round(self.s3.max_aggregate, 2)} | variance: {round(self.s3.variance, 2)}')
 
-		self.aggregate = 3 * self.s1.max_aggregate + 2 * self.s2.max_aggregate + self.s3.max_aggregate
-		self.variance = (3 * self.s1.variance + 2 * self.s2.variance + self.s3.variance) / 6
+		self.aggregate = 2 * self.s1.max_aggregate + 2 * self.s2.max_aggregate + self.s3.max_aggregate
+		self.variance = (2 * self.s1.variance + 2 * self.s2.variance + self.s3.variance) / 6
 		
 		fig.suptitle(f'{self.name} | aggregate: {round(self.aggregate, 2)} | variance: {round(self.variance, 2)}')
 		fig.canvas.manager.set_window_title('Sinner Ultimate Scientific Analysis Model Of Generally Unknown Strategies')

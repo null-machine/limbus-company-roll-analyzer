@@ -41,31 +41,31 @@ for file in files:
 print("Generating tier lists...")
 
 sinners.sort(reverse=True)
-tier_list = open('sinner_tier_list.txt', 'w+')
+tier_list = open('tier_lists/sinner_tier_list.txt', 'w+')
 for sinner in sinners:
 	tier_list.write(f'{sinner.gen_display_str()}\n')
 tier_list.close()
 
 skills.sort(reverse=True)
-tier_list = open('skill_tier_list.txt', 'w+')
+tier_list = open('tier_lists/skill_tier_list.txt', 'w+')
 for skill in skills:
 	tier_list.write(f'{skill.gen_display_str()}\n')
 tier_list.close()
 
 s1_list.sort(reverse=True)
-tier_list = open('s1_tier_list.txt', 'w+')
+tier_list = open('tier_lists/s1_tier_list.txt', 'w+')
 for skill in s1_list:
 	tier_list.write(f'{skill.gen_display_str()}\n')
 tier_list.close()
 
 s2_list.sort(reverse=True)
-tier_list = open('s2_tier_list.txt', 'w+')
+tier_list = open('tier_lists/s2_tier_list.txt', 'w+')
 for skill in s2_list:
 	tier_list.write(f'{skill.gen_display_str()}\n')
 tier_list.close()
 
 s3_list.sort(reverse=True)
-tier_list = open('s3_tier_list.txt', 'w+')
+tier_list = open('tier_lists/s3_tier_list.txt', 'w+')
 for skill in s3_list:
 	tier_list.write(f'{skill.gen_display_str()}\n')
 tier_list.close()
