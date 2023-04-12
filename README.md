@@ -10,6 +10,8 @@ This tool approximates every sinner's ability to win a clash against a single co
 
 ## Reading Sinner Charts
 
+[Clash charts can be found here.](/charts/)
+
 - Each chart provides an overview of a sinner's clashing ability.
 - The three sub-charts evaluate the performance of each of the sinner's skills.
 - The Y-axis represents the chance of winning the clash.
@@ -18,7 +20,7 @@ This tool approximates every sinner's ability to win a clash against a single co
 	- In other words, cyan, yellow and magenta lines are associated a chance of 0.95, 0.5 and 0.05 of getting heads respectively.
 - For example, if a skill has the cyan line at x=12 and y=0.75, it has a 75% of beating a 12 at maximum sanity.
 
-![G Corp Gregor's Chart](./gregor_g_corp.png)
+![G Corp Gregor's Chart](/gregor_g_corp.png)
 
 ### Aggregate & Variance
 
@@ -42,9 +44,11 @@ This tool approximates every sinner's ability to win a clash against a single co
 
 ## Tier Lists
 
-Sinners and their skills can be sorted by their aggregates. The tier lists can be found as text files in the main directory of this project.
+Sinners and their skills can be sorted by their aggregates. [The tier lists can be found in the tier_lists folder](/tier_lists/).
 
-Remember that this tool solely evaluates clashing ability. It provides no information about a sinner's utility or other parts of their kit, so their position in the lists here may not necessarily be entirely reflective their overall power. If game balance is to be trusted, those with poor clashing ability probably attempt to compensate for that with some other part of their kit (which is especially true for tanks).
+Remember that this tool solely evaluates clashing ability. It provides no information about a sinner's utility or other parts of their kit, so their position in the lists here may not necessarily be entirely reflective their overall power.
+
+If game balance is to be trusted, those with poor clashing ability probably attempt to compensate for that with some other part of their kit (which is especially true for tanks).
 
 ---
 
@@ -52,7 +56,7 @@ Remember that this tool solely evaluates clashing ability. It provides no inform
 
 A common alternative approach for approximating clashing ability is to use other sinner skills as a point of reference and pit everyone against each other to see who wins the most. While this works for providing a realistic PvP tier list, it operates under the assumption that enemies will have similar rolls to sinners.
 
-By analyzing integrations of win chance curves, this tool provides a more agnostic model, since it considers clashes at all relevant power levels, not just those of other sinners.
+This tool works by integrating win chance curves, which should probably be more encounter agnostic. It consideres clashes at all relevant power levels, not just those of other sinners or existing content.
 
 ---
 
