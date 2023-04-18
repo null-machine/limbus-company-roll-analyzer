@@ -24,15 +24,16 @@ for file in files:
 	plt.savefig(f'charts/{sinner.name}.png')
 	plt.close()
 	sinners.append(sinner)
-	skills.append(sinner.s1)
-	skills.append(sinner.s2)
-	skills.append(sinner.s3)
-	s1_list.append(sinner.s1)
-	s2_list.append(sinner.s2)
-	s3_list.append(sinner.s3)
-	# s1_average += sinner.s1.max_aggregate
-	# s2_average += sinner.s2.max_aggregate
-	# s3_average += sinner.s3.max_aggregate
+	if not sinner.name.endswith('_weak') and not sinner.name.endswith('_prime'):
+		skills.append(sinner.s1)
+		skills.append(sinner.s2)
+		skills.append(sinner.s3)
+		s1_list.append(sinner.s1)
+		s2_list.append(sinner.s2)
+		s3_list.append(sinner.s3)
+		# s1_average += sinner.s1.aggregate
+		# s2_average += sinner.s2.aggregate
+		# s3_average += sinner.s3.aggregate
 
 # s1_average /= len(s1_list)
 # s2_average /= len(s2_list)
@@ -48,7 +49,7 @@ tier_list.close()
 
 tier_list = open('tier_lists/sinners_tier_list.txt', 'w+')
 for sinner in sinners:
-	if not sinner.name.endswith('_base') and not sinner.name.endswith('_prime'):
+	if not sinner.name.endswith('_weak') and not sinner.name.endswith('_prime'):
 		tier_list.write(f'{sinner.gen_display_str()}\n')
 tier_list.close()
 

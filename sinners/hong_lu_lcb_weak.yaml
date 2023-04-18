@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: hong_lu_lcb_base
+name: hong_lu_lcb_weak
 offense: 36
 s1: !!python/object:skill.Skill
   base_power: 3

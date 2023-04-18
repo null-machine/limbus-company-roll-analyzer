@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: rodion_clearance_base
+name: rodion_clearance_weak
 offense: 40
 s1: !!python/object:skill.Skill
   base_power: 4

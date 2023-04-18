@@ -1,198 +1,132 @@
-s3 don_quixote_w_corp | rip_space | aggregate: 30.22 | variance: 0.83
-s3 hong_lu_tingtang | mutilate | aggregate: 29.35 | variance: 0.77
-s3 don_quixote_shi_prime | overbreathe | aggregate: 27.35 | variance: 0.69
-s3 heathcliff_r_corp_prime | quick_suppression | aggregate: 25.28 | variance: 0.66
-s3 faust_l_corp_prime | opportunistic_slash | aggregate: 24.62 | variance: 0.57
-s3 don_quixote_shi | overbreathe | aggregate: 24.35 | variance: 0.78
-s3 heathcliff_r_corp | quick_suppression | aggregate: 24.28 | variance: 0.69
-s3 faust_l_corp | opportunistic_slash | aggregate: 22.62 | variance: 0.62
-s3 ishmael_r_corp_prime | mind_whip | aggregate: 22.46 | variance: 0.75
-s3 rodion_kurokumo | sky_clearing_cut | aggregate: 22.2 | variance: 0.65
-s2 ishmael_shi_prime | flashing_slide | aggregate: 22.05 | variance: 0.61
-s3 sinclair_blade | to_claim_their_bones | aggregate: 21.3 | variance: 0.59
-s3 ishmael_r_corp | mind_whip | aggregate: 20.46 | variance: 0.83
-s3 ryoshu_seven_prime | swash | aggregate: 20.28 | variance: 0.64
-s3 outis_g_corp | focus | aggregate: 20.0 | variance: 0.72
-s3 outis_lcb | piercing_thrust | aggregate: 19.9 | variance: 0.63
-s3 faust_l_corp_base | opportunistic_slash | aggregate: 19.62 | variance: 0.72
-s3 ishmael_lcb_prime | shield_bash | aggregate: 19.6 | variance: 0.55
-s3 don_quixote_lcb_prime | for_justice | aggregate: 19.48 | variance: 0.66
-s2 ryoshu_seven_prime | upper_slash | aggregate: 19.4 | variance: 0.56
-s3 ryoshu_seven | swash | aggregate: 19.28 | variance: 0.67
-s3 heathcliff_shi_prime | flashing_strike | aggregate: 19.21 | variance: 0.55
-s2 faust_n_corp_prime | the_gripping | aggregate: 18.23 | variance: 0.57
-s3 sinclair_zwei | strong_strike | aggregate: 18.15 | variance: 0.64
-s2 hong_lu_tingtang | shank | aggregate: 17.88 | variance: 0.72
-s3 ishmael_lcb | shield_bash | aggregate: 17.6 | variance: 0.61
-s2 heathcliff_shi_prime | flying_sword | aggregate: 17.3 | variance: 0.52
-s2 ishmael_r_corp_prime | flaying_surge | aggregate: 16.9 | variance: 0.53
-s3 sinclair_mariachi | pinata_party | aggregate: 16.85 | variance: 0.59
-s2 gregor_g_corp | dismember | aggregate: 16.7 | variance: 0.54
-s3 hong_lu_lcb | whirlwind | aggregate: 16.61 | variance: 0.63
-s2 ryoshu_seven | upper_slash | aggregate: 16.4 | variance: 0.66
-s2 faust_n_corp | the_gripping | aggregate: 16.23 | variance: 0.64
-s3 heathcliff_shi | flashing_strike | aggregate: 16.21 | variance: 0.65
-s3 ryoshu_kurokumo | lenticular_swirl | aggregate: 16.21 | variance: 0.43
-s2 don_quixote_w_corp | leap | aggregate: 16.03 | variance: 0.64
-s2 don_quixote_w_corp_base | leap | aggregate: 16.03 | variance: 0.64
-s3 heathcliff_n_corp_prime | infirm_retribution | aggregate: 16.03 | variance: 0.64
-s3 heathcliff_lcb_prime | upheaval | aggregate: 16.01 | variance: 0.66
-s3 hong_lu_liu | crimson_blaze_fist | aggregate: 16.01 | variance: 0.66
-s2 outis_seven | field_command | aggregate: 15.91 | variance: 0.55
-s2 don_quixote_shi | dual_strike | aggregate: 15.81 | variance: 0.67
-s2 don_quixote_shi_prime | dual_strike | aggregate: 15.81 | variance: 0.67
-s2 don_quixote_lcb_prime | galloping_tilt | aggregate: 15.7 | variance: 0.57
-s3 rodion_clearance | suppress | aggregate: 15.61 | variance: 0.45
-s3 ishmael_shi_prime | catch_breath | aggregate: 15.41 | variance: 0.46
-s2 ryoshu_kurokumo | clean_up | aggregate: 15.11 | variance: 0.58
-s3 heathcliff_n_corp | infirm_retribution | aggregate: 15.03 | variance: 0.69
-s3 heathcliff_lcb | upheaval | aggregate: 15.01 | variance: 0.7
-s2 faust_l_corp_prime | deep_cuts | aggregate: 14.97 | variance: 0.52
-s2 ishmael_r_corp | flaying_surge | aggregate: 14.9 | variance: 0.6
-s2 heathcliff_r_corp_prime | concentrated_fire | aggregate: 14.83 | variance: 0.46
-s3 faust_n_corp_prime | execution | aggregate: 14.51 | variance: 0.36
-s2 heathcliff_shi | flying_sword | aggregate: 14.3 | variance: 0.63
-s2 heathcliff_n_corp_prime | smackdown | aggregate: 14.2 | variance: 0.51
-s1 ishmael_r_corp_prime | mind_strike | aggregate: 13.91 | variance: 0.63
-s2 heathcliff_r_corp | concentrated_fire | aggregate: 13.83 | variance: 0.49
-s2 ishmael_lcb_prime | slide | aggregate: 13.8 | variance: 0.52
-s3 heathcliff_r_corp_base | quick_suppression | aggregate: 13.74 | variance: 0.61
-s2 hong_lu_lcb | dual_strike | aggregate: 13.71 | variance: 0.64
-s2 don_quixote_lcb | galloping_tilt | aggregate: 13.7 | variance: 0.66
-s3 gregor_liu_prime | perfected_palm_strike | aggregate: 13.63 | variance: 0.5
-s2 faust_w_corp_prime | leap | aggregate: 13.41 | variance: 0.52
-s3 ishmael_shi | catch_breath | aggregate: 13.41 | variance: 0.52
-s3 outis_blade | decisive_dive | aggregate: 13.41 | variance: 0.52
-s2 ishmael_clearance_prime | quake_rounds | aggregate: 13.37 | variance: 0.58
-s3 meursault_liu | perfected_death_fist | aggregate: 13.37 | variance: 0.58
-s2 outis_g_corp | onslaught_command | aggregate: 13.3 | variance: 0.68
-s2 heathcliff_n_corp | smackdown | aggregate: 13.2 | variance: 0.55
-s3 outis_seven | exploit_the_gap | aggregate: 13.11 | variance: 0.39
-s3 meursault_n_corp | annihilate_heretics | aggregate: 13.11 | variance: 0.4
-s3 rodion_n_corp_prime | ironclad_retribution | aggregate: 13.03 | variance: 0.52
-s2 faust_l_corp | deep_cuts | aggregate: 12.97 | variance: 0.6
-s2 faust_l_corp_base | deep_cuts | aggregate: 12.97 | variance: 0.6
-s3 yi_sang_seven | moulinet | aggregate: 12.97 | variance: 0.6
-s1 heathcliff_r_corp_prime | graze_the_grass | aggregate: 12.91 | variance: 0.4
-s3 gregor_g_corp | eviscerate | aggregate: 12.83 | variance: 0.53
-s2 heathcliff_r_corp_base | concentrated_fire | aggregate: 12.83 | variance: 0.53
-s3 hong_lu_lcb_base | whirlwind | aggregate: 12.81 | variance: 0.55
-s2 gregor_lcb | jag | aggregate: 12.7 | variance: 0.71
-s3 gregor_liu | perfected_palm_strike | aggregate: 12.63 | variance: 0.54
-s3 faust_n_corp | execution | aggregate: 12.51 | variance: 0.41
-s3 faust_w_corp_prime | overcharge | aggregate: 12.51 | variance: 0.41
-s1 faust_n_corp_prime | cackle | aggregate: 12.51 | variance: 0.42
-s1 heathcliff_shi_prime | extreme_edge | aggregate: 12.5 | variance: 0.43
-s3 ishmael_clearance_prime | suppress | aggregate: 12.43 | variance: 0.55
-s2 ishmael_shi | flashing_slide | aggregate: 12.41 | variance: 0.57
-s1 ishmael_shi_prime | flying_sword | aggregate: 12.41 | variance: 0.57
-s2 outis_blade | acupuncture | aggregate: 12.41 | variance: 0.57
-s2 faust_lcb_prime | upward_slash | aggregate: 12.21 | variance: 0.58
-s2 outis_lcb | backslash | aggregate: 12.21 | variance: 0.58
-s3 yi_sang_blade | flank_thrust | aggregate: 12.06 | variance: 0.21
-s3 rodion_n_corp | ironclad_retribution | aggregate: 12.03 | variance: 0.56
-s2 hong_lu_kurokumo | cloud_cutter | aggregate: 12.01 | variance: 0.59
-s1 rodion_n_corp_prime | devoted_hammering | aggregate: 12.01 | variance: 0.59
-s1 heathcliff_r_corp | graze_the_grass | aggregate: 11.91 | variance: 0.43
-s1 ishmael_r_corp | mind_strike | aggregate: 11.91 | variance: 0.74
-s1 yi_sang_blade | strikers_stance | aggregate: 11.9 | variance: 0.45
-s1 don_quixote_lcb_prime | joust | aggregate: 11.85 | variance: 0.53
-s3 gregor_lcb | chop_up | aggregate: 11.81 | variance: 0.6
-s2 hong_lu_lcb_base | dual_strike | aggregate: 11.81 | variance: 0.6
-s2 ryoshu_lcb | splatter | aggregate: 11.81 | variance: 0.6
-s3 rodion_clearance_base | suppress | aggregate: 11.8 | variance: 0.3
-s2 ishmael_lcb | slide | aggregate: 11.8 | variance: 0.61
-s3 don_quixote_lcb | for_justice | aggregate: 11.77 | variance: 0.66
-s2 rodion_kurokumo | scattering_slash | aggregate: 11.71 | variance: 0.45
-s1 ryoshu_seven_prime | slash | aggregate: 11.7 | variance: 0.46
-s2 faust_w_corp | leap | aggregate: 11.41 | variance: 0.62
-s2 ishmael_clearance | quake_rounds | aggregate: 11.37 | variance: 0.68
-s3 sinclair_lcb | ravaging_cut | aggregate: 11.31 | variance: 0.46
-s1 don_quixote_w_corp | rip | aggregate: 11.3 | variance: 0.48
-s1 don_quixote_w_corp_base | rip | aggregate: 11.3 | variance: 0.48
-s1 hong_lu_tingtang | throat_slit | aggregate: 11.3 | variance: 0.48
-s1 ryoshu_kurokumo | focus_strike | aggregate: 11.3 | variance: 0.48
-s1 heathcliff_n_corp_prime | gawky_nailing | aggregate: 11.21 | variance: 0.63
-s2 rodion_lcb | axe_combo | aggregate: 11.21 | variance: 0.63
-s2 rodion_n_corp_prime | zealous_purge | aggregate: 11.2 | variance: 0.31
-s1 outis_seven | predictive_analysis | aggregate: 11.2 | variance: 0.32
-s3 don_quixote_w_corp_base | rip_space | aggregate: 11.14 | variance: 0.75
-s3 hong_lu_kurokumo | cloudburst | aggregate: 11.11 | variance: 0.46
-s2 meursault_n_corp | you_are_cleansed_of_sin | aggregate: 11.11 | variance: 0.47
-s1 faust_l_corp_prime | sole_strike | aggregate: 11.1 | variance: 0.49
-s1 rodion_n_corp | devoted_hammering | aggregate: 11.01 | variance: 0.64
-s1 heathcliff_r_corp_base | graze_the_grass | aggregate: 10.91 | variance: 0.47
-s3 ryoshu_lcb | brushstroke | aggregate: 10.91 | variance: 0.47
-s1 gregor_g_corp | hack | aggregate: 10.91 | variance: 0.48
-s1 ishmael_lcb_prime | loggerhead | aggregate: 10.85 | variance: 0.58
-s2 meursault_lcb | nailing_fist | aggregate: 10.8 | variance: 0.67
-s1 rodion_clearance | bludgeon | aggregate: 10.7 | variance: 0.5
-s1 rodion_clearance_base | bludgeon | aggregate: 10.7 | variance: 0.5
-s1 rodion_kurokumo | sharpened_blade | aggregate: 10.7 | variance: 0.5
-s1 ryoshu_seven | slash | aggregate: 10.7 | variance: 0.5
-s3 faust_w_corp | overcharge | aggregate: 10.51 | variance: 0.49
-s1 faust_n_corp | cackle | aggregate: 10.51 | variance: 0.5
-s1 faust_w_corp_prime | energy_cycle | aggregate: 10.5 | variance: 0.51
-s1 ishmael_clearance_prime | shove | aggregate: 10.5 | variance: 0.51
-s3 ishmael_clearance | suppress | aggregate: 10.43 | variance: 0.65
-s1 ishmael_shi | flying_sword | aggregate: 10.41 | variance: 0.68
-s1 meursault_liu | assault | aggregate: 10.41 | variance: 0.68
-s3 faust_lcb_prime | drilling_stab | aggregate: 10.4 | variance: 0.34
-s2 sinclair_lcb | halberd_combo | aggregate: 10.31 | variance: 0.5
-s1 faust_lcb_prime | downward_slash | aggregate: 10.25 | variance: 0.61
-s1 heathcliff_lcb_prime | bat_bash | aggregate: 10.25 | variance: 0.61
-s1 sinclair_lcb | downward_swing | aggregate: 10.25 | variance: 0.61
-s2 faust_lcb | upward_slash | aggregate: 10.21 | variance: 0.69
-s1 heathcliff_n_corp | gawky_nailing | aggregate: 10.21 | variance: 0.69
-s1 hong_lu_liu | warm_up | aggregate: 10.21 | variance: 0.69
-s2 yi_sang_lcb | end_stop_stab | aggregate: 10.21 | variance: 0.69
-s2 rodion_n_corp | zealous_purge | aggregate: 10.2 | variance: 0.34
-s2 yi_sang_blade | heel_turn | aggregate: 10.1 | variance: 0.17
-s1 don_quixote_shi | catch_breath | aggregate: 10.1 | variance: 0.53
-s1 don_quixote_shi_prime | catch_breath | aggregate: 10.1 | variance: 0.53
-s2 gregor_liu_prime | rush_down | aggregate: 9.86 | variance: 0.26
-s1 don_quixote_lcb | joust | aggregate: 9.85 | variance: 0.64
-s1 hong_lu_lcb | downward_cleave | aggregate: 9.85 | variance: 0.64
-s1 hong_lu_lcb_base | downward_cleave | aggregate: 9.85 | variance: 0.64
-s1 ryoshu_lcb | paint | aggregate: 9.85 | variance: 0.64
-s1 gregor_liu_prime | single_point_stab | aggregate: 9.8 | variance: 0.36
-s2 meursault_w_corp | energy_cycle | aggregate: 9.71 | variance: 0.53
-s1 meursault_w_corp | rip | aggregate: 9.7 | variance: 0.56
-s2 meursault_liu | stalwart_stance | aggregate: 9.6 | variance: 0.37
-s1 heathcliff_shi | extreme_edge | aggregate: 9.5 | variance: 0.57
-s1 outis_blade | draw_of_the_sword | aggregate: 9.5 | variance: 0.57
-s2 hong_lu_liu | flowing_flame | aggregate: 9.4 | variance: 0.37
-s1 outis_lcb | pulled_blade | aggregate: 9.31 | variance: 0.55
-s1 heathcliff_lcb | bat_bash | aggregate: 9.25 | variance: 0.68
-s1 rodion_lcb | strike_down | aggregate: 9.25 | variance: 0.68
-s3 rodion_lcb | slay | aggregate: 9.23 | variance: 0.73
-s1 faust_l_corp | sole_strike | aggregate: 9.1 | variance: 0.59
-s1 faust_l_corp_base | sole_strike | aggregate: 9.1 | variance: 0.59
-s1 hong_lu_kurokumo | cleave | aggregate: 9.1 | variance: 0.59
-s1 yi_sang_seven | fleche | aggregate: 9.1 | variance: 0.59
-s2 rodion_clearance | thrust | aggregate: 8.9 | variance: 0.2
-s2 rodion_clearance_base | thrust | aggregate: 8.9 | variance: 0.2
-s2 gregor_liu | rush_down | aggregate: 8.86 | variance: 0.29
-s2 sinclair_blade | slash_series | aggregate: 8.86 | variance: 0.29
-s1 gregor_lcb | swipe | aggregate: 8.85 | variance: 0.71
-s1 ishmael_lcb | loggerhead | aggregate: 8.85 | variance: 0.71
-s1 gregor_liu | single_point_stab | aggregate: 8.8 | variance: 0.4
-s1 faust_w_corp | energy_cycle | aggregate: 8.5 | variance: 0.64
-s1 ishmael_clearance | shove | aggregate: 8.5 | variance: 0.64
-s1 outis_g_corp | order | aggregate: 8.5 | variance: 0.64
-s1 sinclair_zwei | baton | aggregate: 8.5 | variance: 0.64
-s3 faust_lcb | drilling_stab | aggregate: 8.4 | variance: 0.42
-s2 heathcliff_lcb_prime | smackdown | aggregate: 8.4 | variance: 0.43
-s1 faust_lcb | downward_slash | aggregate: 8.25 | variance: 0.76
-s1 yi_sang_lcb | deflect | aggregate: 8.25 | variance: 0.76
-s2 yi_sang_seven | riposte | aggregate: 8.2 | variance: 0.43
-s3 meursault_w_corp | energy_current | aggregate: 7.81 | variance: 0.43
-s1 meursault_lcb | un_deux | aggregate: 7.81 | variance: 0.9
-s3 yi_sang_lcb | enjamb | aggregate: 7.46 | variance: 0.35
-s2 heathcliff_lcb | smackdown | aggregate: 7.4 | variance: 0.49
-s1 sinclair_blade | slice_then_stab | aggregate: 6.9 | variance: 0.25
-s2 sinclair_zwei | suppress | aggregate: 6.7 | variance: 0.26
-s1 meursault_n_corp | drive | aggregate: 6.3 | variance: 0.28
-s2 sinclair_mariachi | danza_de_pasion | aggregate: 6.26 | variance: 0.41
-s1 sinclair_mariachi | baile_y_rola | aggregate: 6.2 | variance: 0.57
-s3 meursault_lcb | des_coups | aggregate: 6.01 | variance: 0.56
+s3 don_quixote_w_corp | rip_space | agg: 30.22 | raw: 110.74 | var: 0.92
+s3 heathcliff_r_corp | quick_suppression | agg: 24.28 | raw: 99.76 | var: 0.7
+s3 ishmael_r_corp | mind_whip | agg: 20.46 | raw: 59.49 | var: 0.9
+s2 heathcliff_r_corp | concentrated_fire | agg: 13.83 | raw: 51.97 | var: 0.45
+s3 ryoshu_seven | swash | agg: 19.28 | raw: 51.75 | var: 0.67
+s3 gregor_g_corp | eviscerate | agg: 12.83 | raw: 47.33 | var: 0.49
+s2 hong_lu_tingtang | shank | agg: 17.88 | raw: 46.1 | var: 0.74
+s3 gregor_liu | perfected_palm_strike | agg: 12.63 | raw: 46.0 | var: 0.5
+s2 faust_n_corp | the_gripping | agg: 16.23 | raw: 43.78 | var: 0.63
+s3 faust_l_corp | opportunistic_slash | agg: 22.62 | raw: 43.46 | var: 0.62
+s2 don_quixote_w_corp | leap | agg: 16.03 | raw: 42.71 | var: 0.63
+s3 rodion_n_corp | ironclad_retribution | agg: 12.03 | raw: 42.11 | var: 0.53
+s3 yi_sang_blade | flank_thrust | agg: 12.06 | raw: 38.98 | var: 0.18
+s3 heathcliff_n_corp | infirm_retribution | agg: 15.03 | raw: 37.58 | var: 0.69
+s3 faust_n_corp | execution | agg: 12.51 | raw: 36.94 | var: 0.37
+s3 outis_seven | exploit_the_gap | agg: 13.11 | raw: 36.59 | var: 0.35
+s1 heathcliff_r_corp | graze_the_grass | agg: 11.91 | raw: 35.5 | var: 0.39
+s3 meursault_liu | perfected_death_fist | agg: 13.37 | raw: 35.32 | var: 0.56
+s2 faust_l_corp | deep_cuts | agg: 12.97 | raw: 34.94 | var: 0.58
+s3 hong_lu_tingtang | mutilate | agg: 29.35 | raw: 34.58 | var: 0.82
+s3 yi_sang_seven | moulinet | agg: 12.97 | raw: 33.38 | var: 0.58
+s3 ryoshu_kurokumo | lenticular_swirl | agg: 16.21 | raw: 33.0 | var: 0.41
+s3 sinclair_lcb | ravaging_cut | agg: 11.31 | raw: 32.54 | var: 0.42
+s3 ishmael_clearance | suppress | agg: 10.43 | raw: 32.45 | var: 0.64
+s3 rodion_clearance | suppress | agg: 15.61 | raw: 32.2 | var: 0.43
+s3 hong_lu_lcb | whirlwind | agg: 16.61 | raw: 31.52 | var: 0.63
+s3 don_quixote_lcb | for_justice | agg: 11.77 | raw: 30.64 | var: 0.65
+s3 ryoshu_lcb | brushstroke | agg: 10.91 | raw: 30.64 | var: 0.43
+s3 hong_lu_kurokumo | cloudburst | agg: 11.11 | raw: 30.17 | var: 0.43
+s3 heathcliff_shi | flashing_strike | agg: 16.21 | raw: 30.08 | var: 0.65
+s2 don_quixote_shi | dual_strike | agg: 15.81 | raw: 30.02 | var: 0.67
+s2 outis_seven | field_command | agg: 15.91 | raw: 29.75 | var: 0.54
+s2 ryoshu_kurokumo | clean_up | agg: 15.11 | raw: 29.61 | var: 0.57
+s3 hong_lu_liu | crimson_blaze_fist | agg: 16.01 | raw: 29.38 | var: 0.66
+s2 sinclair_lcb | halberd_combo | agg: 10.31 | raw: 29.15 | var: 0.47
+s3 rodion_lcb | slay | agg: 9.23 | raw: 28.51 | var: 0.76
+s3 don_quixote_shi | overbreathe | agg: 24.35 | raw: 28.45 | var: 0.83
+s2 gregor_liu | rush_down | agg: 8.86 | raw: 27.6 | var: 0.25
+s3 faust_w_corp | overcharge | agg: 10.51 | raw: 27.46 | var: 0.45
+s2 ishmael_clearance | quake_rounds | agg: 11.37 | raw: 27.46 | var: 0.68
+s3 meursault_w_corp | energy_current | agg: 7.81 | raw: 27.3 | var: 0.38
+s3 heathcliff_lcb | upheaval | agg: 15.01 | raw: 27.22 | var: 0.71
+s2 sinclair_blade | slash_series | agg: 8.86 | raw: 26.4 | var: 0.25
+s2 hong_lu_lcb | dual_strike | agg: 13.71 | raw: 25.97 | var: 0.64
+s1 outis_lcb | pulled_blade | agg: 9.31 | raw: 25.76 | var: 0.53
+s3 ishmael_shi | catch_breath | agg: 13.41 | raw: 25.72 | var: 0.51
+s3 outis_blade | decisive_dive | agg: 13.41 | raw: 25.72 | var: 0.51
+s3 meursault_n_corp | annihilate_heretics | agg: 13.11 | raw: 25.47 | var: 0.38
+s3 rodion_kurokumo | sky_clearing_cut | agg: 22.2 | raw: 25.3 | var: 0.7
+s2 meursault_w_corp | energy_cycle | agg: 9.71 | raw: 25.2 | var: 0.5
+s3 sinclair_blade | to_claim_their_bones | agg: 21.3 | raw: 24.2 | var: 0.64
+s2 outis_lcb | backslash | agg: 12.21 | raw: 23.96 | var: 0.57
+s2 ishmael_shi | flashing_slide | agg: 12.41 | raw: 23.54 | var: 0.56
+s2 outis_blade | acupuncture | agg: 12.41 | raw: 23.54 | var: 0.56
+s3 outis_lcb | piercing_thrust | agg: 19.9 | raw: 23.28 | var: 0.68
+s2 rodion_kurokumo | scattering_slash | agg: 11.71 | raw: 23.1 | var: 0.43
+s2 ryoshu_lcb | splatter | agg: 11.81 | raw: 22.64 | var: 0.59
+s1 gregor_g_corp | hack | agg: 10.91 | raw: 22.5 | var: 0.46
+s2 yi_sang_blade | heel_turn | agg: 10.1 | raw: 22.5 | var: 0.15
+s2 hong_lu_kurokumo | cloud_cutter | agg: 12.01 | raw: 22.26 | var: 0.58
+s3 outis_g_corp | focus | agg: 20.0 | raw: 21.63 | var: 0.77
+s3 gregor_lcb | chop_up | agg: 11.81 | raw: 21.62 | var: 0.59
+s1 faust_n_corp | cackle | agg: 10.51 | raw: 21.2 | var: 0.48
+s1 ishmael_r_corp | mind_strike | agg: 11.91 | raw: 21.19 | var: 0.76
+s2 meursault_n_corp | you_are_cleansed_of_sin | agg: 11.11 | raw: 21.19 | var: 0.45
+s1 rodion_n_corp | devoted_hammering | agg: 11.01 | raw: 21.06 | var: 0.64
+s2 rodion_n_corp | zealous_purge | agg: 10.2 | raw: 21.06 | var: 0.32
+s2 rodion_lcb | axe_combo | agg: 11.21 | raw: 20.74 | var: 0.62
+s3 yi_sang_lcb | enjamb | agg: 7.46 | raw: 20.39 | var: 0.3
+s2 faust_w_corp | leap | agg: 11.41 | raw: 20.38 | var: 0.61
+s2 gregor_g_corp | dismember | agg: 16.7 | raw: 19.95 | var: 0.58
+s3 sinclair_zwei | strong_strike | agg: 18.15 | raw: 19.55 | var: 0.69
+s2 rodion_clearance | thrust | agg: 8.9 | raw: 19.55 | var: 0.18
+s2 ryoshu_seven | upper_slash | agg: 16.4 | raw: 19.55 | var: 0.71
+s3 ishmael_lcb | shield_bash | agg: 17.6 | raw: 19.29 | var: 0.66
+s1 ishmael_shi | flying_sword | agg: 10.41 | raw: 19.18 | var: 0.68
+s1 meursault_liu | assault | agg: 10.41 | raw: 19.18 | var: 0.68
+s2 meursault_liu | stalwart_stance | agg: 9.6 | raw: 19.18 | var: 0.34
+s3 meursault_lcb | des_coups | agg: 6.01 | raw: 18.99 | var: 0.53
+s1 heathcliff_n_corp | gawky_nailing | agg: 10.21 | raw: 18.58 | var: 0.7
+s1 hong_lu_liu | warm_up | agg: 10.21 | raw: 18.58 | var: 0.7
+s2 hong_lu_liu | flowing_flame | agg: 9.4 | raw: 18.58 | var: 0.35
+s1 gregor_liu | single_point_stab | agg: 8.8 | raw: 18.4 | var: 0.38
+s3 sinclair_mariachi | pinata_party | agg: 16.85 | raw: 17.75 | var: 0.63
+s2 faust_lcb | upward_slash | agg: 10.21 | raw: 17.72 | var: 0.7
+s2 yi_sang_lcb | end_stop_stab | agg: 10.21 | raw: 17.72 | var: 0.7
+s2 sinclair_mariachi | danza_de_pasion | agg: 6.26 | raw: 16.52 | var: 0.37
+s2 ishmael_r_corp | flaying_surge | agg: 14.9 | raw: 16.48 | var: 0.65
+s2 heathcliff_shi | flying_sword | agg: 14.3 | raw: 16.13 | var: 0.68
+s2 yi_sang_seven | riposte | agg: 8.2 | raw: 15.84 | var: 0.41
+s2 don_quixote_lcb | galloping_tilt | agg: 13.7 | raw: 15.76 | var: 0.7
+s3 faust_lcb | drilling_stab | agg: 8.4 | raw: 15.66 | var: 0.39
+s2 heathcliff_n_corp | smackdown | agg: 13.2 | raw: 14.69 | var: 0.59
+s2 outis_g_corp | onslaught_command | agg: 13.3 | raw: 14.35 | var: 0.72
+s1 sinclair_blade | slice_then_stab | agg: 6.9 | raw: 14.3 | var: 0.23
+s1 yi_sang_blade | strikers_stance | agg: 11.9 | raw: 14.15 | var: 0.49
+s2 gregor_lcb | jag | agg: 12.7 | raw: 13.99 | var: 0.76
+s1 don_quixote_w_corp | rip | agg: 11.3 | raw: 13.11 | var: 0.52
+s1 hong_lu_tingtang | throat_slit | agg: 11.3 | raw: 13.11 | var: 0.52
+s1 ryoshu_kurokumo | focus_strike | agg: 11.3 | raw: 13.11 | var: 0.52
+s2 sinclair_zwei | suppress | agg: 6.7 | raw: 13.1 | var: 0.24
+s2 ishmael_lcb | slide | agg: 11.8 | raw: 12.93 | var: 0.66
+s1 rodion_clearance | bludgeon | agg: 10.7 | raw: 12.65 | var: 0.55
+s1 ryoshu_seven | slash | agg: 10.7 | raw: 12.65 | var: 0.55
+s1 meursault_n_corp | drive | agg: 6.3 | raw: 12.63 | var: 0.25
+s1 meursault_lcb | un_deux | agg: 7.81 | raw: 12.52 | var: 0.97
+s1 outis_seven | predictive_analysis | agg: 11.2 | raw: 12.2 | var: 0.35
+s1 rodion_kurokumo | sharpened_blade | agg: 10.7 | raw: 12.1 | var: 0.55
+s1 sinclair_lcb | downward_swing | agg: 10.25 | raw: 11.98 | var: 0.66
+s1 don_quixote_shi | catch_breath | agg: 10.1 | raw: 11.65 | var: 0.58
+s1 don_quixote_lcb | joust | agg: 9.85 | raw: 11.32 | var: 0.69
+s1 hong_lu_lcb | downward_cleave | agg: 9.85 | raw: 11.32 | var: 0.69
+s1 ryoshu_lcb | paint | agg: 9.85 | raw: 11.32 | var: 0.69
+s2 meursault_lcb | nailing_fist | agg: 10.8 | raw: 11.31 | var: 0.71
+s1 sinclair_mariachi | baile_y_rola | agg: 6.2 | raw: 11.02 | var: 0.56
+s1 heathcliff_shi | extreme_edge | agg: 9.5 | raw: 10.68 | var: 0.61
+s1 outis_blade | draw_of_the_sword | agg: 9.5 | raw: 10.68 | var: 0.61
+s1 faust_l_corp | sole_strike | agg: 9.1 | raw: 10.53 | var: 0.64
+s1 meursault_w_corp | rip | agg: 9.7 | raw: 10.5 | var: 0.6
+s1 heathcliff_lcb | bat_bash | agg: 9.25 | raw: 10.37 | var: 0.73
+s1 rodion_lcb | strike_down | agg: 9.25 | raw: 10.37 | var: 0.73
+s1 hong_lu_kurokumo | cleave | agg: 9.1 | raw: 10.06 | var: 0.64
+s1 yi_sang_seven | fleche | agg: 9.1 | raw: 10.06 | var: 0.64
+s1 gregor_lcb | swipe | agg: 8.85 | raw: 9.75 | var: 0.76
+s1 ishmael_lcb | loggerhead | agg: 8.85 | raw: 9.75 | var: 0.76
+s1 faust_w_corp | energy_cycle | agg: 8.5 | raw: 9.15 | var: 0.68
+s1 ishmael_clearance | shove | agg: 8.5 | raw: 9.15 | var: 0.68
+s1 outis_g_corp | order | agg: 8.5 | raw: 9.15 | var: 0.68
+s1 sinclair_zwei | baton | agg: 8.5 | raw: 9.15 | var: 0.68
+s1 faust_lcb | downward_slash | agg: 8.25 | raw: 8.86 | var: 0.81
+s1 yi_sang_lcb | deflect | agg: 8.25 | raw: 8.86 | var: 0.81
+s2 heathcliff_lcb | smackdown | agg: 7.4 | raw: 8.21 | var: 0.53
