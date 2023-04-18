@@ -12,7 +12,7 @@ s2: !!python/object:skill.Skill
   coin_power: 6
   name: dual_strike
 s3: !!python/object:skill.Skill
-  base_power: 7
+  base_power: 4
   coin_count: 1
   coin_power: 21
   name: overbreathe

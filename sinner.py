@@ -26,7 +26,7 @@ class Sinner:
 		return self.aggregate == other.aggregate and self.variance == other.variance
 	
 	def gen_display_str(self):
-		return f'{self.name} | aggregate: {round(self.aggregate, 2)} | variance: {round(self.variance, 2)}'
+		return f'{self.name} | agg: {round(self.aggregate, 2)} | var: {round(self.variance, 2)} | raw: {round(self.damage, 2)}'
 		
 	def gen_chart(self):
 		self.s1.user = self.name
@@ -45,26 +45,27 @@ class Sinner:
 		ax[0].step(s1_breakpoints, s1_reg_chance, color='yellow')
 		ax[0].step(s1_breakpoints, s1_max_chance, color='cyan')
 		ax[0].set(ylim=(0, 1.1), xlim=(0, 30), yticks=np.arange(0, 1.1, 0.25), xticks=np.arange(0, 30.1, 2))
-		ax[0].set_title(f'{self.s1.name} | aggregate: {round(self.s1.max_aggregate, 2)} | variance: {round(self.s1.variance, 2)}')
+		ax[0].set_title(f'{self.s1.name} | agg: {round(self.s1.max_aggregate, 2)} | var: {round(self.s1.variance, 2)} | raw: {round(self.s1.damage, 2)}')
 
 		s2_breakpoints, s2_min_chance, s2_reg_chance, s2_max_chance = self.s2.gen_breakpoints(self.offense)
 		ax[1].step(s2_breakpoints, s2_min_chance, color='magenta')
 		ax[1].step(s2_breakpoints, s2_reg_chance, color='yellow')
 		ax[1].step(s2_breakpoints, s2_max_chance, color='cyan')
 		ax[1].set(ylim=(0, 1.1), xlim=(0, 30), yticks=np.arange(0, 1.1, 0.25), xticks=np.arange(0, 30.1, 2))
-		ax[1].set_title(f'{self.s2.name} | aggregate: {round(self.s2.max_aggregate, 2)} | variance: {round(self.s2.variance, 2)}')
+		ax[1].set_title(f'{self.s2.name} | agg: {round(self.s2.max_aggregate, 2)} | var: {round(self.s2.variance, 2)} | raw: {round(self.s2.damage, 2)}')
 
 		s3_breakpoints, s3_min_chance, s3_reg_chance, s3_max_chance = self.s3.gen_breakpoints(self.offense)
 		ax[2].step(s3_breakpoints, s3_min_chance, color='magenta')
 		ax[2].step(s3_breakpoints, s3_reg_chance, color='yellow')
 		ax[2].step(s3_breakpoints, s3_max_chance, color='cyan')
 		ax[2].set(ylim=(0, 1.1), xlim=(0, 30), yticks=np.arange(0, 1.1, 0.25), xticks=np.arange(0, 30.1, 2))
-		ax[2].set_title(f'{self.s3.name} | aggregate: {round(self.s3.max_aggregate, 2)} | variance: {round(self.s3.variance, 2)}')
+		ax[2].set_title(f'{self.s3.name} | agg: {round(self.s3.max_aggregate, 2)} | var: {round(self.s3.variance, 2)} | raw: {round(self.s3.damage, 2)}')
 
-		self.aggregate = 2 * self.s1.max_aggregate + 2 * self.s2.max_aggregate + self.s3.max_aggregate
-		self.variance = (2 * self.s1.variance + 2 * self.s2.variance + self.s3.variance) / 6
+		self.aggregate = (2 * self.s1.max_aggregate + 2 * self.s2.max_aggregate + self.s3.max_aggregate) / 5
+		self.variance = (2 * self.s1.variance + 2 * self.s2.variance + self.s3.variance) / 5
+		self.damage = (2 * self.s1.damage + 2 * self.s2.damage + self.s3.damage) / 5
 		
-		fig.suptitle(f'{self.name} | aggregate: {round(self.aggregate, 2)} | variance: {round(self.variance, 2)}')
+		fig.suptitle(self.gen_display_str())
 		fig.canvas.manager.set_window_title('Sinner Ultimate Scientific Analysis Model Of Generally Unknown Strategies')
 		fig.tight_layout()
 		# plt.show()

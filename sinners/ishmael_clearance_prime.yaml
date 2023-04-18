@@ -1,18 +1,18 @@
 !!python/object:sinner.Sinner
-name: ishmael_clearance_base
+name: ishmael_clearance_prime
 offense: 29
 s1: !!python/object:skill.Skill
-  base_power: 4
+  base_power: 6
   coin_count: 1
   coin_power: 6
   name: shove
 s2: !!python/object:skill.Skill
-  base_power: 4
+  base_power: 6
   coin_count: 3
   coin_power: 3
   name: quake_rounds
 s3: !!python/object:skill.Skill
-  base_power: 4
+  base_power: 6
   coin_count: 4
   coin_power: 2
   name: suppress

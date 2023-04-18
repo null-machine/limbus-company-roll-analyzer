@@ -22,13 +22,16 @@ This tool approximates every sinner's ability to win a clash against a single co
 
 ![G Corp Gregor's Chart](/gregor_g_corp.png)
 
-### Aggregate & Variance
+### Aggregate, Variance & Raw Damage
 
+- Aggregate, variance and raw damage are abbreviated as "agg", "var" and "raw" respectively.
 - A subchart's aggregate is the integral of the cyan line, which roughly approximates the power that skill can comfortably beat at max sanity.
 - A subchart's variance is the area between the cyan and magenta lines divided by the skill's aggregate, which roughly approximates the skill's ability to perform well at low sanity. Lower values are more desirable.
 	- This number is kept as a saving grace to some sinners that were affected pretty harshly by the sanity changes, e.g. Blade Lineage Yi Sang.
-- The main chart's aggregate is a weighted sum of all skill aggregates. It compares average power between sinners.
+- A subchart's raw damage is the sum of all coins as if they all rolled heads, with defense calculations factored in, but not coin effects or statuses.
+- The main chart's aggregate is a weighted average of all skill aggregates. It compares average power between sinners.
 - The main chart's variance is a weighted average of all skill variances. It approximates how well a sinner can tolerate low sanity or bad luck, with lower values being more desirable.
+- The main chart's raw damage is a weighted average of all skill raw damages. It approximates the average damage a sinner will output. Please be aware that this is arguably the most misleading statistic, since it ignores coin effects and statuses. Furthermore, players can manipulate tempo to ensure hard-hitting skills will be present during enemy staggers and use weaker skills to manipulate thresholds, so the raw damage of individual skills should be examined more.
 - The weighting used for averages assumes two s1, two s2 and one s3 per pool. Two s1 instead of three s1 per pool is chosen for a few reasons:
 	- Despite defense skill cycling being patched, each sinner still has two slots per dashboard, so a weak skill can still theoretically be removed from the pool by just keeping it in a bottom slot, hence the total of five.
 	- Furthermore, ego usage consumes slots, so players that manipulate draw will be able to reduce the effective pool size even further.
@@ -39,9 +42,9 @@ This tool approximates every sinner's ability to win a clash against a single co
 - Additional prime or base charts will be generated for sinners with passives or conditionals that can be reasonably met, with the additional charts representing an abnormal state.
 	- For example, each Faust identity has an additional prime chart to represent her clashing ability while Representation Emitter's passive is active.
 	- Determining a sinner's default state is is somewhat arbitrary, so sinner.yaml files can be viewed to see the chosen numbers.
-- Enemy offense level is assumed to be 35.
-	- Technically, this value could be anything for the purposes of comparison, since it affects everyone the same way.
-	- But, 35 is the displayed level of refraction railway at the end screen, so it should result in numbers players are used to seeing.
+- Enemy offense and defense level is assumed to be 35.
+	- Technically, these values could be anything for the purposes of comparison, since it affects everyone the same way.
+	- But, 35 is the displayed level of Refraction Railway 1 on its end screen, so it should result in numbers players are used to seeing.
 
 ---
 

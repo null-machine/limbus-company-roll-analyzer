@@ -2,17 +2,17 @@
 name: ishmael_lcb
 offense: 31
 s1: !!python/object:skill.Skill
-  base_power: 5
+  base_power: 3
   coin_count: 1
   coin_power: 7
   name: loggerhead
 s2: !!python/object:skill.Skill
-  base_power: 7
+  base_power: 5
   coin_count: 1
   coin_power: 8
   name: slide
 s3: !!python/object:skill.Skill
-  base_power: 9
+  base_power: 7
   coin_count: 1
   coin_power: 12
   name: shield_bash

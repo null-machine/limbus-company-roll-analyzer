@@ -2,17 +2,17 @@
 name: ishmael_shi
 offense: 34
 s1: !!python/object:skill.Skill
-  base_power: 5
+  base_power: 3
   coin_count: 2
   coin_power: 4
   name: flying_sword
 s2: !!python/object:skill.Skill
-  base_power: 7
-  coin_count: 4
+  base_power: 5
+  coin_count: 2
   coin_power: 4
   name: flashing_slide
 s3: !!python/object:skill.Skill
-  base_power: 8
+  base_power: 6
   coin_count: 2
   coin_power: 4
   name: catch_breath

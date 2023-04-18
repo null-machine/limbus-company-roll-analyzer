@@ -7,7 +7,7 @@ s1: !!python/object:skill.Skill
   coin_power: 6
   name: slash
 s2: !!python/object:skill.Skill
-  base_power: 6
+  base_power: 7
   coin_count: 1
   coin_power: 12
   name: upper_slash

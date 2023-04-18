@@ -41,8 +41,10 @@ class Skill:
 		self.max_aggregate = 0
 		self.reg_aggregate = 0
 		self.min_aggregate = 0
+		self.damage = 0
 		for i in range(self.coin_count + 1):
 			breakpoints.append(effective_base_power + i * self.coin_power)
+			self.damage += self.base_power + i * self.coin_power
 			max_chance.append(self.eval_chance(0.95, i))
 			reg_chance.append(self.eval_chance(0.5, i))
 			min_chance.append(self.eval_chance(0.05, i))
@@ -54,6 +56,7 @@ class Skill:
 			self.reg_aggregate += delta_x * reg_chance[i + 1]
 			self.min_aggregate += delta_x * min_chance[i + 1]
 		self.variance = (self.max_aggregate - self.min_aggregate) / self.max_aggregate
+		self.damage *= 1 + (offense - enemy_offense) / (abs(offense - enemy_offense) + 25)
 		return breakpoints, min_chance, reg_chance, max_chance
 	
 	def eval_chance(self, heads_chance, required_heads):
