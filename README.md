@@ -10,7 +10,7 @@ This tool approximates every sinner's ability to win a clash against a single co
 
 ## Reading Sinner Charts
 
-[Clash charts can be found here.](/charts/)
+[Clash charts can be found here.](charts/)
 
 - Each chart provides an overview of a sinner's clashing ability.
 - The three sub-charts evaluate the performance of each of the sinner's skills.
@@ -20,7 +20,7 @@ This tool approximates every sinner's ability to win a clash against a single co
 	- In other words, cyan, yellow and magenta lines are associated a chance of 0.95, 0.5 and 0.05 of getting heads respectively.
 - For example, if a skill has the cyan line at x=12 and y=0.75, it has a 75% chance of beating a 12 at maximum sanity.
 
-![G Corp Gregor's Chart](/gregor_g_corp.png)
+![G Corp Gregor's Chart](charts/gregor_g_corp.png)
 
 ### Aggregate, Variance & Raw Damage
 
@@ -50,7 +50,7 @@ This tool approximates every sinner's ability to win a clash against a single co
 
 ## Tier Lists
 
-Sinners and their skills can be sorted by their aggregates. [The tier lists can be found in the tier_lists folder](/tier_lists/).
+Sinners and their skills can be sorted by their aggregates. [The tier lists can be found in the tier_lists folder](tier_lists/).
 
 Remember that this tool solely evaluates the clashing ability of each sinner's three skills. It provides no information about a sinner's utility, defensive options or available ego, so their position in the lists may not accurately reflect their overall power.
 
