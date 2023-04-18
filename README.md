@@ -4,7 +4,7 @@ Also known as the S.U.S.A.M.O.G.U.S.
 
 Wouldn't it be nice to get the exact chance of a skill winning against a set power?  
 With that information, the clashing ability of different sinners could be compared in a quantifiable way.  
-This tool approximates every sinner's ability to win a clash against a single coin skill of a set power, and uses that to generate a few tier lists.
+This tool approximates every sinner's ability to win a clash against a single coin skill of a set power, and the expected damage from each sinner skill, and uses that information to generate a set of tier lists.
 
 ---
 
@@ -22,7 +22,7 @@ This tool approximates every sinner's ability to win a clash against a single co
 
 ![G Corp Gregor's Chart](charts/gregor_g_corp.png)
 
-### Aggregate, Variance & Raw Damage
+### Aggregate, Raw & Variance
 
 - Aggregate, variance and raw damage are abbreviated as "agg", "var" and "raw" respectively.
 - A subchart's aggregate is the integral of the cyan line, which roughly approximates the power that skill can comfortably beat at max sanity.
@@ -44,18 +44,18 @@ This tool approximates every sinner's ability to win a clash against a single co
 	- Determining a sinner's default state is is somewhat arbitrary, so sinner.yaml files can be viewed to see the chosen numbers.
 	- Due to technical limitations, Ishmael's prime charts treat Snagharpoon's passive as if it can contribute to damage. Please refer to regular Ishmael charts for more accurate representations of her raw damage values.
 - Enemy offense level is assumed to be 35.
-	- Technically, these values could be anything for the purposes of comparing aggregates, since it affects everyone in a constant way.
+	- Technically, this could be anything for the purposes of comparing aggregates, since it affects everyone in a constant way.
 	- But, 35 is the displayed level of Refraction Railway 1 on its end screen, so it should result in numbers players are used to seeing.
 
 ---
 
 ## Tier Lists
 
-Sinners and their skills can be sorted by their aggregates. [The tier lists can be found in the tier_lists folder](tier_lists/).
+[Tier lists can be found here.](tier_lists/).
 
-Remember that this tool solely evaluates the clashing ability of each sinner's three skills. It provides no information about a sinner's utility, defensive options or available ego, so their position in the lists may not accurately reflect their overall power.
+Remember that this tool solely evaluates the rolls of each sinner's three skills. It provides no information about a sinner's utility, defensive options or available ego, so their position in the lists may not accurately reflect their overall power.
 
-If game balance is to be trusted, those with poor clashing ability probably attempt to compensate for that with some other part of their kit (especially true for tanks). Likewise, the best clashers may often have restraints, such as charge, ammo or health thresholds.
+If game balance is to be trusted, those with poor rolls may compensate for that with some other part of their kit (especially true for tanks). Likewise, the best rollers may have restraints, such as charge, ammo or health thresholds.
 
 ---
 
@@ -63,7 +63,7 @@ If game balance is to be trusted, those with poor clashing ability probably atte
 
 A common alternative approach for approximating clashing ability is to use other sinner skills as a point of reference and pit everyone against each other to see who wins the most. While this works for providing a realistic PvP tier list, it operates under the assumption that enemies will have similar rolls to sinners.
 
-This tool works by integrating win chance curves, which is encounter agnostic. It considers clashes at all relevant power levels, not just those of other sinners or existing content.
+This tool is engineered to be encounter agnostic. It considers clashes and damage totals at all relevant power levels, not just those of other sinners or existing content.
 
 ---
 
