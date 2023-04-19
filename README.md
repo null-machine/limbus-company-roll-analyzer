@@ -42,7 +42,7 @@ This tool approximates every sinner's ability to win a clash against a single co
 - Additional prime or weak charts will be generated for sinners with passives or conditionals, with the additional charts representing an abnormal state.
 	- For example, each Faust identity has an additional prime chart to represent her kit while Representation Emitter's passive is active.
 	- Determining a sinner's default state is is somewhat arbitrary, so sinner.yaml files can be viewed to see the chosen numbers.
-	- Due to technical limitations, Ishmael's prime charts treat Snagharpoon's passive as if it can contribute to damage. Please refer to regular Ishmael charts for more accurate representations of her raw damage values.
+	- Due to technical limitations, Ishmael's prime charts treat Snagharpoon's passive as if it can contribute to damage. Please refer to regular Ishmael charts for more accurate representations of her raw damage values. Additionally, Kurokumo Hong Lu's prime chart should be used for damage, and his regular chart should be used for clashes.
 - Enemy offense level is assumed to be 35.
 	- Technically, this could be anything for the purposes of comparing aggregates, since it affects everyone in a constant way.
 	- But, 35 is the displayed level of Refraction Railway 1 on its end screen, so it should result in numbers players are used to seeing.

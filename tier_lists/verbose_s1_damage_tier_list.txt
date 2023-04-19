@@ -43,8 +43,8 @@ s1 don_quixote_lcb | joust | agg: 9.85 | raw: 11.32 | var: 0.69
 s1 hong_lu_lcb | downward_cleave | agg: 9.85 | raw: 11.32 | var: 0.69
 s1 ryoshu_lcb | paint | agg: 9.85 | raw: 11.32 | var: 0.69
 s1 hong_lu_lcb_weak | downward_cleave | agg: 9.85 | raw: 11.32 | var: 0.69
-s1 faust_w_corp_prime | energy_cycle | agg: 10.5 | raw: 11.23 | var: 0.56
 s1 ishmael_clearance_prime | shove | agg: 10.5 | raw: 11.23 | var: 0.56
+s1 faust_w_corp_prime | energy_cycle | agg: 10.5 | raw: 11.23 | var: 0.56
 s1 sinclair_mariachi | baile_y_rola | agg: 6.2 | raw: 11.02 | var: 0.56
 s1 faust_lcb_prime | downward_slash | agg: 10.25 | raw: 10.92 | var: 0.66
 s1 heathcliff_shi | extreme_edge | agg: 9.5 | raw: 10.68 | var: 0.61
@@ -56,6 +56,7 @@ s1 heathcliff_lcb | bat_bash | agg: 9.25 | raw: 10.37 | var: 0.73
 s1 rodion_lcb | strike_down | agg: 9.25 | raw: 10.37 | var: 0.73
 s1 hong_lu_kurokumo | cleave | agg: 9.1 | raw: 10.06 | var: 0.64
 s1 yi_sang_seven | fleche | agg: 9.1 | raw: 10.06 | var: 0.64
+s1 hong_lu_kurokumo_prime | cleave | agg: 9.1 | raw: 10.06 | var: 0.64
 s1 gregor_lcb | swipe | agg: 8.85 | raw: 9.75 | var: 0.76
 s1 ishmael_lcb | loggerhead | agg: 8.85 | raw: 9.75 | var: 0.76
 s1 faust_w_corp | energy_cycle | agg: 8.5 | raw: 9.15 | var: 0.68

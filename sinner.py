@@ -11,15 +11,6 @@ class Sinner:
 		self.s2 = s2
 		self.s3 = s3
 	
-	def __lt__(self, other):
-		return self.aggregate < other.aggregate
-
-	def __gt__(self, other):
-		return other.__lt__(self)
-
-	# def __eq__(self, other):
-	# 	return self.aggregate == other.aggregate and self.variance == other.variance
-	
 	def gen_display_str(self):
 		return f'{self.name} | agg: {round(self.aggregate, 2)} | raw: {round(self.damage, 2)} | var: {round(self.variance, 2)}'
 		

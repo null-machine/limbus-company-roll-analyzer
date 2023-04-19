@@ -37,6 +37,7 @@ s3 hong_lu_lcb | whirlwind | agg: 16.61 | raw: 31.52 | var: 0.63
 s3 don_quixote_lcb | for_justice | agg: 11.77 | raw: 30.64 | var: 0.65
 s3 ryoshu_lcb | brushstroke | agg: 10.91 | raw: 30.64 | var: 0.43
 s3 hong_lu_kurokumo | cloudburst | agg: 11.11 | raw: 30.17 | var: 0.43
+s3 hong_lu_kurokumo_prime | cloudburst | agg: 11.11 | raw: 30.17 | var: 0.43
 s3 heathcliff_shi | flashing_strike | agg: 16.21 | raw: 30.08 | var: 0.65
 s3 ishmael_shi_prime | catch_breath | agg: 15.41 | raw: 30.08 | var: 0.43
 s3 hong_lu_liu | crimson_blaze_fist | agg: 16.01 | raw: 29.38 | var: 0.66

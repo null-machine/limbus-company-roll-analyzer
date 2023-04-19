@@ -24,8 +24,8 @@ s2 rodion_n_corp | zealous_purge | agg: 10.2 | raw: 21.06 | var: 0.32
 s2 rodion_lcb | axe_combo | agg: 11.21 | raw: 20.74 | var: 0.62
 s2 faust_w_corp | leap | agg: 11.41 | raw: 20.38 | var: 0.61
 s2 gregor_g_corp | dismember | agg: 16.7 | raw: 19.95 | var: 0.58
-s2 rodion_clearance | thrust | agg: 8.9 | raw: 19.55 | var: 0.18
 s2 ryoshu_seven | upper_slash | agg: 16.4 | raw: 19.55 | var: 0.71
+s2 rodion_clearance | thrust | agg: 8.9 | raw: 19.55 | var: 0.18
 s2 meursault_liu | stalwart_stance | agg: 9.6 | raw: 19.18 | var: 0.34
 s2 hong_lu_liu | flowing_flame | agg: 9.4 | raw: 18.58 | var: 0.35
 s2 faust_lcb | upward_slash | agg: 10.21 | raw: 17.72 | var: 0.7
