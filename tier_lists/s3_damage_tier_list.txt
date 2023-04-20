@@ -2,6 +2,7 @@ s3 don_quixote_w_corp | rip_space | agg: 30.22 | raw: 110.74 | var: 0.92
 s3 heathcliff_r_corp | quick_suppression | agg: 24.28 | raw: 99.76 | var: 0.7
 s3 ishmael_r_corp | mind_whip | agg: 20.46 | raw: 59.49 | var: 0.9
 s3 ryoshu_seven | swash | agg: 19.28 | raw: 51.75 | var: 0.67
+s3 ryoshu_chef | i_can_cook_anything | agg: 15.04 | raw: 50.17 | var: 0.68
 s3 gregor_g_corp | eviscerate | agg: 12.83 | raw: 47.33 | var: 0.49
 s3 gregor_liu | perfected_palm_strike | agg: 12.63 | raw: 46.0 | var: 0.5
 s3 faust_l_corp | opportunistic_slash | agg: 22.62 | raw: 43.46 | var: 0.62

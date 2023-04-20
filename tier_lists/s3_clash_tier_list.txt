@@ -17,6 +17,7 @@ s3 heathcliff_shi | flashing_strike | agg: 16.21 | raw: 30.08 | var: 0.65
 s3 ryoshu_kurokumo | lenticular_swirl | agg: 16.21 | raw: 33.0 | var: 0.41
 s3 hong_lu_liu | crimson_blaze_fist | agg: 16.01 | raw: 29.38 | var: 0.66
 s3 rodion_clearance | suppress | agg: 15.61 | raw: 32.2 | var: 0.43
+s3 ryoshu_chef | i_can_cook_anything | agg: 15.04 | raw: 50.17 | var: 0.68
 s3 heathcliff_n_corp | infirm_retribution | agg: 15.03 | raw: 37.58 | var: 0.69
 s3 heathcliff_lcb | upheaval | agg: 15.01 | raw: 27.22 | var: 0.71
 s3 ishmael_shi | catch_breath | agg: 13.41 | raw: 25.72 | var: 0.51

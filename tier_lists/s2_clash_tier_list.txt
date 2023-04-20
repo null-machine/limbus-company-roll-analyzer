@@ -1,4 +1,6 @@
 s2 hong_lu_tingtang | shank | agg: 17.88 | raw: 46.1 | var: 0.74
+s2 ryoshu_chef | ingredient_hunt | agg: 17.88 | raw: 46.1 | var: 0.74
+s2 heathcliff_r_corp | concentrated_fire | agg: 17.64 | raw: 63.57 | var: 0.55
 s2 gregor_g_corp | dismember | agg: 16.7 | raw: 19.95 | var: 0.58
 s2 ryoshu_seven | upper_slash | agg: 16.4 | raw: 19.55 | var: 0.71
 s2 faust_n_corp | the_gripping | agg: 16.23 | raw: 43.78 | var: 0.63
@@ -8,7 +10,6 @@ s2 don_quixote_shi | dual_strike | agg: 15.81 | raw: 30.02 | var: 0.67
 s2 ryoshu_kurokumo | clean_up | agg: 15.11 | raw: 29.61 | var: 0.57
 s2 ishmael_r_corp | flaying_surge | agg: 14.9 | raw: 16.48 | var: 0.65
 s2 heathcliff_shi | flying_sword | agg: 14.3 | raw: 16.13 | var: 0.68
-s2 heathcliff_r_corp | concentrated_fire | agg: 13.83 | raw: 51.97 | var: 0.45
 s2 hong_lu_lcb | dual_strike | agg: 13.71 | raw: 25.97 | var: 0.64
 s2 don_quixote_lcb | galloping_tilt | agg: 13.7 | raw: 15.76 | var: 0.7
 s2 outis_g_corp | onslaught_command | agg: 13.3 | raw: 14.35 | var: 0.72

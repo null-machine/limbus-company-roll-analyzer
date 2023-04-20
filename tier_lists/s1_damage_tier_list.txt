@@ -4,6 +4,7 @@ s1 gregor_g_corp | hack | agg: 10.91 | raw: 22.5 | var: 0.46
 s1 faust_n_corp | cackle | agg: 10.51 | raw: 21.2 | var: 0.48
 s1 ishmael_r_corp | mind_strike | agg: 11.91 | raw: 21.19 | var: 0.76
 s1 rodion_n_corp | devoted_hammering | agg: 11.01 | raw: 21.06 | var: 0.64
+s1 ryoshu_chef | perfect_cut | agg: 10.31 | raw: 20.57 | var: 0.49
 s1 ishmael_shi | flying_sword | agg: 10.41 | raw: 19.18 | var: 0.68
 s1 meursault_liu | assault | agg: 10.41 | raw: 19.18 | var: 0.68
 s1 heathcliff_n_corp | gawky_nailing | agg: 10.21 | raw: 18.58 | var: 0.7

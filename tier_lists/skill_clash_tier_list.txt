@@ -11,6 +11,8 @@ s3 outis_lcb | piercing_thrust | agg: 19.9 | raw: 23.28 | var: 0.68
 s3 ryoshu_seven | swash | agg: 19.28 | raw: 51.75 | var: 0.67
 s3 sinclair_zwei | strong_strike | agg: 18.15 | raw: 19.55 | var: 0.69
 s2 hong_lu_tingtang | shank | agg: 17.88 | raw: 46.1 | var: 0.74
+s2 ryoshu_chef | ingredient_hunt | agg: 17.88 | raw: 46.1 | var: 0.74
+s2 heathcliff_r_corp | concentrated_fire | agg: 17.64 | raw: 63.57 | var: 0.55
 s3 ishmael_lcb | shield_bash | agg: 17.6 | raw: 19.29 | var: 0.66
 s3 sinclair_mariachi | pinata_party | agg: 16.85 | raw: 17.75 | var: 0.63
 s2 gregor_g_corp | dismember | agg: 16.7 | raw: 19.95 | var: 0.58
@@ -25,11 +27,11 @@ s2 outis_seven | field_command | agg: 15.91 | raw: 29.75 | var: 0.54
 s2 don_quixote_shi | dual_strike | agg: 15.81 | raw: 30.02 | var: 0.67
 s3 rodion_clearance | suppress | agg: 15.61 | raw: 32.2 | var: 0.43
 s2 ryoshu_kurokumo | clean_up | agg: 15.11 | raw: 29.61 | var: 0.57
+s3 ryoshu_chef | i_can_cook_anything | agg: 15.04 | raw: 50.17 | var: 0.68
 s3 heathcliff_n_corp | infirm_retribution | agg: 15.03 | raw: 37.58 | var: 0.69
 s3 heathcliff_lcb | upheaval | agg: 15.01 | raw: 27.22 | var: 0.71
 s2 ishmael_r_corp | flaying_surge | agg: 14.9 | raw: 16.48 | var: 0.65
 s2 heathcliff_shi | flying_sword | agg: 14.3 | raw: 16.13 | var: 0.68
-s2 heathcliff_r_corp | concentrated_fire | agg: 13.83 | raw: 51.97 | var: 0.45
 s2 hong_lu_lcb | dual_strike | agg: 13.71 | raw: 25.97 | var: 0.64
 s2 don_quixote_lcb | galloping_tilt | agg: 13.7 | raw: 15.76 | var: 0.7
 s3 ishmael_shi | catch_breath | agg: 13.41 | raw: 25.72 | var: 0.51
@@ -82,6 +84,7 @@ s3 ishmael_clearance | suppress | agg: 10.43 | raw: 32.45 | var: 0.64
 s1 ishmael_shi | flying_sword | agg: 10.41 | raw: 19.18 | var: 0.68
 s1 meursault_liu | assault | agg: 10.41 | raw: 19.18 | var: 0.68
 s2 sinclair_lcb | halberd_combo | agg: 10.31 | raw: 29.15 | var: 0.47
+s1 ryoshu_chef | perfect_cut | agg: 10.31 | raw: 20.57 | var: 0.49
 s1 sinclair_lcb | downward_swing | agg: 10.25 | raw: 11.98 | var: 0.66
 s2 faust_lcb | upward_slash | agg: 10.21 | raw: 17.72 | var: 0.7
 s1 heathcliff_n_corp | gawky_nailing | agg: 10.21 | raw: 18.58 | var: 0.7

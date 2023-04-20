@@ -13,6 +13,7 @@ s1 ryoshu_seven | slash | agg: 10.7 | raw: 12.65 | var: 0.55
 s1 faust_n_corp | cackle | agg: 10.51 | raw: 21.2 | var: 0.48
 s1 ishmael_shi | flying_sword | agg: 10.41 | raw: 19.18 | var: 0.68
 s1 meursault_liu | assault | agg: 10.41 | raw: 19.18 | var: 0.68
+s1 ryoshu_chef | perfect_cut | agg: 10.31 | raw: 20.57 | var: 0.49
 s1 sinclair_lcb | downward_swing | agg: 10.25 | raw: 11.98 | var: 0.66
 s1 heathcliff_n_corp | gawky_nailing | agg: 10.21 | raw: 18.58 | var: 0.7
 s1 hong_lu_liu | warm_up | agg: 10.21 | raw: 18.58 | var: 0.7

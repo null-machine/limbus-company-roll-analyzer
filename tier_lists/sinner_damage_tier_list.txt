@@ -1,5 +1,6 @@
-heathcliff_r_corp | agg: 15.15 | raw: 54.94 | var: 0.47
+heathcliff_r_corp | agg: 16.68 | raw: 59.58 | var: 0.52
 don_quixote_w_corp | agg: 16.97 | raw: 44.48 | var: 0.64
+ryoshu_chef | agg: 14.28 | raw: 36.7 | var: 0.63
 faust_n_corp | agg: 13.2 | raw: 33.38 | var: 0.52
 hong_lu_tingtang | agg: 17.54 | raw: 30.6 | var: 0.66
 gregor_liu | agg: 9.59 | raw: 27.6 | var: 0.35

@@ -1,0 +1,18 @@
+!!python/object:sinner.Sinner
+name: ryoshu_chef_prime
+offense: 38
+s1: !!python/object:skill.Skill
+  base_power: 4
+  coin_count: 2
+  coin_power: 3
+  name: perfect_cut
+s2: !!python/object:skill.Skill
+  base_power: 3
+  coin_count: 3
+  coin_power: 5
+  name: ingredient_hunt
+s3: !!python/object:skill.Skill
+  base_power: 7
+  coin_count: 4
+  coin_power: 3
+  name: i_can_cook_anything

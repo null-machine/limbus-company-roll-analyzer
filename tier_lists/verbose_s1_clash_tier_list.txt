@@ -29,6 +29,8 @@ s1 ishmael_clearance_prime | shove | agg: 10.5 | raw: 11.23 | var: 0.56
 s1 faust_w_corp_prime | energy_cycle | agg: 10.5 | raw: 11.23 | var: 0.56
 s1 ishmael_shi | flying_sword | agg: 10.41 | raw: 19.18 | var: 0.68
 s1 meursault_liu | assault | agg: 10.41 | raw: 19.18 | var: 0.68
+s1 ryoshu_chef | perfect_cut | agg: 10.31 | raw: 20.57 | var: 0.49
+s1 ryoshu_chef_prime | perfect_cut | agg: 10.31 | raw: 20.57 | var: 0.49
 s1 sinclair_lcb | downward_swing | agg: 10.25 | raw: 11.98 | var: 0.66
 s1 faust_lcb_prime | downward_slash | agg: 10.25 | raw: 10.92 | var: 0.66
 s1 heathcliff_lcb_prime | bat_bash | agg: 10.25 | raw: 11.45 | var: 0.66

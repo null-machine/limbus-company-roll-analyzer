@@ -18,6 +18,7 @@ s3 ishmael_lcb_prime | shield_bash | agg: 19.6 | raw: 21.41 | var: 0.59
 s3 don_quixote_lcb_prime | for_justice | agg: 19.48 | raw: 50.62 | var: 0.66
 s3 ryoshu_seven | swash | agg: 19.28 | raw: 51.75 | var: 0.67
 s3 heathcliff_shi_prime | flashing_strike | agg: 19.21 | raw: 36.62 | var: 0.54
+s3 ryoshu_chef_prime | i_can_cook_anything | agg: 19.04 | raw: 68.25 | var: 0.5
 s3 sinclair_zwei | strong_strike | agg: 18.15 | raw: 19.55 | var: 0.69
 s3 ishmael_lcb | shield_bash | agg: 17.6 | raw: 19.29 | var: 0.66
 s3 sinclair_mariachi | pinata_party | agg: 16.85 | raw: 17.75 | var: 0.63
@@ -29,6 +30,7 @@ s3 hong_lu_liu | crimson_blaze_fist | agg: 16.01 | raw: 29.38 | var: 0.66
 s3 heathcliff_lcb_prime | upheaval | agg: 16.01 | raw: 29.38 | var: 0.66
 s3 rodion_clearance | suppress | agg: 15.61 | raw: 32.2 | var: 0.43
 s3 ishmael_shi_prime | catch_breath | agg: 15.41 | raw: 30.08 | var: 0.43
+s3 ryoshu_chef | i_can_cook_anything | agg: 15.04 | raw: 50.17 | var: 0.68
 s3 heathcliff_n_corp | infirm_retribution | agg: 15.03 | raw: 37.58 | var: 0.69
 s3 heathcliff_lcb | upheaval | agg: 15.01 | raw: 27.22 | var: 0.71
 s3 faust_n_corp_prime | execution | agg: 14.51 | raw: 43.78 | var: 0.31

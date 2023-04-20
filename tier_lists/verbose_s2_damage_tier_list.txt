@@ -1,10 +1,12 @@
 s2 ishmael_shi_prime | flashing_slide | agg: 22.05 | raw: 73.25 | var: 0.6
+s2 heathcliff_r_corp_prime | concentrated_fire | agg: 18.64 | raw: 68.21 | var: 0.51
+s2 heathcliff_r_corp | concentrated_fire | agg: 17.64 | raw: 63.57 | var: 0.55
 s2 hong_lu_kurokumo_prime | cloud_cutter | agg: 19.65 | raw: 61.63 | var: 0.69
-s2 heathcliff_r_corp_prime | concentrated_fire | agg: 14.83 | raw: 56.61 | var: 0.41
-s2 heathcliff_r_corp | concentrated_fire | agg: 13.83 | raw: 51.97 | var: 0.45
 s2 faust_n_corp_prime | the_gripping | agg: 18.23 | raw: 50.62 | var: 0.54
 s2 heathcliff_r_corp_weak | concentrated_fire | agg: 12.83 | raw: 47.33 | var: 0.49
 s2 hong_lu_tingtang | shank | agg: 17.88 | raw: 46.1 | var: 0.74
+s2 ryoshu_chef | ingredient_hunt | agg: 17.88 | raw: 46.1 | var: 0.74
+s2 ryoshu_chef_prime | ingredient_hunt | agg: 17.88 | raw: 46.1 | var: 0.74
 s2 faust_n_corp | the_gripping | agg: 16.23 | raw: 43.78 | var: 0.63
 s2 don_quixote_w_corp | leap | agg: 16.03 | raw: 42.71 | var: 0.63
 s2 don_quixote_w_corp_weak | leap | agg: 16.03 | raw: 42.71 | var: 0.63
