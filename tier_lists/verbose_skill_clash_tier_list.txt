@@ -58,7 +58,7 @@ s2 faust_l_corp_prime | deep_cuts | agg: 14.97 | raw: 41.66 | var: 0.48
 s2 ishmael_r_corp | flaying_surge | agg: 14.9 | raw: 16.48 | var: 0.65
 s3 faust_n_corp_prime | execution | agg: 14.51 | raw: 43.78 | var: 0.31
 s2 heathcliff_shi | flying_sword | agg: 14.3 | raw: 16.13 | var: 0.68
-s2 heathcliff_n_corp_prime | smackdown | agg: 14.2 | raw: 15.77 | var: 0.55
+s2 heathcliff_n_corp_prime | purify | agg: 14.2 | raw: 15.77 | var: 0.55
 s1 ishmael_r_corp_prime | mind_strike | agg: 13.91 | raw: 25.47 | var: 0.63
 s2 ishmael_lcb_prime | slide | agg: 13.8 | raw: 15.05 | var: 0.56
 s3 heathcliff_r_corp_weak | quick_suppression | agg: 13.74 | raw: 59.16 | var: 0.59
@@ -68,10 +68,11 @@ s3 gregor_liu_prime | perfected_palm_strike | agg: 13.63 | raw: 50.6 | var: 0.45
 s3 ishmael_shi | catch_breath | agg: 13.41 | raw: 25.72 | var: 0.51
 s3 outis_blade | decisive_dive | agg: 13.41 | raw: 25.72 | var: 0.51
 s2 faust_w_corp_prime | leap | agg: 13.41 | raw: 24.54 | var: 0.51
+s2 gregor_chef | you_fresh_enough | agg: 13.4 | raw: 15.04 | var: 0.58
 s3 meursault_liu | perfected_death_fist | agg: 13.37 | raw: 35.32 | var: 0.56
 s2 ishmael_clearance_prime | quake_rounds | agg: 13.37 | raw: 33.7 | var: 0.56
 s2 outis_g_corp | onslaught_command | agg: 13.3 | raw: 14.35 | var: 0.72
-s2 heathcliff_n_corp | smackdown | agg: 13.2 | raw: 14.69 | var: 0.59
+s2 heathcliff_n_corp | purify | agg: 13.2 | raw: 14.69 | var: 0.59
 s3 outis_seven | exploit_the_gap | agg: 13.11 | raw: 36.59 | var: 0.35
 s3 meursault_n_corp | annihilate_heretics | agg: 13.11 | raw: 25.47 | var: 0.38
 s3 rodion_n_corp_prime | ironclad_retribution | agg: 13.03 | raw: 46.59 | var: 0.48
@@ -186,6 +187,7 @@ s2 sinclair_blade | slash_series | agg: 8.86 | raw: 26.4 | var: 0.25
 s1 gregor_lcb | swipe | agg: 8.85 | raw: 9.75 | var: 0.76
 s1 ishmael_lcb | loggerhead | agg: 8.85 | raw: 9.75 | var: 0.76
 s1 gregor_liu | single_point_stab | agg: 8.8 | raw: 18.4 | var: 0.38
+s3 gregor_chef | butcher_viand | agg: 8.61 | raw: 31.83 | var: 0.34
 s1 faust_w_corp | energy_cycle | agg: 8.5 | raw: 9.15 | var: 0.68
 s1 ishmael_clearance | shove | agg: 8.5 | raw: 9.15 | var: 0.68
 s1 outis_g_corp | order | agg: 8.5 | raw: 9.15 | var: 0.68
@@ -197,6 +199,7 @@ s1 yi_sang_lcb | deflect | agg: 8.25 | raw: 8.86 | var: 0.81
 s2 yi_sang_seven | riposte | agg: 8.2 | raw: 15.84 | var: 0.41
 s3 meursault_w_corp | energy_current | agg: 7.81 | raw: 27.3 | var: 0.38
 s1 meursault_lcb | un_deux | agg: 7.81 | raw: 12.52 | var: 0.97
+s1 gregor_chef | keep_it_fresh | agg: 7.6 | raw: 14.82 | var: 0.44
 s3 yi_sang_lcb | enjamb | agg: 7.46 | raw: 20.39 | var: 0.3
 s2 heathcliff_lcb | smackdown | agg: 7.4 | raw: 8.21 | var: 0.53
 s1 sinclair_blade | slice_then_stab | agg: 6.9 | raw: 14.3 | var: 0.23

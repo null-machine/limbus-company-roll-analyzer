@@ -1,18 +1,18 @@
 !!python/object:sinner.Sinner
-name: heathcliff_n_corp
-offense: 33
+name: gregor_chef
+offense: 34
 s1: !!python/object:skill.Skill
-  base_power: 3
+  base_power: 4
   coin_count: 2
-  coin_power: 4
-  name: gawky_nailing
+  coin_power: 2
+  name: keep_it_fresh
 s2: !!python/object:skill.Skill
   base_power: 6
   coin_count: 1
   coin_power: 8
-  name: purify
+  name: you_fresh_enough
 s3: !!python/object:skill.Skill
-  base_power: 4
-  coin_count: 3
-  coin_power: 4
-  name: infirm_retribution
+  base_power: 5
+  coin_count: 4
+  coin_power: 1
+  name: butcher_viand

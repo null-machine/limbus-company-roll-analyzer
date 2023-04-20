@@ -12,8 +12,9 @@ s2 ishmael_r_corp | flaying_surge | agg: 14.9 | raw: 16.48 | var: 0.65
 s2 heathcliff_shi | flying_sword | agg: 14.3 | raw: 16.13 | var: 0.68
 s2 hong_lu_lcb | dual_strike | agg: 13.71 | raw: 25.97 | var: 0.64
 s2 don_quixote_lcb | galloping_tilt | agg: 13.7 | raw: 15.76 | var: 0.7
+s2 gregor_chef | you_fresh_enough | agg: 13.4 | raw: 15.04 | var: 0.58
 s2 outis_g_corp | onslaught_command | agg: 13.3 | raw: 14.35 | var: 0.72
-s2 heathcliff_n_corp | smackdown | agg: 13.2 | raw: 14.69 | var: 0.59
+s2 heathcliff_n_corp | purify | agg: 13.2 | raw: 14.69 | var: 0.59
 s2 faust_l_corp | deep_cuts | agg: 12.97 | raw: 34.94 | var: 0.58
 s2 gregor_lcb | jag | agg: 12.7 | raw: 13.99 | var: 0.76
 s2 ishmael_shi | flashing_slide | agg: 12.41 | raw: 23.54 | var: 0.56

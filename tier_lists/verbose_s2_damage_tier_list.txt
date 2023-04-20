@@ -56,10 +56,11 @@ s2 sinclair_mariachi | danza_de_pasion | agg: 6.26 | raw: 16.52 | var: 0.37
 s2 ishmael_r_corp | flaying_surge | agg: 14.9 | raw: 16.48 | var: 0.65
 s2 heathcliff_shi | flying_sword | agg: 14.3 | raw: 16.13 | var: 0.68
 s2 yi_sang_seven | riposte | agg: 8.2 | raw: 15.84 | var: 0.41
-s2 heathcliff_n_corp_prime | smackdown | agg: 14.2 | raw: 15.77 | var: 0.55
+s2 heathcliff_n_corp_prime | purify | agg: 14.2 | raw: 15.77 | var: 0.55
 s2 don_quixote_lcb | galloping_tilt | agg: 13.7 | raw: 15.76 | var: 0.7
 s2 ishmael_lcb_prime | slide | agg: 13.8 | raw: 15.05 | var: 0.56
-s2 heathcliff_n_corp | smackdown | agg: 13.2 | raw: 14.69 | var: 0.59
+s2 gregor_chef | you_fresh_enough | agg: 13.4 | raw: 15.04 | var: 0.58
+s2 heathcliff_n_corp | purify | agg: 13.2 | raw: 14.69 | var: 0.59
 s2 outis_g_corp | onslaught_command | agg: 13.3 | raw: 14.35 | var: 0.72
 s2 gregor_lcb | jag | agg: 12.7 | raw: 13.99 | var: 0.76
 s2 sinclair_zwei | suppress | agg: 6.7 | raw: 13.1 | var: 0.24

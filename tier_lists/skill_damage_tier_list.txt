@@ -25,6 +25,7 @@ s3 ryoshu_kurokumo | lenticular_swirl | agg: 16.21 | raw: 33.0 | var: 0.41
 s3 sinclair_lcb | ravaging_cut | agg: 11.31 | raw: 32.54 | var: 0.42
 s3 ishmael_clearance | suppress | agg: 10.43 | raw: 32.45 | var: 0.64
 s3 rodion_clearance | suppress | agg: 15.61 | raw: 32.2 | var: 0.43
+s3 gregor_chef | butcher_viand | agg: 8.61 | raw: 31.83 | var: 0.34
 s3 hong_lu_lcb | whirlwind | agg: 16.61 | raw: 31.52 | var: 0.63
 s3 don_quixote_lcb | for_justice | agg: 11.77 | raw: 30.64 | var: 0.65
 s3 ryoshu_lcb | brushstroke | agg: 10.91 | raw: 30.64 | var: 0.43
@@ -93,7 +94,9 @@ s2 heathcliff_shi | flying_sword | agg: 14.3 | raw: 16.13 | var: 0.68
 s2 yi_sang_seven | riposte | agg: 8.2 | raw: 15.84 | var: 0.41
 s2 don_quixote_lcb | galloping_tilt | agg: 13.7 | raw: 15.76 | var: 0.7
 s3 faust_lcb | drilling_stab | agg: 8.4 | raw: 15.66 | var: 0.39
-s2 heathcliff_n_corp | smackdown | agg: 13.2 | raw: 14.69 | var: 0.59
+s2 gregor_chef | you_fresh_enough | agg: 13.4 | raw: 15.04 | var: 0.58
+s1 gregor_chef | keep_it_fresh | agg: 7.6 | raw: 14.82 | var: 0.44
+s2 heathcliff_n_corp | purify | agg: 13.2 | raw: 14.69 | var: 0.59
 s2 outis_g_corp | onslaught_command | agg: 13.3 | raw: 14.35 | var: 0.72
 s1 sinclair_blade | slice_then_stab | agg: 6.9 | raw: 14.3 | var: 0.23
 s1 yi_sang_blade | strikers_stance | agg: 11.9 | raw: 14.15 | var: 0.49

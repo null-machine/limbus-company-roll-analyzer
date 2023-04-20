@@ -54,6 +54,7 @@ gregor_liu_prime | agg: 10.59 | raw: 30.82 | var: 0.31
 sinclair_blade | agg: 10.56 | raw: 21.12 | var: 0.32
 sinclair_lcb | agg: 10.49 | raw: 22.96 | var: 0.53
 rodion_clearance_weak | agg: 10.2 | raw: 17.94 | var: 0.34
+gregor_chef | agg: 10.12 | raw: 18.31 | var: 0.48
 faust_w_corp | agg: 10.07 | raw: 17.31 | var: 0.61
 ishmael_clearance | agg: 10.03 | raw: 21.13 | var: 0.67
 rodion_lcb | agg: 10.03 | raw: 18.14 | var: 0.69

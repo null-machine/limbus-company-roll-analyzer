@@ -22,14 +22,15 @@ s2 ryoshu_kurokumo | clean_up | agg: 15.11 | raw: 29.61 | var: 0.57
 s2 faust_l_corp_prime | deep_cuts | agg: 14.97 | raw: 41.66 | var: 0.48
 s2 ishmael_r_corp | flaying_surge | agg: 14.9 | raw: 16.48 | var: 0.65
 s2 heathcliff_shi | flying_sword | agg: 14.3 | raw: 16.13 | var: 0.68
-s2 heathcliff_n_corp_prime | smackdown | agg: 14.2 | raw: 15.77 | var: 0.55
+s2 heathcliff_n_corp_prime | purify | agg: 14.2 | raw: 15.77 | var: 0.55
 s2 ishmael_lcb_prime | slide | agg: 13.8 | raw: 15.05 | var: 0.56
 s2 hong_lu_lcb | dual_strike | agg: 13.71 | raw: 25.97 | var: 0.64
 s2 don_quixote_lcb | galloping_tilt | agg: 13.7 | raw: 15.76 | var: 0.7
 s2 faust_w_corp_prime | leap | agg: 13.41 | raw: 24.54 | var: 0.51
+s2 gregor_chef | you_fresh_enough | agg: 13.4 | raw: 15.04 | var: 0.58
 s2 ishmael_clearance_prime | quake_rounds | agg: 13.37 | raw: 33.7 | var: 0.56
 s2 outis_g_corp | onslaught_command | agg: 13.3 | raw: 14.35 | var: 0.72
-s2 heathcliff_n_corp | smackdown | agg: 13.2 | raw: 14.69 | var: 0.59
+s2 heathcliff_n_corp | purify | agg: 13.2 | raw: 14.69 | var: 0.59
 s2 faust_l_corp | deep_cuts | agg: 12.97 | raw: 34.94 | var: 0.58
 s2 faust_l_corp_weak | deep_cuts | agg: 12.97 | raw: 34.94 | var: 0.58
 s2 heathcliff_r_corp_weak | concentrated_fire | agg: 12.83 | raw: 47.33 | var: 0.49

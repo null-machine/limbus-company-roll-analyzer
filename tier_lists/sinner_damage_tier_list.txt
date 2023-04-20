@@ -29,6 +29,7 @@ rodion_kurokumo | agg: 13.4 | raw: 19.14 | var: 0.53
 hong_lu_kurokumo | agg: 10.67 | raw: 18.96 | var: 0.57
 outis_blade | agg: 11.45 | raw: 18.84 | var: 0.57
 meursault_n_corp | agg: 9.59 | raw: 18.62 | var: 0.36
+gregor_chef | agg: 10.12 | raw: 18.31 | var: 0.48
 rodion_lcb | agg: 10.03 | raw: 18.14 | var: 0.69
 faust_w_corp | agg: 10.07 | raw: 17.31 | var: 0.61
 yi_sang_seven | agg: 9.52 | raw: 17.03 | var: 0.53

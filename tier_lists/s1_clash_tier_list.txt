@@ -40,6 +40,7 @@ s1 sinclair_zwei | baton | agg: 8.5 | raw: 9.15 | var: 0.68
 s1 faust_lcb | downward_slash | agg: 8.25 | raw: 8.86 | var: 0.81
 s1 yi_sang_lcb | deflect | agg: 8.25 | raw: 8.86 | var: 0.81
 s1 meursault_lcb | un_deux | agg: 7.81 | raw: 12.52 | var: 0.97
+s1 gregor_chef | keep_it_fresh | agg: 7.6 | raw: 14.82 | var: 0.44
 s1 sinclair_blade | slice_then_stab | agg: 6.9 | raw: 14.3 | var: 0.23
 s1 meursault_n_corp | drive | agg: 6.3 | raw: 12.63 | var: 0.25
 s1 sinclair_mariachi | baile_y_rola | agg: 6.2 | raw: 11.02 | var: 0.56

@@ -39,6 +39,7 @@ s3 ryoshu_lcb | brushstroke | agg: 10.91 | raw: 30.64 | var: 0.43
 s3 faust_w_corp | overcharge | agg: 10.51 | raw: 27.46 | var: 0.45
 s3 ishmael_clearance | suppress | agg: 10.43 | raw: 32.45 | var: 0.64
 s3 rodion_lcb | slay | agg: 9.23 | raw: 28.51 | var: 0.76
+s3 gregor_chef | butcher_viand | agg: 8.61 | raw: 31.83 | var: 0.34
 s3 faust_lcb | drilling_stab | agg: 8.4 | raw: 15.66 | var: 0.39
 s3 meursault_w_corp | energy_current | agg: 7.81 | raw: 27.3 | var: 0.38
 s3 yi_sang_lcb | enjamb | agg: 7.46 | raw: 20.39 | var: 0.3
