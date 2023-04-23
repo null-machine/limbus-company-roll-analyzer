@@ -49,7 +49,7 @@ Units in this tier tend to directly outperform or invalidate units in lower tier
 
 **A TIER — RELIABLE OPTIONS**
 
-These units win clashes that units in lower tiers wouldn't, and can be safely relied upon to hold their own and pull their weight. They feel solid to pilot and most veterans will have no problem appreciating their kits.
+These units win clashes that units in lower tiers wouldn't, and can be safely relied upon to hold their own and pull their weight. They feel solid to pilot and veterans should have no problem appreciating their kits.
 
 ![R Ishmael](assets/10802.png)
 ![L Faust](assets/10203.png)
@@ -93,10 +93,10 @@ Specific setups are required to get these sinners to outperform other options. W
 ![Zwei Sinclair](assets/11003.png)
 ![N Meursault](assets/10504.png)
 ![Shi Heathcliff](assets/10702.png)
-![LCB Gregor](assets/11201.png)
 ![LCB Ryoshu](assets/10401.png)
-![LCB Faust](assets/10201.png)
+![LCB Gregor](assets/11201.png)
 ![LCB Sinclair](assets/11001.png)
+![LCB Faust](assets/10201.png)
 ![LCB Rodion](assets/10901.png)
 ![Chef Gregor](assets/11204.png)
 
@@ -116,7 +116,7 @@ These units should not be prioritized for fielded combat.
 
 ## Rationale
 
-[An explanation of how to read the roll charts can be found here.]((https://github.com/null-machine/limbus-company-clash-tool)) 
+[An explanation of how to read the roll charts can be found here.](https://github.com/null-machine/limbus-company-clash-tool) 
 
 For a condensed version, the cyan yellow and magenta lines represent a sinner's chance to beat a power at max, zero and minimum sanity. The y-axis represents chance, and the x-axis represents the power of the opposing skill. "agg" means "aggregate", and approximates clashing power by taking an integral of the cyan line. "raw" means "raw damage", and is the summation of the rolls at max sanity. "var" means "variance", and describes how badly the sinner is affected by low sanity.
 
@@ -128,7 +128,9 @@ For the sake of transparency, let it be known that the author is slightly biased
 
 ---
 
-### Don Quixote - W Corp. Cleanup Agent
+### S Tier: Don Quixote - W Corp. Cleanup Agent
+
+The weak chart represents Don Quixote with uncharged Rip Space.
 
 ![](charts/don_quixote_w_corp.png)
 ![](charts/don_quixote_w_corp_weak.png)
@@ -143,7 +145,9 @@ That being said, she has a few downsides. Her S1 is miserable and can result in 
 
 ---
 
-### Heathcliff - R Corp. 4th Pack Rabbit
+### S Tier: Heathcliff - R Corp. 4th Pack Rabbit
+
+The weak chart represents Heathcliff with less than 6 speed.
 
 ![](charts/heathcliff_r_corp.png)
 ![](charts/heathcliff_r_corp_weak.png)
@@ -152,7 +156,7 @@ A Quick Suppression at 6+ speed can perform a similar role to a charged Rip Spac
 
 ---
 
-### Ryoshu - R.B. Chef de Cuisine
+### S Tier: Ryoshu - R.B. Chef de Cuisine
 
 ![](charts/ryoshu_chef.png)
 
@@ -164,21 +168,34 @@ It's worth mentioning that her 4th Match Flame passive can theoretically buff he
 
 ---
 
-### Hong Lu - Tingtang Gangleader
+### S Tier: Hong Lu - Tingtang Gangleader
 
 ![](charts/hong_lu_tingtang.png)
 
-Wondering why the roll analyzer thinks Tingtang Hong Lu is the best clasher in the game... it's clearly a mystery.
-
-Tingtang Hong Lu probably benefitted more from the sanity update than anyone else. Mutilate used to be a dicey shitpost, but it now rolls 30+ with a 95% chance, giving it the highest aggregate in the game (excepting Rip Space, which has charge limitations). His Shank also has the highest aggregate among all S2s, edging out even Ingredient Hunt and Concentrated Fire (but, it's not like either of those would have been likely to lose a clash either). Furthermore, he has no charge or ammo limitations, giving him free reign to abuse that 95% heads to activate all his skill effects and perform extremely well. Ironically, the fact that Mutilate high rolls so high makes him arguably pretty consistent. For other sinners, if their skills don't have enough aggregate, they'll ultimately still rely on the enemy to low roll. Mutilate will not have that problem. In a case where S3 rolling heads won't win a clash, chances are nothing short of high-end egos will outperform it. He gets obligatory bonus points for having an evade, and a relatively strong one at that. It's also worth noting that he has 35 defense, which is considerably higher than other identities with good rolls.
+The sanity update was so good to TT Hong Lu that the roll analyzer now thinks he's the strongest clasher in the game. Mutilate used to be a dicey shitpost, but it now rolls 30+ with a 95% chance, giving it the highest aggregate in the game (excepting Rip Space, which has charge limitations). His Shank also has the highest aggregate among all S2s, edging out even Ingredient Hunt and Concentrated Fire (but, it's not like either of those would have been likely to lose a clash either). Furthermore, he has no charge or ammo limitations, giving him free reign to abuse that 95% heads to activate all his skill effects and perform extremely well. Ironically, the fact that Mutilate high rolls so high makes him arguably pretty consistent. For other sinners, if their skills don't have enough aggregate, they'll ultimately still rely on the enemy to low roll. Mutilate will not have that problem. In a case where S3 rolling heads won't win a clash, chances are nothing short of high-end egos will outperform it. He gets obligatory bonus points for having an evade, and a relatively strong one at that. It's also worth noting that he has 35 defense, which is considerably higher than other identities with good rolls.
 
 He does have a few downsides though. Besides the trendy miserable S1, he does not tolerate low sanity as well as other sinners. Notably, his combat passive provides a smidge of sanity, which, although undertuned, certainly isn't unwelcome in his heads oriented kit. Additionally, although his kit is cohesive, his damage is not as high as the other units with heavy multicoin skills. Ironically, this makes his overall contributions relatively defensive.
 
 ---
 
+### S Tier: Hong Lu - Kurokumo Wakashu
 
+Due to technical limitations, use the normal chart for evaluating aggregate and the prime chart for evaluating raw damage.
+
+![](charts/hong_lu_kurokumo.png)
+![](charts/hong_lu_kurokumo_prime.png)
+
+Cloud cutter.
 
 ---
+
+### S Tier: Faust - The One Who Grips
+
+The prime chart represents Faust with Representation Emitter's +2 power passive.
+
+![](charts/faust_n_corp.png)
+![](charts/faust_n_corp_prime.png)
+
 
 ## Author Notes
 
