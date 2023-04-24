@@ -79,11 +79,10 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 ![G Outis](assets/11103.png)
 ![N Heathcliff](assets/10704.png)
 ![N Rodion](assets/10904.png)
+![N Meursault](assets/10504.png)
 ![LCCB Rodion](assets/10903.png)
 ![LCCB Ishmael](assets/10804.png)
 ![LCB Ryoshu](assets/10401.png)
-![LCB Don Quixote](assets/10301.png)
-![LCB Ishmael](assets/10801.png)
 
 ---
 
@@ -93,15 +92,16 @@ One must go out of their way to get these sinners to outperform other options. W
 No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
 
 ![Sevens Yi Sang](assets/10102.png)
-![Zwei Sinclair](assets/11003.png)
-![N Meursault](assets/10504.png)
 ![Shi Heathcliff](assets/10702.png)
+![Mariachi Sinclair](assets/11004.png)
 ![Chef Gregor](assets/11204.png)
+![LCB Don Quixote](assets/10301.png)
+![LCB Ishmael](assets/10801.png)
 ![LCB Gregor](assets/11201.png)
 ![LCB Sinclair](assets/11001.png)
 ![LCB Rodion](assets/10901.png)
 ![LCB Heathcliff](assets/10701.png)
-![LCB Faust](assets/10201.png)
+![W Meursault](assets/10503.png)
 
 ---
 
@@ -110,9 +110,9 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 These units should not be prioritized for practical combat.  
 No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
 
-![W Meursault](assets/10503.png)
+![Zwei Sinclair](assets/11003.png)
 ![W Faust](assets/10202.png)
-![Mariachi Sinclair](assets/11004.png)
+![LCB Faust](assets/10201.png)
 ![LCB Meursault](assets/10501.png)
 ![LCB Yi Sang](assets/10101.png)
 
@@ -265,7 +265,7 @@ The prime chart represents Ryoshu with Upper Slash's effect and next turn +1 att
 ![](charts/ryoshu_seven.png)
 ![](charts/ryoshu_seven_prime.png)
 
-Sevens Ryoshu completes the low rarity clash god trio with L Faust and Shi Don. Her raw damage is more concentrated in S3 and lower overall than either of them. But, she successfully compensates for that with kit effects powerful enough to make her the best slash support in the game. Besides that, her skill effects also press the advantage of her frequent clash wins by giving her even more power and damage.
+Sevens Ryoshu completes the low rarity clash god trio with L Faust and Shi Don. Her raw damage is more concentrated in S3 and lower overall than either of them. But, she successfully compensates for that with kit effects powerful enough to make her the best slash support in the game, which get even more powerful in low-sinner teams. Besides that, her skill effects also press the advantage of her frequent clash wins by giving her even more power and damage.
 
 Aside from the seemingly obligatory miserable S1, she also lacks an evade, reducing her viability in low-sinner teams. 
 
