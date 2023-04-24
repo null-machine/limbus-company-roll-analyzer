@@ -44,7 +44,6 @@ Units in this tier tend to directly outperform or invalidate units in lower tier
 ![TT Hong Lu](assets/10603.png)
 ![KK Hong Lu](assets/10602.png)
 ![N Faust](assets/10204.png)
-![G Gregor](assets/11203.png)
 
 ---
 
@@ -52,11 +51,12 @@ Units in this tier tend to directly outperform or invalidate units in lower tier
 
 These units win clashes that units in lower tiers couldn't, and can be relied upon to hold their own and pull their weight. They feel solid to pilot and their kits are easily appreciated.
 
+![G Gregor](assets/11203.png)
 ![R Ishmael](assets/10802.png)
+![Sevens Outis](assets/11104.png)
+![Sevens Ryoshu](assets/10402.png)
 ![L Faust](assets/10203.png)
 ![Shi Don](assets/10303.png)
-![Sevens Ryoshu](assets/10402.png)
-![Sevens Outis](assets/11104.png)
 ![KK Ryoshu](assets/10403.png)
 ![LCB Outis](assets/11101.png)
 ![LCB Hong Lu](assets/10601.png)
@@ -72,7 +72,6 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 ![KK Rodion](assets/10902.png)
 ![Blade Sinclair](assets/11002.png)
 ![Blade Yi Sang](assets/10103.png)
-![Blade Outis](assets/11102.png)
 ![Liu Hong Lu](assets/10604.png)
 ![Liu Meursault](assets/10502.png)
 ![Liu Gregor](assets/11202.png)
@@ -91,6 +90,7 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 One must go out of their way to get these sinners to outperform other options. Whatever specialties they have are likely to be easily made redundant, and their rolls are subpar.  
 No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
 
+![Blade Outis](assets/11102.png)
 ![Sevens Yi Sang](assets/10102.png)
 ![Shi Heathcliff](assets/10702.png)
 ![Mariachi Sinclair](assets/11004.png)
@@ -208,13 +208,13 @@ Despite the similarities, Chef Ryoshu has better rolls, and will generally contr
 
 ---
 
-### S Tier: Gregor - G Corp. Manager Corporal
+### A Tier: Gregor - G Corp. Manager Corporal
 
 ![](charts/gregor_g_corp.png)
 
 Contrary to intuition, G Gregor's clashes are virtually identical to Sevens Outis! This is plainly evident when comparing their roll charts and aggregates. The reason for this is, G Gregor has an entire 9 offense level over her, and a difference of 5 levels translates to 1 power in a clash. So even though Sevens Outis has an additional +2 power in every clash due to her skill effects, G Gregor just does that by default. So, in practice, if one of them can win a clash, it's very likely the other can as well. The purpose of this analogy is to emphasize that G Gregor is excellent at clashing. If he fails to win, which is relatively uncommon, his kit provides so much healing that he will generally be able to shrug off lost clashes with little to no consequence. This utility makes him better at pulling dangerous skills away from core DPS units than most other tanks, especially considering how they tend to be too slow to pull clashes. Furthermore, deliberately allowing him to get staggered and healing him up during low pressure effectively makes him immortal in later rounds, since he'll effectively have removed his own stagger thresholds. Piloting him feels like giving the team a regenerating frontal shield, enabling heavy damage payloads (e.g. Cloud Cutter) to land without risking a clash. Of course, he also enables Legerdemain spam, but, everyone knew that already. His numbers are great, he suffers no consequences, and he gives the team a huge amount of agency.
 
-If a weakness had to be chosen, it would be his damage. Of the entire S tier, G Gregor probably has the least to offer in this department, being the only identity here with a weighed average raw of less than 30. However, his raw damage is still higher than almost all of the units in lower tiers (which probably says more about the rest of S tier than him). In the current damage-oriented meta, an argument could be made that not being an all-in DPS unit makes him unfavourable. But, from experience, the stability he brings to a team is truly something to behold.
+If a weakness had to be chosen, it would be his damage. However, his raw damage is still higher than almost all of the units in lower tiers.
 
 ---
 
@@ -228,6 +228,19 @@ The prime chart can be used to evaluate Ishmael's clashes while Snagharpoon is a
 Praise and notes about W Don generally apply to R Ishmael as well, since she is also a charge unit with an evade and hard-hitting S3. However, her kit is more well-rounded, with a weaker S2 and S3 but a stronger S1. Notably, she can play an uncharged Mind Whip without consequence when soloing, albeit without being able to clash or choose a target. Additionally, although her combat passive drains her sanity for attack power, the loss can be easily offset through LCB Yi Sang's support passive or winning clashes repeatedly with her excellent rolls. Although this makes her reliant on sanity and Snagharpoon, she fuels the latter very well.
 
 However, her numbers are held back by her somewhat miserable 32 offense level. Sinking also generally translates to less damage than fragile, even against abnormalities. Additionally, she either needs charge support via W Don or W Faust or to be in a low-sinner team for max potential, since her base charge generation is somewhat lacking. She is also heavily reliant on landing heads coins in order for S1 to generate charge and S2 to win clashes, which makes her early turns likely worse than average, especially with a turn one S3 draw.
+
+---
+
+### A Tier: Ryoshu - Seven Section 6
+
+The prime chart represents Ryoshu with Upper Slash's effect and next turn +1 attack power active.
+
+![](charts/ryoshu_seven.png)
+![](charts/ryoshu_seven_prime.png)
+
+Sevens Ryoshu heralds the low rarity clash god trio with L Faust and Shi Don. Her raw damage is more concentrated in S3 and lower overall than either of them. But, she successfully compensates for that with kit effects powerful enough to make her the best slash support in the game, which get even more powerful in low-sinner teams. Besides that, her skill effects also press the advantage of her frequent clash wins by giving her even more power and damage.
+
+Aside from the seemingly obligatory miserable S1, she also lacks an evade, reducing her viability in low-sinner teams. 
 
 ---
 
@@ -255,19 +268,6 @@ The prime chart represents Don with Overbreathe's effect active. The activation 
 Shi Don plays similarly to L Faust, where both have insanely high clash power but not enough damage to edge them into S tier. Shi Don exaggerates this behaviour, with even better clashes and worse damage. They both even have haste on S2 and an evade, causing them to behave extremely similarly. Shi Don's passive has a much less restrictive condition though, so obtaining haste from there is far more viable than L Faust's poise count requirement. Notably, she only has two stagger thresholds, making her more forgiving than her kit would suggest.
 
 Terrible S1 aside, she also has worse damage than L Faust, and being marginally better at clashing doesn't quite compensate for that.
-
----
-
-### A Tier: Ryoshu - Seven Section 6
-
-The prime chart represents Ryoshu with Upper Slash's effect and next turn +1 attack power active.
-
-![](charts/ryoshu_seven.png)
-![](charts/ryoshu_seven_prime.png)
-
-Sevens Ryoshu completes the low rarity clash god trio with L Faust and Shi Don. Her raw damage is more concentrated in S3 and lower overall than either of them. But, she successfully compensates for that with kit effects powerful enough to make her the best slash support in the game, which get even more powerful in low-sinner teams. Besides that, her skill effects also press the advantage of her frequent clash wins by giving her even more power and damage.
-
-Aside from the seemingly obligatory miserable S1, she also lacks an evade, reducing her viability in low-sinner teams. 
 
 ---
 
