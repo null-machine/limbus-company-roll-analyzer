@@ -341,4 +341,6 @@ Whether G Gregor and Chef Ryoshu should receive a yellow badge was discussed. A 
 
 One thing to keep in mind is that stronger units do not necessarily correlate with more enjoyment. Weaker sinners tend to compensate their lack of power in their own strange ways, and giving them a chance tends to lead to making some funny memories. Additionally, the game in its current state is easy enough to comfortably clear with just a support unit, so there's no need to worry about accessibility yet. At the end of the day, Limbus Company is still a game, so have some fun with it!
 
+---
+
 Limbus Company belongs to Project Moon.
