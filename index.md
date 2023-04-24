@@ -58,8 +58,6 @@ These units win clashes that units in lower tiers couldn't, and can be relied up
 ![L Faust](assets/10203.png)
 ![Shi Don](assets/10303.png)
 ![KK Ryoshu](assets/10403.png)
-![LCB Outis](assets/11101.png)
-![LCB Hong Lu](assets/10601.png)
 
 ---
 
@@ -68,6 +66,8 @@ These units win clashes that units in lower tiers couldn't, and can be relied up
 Neither great nor terrible, these units may leave a player idly wishing they were someone else. That being said, they aren't liabilities.  
 No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
 
+![LCB Outis](assets/11101.png)
+![LCB Hong Lu](assets/10601.png)
 ![Shi Ishmael](assets/10803.png)
 ![KK Rodion](assets/10902.png)
 ![Blade Sinclair](assets/11002.png)
@@ -75,13 +75,12 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 ![Liu Hong Lu](assets/10604.png)
 ![Liu Meursault](assets/10502.png)
 ![Liu Gregor](assets/11202.png)
-![G Outis](assets/11103.png)
 ![N Heathcliff](assets/10704.png)
 ![N Rodion](assets/10904.png)
 ![N Meursault](assets/10504.png)
-![LCCB Rodion](assets/10903.png)
 ![LCCB Ishmael](assets/10804.png)
-![LCB Ryoshu](assets/10401.png)
+![LCCB Rodion](assets/10903.png)
+![G Outis](assets/11103.png)
 
 ---
 
@@ -94,13 +93,14 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 ![Sevens Yi Sang](assets/10102.png)
 ![Shi Heathcliff](assets/10702.png)
 ![Mariachi Sinclair](assets/11004.png)
-![Chef Gregor](assets/11204.png)
+![LCB Ryoshu](assets/10401.png)
 ![LCB Don Quixote](assets/10301.png)
 ![LCB Ishmael](assets/10801.png)
 ![LCB Gregor](assets/11201.png)
 ![LCB Sinclair](assets/11001.png)
 ![LCB Rodion](assets/10901.png)
 ![LCB Heathcliff](assets/10701.png)
+![Chef Gregor](assets/11204.png)
 ![W Meursault](assets/10503.png)
 
 ---
@@ -294,7 +294,7 @@ Additionally, bleed is one of the more awkward damage oriented status effects, s
 
 ---
 
-### A Tier: Outis - LCB Sinner
+### B Tier: Outis - LCB Sinner
 
 ![](charts/outis_lcb.png)
 
@@ -304,7 +304,7 @@ In terms of downsides, having only 26 defense makes her somewhat glassy, and she
 
 ---
 
-### A Tier: Hong Lu - LCB Sinner
+### B Tier: Hong Lu - LCB Sinner
 
 The weak chart represents Hong Lu without the additional coin power on S2 and S3.
 
