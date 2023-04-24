@@ -33,7 +33,7 @@ A pink badge indicates that a unit performs abnormally well in the context of ma
 
 ---
 
-**S TIER — META DEFINERS**
+**S TIER — META**
 
 Units in this tier tend to directly outperform or invalidate units in lower tiers. Resistances aside, if they can't make a clear work, it's unlikely replacing them will help. Using them almost feels like cheating.
 
@@ -47,9 +47,9 @@ Units in this tier tend to directly outperform or invalidate units in lower tier
 
 ---
 
-**A TIER — RELIABLE OPTIONS**
+**A TIER — RELIABLE**
 
-These units win clashes that units in lower tiers wouldn't, and can be relied upon to hold their own and pull their weight. They feel solid to pilot and their kits are easily appreciated.
+These units win clashes that units in lower tiers couldn't, and can be relied upon to hold their own and pull their weight. They feel solid to pilot and their kits are easily appreciated.
 
 ![R Ishmael](assets/10802.png)
 ![L Faust](assets/10203.png)
@@ -62,7 +62,7 @@ These units win clashes that units in lower tiers wouldn't, and can be relied up
 
 ---
 
-**B TIER — MEDIOCRE OPTIONS**
+**B TIER — MEDIOCRE**
 
 Neither great nor terrible, these units may leave a player idly wishing they were someone else. That being said, they aren't liabilities.  
 No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
@@ -80,15 +80,15 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 ![N Rodion](assets/10904.png)
 ![LCCB Rodion](assets/10903.png)
 ![LCCB Ishmael](assets/10804.png)
+![LCB Ryoshu](assets/10401.png)
 ![LCB Don Quixote](assets/10301.png)
 ![LCB Ishmael](assets/10801.png)
-![LCB Heathcliff](assets/10701.png)
 
 ---
 
-**C TIER — TECHNICAL OPTIONS**
+**C TIER — TECHNICAL**
 
-One must go out of their way to get these sinners to outperform other options. Whatever specialties they have may be made redundant by simply using those who can reliably win clashes.  
+One must go out of their way to get these sinners to outperform other options. Whatever specialties they have are likely to be easily made redundant, and their rolls are subpar.  
 No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
 
 ![Sevens Yi Sang](assets/10102.png)
@@ -96,15 +96,15 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 ![N Meursault](assets/10504.png)
 ![Shi Heathcliff](assets/10702.png)
 ![Chef Gregor](assets/11204.png)
-![LCB Ryoshu](assets/10401.png)
 ![LCB Gregor](assets/11201.png)
 ![LCB Sinclair](assets/11001.png)
 ![LCB Rodion](assets/10901.png)
+![LCB Heathcliff](assets/10701.png)
 ![LCB Faust](assets/10201.png)
 
 ---
 
-**D TIER — CHALLENGE OPTIONS**
+**D TIER — CHALLENGE**
 
 These units should not be prioritized for practical combat.  
 No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
