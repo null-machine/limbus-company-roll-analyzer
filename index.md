@@ -30,7 +30,7 @@ A cyan badge indicates that a unit benefits significantly from technical prowess
 
 A yellow badge indicates that a unit has a notably good support passive. They may be impactful when benched, especially for low-sinner teams. Note that the ranking evaluates fielded performance, not support passives, so this badge merely serves as a footnote on how an identity may stay relevant despite their rank. (TT Hong Lu, G Gregor, Sevens Outis, Blade Outis, Liu Hong Lu, LCB Rodion, Mariachi Sinclair)
 
-A pink badge indicates that a unit performs abnormally well in the context of maximin strategies. They may be an option for optimizing Refraction Railway, but require too many resets or too much setup to be practical in other settings. (Shi Ishmael, LCCB Ishmael, W Meursault)
+A pink badge indicates that a unit performs abnormally well in the context of maximin strategies. They may be an option for optimizing Refraction Railway, but require too many resets or too much setup to be practical in other settings. (Shi Ishmael, LCCB Ishmael)
 
 ---
 
@@ -72,9 +72,9 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 ![KK Rodion](assets/10902.png)
 ![Blade Sinclair](assets/11002.png)
 ![Blade Yi Sang](assets/10103.png)
+![Liu Gregor](assets/11202.png)
 ![Liu Hong Lu](assets/10604.png)
 ![Liu Meursault](assets/10502.png)
-![Liu Gregor](assets/11202.png)
 ![N Heathcliff](assets/10704.png)
 ![N Rodion](assets/10904.png)
 ![N Meursault](assets/10504.png)
@@ -92,16 +92,14 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 ![Blade Outis](assets/11102.png)
 ![Sevens Yi Sang](assets/10102.png)
 ![Shi Heathcliff](assets/10702.png)
-![Mariachi Sinclair](assets/11004.png)
 ![LCB Ryoshu](assets/10401.png)
 ![LCB Don Quixote](assets/10301.png)
 ![LCB Ishmael](assets/10801.png)
 ![LCB Gregor](assets/11201.png)
 ![LCB Sinclair](assets/11001.png)
-![LCB Rodion](assets/10901.png)
 ![LCB Heathcliff](assets/10701.png)
 ![Chef Gregor](assets/11204.png)
-![W Meursault](assets/10503.png)
+![W Faust](assets/10202.png)
 
 ---
 
@@ -110,8 +108,10 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 These units should not be prioritized for practical combat.  
 No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
 
+![Mariachi Sinclair](assets/11004.png)
 ![Zwei Sinclair](assets/11003.png)
-![W Faust](assets/10202.png)
+![W Meursault](assets/10503.png)
+![LCB Rodion](assets/10901.png)
 ![LCB Faust](assets/10201.png)
 ![LCB Meursault](assets/10501.png)
 ![LCB Yi Sang](assets/10101.png)
