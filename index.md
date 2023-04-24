@@ -25,13 +25,11 @@ Please recognize that all tier lists, including this one, are generalizations.
 
 Ordering within tiers is not as important as the tiers themselves.
 
-A cyan badge indicates that a unit has a relatively high skill ceiling. They will earn their rank in the hands of players with technical prowess, and may gain more than usual from having multiple actions per turn. (W Don, R Ishmael, G Gregor, Sevens Yi Sang)
+A cyan badge indicates that a unit benefits significantly from technical prowess. They may have requirements to unlock their damage, require specific techniques to compensate for a lack of damage, emphasize tempo control, or gain more than usual from having multiple actions per turn. (W Don, R Heathcliff, G Gregor, R Ishmael, Sevens Outis, Sevens Yi Sang)
 
-A gold badge indicates that a unit has a notably good support passive. They may prove their worth when benched, especially for low-sinner clears. (LCB Rodion, G Gregor, G Outis, Sevens Outis, Mariachi Sinclair)
+A yellow badge indicates that a unit has a notably good support passive. They may be impactful when benched, especially for low-sinner teams. Note that the ranking evaluates fielded performance, not support passives, so this badge merely serves as a footnote on how an identity may stay relevant despite their rank. (G Gregor, Sevens Outis, G Outis, LCB Rodion, Mariachi Sinclair)
 
-A pink badge indicates that a unit performs notably well in the context of maximin strategies. They may be an option for Refraction Railway, but require too many resets or too much setup to be practical in other settings. (Shi Ishmael, W Meursault, LCCB Ishmael)
-
-Note: Badges are not implemented yet on the icons, but the intended recipients are listed.
+A pink badge indicates that a unit performs abnormally well in the context of maximin strategies. They may be an option for optimizing Refraction Railway, but require too many resets or too much setup to be practical in other settings. (Shi Ishmael, LCCB Ishmael, W Meursault)
 
 ---
 
@@ -59,8 +57,8 @@ These units win clashes that units in lower tiers wouldn't, and can be relied up
 ![Sevens Ryoshu](assets/10402.png)
 ![Sevens Outis](assets/11104.png)
 ![KK Ryoshu](assets/10403.png)
-![LCB Hong Lu](assets/10601.png)
 ![LCB Outis](assets/11101.png)
+![LCB Hong Lu](assets/10601.png)
 
 ---
 
@@ -69,12 +67,12 @@ These units win clashes that units in lower tiers wouldn't, and can be relied up
 Neither great nor terrible, these units may leave a player idly wishing they were someone else. That being said, they aren't liabilities.  
 No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
 
-![G Outis](assets/11103.png)
 ![Shi Ishmael](assets/10803.png)
 ![KK Rodion](assets/10902.png)
+![Blade Sinclair](assets/11002.png)
 ![Blade Yi Sang](assets/10103.png)
 ![Blade Outis](assets/11102.png)
-![Blade Sinclair](assets/11002.png)
+![G Outis](assets/11103.png)
 ![Liu Hong Lu](assets/10604.png)
 ![Liu Meursault](assets/10502.png)
 ![Liu Gregor](assets/11202.png)
@@ -101,14 +99,14 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 ![LCB Ryoshu](assets/10401.png)
 ![LCB Gregor](assets/11201.png)
 ![LCB Sinclair](assets/11001.png)
-![LCB Faust](assets/10201.png)
 ![LCB Rodion](assets/10901.png)
+![LCB Faust](assets/10201.png)
 
 ---
 
 **D TIER — CHALLENGE OPTIONS**
 
-These units should not be prioritized for practical fielded combat.  
+These units should not be prioritized for practical combat.  
 No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
 
 ![W Meursault](assets/10503.png)
@@ -295,6 +293,29 @@ Additionally, bleed is one of the more awkward damage oriented status effects, s
 
 ---
 
+### A Tier: Outis - LCB Sinner
+
+![](charts/outis_lcb.png)
+
+Great damage and good clashes make for a surprisingly workable identity. LCB Outis is one of the few identities with a workable S1, giving her a somewhat unique tempo. The multicoins make it pretty impactful when it connects, and serves to raise her average damage considerably, especially when used to clean up staggered targets. Her kit effects also contribute a lot more damage than is standard, which is great, considering how her numbers weren't bad to begin with. Her evade is remarkably weak, but still an evade nonetheless.
+
+In terms of downsides, having only 26 defense makes her somewhat glassy, and she may be directly outperformed by higher tier damage-oriented identities. Still, if a roster lacks those units, or favours a different tempo, LCB Outis may be a surprisingly decent replacement. 
+
+---
+
+### A Tier: Hong Lu - LCB Sinner
+
+The weak chart represents Hong Lu without the additional coin power on S2 and S3.
+
+![](charts/hong_lu_lcb.png)
+![](charts/hong_lu_lcb_weak.png)
+
+Compared to LCB Outis, LCB Hong Lu has worse damage but marginally more reliable overall clashes. S2 and S3 behave similarly and give him a powerful baseline performance. Having a (somewhat weak) evade and an easy to proc SP passive certainly aren't unwelcome either.
+
+His kit effects contribute less damage than is standard, but the numbers make him perfectly playable nonetheless. The attack power down on S3 also applies on the same turn, making it somewhat limited. Of course, there's the miserable S1 again.
+
+---
+
 <!-- ### C Tier: Heathcliff - Shi Section 5
 
 The prime chart represents Heathcliff under 25% HP and with Bodysack active.
@@ -305,8 +326,10 @@ The prime chart represents Heathcliff under 25% HP and with Bodysack active.
 His clashes are actually pretty great. He might be viable if he's played like a normal fighter and is given a source of healing to keep him topped off from the S3 self-damage. But, after consulting someone who has an UT3 Shi Heathcliff, there are probably safer investments than this...
 
 ![](assets/shi_heathcliff_review.png) -->
+More individual writeups may be added later.
 
+---
 
-## Author Notes
+## Additional Notes
 
-One thing to keep in mind that strong units do not necessarily correlate with enjoyment. Weaker sinners tend to compensate their lack of power in their own strange ways, and giving them a chance tend to lead to making some funny memories. Additionally, the game in its current state is easy enough to comfortably clear with just a support unit, so there's no need to worry about accessibility yet. At the end of the day, Limbus Company is just a game, so have some fun with it!
+One thing to keep in mind is that stronger units do not necessarily correlate with more enjoyment. Weaker sinners tend to compensate their lack of power in their own strange ways, and giving them a chance tends to lead to making some funny memories. Additionally, the game in its current state is easy enough to comfortably clear with just a support unit, so there's no need to worry about accessibility yet. At the end of the day, Limbus Company is still a game, so have some fun with it!
