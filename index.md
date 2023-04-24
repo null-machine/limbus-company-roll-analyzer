@@ -47,7 +47,7 @@ Units in this tier tend to directly outperform or invalidate units in lower tier
 
 **A TIER — RELIABLE OPTIONS**
 
-These units win clashes that units in lower tiers wouldn't, and can be safely relied upon to hold their own and pull their weight. They feel solid to pilot and veterans should have no problem appreciating their kits.
+These units win clashes that units in lower tiers wouldn't, and can be safely relied upon to hold their own and pull their weight. They feel solid to pilot and their kits are easily appreciated.
 
 ![R Ishmael](assets/10802.png)
 ![L Faust](assets/10203.png)
@@ -63,7 +63,7 @@ These units win clashes that units in lower tiers wouldn't, and can be safely re
 **B TIER — MEDIOCRE OPTIONS**
 
 Neither great nor terrible, these units may leave a player idly wishing they were someone else. That being said, they aren't liabilities.  
-No writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
+No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
 
 ![G Outis](assets/11103.png)
 ![Shi Ishmael](assets/10803.png)
@@ -86,7 +86,8 @@ No writeups are available for this tier yet, [but everyone's roll charts can be 
 
 **C TIER — TECHNICAL OPTIONS**
 
-Specific setups are required to get these sinners to outperform other options. Whatever specialties they have may be made redundant by simply using those who can reliably win clashes.
+Specific setups are required to get these sinners to outperform other options. Whatever specialties they have may be made redundant by simply using those who can reliably win clashes.  
+No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
 
 ![Sevens Yi Sang](assets/10102.png)
 ![Zwei Sinclair](assets/11003.png)
@@ -104,7 +105,7 @@ Specific setups are required to get these sinners to outperform other options. W
 **D TIER — CHALLENGE OPTIONS**
 
 These units should not be prioritized for fielded combat.  
-No writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
+No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
 
 ![W Meursault](assets/10503.png)
 ![W Faust](assets/10202.png)
@@ -118,19 +119,21 @@ No writeups are available for this tier yet, [but everyone's roll charts can be 
 
 [An explanation of how to read the roll charts can be found here.](https://github.com/null-machine/limbus-company-clash-tool) 
 
-For a condensed version, the cyan yellow and magenta lines represent a sinner's chance to beat a power at max, zero and minimum sanity. The y-axis represents chance, and the x-axis represents the power of the opposing skill. 
+For a condensed version, the cyan yellow and magenta lines represent a sinner's chance to beat a power at max, zero and minimum sanity. The y-axis represents chance, and the x-axis represents the power of the opposing skill.
 
-"agg" means "aggregate", and approximates clashing power by taking an integral of the cyan line. "raw" means "raw damage", and is the summation of the rolls at max sanity. "var" means "variance", and describes how badly the sinner is affected by low sanity.
+"agg" → aggregate, or clash power.  
+"raw" → raw damage.  
+"var" → variance, or heads dependency.
 
 Emphasis will not be placed on colours— there's no telling what future EGOs hold in store. Furthermore, Refraction Railway 1 has proven that simply taking strong individual identities will outperform a team that goes out of its way to align colours for EGO or resonance. Having rare damage types in the current state of the game will not serve as as a ranking factor for similar reasons.
 
-For the sake of transparency, let it be known that the author loves G Gregor, KK Hong Lu, W Don and L Faust, and is slightly biased against R Heath and N Rodion. Everything is still kept as objective as possible.
+For the sake of transparency, let it be known that the author uses G Gregor, KK Hong Lu, L Faust and W Don very frequently, and dislikes R Heath, N Rodion and LCCB Ishmael. Everything is still kept as objective as possible.
 
 ---
 
 ### S Tier: Don Quixote - W Corp. Cleanup Agent
 
-The weak chart represents Don Quixote with uncharged Rip Space.
+The weak chart represents Don Quixote with Rip Space uncharged.
 
 ![](charts/don_quixote_w_corp.png)
 ![](charts/don_quixote_w_corp_weak.png)
@@ -198,7 +201,7 @@ The prime chart represents Faust with Representation Emitter's +2 power active.
 
 N Faust is almost a twin to Chef Ryoshu— S2 oriented, lots of multicoins, no ammo or charge limitations, a techy evade and solid clashes. She'll fare consistently and reliably with her great numbers. Additionally, her kit is less dilapidated than Chef Ryoshu's. The gaze next turn on S2 adds easily capitalized tempo to her kit, and SP restoration is never unappreciated.
 
-Despite the similarities, Chef Ryoshu has marginally better clashes, and will generally contribute more total damage compared to what N Faust would add with her gaze and nails. That being said, their general differences are not as significant as a level's type weaknesses, so that will serve to distinguish their use cases.
+Despite the similarities, Chef Ryoshu has marginally better clashes, and will generally contribute more total damage compared to what N Faust would add with her gaze and nails. That being said, their general differences are not as significant as those that would be imposed by type weaknesses, so that will serve to distinguish their use cases.
 
 ---
 
@@ -259,9 +262,9 @@ The prime chart represents Ryoshu with Upper Slash's effect and next turn +1 att
 ![](charts/ryoshu_seven.png)
 ![](charts/ryoshu_seven_prime.png)
 
-Sevens Ryoshu completes the low rarity clash god trio (LRCGT) with L Faust and Shi Don. Her raw damage is more concentrated in S3 and lower overall than either of them, but compensates for that with powerful debuffs. Her kit is solid as well, pressing the advantage of her frequent clash wins by giving her even more power and damage.
+Sevens Ryoshu completes the low rarity clash god trio with L Faust and Shi Don. Her raw damage is more concentrated in S3 and lower overall than either of them, but more or less successfully compensates for that with powerful kit effects. Besides that, her skill effects also press the advantage of her frequent clash wins by giving her even more power and damage.
 
-Aside from the seemingly obligatory miserable S1, she also has a counter, mildly reducing her viability in low-sinner teams. 
+Aside from the seemingly obligatory miserable S1, she also lacks an evade, reducing her viability in low-sinner teams. 
 
 ---
 
@@ -275,6 +278,16 @@ Due to technical limitations, the normal chart should be used to evaluate clashe
 And so an interesting truth comes to light— Sevens Outis is generally worse at clashing than the low rarity clash god trio, and ties with G Gregor in terms of clash strength! But, she applies far more debuffs than the typical identity. Her presence in a team generally makes winning clashes for others easier, with the next turn paralysis on S1 and offense level down on S3. Having a high speed roll of 5-8, a high defense level of 41 and only one stagger threshold also allows her to take a similar role to G Gregor in pulling clashes and tanking the ones she loses.
 
 However, the damage attributed to her defense level down and weakness analyzed debuffs is generally not enough to compensate for her poor numbers, and having lots of effective health is generally not enough to be preferable to G Gregor's regen.
+
+---
+
+### A Tier: Ryoshu - Kurokumo Wakashu
+
+![](charts/ryoshu_kurokumo.png)
+
+Above average rolls mean above average clashes and above average damage. Notably, she inflicts a healthy amount of bleed count, making the status effect far more impactful. But, having above average damage from statuses won't let her reach the damage contributed by S tier units anytime soon, and doubling down on more bleed just means invoking a greater opportunity cost.
+
+Additionally, bleed is one of the more awkward damage oriented status effects, since it relies on the target to attack. Stacking a lot of bleed on a broken part or a staggered enemy that's about to die can feel mildly miserable. Also, since Cloud Cutter falls off on targets with high bleed count, KK Ryoshu has a bit of anti-synergy with KK Hong Lu. The other parts of her kit apply on the same turn and are relatively unimpactful. That being said, her numbers are still good, so she'll still be perfectly playable.
 
 ---
 
