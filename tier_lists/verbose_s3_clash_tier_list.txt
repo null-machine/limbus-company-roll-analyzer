@@ -58,6 +58,7 @@ s3 sinclair_lcb | ravaging_cut | agg: 11.31 | raw: 32.54 | var: 0.42
 s3 don_quixote_w_corp_weak | rip_space | agg: 11.14 | raw: 42.94 | var: 0.79
 s3 hong_lu_kurokumo | cloudburst | agg: 11.11 | raw: 30.17 | var: 0.43
 s3 hong_lu_kurokumo_prime | cloudburst | agg: 11.11 | raw: 30.17 | var: 0.43
+s3 outis_seven_weak | exploit_the_gap | agg: 11.11 | raw: 30.17 | var: 0.43
 s3 ryoshu_lcb | brushstroke | agg: 10.91 | raw: 30.64 | var: 0.43
 s3 faust_w_corp | overcharge | agg: 10.51 | raw: 27.46 | var: 0.45
 s3 ishmael_clearance | suppress | agg: 10.43 | raw: 32.45 | var: 0.64

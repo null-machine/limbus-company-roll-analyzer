@@ -60,6 +60,7 @@ s3 faust_n_corp_prime | execution | agg: 14.51 | raw: 43.78 | var: 0.31
 s2 heathcliff_shi | flying_sword | agg: 14.3 | raw: 16.13 | var: 0.68
 s2 heathcliff_n_corp_prime | purify | agg: 14.2 | raw: 15.77 | var: 0.55
 s1 ishmael_r_corp_prime | mind_strike | agg: 13.91 | raw: 25.47 | var: 0.63
+s2 outis_seven_weak | field_command | agg: 13.91 | raw: 25.47 | var: 0.63
 s2 ishmael_lcb_prime | slide | agg: 13.8 | raw: 15.05 | var: 0.56
 s3 heathcliff_r_corp_weak | quick_suppression | agg: 13.74 | raw: 59.16 | var: 0.59
 s2 hong_lu_lcb | dual_strike | agg: 13.71 | raw: 25.97 | var: 0.64
@@ -125,6 +126,7 @@ s1 outis_seven | predictive_analysis | agg: 11.2 | raw: 12.2 | var: 0.35
 s3 don_quixote_w_corp_weak | rip_space | agg: 11.14 | raw: 42.94 | var: 0.79
 s3 hong_lu_kurokumo | cloudburst | agg: 11.11 | raw: 30.17 | var: 0.43
 s3 hong_lu_kurokumo_prime | cloudburst | agg: 11.11 | raw: 30.17 | var: 0.43
+s3 outis_seven_weak | exploit_the_gap | agg: 11.11 | raw: 30.17 | var: 0.43
 s2 meursault_n_corp | you_are_cleansed_of_sin | agg: 11.11 | raw: 21.19 | var: 0.45
 s1 faust_l_corp_prime | sole_strike | agg: 11.1 | raw: 12.77 | var: 0.53
 s1 rodion_n_corp | devoted_hammering | agg: 11.01 | raw: 21.06 | var: 0.64
@@ -175,6 +177,7 @@ s1 outis_lcb | pulled_blade | agg: 9.31 | raw: 25.76 | var: 0.53
 s1 heathcliff_lcb | bat_bash | agg: 9.25 | raw: 10.37 | var: 0.73
 s1 rodion_lcb | strike_down | agg: 9.25 | raw: 10.37 | var: 0.73
 s3 rodion_lcb | slay | agg: 9.23 | raw: 28.51 | var: 0.76
+s1 outis_seven_weak | predictive_analysis | agg: 9.2 | raw: 10.06 | var: 0.43
 s1 faust_l_corp | sole_strike | agg: 9.1 | raw: 10.53 | var: 0.64
 s1 hong_lu_kurokumo | cleave | agg: 9.1 | raw: 10.06 | var: 0.64
 s1 yi_sang_seven | fleche | agg: 9.1 | raw: 10.06 | var: 0.64

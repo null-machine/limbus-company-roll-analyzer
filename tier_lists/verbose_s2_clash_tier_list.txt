@@ -23,6 +23,7 @@ s2 faust_l_corp_prime | deep_cuts | agg: 14.97 | raw: 41.66 | var: 0.48
 s2 ishmael_r_corp | flaying_surge | agg: 14.9 | raw: 16.48 | var: 0.65
 s2 heathcliff_shi | flying_sword | agg: 14.3 | raw: 16.13 | var: 0.68
 s2 heathcliff_n_corp_prime | purify | agg: 14.2 | raw: 15.77 | var: 0.55
+s2 outis_seven_weak | field_command | agg: 13.91 | raw: 25.47 | var: 0.63
 s2 ishmael_lcb_prime | slide | agg: 13.8 | raw: 15.05 | var: 0.56
 s2 hong_lu_lcb | dual_strike | agg: 13.71 | raw: 25.97 | var: 0.64
 s2 don_quixote_lcb | galloping_tilt | agg: 13.7 | raw: 15.76 | var: 0.7

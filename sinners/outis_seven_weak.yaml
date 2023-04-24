@@ -1,0 +1,18 @@
+!!python/object:sinner.Sinner
+name: outis_seven_weak
+offense: 32
+s1: !!python/object:skill.Skill
+  base_power: 6
+  coin_count: 1
+  coin_power: 4
+  name: predictive_analysis
+s2: !!python/object:skill.Skill
+  base_power: 5
+  coin_count: 2
+  coin_power: 5
+  name: field_command
+s3: !!python/object:skill.Skill
+  base_power: 6
+  coin_count: 3
+  coin_power: 2
+  name: exploit_the_gap

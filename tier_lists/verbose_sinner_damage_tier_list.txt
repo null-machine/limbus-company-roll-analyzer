@@ -41,6 +41,7 @@ faust_w_corp_prime | agg: 12.07 | raw: 21.05 | var: 0.5
 heathcliff_n_corp | agg: 12.37 | raw: 20.82 | var: 0.65
 hong_lu_liu | agg: 11.05 | raw: 20.74 | var: 0.55
 heathcliff_shi_prime | agg: 15.76 | raw: 20.67 | var: 0.52
+outis_seven_weak | agg: 11.47 | raw: 20.24 | var: 0.51
 meursault_w_corp | agg: 9.33 | raw: 19.74 | var: 0.52
 ryoshu_lcb | agg: 10.85 | raw: 19.71 | var: 0.6
 rodion_clearance | agg: 10.96 | raw: 19.32 | var: 0.37

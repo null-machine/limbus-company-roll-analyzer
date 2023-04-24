@@ -57,6 +57,7 @@ s1 faust_l_corp_weak | sole_strike | agg: 9.1 | raw: 10.53 | var: 0.64
 s1 meursault_w_corp | rip | agg: 9.7 | raw: 10.5 | var: 0.6
 s1 heathcliff_lcb | bat_bash | agg: 9.25 | raw: 10.37 | var: 0.73
 s1 rodion_lcb | strike_down | agg: 9.25 | raw: 10.37 | var: 0.73
+s1 outis_seven_weak | predictive_analysis | agg: 9.2 | raw: 10.06 | var: 0.43
 s1 hong_lu_kurokumo | cleave | agg: 9.1 | raw: 10.06 | var: 0.64
 s1 yi_sang_seven | fleche | agg: 9.1 | raw: 10.06 | var: 0.64
 s1 hong_lu_kurokumo_prime | cleave | agg: 9.1 | raw: 10.06 | var: 0.64

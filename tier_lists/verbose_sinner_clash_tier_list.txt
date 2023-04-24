@@ -38,6 +38,7 @@ rodion_n_corp_prime | agg: 11.89 | raw: 27.96 | var: 0.44
 ishmael_shi | agg: 11.81 | raw: 22.24 | var: 0.6
 ishmael_lcb | agg: 11.78 | raw: 12.93 | var: 0.7
 don_quixote_lcb | agg: 11.77 | raw: 16.96 | var: 0.69
+outis_seven_weak | agg: 11.47 | raw: 20.24 | var: 0.51
 outis_blade | agg: 11.45 | raw: 18.84 | var: 0.57
 hong_lu_lcb_weak | agg: 11.23 | raw: 18.56 | var: 0.62
 yi_sang_blade | agg: 11.21 | raw: 22.46 | var: 0.29

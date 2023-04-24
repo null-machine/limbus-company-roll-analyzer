@@ -49,6 +49,7 @@ s1 outis_blade | draw_of_the_sword | agg: 9.5 | raw: 10.68 | var: 0.61
 s1 outis_lcb | pulled_blade | agg: 9.31 | raw: 25.76 | var: 0.53
 s1 heathcliff_lcb | bat_bash | agg: 9.25 | raw: 10.37 | var: 0.73
 s1 rodion_lcb | strike_down | agg: 9.25 | raw: 10.37 | var: 0.73
+s1 outis_seven_weak | predictive_analysis | agg: 9.2 | raw: 10.06 | var: 0.43
 s1 faust_l_corp | sole_strike | agg: 9.1 | raw: 10.53 | var: 0.64
 s1 hong_lu_kurokumo | cleave | agg: 9.1 | raw: 10.06 | var: 0.64
 s1 yi_sang_seven | fleche | agg: 9.1 | raw: 10.06 | var: 0.64
