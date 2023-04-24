@@ -333,6 +333,12 @@ More individual writeups may be added later.
 
 ## Additional Notes
 
+The placement of KK Hong Lu in S tier was heavily contested by Nex and heavily defended by the other two. Whether his unique S2 is capable of compensating for his glaring lack of clash power is something individual players are encouraged to decide for themselves.
+
+Blade Outis only deserves the yellow badge if her support passive works when attacking broken abnormality parts. This still requires testing.
+
+Whether G Gregor and Chef Ryoshu should receive a yellow badge was discussed. A slight preference was given to G Gregor, but it was decided that neither of them should receive one for fairness. Their healing is unlikely to make or break a clear, but both are definitely situationally impactful.
+
 One thing to keep in mind is that stronger units do not necessarily correlate with more enjoyment. Weaker sinners tend to compensate their lack of power in their own strange ways, and giving them a chance tends to lead to making some funny memories. Additionally, the game in its current state is easy enough to comfortably clear with just a support unit, so there's no need to worry about accessibility yet. At the end of the day, Limbus Company is still a game, so have some fun with it!
 
-All intellectual properties belong to Project Moon.
+Limbus Company belongs to Project Moon.
