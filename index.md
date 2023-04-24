@@ -27,7 +27,7 @@ Ordering within tiers is not as important as the tiers themselves.
 
 A cyan badge indicates that a unit benefits significantly from technical prowess. They may have requirements to unlock their damage, require specific techniques to compensate for a lack of damage, emphasize tempo control, or gain more than usual from having multiple actions per turn. (W Don, R Heathcliff, G Gregor, R Ishmael, Sevens Outis, Sevens Yi Sang)
 
-A yellow badge indicates that a unit has a notably good support passive. They may be impactful when benched, especially for low-sinner teams. Note that the ranking evaluates fielded performance, not support passives, so this badge merely serves as a footnote on how an identity may stay relevant despite their rank. (G Gregor, Sevens Outis, G Outis, LCB Rodion, Mariachi Sinclair)
+A yellow badge indicates that a unit has a notably good support passive. They may be impactful when benched, especially for low-sinner teams. Note that the ranking evaluates fielded performance, not support passives, so this badge merely serves as a footnote on how an identity may stay relevant despite their rank. (TT Hong Lu, G Gregor, Sevens Outis, Blade Outis, Liu Hong Lu, LCB Rodion, Mariachi Sinclair)
 
 A pink badge indicates that a unit performs abnormally well in the context of maximin strategies. They may be an option for optimizing Refraction Railway, but require too many resets or too much setup to be practical in other settings. (Shi Ishmael, LCCB Ishmael, W Meursault)
 
@@ -72,10 +72,10 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 ![Blade Sinclair](assets/11002.png)
 ![Blade Yi Sang](assets/10103.png)
 ![Blade Outis](assets/11102.png)
-![G Outis](assets/11103.png)
 ![Liu Hong Lu](assets/10604.png)
 ![Liu Meursault](assets/10502.png)
 ![Liu Gregor](assets/11202.png)
+![G Outis](assets/11103.png)
 ![N Heathcliff](assets/10704.png)
 ![N Rodion](assets/10904.png)
 ![LCCB Rodion](assets/10903.png)
@@ -333,3 +333,5 @@ More individual writeups may be added later.
 ## Additional Notes
 
 One thing to keep in mind is that stronger units do not necessarily correlate with more enjoyment. Weaker sinners tend to compensate their lack of power in their own strange ways, and giving them a chance tends to lead to making some funny memories. Additionally, the game in its current state is easy enough to comfortably clear with just a support unit, so there's no need to worry about accessibility yet. At the end of the day, Limbus Company is still a game, so have some fun with it!
+
+All intellectual properties belong to Project Moon.
