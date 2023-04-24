@@ -24,7 +24,7 @@ If one wishes to attempt to future-proof their unit choices, this is not a bad p
 
 ## Rankings
 
-Ordering within tiers is not as important as the tiers themselves.
+Ordering within affiliations is deliberate. Affiliations within tiers are loosely ordered. This is done to emphasize that generalizations are present, and not all ordering choices are equally significant.
 
 A cyan badge indicates that a unit benefits significantly from technical prowess. They may have requirements to unlock their damage, require specific techniques to compensate for a lack of damage, emphasize tempo control, or gain more than usual from having multiple actions per turn. (W Don, R Heathcliff, G Gregor, R Ishmael, Sevens Outis, Sevens Yi Sang)
 
@@ -101,7 +101,7 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 
 ---
 
-**D TIER — CHALLENGE**
+**D TIER — CHALLENGING**
 
 These units should not be prioritized for practical combat.  
 No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
