@@ -196,8 +196,22 @@ The prime chart represents Faust with Representation Emitter's +2 power passive.
 ![](charts/faust_n_corp.png)
 ![](charts/faust_n_corp_prime.png)
 
+N Faust is almost a twin to Chef Ryoshu— S2 oriented, lots of multicoins, no ammo or charge limitations, a techy evade and solid clashes. She'll fare consistently and reliably with her great numbers. Additionally, her kit is less dilapidated than Chef Ryoshu's. The gaze next turn on S2 adds easily capitalized tempo to her kit, and SP restoration is never unappreciated.
+
+Despite the similarities, Chef Ryoshu has marginally better clashes, and will generally contribute more total damage compared to what N Faust would add with her gaze and nails. That being said, their general differences are not as significant as a level's type weaknesses, so that will serve to distinguish their use cases.
+
+---
+
+### S Tier: Gregor - G Corp. Manager Corporal
+
+![](charts/gregor_g_corp.png)
+
+Contrary to intuition, G Gregor's clashes are virtually identical to Sevens Outis! This is plainly evident when comparing their roll charts and aggregates. The reason for this is, G Gregor has an entire 9 offense level over her, and a difference of 5 levels translates to 1 power in a clash. So even though Sevens Outis has an additional +2 power in every clash due to her skill effects, G Gregor just does that by default. So, in practice, if one of them can win a clash, it's very likely the other can as well. The purpose of this analogy is to emphasize that G Gregor is excellent at clashing. If he fails to win, which is relatively uncommon, his kit provides so much healing that he will generally be able to shrug off lost clashes with little to no consequence. This healing is even more reliable after the sanity update. This utility makes him absurdly reliable, and frankly makes him better at pulling dangerous skills away from core DPS units than most other tanks, especially considering how most other tanks tend to be too slow to pull clashes. Furthermore, deliberately allowing him to get staggered and healing him up during low pressure effectively makes him immortal in later rounds, since he'll effectively have removed his own stagger thresholds. Piloting him feels like giving your team a regenerating frontal shield, allowing heavy damage payloads (e.g. Cloud Cutter) to land without risking a clash. His numbers are great, he suffers no consequences, and piloting him feels like giving your team a huge amount of agency.
+
+The weakest part of his kit is his damage. Of the entire S tier, G Gregor probably has the least to offer in this department. However, his raw damage is still higher than almost all of the units in lower tiers (which probably says more about the rest of S tier than him). In the current damage-oriented meta, an argument could be made that not being all-in damage centric makes him unfavourable, but from experience, the stability he brings to a team allows other DPS units to attack with abandon, and is truly something to behold.
+
+---
 
 ## Author Notes
 
-Ironically, sinners in this tier may be more fun to pilot than those in the B tier. For what they lack in numbers they compensate in their own strange ways, and have a higher than average skill ceiling due to being speedy and defensive. That being said, their rolls are still painful to work with, ultimately holding them back.
-
+One thing to keep in mind that strong units do not necessarily correlate with enjoyment. Weaker sinners tend to compensate their lack of power in their own strange ways, and giving them a chance might lead to making some funny memories. Additionally, the game in its current state is easy enough to comfortably clear with just a support unit, so there's no need to worry about accessibility. At the end of the day, Limbus Company is just a game, so have some fun with it!
