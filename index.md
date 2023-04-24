@@ -23,11 +23,15 @@ Please recognize that all tier lists, including this one, are generalizations.
 
 ## Rankings
 
+Ordering within tiers is not as important as the tiers themselves.
+
 A cyan badge indicates that a unit has a relatively high skill ceiling. They will earn their rank in the hands of players with technical prowess, and may gain more than usual from having multiple actions per turn. (W Don, R Ishmael, G Gregor, Sevens Yi Sang)
 
 A gold badge indicates that a unit has a notably good support passive. They may prove their worth when benched, especially for low-sinner clears. (LCB Rodion, G Gregor, G Outis, Sevens Outis, Mariachi Sinclair)
 
 A pink badge indicates that a unit performs notably well in the context of maximin strategies. They may be an option for Refraction Railway, but require too many resets or too much setup to be practical in other settings. (Shi Ishmael, W Meursault, LCCB Ishmael)
+
+Note: Badges are not implemented yet on the icons, but the intended recipients are listed.
 
 ---
 
@@ -47,7 +51,7 @@ Units in this tier tend to directly outperform or invalidate units in lower tier
 
 **A TIER — RELIABLE OPTIONS**
 
-These units win clashes that units in lower tiers wouldn't, and can be safely relied upon to hold their own and pull their weight. They feel solid to pilot and their kits are easily appreciated.
+These units win clashes that units in lower tiers wouldn't, and can be relied upon to hold their own and pull their weight. They feel solid to pilot and their kits are easily appreciated.
 
 ![R Ishmael](assets/10802.png)
 ![L Faust](assets/10203.png)
@@ -86,7 +90,7 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 
 **C TIER — TECHNICAL OPTIONS**
 
-Specific setups are required to get these sinners to outperform other options. Whatever specialties they have may be made redundant by simply using those who can reliably win clashes.  
+One must go out of their way to get these sinners to outperform other options. Whatever specialties they have may be made redundant by simply using those who can reliably win clashes.  
 No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
 
 ![Sevens Yi Sang](assets/10102.png)
@@ -104,7 +108,7 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 
 **D TIER — CHALLENGE OPTIONS**
 
-These units should not be prioritized for fielded combat.  
+These units should not be prioritized for practical fielded combat.  
 No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
 
 ![W Meursault](assets/10503.png)
@@ -211,7 +215,7 @@ Despite the similarities, Chef Ryoshu has marginally better clashes, and will ge
 
 Contrary to intuition, G Gregor's clashes are virtually identical to Sevens Outis! This is plainly evident when comparing their roll charts and aggregates. The reason for this is, G Gregor has an entire 9 offense level over her, and a difference of 5 levels translates to 1 power in a clash. So even though Sevens Outis has an additional +2 power in every clash due to her skill effects, G Gregor just does that by default. So, in practice, if one of them can win a clash, it's very likely the other can as well. The purpose of this analogy is to emphasize that G Gregor is excellent at clashing. If he fails to win, which is relatively uncommon, his kit provides so much healing that he will generally be able to shrug off lost clashes with little to no consequence. This healing is even more reliable after the sanity update. This utility makes him absurdly reliable, and frankly makes him better at pulling dangerous skills away from core DPS units than most other tanks, especially considering how most other tanks tend to be too slow to pull clashes. Furthermore, deliberately allowing him to get staggered and healing him up during low pressure effectively makes him immortal in later rounds, since he'll effectively have removed his own stagger thresholds. Piloting him feels like giving the team a regenerating frontal shield, allowing heavy damage payloads (e.g. Cloud Cutter) to land without risking a clash. His numbers are great, he suffers no consequences, and he gives the team a huge amount of agency.
 
-The weakest part of his kit is his damage. Of the entire S tier, G Gregor probably has the least to offer in this department, being the only identity here with a weighed average raw of less than 30. However, his raw damage is still higher than almost all of the units in lower tiers (which probably says more about the rest of S tier than him). In the current speed-oriented meta, an argument could be made that not being an all-in DPS unit makes him unfavourable, but from experience, the stability he brings to a team allows other units to attack with abandon, and is truly something to behold.
+The weakest part of his kit is his damage. Of the entire S tier, G Gregor probably has the least to offer in this department, being the only identity here with a weighed average raw of less than 30. However, his raw damage is still higher than almost all of the units in lower tiers (which probably says more about the rest of S tier than him). In the current damage-oriented meta, an argument could be made that not being an all-in DPS unit makes him unfavourable. But, from experience, the stability he brings to a team allows other units to attack with abandon, and is truly something to behold.
 
 ---
 
@@ -277,7 +281,7 @@ Due to technical limitations, the normal chart should be used to evaluate clashe
 
 And so an interesting truth comes to light— Sevens Outis is generally worse at clashing than the low rarity clash god trio, and ties with G Gregor in terms of clash strength! But, she applies far more debuffs than the typical identity. Her presence in a team generally makes winning clashes for others easier, with the next turn paralysis on S1 and offense level down on S3. Having a high speed roll of 5-8, a high defense level of 41 and only one stagger threshold also allows her to take a similar role to G Gregor in pulling clashes and tanking the ones she loses.
 
-However, the damage attributed to her defense level down and weakness analyzed debuffs is generally not enough to compensate for her poor numbers, and having lots of effective health is generally not enough to be preferable to G Gregor's regen.
+However, the damage attributed to her defense level down and weakness analyzed debuffs is generally not enough to compensate for her poor numbers, and having lots of effective health is generally not preferable to G Gregor's regen.
 
 ---
 
@@ -287,11 +291,11 @@ However, the damage attributed to her defense level down and weakness analyzed d
 
 Above average rolls mean above average clashes and above average damage. Notably, she inflicts a healthy amount of bleed count, making the status effect far more impactful. But, having above average damage from statuses won't let her reach the damage contributed by S tier units anytime soon, and doubling down on more bleed just means invoking a greater opportunity cost.
 
-Additionally, bleed is one of the more awkward damage oriented status effects, since it relies on the target to attack. Stacking a lot of bleed on a broken part or a staggered enemy that's about to die can feel mildly miserable. Also, since Cloud Cutter falls off on targets with high bleed count, KK Ryoshu has a bit of anti-synergy with KK Hong Lu. The other parts of her kit apply on the same turn and are relatively unimpactful. That being said, her numbers are still good, so she'll still be perfectly playable.
+Additionally, bleed is one of the more awkward damage oriented status effects, since it relies on the target to attack. Stacking a lot of bleed on a broken part or a staggered enemy that's about to die can feel mildly miserable. Also, KK Ryoshu has arguably has a bit of anti-synergy with KK Hong Lu, since it's dubious whether the extra bleed potency would kill the target faster than simply letting Cloud Cutter perform two extra hits. The other parts of her kit apply on the same turn and are relatively unimpactful. That being said, her numbers are still more than workable.
 
 ---
 
-### C Tier: Heathcliff - Shi Section 5
+<!-- ### C Tier: Heathcliff - Shi Section 5
 
 The prime chart represents Heathcliff under 25% HP and with Bodysack active.
 
@@ -300,9 +304,9 @@ The prime chart represents Heathcliff under 25% HP and with Bodysack active.
 
 His clashes are actually pretty great. He might be viable if he's played like a normal fighter and is given a source of healing to keep him topped off from the S3 self-damage. But, after consulting someone who has an UT3 Shi Heathcliff, there are probably safer investments than this...
 
-![](assets/shi_heathcliff_review.png)
+![](assets/shi_heathcliff_review.png) -->
 
 
 ## Author Notes
 
-One thing to keep in mind that strong units do not necessarily correlate with enjoyment. Weaker sinners tend to compensate their lack of power in their own strange ways, and giving them a chance tend to lead to making some funny memories. Additionally, the game in its current state is easy enough to comfortably clear with just a support unit, so there's no need to worry about accessibility. At the end of the day, Limbus Company is just a game, so have some fun with it!
+One thing to keep in mind that strong units do not necessarily correlate with enjoyment. Weaker sinners tend to compensate their lack of power in their own strange ways, and giving them a chance tend to lead to making some funny memories. Additionally, the game in its current state is easy enough to comfortably clear with just a support unit, so there's no need to worry about accessibility yet. At the end of the day, Limbus Company is just a game, so have some fun with it!
