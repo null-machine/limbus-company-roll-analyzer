@@ -69,6 +69,7 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 ![LCB Outis](assets/11101.png)
 ![LCB Hong Lu](assets/10601.png)
 ![Shi Ishmael](assets/10803.png)
+![Shi Heathcliff](assets/10702.png)
 ![KK Rodion](assets/10902.png)
 ![Blade Sinclair](assets/11002.png)
 ![Blade Yi Sang](assets/10103.png)
@@ -79,8 +80,6 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 ![N Rodion](assets/10904.png)
 ![N Meursault](assets/10504.png)
 ![LCCB Ishmael](assets/10804.png)
-![LCCB Rodion](assets/10903.png)
-![G Outis](assets/11103.png)
 
 ---
 
@@ -90,16 +89,15 @@ One must go out of their way to get these sinners to outperform other options. W
 No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
 
 ![Blade Outis](assets/11102.png)
+![G Outis](assets/11103.png)
+![LCCB Rodion](assets/10903.png)
 ![Sevens Yi Sang](assets/10102.png)
-![Shi Heathcliff](assets/10702.png)
+![LCB Heathcliff](assets/10701.png)
 ![LCB Ryoshu](assets/10401.png)
 ![LCB Don Quixote](assets/10301.png)
 ![LCB Ishmael](assets/10801.png)
 ![LCB Gregor](assets/11201.png)
 ![LCB Sinclair](assets/11001.png)
-![LCB Heathcliff](assets/10701.png)
-![Chef Gregor](assets/11204.png)
-![W Faust](assets/10202.png)
 
 ---
 
@@ -108,9 +106,11 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 These units should not be prioritized for practical combat.  
 No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
 
+![W Faust](assets/10202.png)
+![W Meursault](assets/10503.png)
+![Chef Gregor](assets/11204.png)
 ![Mariachi Sinclair](assets/11004.png)
 ![Zwei Sinclair](assets/11003.png)
-![W Meursault](assets/10503.png)
 ![LCB Rodion](assets/10901.png)
 ![LCB Faust](assets/10201.png)
 ![LCB Meursault](assets/10501.png)

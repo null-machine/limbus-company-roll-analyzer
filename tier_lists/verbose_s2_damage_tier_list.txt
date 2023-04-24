@@ -33,6 +33,7 @@ s2 outis_blade | acupuncture | agg: 12.41 | raw: 23.54 | var: 0.56
 s2 rodion_n_corp_prime | zealous_purge | agg: 11.2 | raw: 23.3 | var: 0.29
 s2 rodion_kurokumo | scattering_slash | agg: 11.71 | raw: 23.1 | var: 0.43
 s2 ryoshu_seven_prime | upper_slash | agg: 19.4 | raw: 23.0 | var: 0.6
+s2 heathcliff_lcb_prime | smackdown | agg: 12.21 | raw: 22.9 | var: 0.57
 s2 ryoshu_lcb | splatter | agg: 11.81 | raw: 22.64 | var: 0.59
 s2 hong_lu_lcb_weak | dual_strike | agg: 11.81 | raw: 22.64 | var: 0.59
 s2 yi_sang_blade | heel_turn | agg: 10.1 | raw: 22.5 | var: 0.15
@@ -40,6 +41,7 @@ s2 hong_lu_kurokumo | cloud_cutter | agg: 12.01 | raw: 22.26 | var: 0.58
 s2 faust_lcb_prime | upward_slash | agg: 12.21 | raw: 21.84 | var: 0.57
 s2 meursault_n_corp | you_are_cleansed_of_sin | agg: 11.11 | raw: 21.19 | var: 0.45
 s2 rodion_n_corp | zealous_purge | agg: 10.2 | raw: 21.06 | var: 0.32
+s2 heathcliff_lcb | smackdown | agg: 11.21 | raw: 20.74 | var: 0.62
 s2 rodion_lcb | axe_combo | agg: 11.21 | raw: 20.74 | var: 0.62
 s2 faust_w_corp | leap | agg: 11.41 | raw: 20.38 | var: 0.61
 s2 gregor_g_corp | dismember | agg: 16.7 | raw: 19.95 | var: 0.58
@@ -67,5 +69,3 @@ s2 gregor_lcb | jag | agg: 12.7 | raw: 13.99 | var: 0.76
 s2 sinclair_zwei | suppress | agg: 6.7 | raw: 13.1 | var: 0.24
 s2 ishmael_lcb | slide | agg: 11.8 | raw: 12.93 | var: 0.66
 s2 meursault_lcb | nailing_fist | agg: 10.8 | raw: 11.31 | var: 0.71
-s2 heathcliff_lcb_prime | smackdown | agg: 8.4 | raw: 9.29 | var: 0.47
-s2 heathcliff_lcb | smackdown | agg: 7.4 | raw: 8.21 | var: 0.53

@@ -31,6 +31,7 @@ outis_blade | agg: 11.45 | raw: 18.84 | var: 0.57
 meursault_n_corp | agg: 9.59 | raw: 18.62 | var: 0.36
 gregor_chef | agg: 10.12 | raw: 18.31 | var: 0.48
 rodion_lcb | agg: 10.03 | raw: 18.14 | var: 0.69
+heathcliff_lcb | agg: 11.19 | raw: 17.88 | var: 0.68
 faust_w_corp | agg: 10.07 | raw: 17.31 | var: 0.61
 yi_sang_seven | agg: 9.52 | raw: 17.03 | var: 0.53
 don_quixote_lcb | agg: 11.77 | raw: 16.96 | var: 0.69
@@ -42,5 +43,4 @@ faust_lcb | agg: 9.06 | raw: 13.76 | var: 0.68
 outis_g_corp | agg: 12.72 | raw: 13.73 | var: 0.72
 meursault_lcb | agg: 8.65 | raw: 13.33 | var: 0.78
 ishmael_lcb | agg: 11.78 | raw: 12.93 | var: 0.7
-heathcliff_lcb | agg: 9.66 | raw: 12.87 | var: 0.65
 sinclair_zwei | agg: 9.71 | raw: 12.81 | var: 0.51

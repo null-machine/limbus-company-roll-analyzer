@@ -8,7 +8,7 @@ s1: !!python/object:skill.Skill
   name: bat_bash
 s2: !!python/object:skill.Skill
   base_power: 4
-  coin_count: 1
+  coin_count: 2
   coin_power: 4
   name: smackdown
 s3: !!python/object:skill.Skill

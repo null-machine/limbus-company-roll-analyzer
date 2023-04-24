@@ -26,6 +26,7 @@ s2 ishmael_lcb | slide | agg: 11.8 | raw: 12.93 | var: 0.66
 s2 rodion_kurokumo | scattering_slash | agg: 11.71 | raw: 23.1 | var: 0.43
 s2 faust_w_corp | leap | agg: 11.41 | raw: 20.38 | var: 0.61
 s2 ishmael_clearance | quake_rounds | agg: 11.37 | raw: 27.46 | var: 0.68
+s2 heathcliff_lcb | smackdown | agg: 11.21 | raw: 20.74 | var: 0.62
 s2 rodion_lcb | axe_combo | agg: 11.21 | raw: 20.74 | var: 0.62
 s2 meursault_n_corp | you_are_cleansed_of_sin | agg: 11.11 | raw: 21.19 | var: 0.45
 s2 meursault_lcb | nailing_fist | agg: 10.8 | raw: 11.31 | var: 0.71
@@ -41,6 +42,5 @@ s2 rodion_clearance | thrust | agg: 8.9 | raw: 19.55 | var: 0.18
 s2 gregor_liu | rush_down | agg: 8.86 | raw: 27.6 | var: 0.25
 s2 sinclair_blade | slash_series | agg: 8.86 | raw: 26.4 | var: 0.25
 s2 yi_sang_seven | riposte | agg: 8.2 | raw: 15.84 | var: 0.41
-s2 heathcliff_lcb | smackdown | agg: 7.4 | raw: 8.21 | var: 0.53
 s2 sinclair_zwei | suppress | agg: 6.7 | raw: 13.1 | var: 0.24
 s2 sinclair_mariachi | danza_de_pasion | agg: 6.26 | raw: 16.52 | var: 0.37

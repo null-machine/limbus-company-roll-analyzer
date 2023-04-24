@@ -32,6 +32,7 @@ outis_g_corp | agg: 12.72 | raw: 13.73 | var: 0.72
 outis_lcb | agg: 12.59 | raw: 24.54 | var: 0.57
 heathcliff_n_corp | agg: 12.37 | raw: 20.82 | var: 0.65
 heathcliff_r_corp_weak | agg: 12.24 | raw: 43.57 | var: 0.49
+heathcliff_lcb_prime | agg: 12.19 | raw: 19.61 | var: 0.62
 faust_w_corp_prime | agg: 12.07 | raw: 21.05 | var: 0.5
 ishmael_clearance_prime | agg: 12.03 | raw: 26.12 | var: 0.55
 rodion_n_corp_prime | agg: 11.89 | raw: 27.96 | var: 0.44
@@ -42,6 +43,7 @@ outis_seven_weak | agg: 11.47 | raw: 20.24 | var: 0.51
 outis_blade | agg: 11.45 | raw: 18.84 | var: 0.57
 hong_lu_lcb_weak | agg: 11.23 | raw: 18.56 | var: 0.62
 yi_sang_blade | agg: 11.21 | raw: 22.46 | var: 0.29
+heathcliff_lcb | agg: 11.19 | raw: 17.88 | var: 0.68
 faust_lcb_prime | agg: 11.06 | raw: 17.06 | var: 0.55
 hong_lu_liu | agg: 11.05 | raw: 20.74 | var: 0.55
 gregor_lcb | agg: 10.98 | raw: 13.82 | var: 0.73
@@ -50,7 +52,6 @@ rodion_n_corp | agg: 10.89 | raw: 25.27 | var: 0.49
 ryoshu_lcb | agg: 10.85 | raw: 19.71 | var: 0.6
 meursault_liu | agg: 10.68 | raw: 22.41 | var: 0.52
 hong_lu_kurokumo | agg: 10.67 | raw: 18.96 | var: 0.57
-heathcliff_lcb_prime | agg: 10.66 | raw: 14.17 | var: 0.58
 gregor_liu_prime | agg: 10.59 | raw: 30.82 | var: 0.31
 sinclair_blade | agg: 10.56 | raw: 21.12 | var: 0.32
 sinclair_lcb | agg: 10.49 | raw: 22.96 | var: 0.53
@@ -60,7 +61,6 @@ faust_w_corp | agg: 10.07 | raw: 17.31 | var: 0.61
 ishmael_clearance | agg: 10.03 | raw: 21.13 | var: 0.67
 rodion_lcb | agg: 10.03 | raw: 18.14 | var: 0.69
 sinclair_zwei | agg: 9.71 | raw: 12.81 | var: 0.51
-heathcliff_lcb | agg: 9.66 | raw: 12.87 | var: 0.65
 gregor_liu | agg: 9.59 | raw: 27.6 | var: 0.35
 meursault_n_corp | agg: 9.59 | raw: 18.62 | var: 0.36
 yi_sang_seven | agg: 9.52 | raw: 17.03 | var: 0.53
