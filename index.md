@@ -1,6 +1,7 @@
 # Yet Another Limbus Company Tier List
 
-Written by a stats-obsessed psychopath. Feedback goes to LOWERCASE#0357.
+Written by a stats-obsessed psychopath. Feedback goes to LOWERCASE#0357.  
+Reviewed by Nex#7448 and Kervina.
 
 ---
 
@@ -35,7 +36,7 @@ A pink badge indicates that a unit performs abnormally well in the context of ma
 
 **S TIER — META**
 
-Units in this tier tend to directly outperform or invalidate units in lower tiers. Resistances aside, if they can't make a clear work, it's unlikely replacing them will help. Using them almost feels like cheating.
+Units in this tier tend to directly outperform or invalidate units in lower tiers. Typing aside, if they can't make a clear work, it's unlikely replacing them will help. At some points, using them almost feels like cheating.
 
 ![W Don](assets/10302.png)
 ![R Heathcliff](assets/10703.png)
@@ -211,7 +212,7 @@ Despite the similarities, Chef Ryoshu has better rolls, and will generally contr
 
 ![](charts/gregor_g_corp.png)
 
-Contrary to intuition, G Gregor's clashes are virtually identical to Sevens Outis! This is plainly evident when comparing their roll charts and aggregates. The reason for this is, G Gregor has an entire 9 offense level over her, and a difference of 5 levels translates to 1 power in a clash. So even though Sevens Outis has an additional +2 power in every clash due to her skill effects, G Gregor just does that by default. So, in practice, if one of them can win a clash, it's very likely the other can as well. The purpose of this analogy is to emphasize that G Gregor is excellent at clashing. If he fails to win, which is relatively uncommon, his kit provides so much healing that he will generally be able to shrug off lost clashes with little to no consequence. This utility makes him better at pulling dangerous skills away from core DPS units than most other tanks, especially considering how they tend to be too slow to pull clashes. Furthermore, deliberately allowing him to get staggered and healing him up during low pressure effectively makes him immortal in later rounds, since he'll effectively have removed his own stagger thresholds. Piloting him feels like giving the team a regenerating frontal shield, allowing heavy damage payloads (e.g. Cloud Cutter) to land without risking a clash. His numbers are great, he suffers no consequences, and he gives the team a huge amount of agency.
+Contrary to intuition, G Gregor's clashes are virtually identical to Sevens Outis! This is plainly evident when comparing their roll charts and aggregates. The reason for this is, G Gregor has an entire 9 offense level over her, and a difference of 5 levels translates to 1 power in a clash. So even though Sevens Outis has an additional +2 power in every clash due to her skill effects, G Gregor just does that by default. So, in practice, if one of them can win a clash, it's very likely the other can as well. The purpose of this analogy is to emphasize that G Gregor is excellent at clashing. If he fails to win, which is relatively uncommon, his kit provides so much healing that he will generally be able to shrug off lost clashes with little to no consequence. This utility makes him better at pulling dangerous skills away from core DPS units than most other tanks, especially considering how they tend to be too slow to pull clashes. Furthermore, deliberately allowing him to get staggered and healing him up during low pressure effectively makes him immortal in later rounds, since he'll effectively have removed his own stagger thresholds. Piloting him feels like giving the team a regenerating frontal shield, enabling heavy damage payloads (e.g. Cloud Cutter) to land without risking a clash. Of course, he also enables Legerdemain spam, but, everyone knew that already. His numbers are great, he suffers no consequences, and he gives the team a huge amount of agency.
 
 If a weakness had to be chosen, it would be his damage. Of the entire S tier, G Gregor probably has the least to offer in this department, being the only identity here with a weighed average raw of less than 30. However, his raw damage is still higher than almost all of the units in lower tiers (which probably says more about the rest of S tier than him). In the current damage-oriented meta, an argument could be made that not being an all-in DPS unit makes him unfavourable. But, from experience, the stability he brings to a team is truly something to behold.
 
