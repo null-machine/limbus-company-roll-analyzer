@@ -1,7 +1,7 @@
 # Yet Another Limbus Company Tier List
 
-Written by a stats-obsessed psychopath. Feedback goes to LOWERCASE#0357.  
-Reviewed by Nex#7448 and Kervina.
+Written by a stats-obsessed psychopath. Maintained by LOWERCASE#0357.  
+Critically reviewed by Nex#7448 and Kervina.
 
 ---
 
