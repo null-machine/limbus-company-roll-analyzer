@@ -158,7 +158,7 @@ The weak chart represents Heathcliff with less than 6 speed.
 ![](charts/heathcliff_r_corp.png)
 ![](charts/heathcliff_r_corp_weak.png)
 
-A Quick Suppression at 6+ speed can perform a similar role to a charged Rip Space. Additionally, tech exists to conserve ammo, such as using Bodysack to cycle S1 and S2. Even when out of ammo, his clashing power remains, so he can still reliably neutralize incoming threats with his insane roll numbers. Although he has an evade, soloing is probably not advisable due to his ammo mechanics. On the flip side, this means he won't experience a loss in performance in a full team of sinners.
+A Quick Suppression at 6+ speed can perform a similar role to a charged Rip Space. Additionally, tech exists to conserve ammo, such as using Bodysack to cycle S1 and S2. Even when out of ammo, his clashing power remains, so he can still reliably neutralize incoming threats with his insane roll numbers. His kit effects also add considerably more damage than is standard, with 4 fragile on S3. Although he has an evade, soloing is probably not advisable due to his ammo mechanics. On the flip side, this means he won't experience a loss in performance in a full team of sinners.
 
 ---
 
@@ -225,9 +225,9 @@ The prime chart can be used to evaluate Ishmael's clashes while Snagharpoon is a
 ![](charts/ishmael_r_corp.png)
 ![](charts/ishmael_r_corp_prime.png)
 
-Praise and notes about W Don generally apply to R Ishmael as well, since she is also a charge unit with an evade and hard-hitting S3. However, her kit is more well-rounded, with a weaker S2 and S3 but a stronger S1. Notably, she can play an uncharged Mind Whip without consequence when soloing, albeit without being able to clash or choose a target.
+Praise and notes about W Don generally apply to R Ishmael as well, since she is also a charge unit with an evade and hard-hitting S3. However, her kit is more well-rounded, with a weaker S2 and S3 but a stronger S1. Notably, she can play an uncharged Mind Whip without consequence when soloing, albeit without being able to clash or choose a target. Additionally, although her combat passive drains her sanity for attack power, the loss can be easily offset through LCB Yi Sang's support passive or winning clashes repeatedly with her excellent rolls. Although this makes her reliant on sanity and Snagharpoon, she fuels the latter very well.
 
-However, her numbers are held back by her somewhat miserable 32 offense level. Sinking also generally translates to less damage than fragile, even against abnormalities. Additionally, her combat passive drains her sanity for a middling amount of attack power, which is ultimately dysfunctional in most cases.
+However, her numbers are held back by her somewhat miserable 32 offense level. Sinking also generally translates to less damage than fragile, even against abnormalities. Additionally, she either needs charge support via W Don or W Faust or to be in a low-sinner team for max potential, since her base charge generation is somewhat lacking. She is also heavily reliant on landing heads coins in order for S1 to generate charge and S2 to win clashes, which makes her early turns likely worse than average, especially with a turn one S3 draw.
 
 ---
 
@@ -265,7 +265,7 @@ The prime chart represents Ryoshu with Upper Slash's effect and next turn +1 att
 ![](charts/ryoshu_seven.png)
 ![](charts/ryoshu_seven_prime.png)
 
-Sevens Ryoshu completes the low rarity clash god trio with L Faust and Shi Don. Her raw damage is more concentrated in S3 and lower overall than either of them, but more or less successfully compensates for that with powerful kit effects. Besides that, her skill effects also press the advantage of her frequent clash wins by giving her even more power and damage.
+Sevens Ryoshu completes the low rarity clash god trio with L Faust and Shi Don. Her raw damage is more concentrated in S3 and lower overall than either of them. But, she successfully compensates for that with kit effects powerful enough to make her the best slash support in the game. Besides that, her skill effects also press the advantage of her frequent clash wins by giving her even more power and damage.
 
 Aside from the seemingly obligatory miserable S1, she also lacks an evade, reducing her viability in low-sinner teams. 
 
