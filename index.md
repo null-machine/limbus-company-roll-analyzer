@@ -10,9 +10,9 @@ Written by a stats-obsessed psychopath. Feedback goes to LOWERCASE#0357.
 
 An encounter agnostic tier list. The rationale behind a sinner's rank will never be based solely on their performance in existing content. First and foremost, the numbers on their rolls will be analyzed in detail to approximate their ability to clash and deal damage, since this ability is universal and critical. Then, notable parts about their kit that compensate or undermine their numbers will be taken into account. Example strategies and experiences will be provided if appropriate, but won't form the basis of judgement.
 
-What this means is, this list will serve as a guide for those who want to make the Limbus Company experience and future stages as accessible as possible. Investing in high-tier units will provide a practical way to clear content. Failing that, it will illustrate the opportunity cost of not having certain units (which is usually more acceptable than intuition would suggest).
+What this means is, this list will make the Limbus Company experience and future stages as accessible as possible. Investing in high-tier units will provide a practical way to clear content. Failing that, it will illustrate the opportunity cost of not having certain units (which is usually more acceptable than intuition would suggest).
 
-Please recognize that all tier lists, including this one, are generalizations.
+If one wishes to attempt to future-proof their unit choices, this is not a bad place to start. Regardless, please recognize that all tier lists, including this one, are generalizations.
 
 **What this isn't:**
 - A mirror dungeon tier list. Animation speeds and performance in undertuned stages with arbitrary artifacts play absolutely no role in any of these rankings.
@@ -119,9 +119,9 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 
 ## Rationale
 
-[An explanation of how to read the roll charts can be found here.](https://github.com/null-machine/limbus-company-clash-tool) 
+[A full explanation of how to read the roll charts can be found here.](https://github.com/null-machine/limbus-company-clash-tool) 
 
-For a condensed version, the cyan yellow and magenta lines represent a sinner's chance to beat a power at max, zero and minimum sanity. The y-axis represents chance, and the x-axis represents the power of the opposing skill.
+For a condensed version, the cyan yellow and magenta lines represent a sinner's chance to beat a power at max, zero and minimum sanity. The y-axis represents chance of winning the clash, and the x-axis represents the power of the opposing skill.
 
 "agg" → aggregate, or clash power.  
 "raw" → raw damage.  
@@ -177,7 +177,7 @@ It's worth mentioning that her 4th Match Flame passive can theoretically buff he
 
 ![](charts/hong_lu_tingtang.png)
 
-The sanity update was so good to TT Hong Lu that the roll analyzer now thinks he's the strongest clasher in the game. Mutilate used to be a dicey shitpost, but it now rolls 30+ with a 95% chance, giving it the highest aggregate in the game (excepting Rip Space, which has charge limitations). His Shank also has the highest aggregate among all S2s, edging out even Ingredient Hunt and Concentrated Fire (but, it's not like either of those would have been likely to lose a clash either). Furthermore, he has no charge or ammo limitations, giving him free reign to abuse that 95% heads to activate all his skill effects and perform extremely well. Ironically, the fact that Mutilate high rolls so high makes him arguably pretty consistent. For other sinners, if their skills don't have enough aggregate, they'll ultimately still rely on the enemy to low roll. Mutilate will not have that problem. In a case where S3 rolling heads won't win a clash, chances are nothing short of high-end egos will outperform it. He gets obligatory bonus points for having an evade, and a relatively strong one at that. It's also worth noting that he has 35 defense, which is considerably higher than other identities with good rolls.
+The sanity update was so good to TT Hong Lu that the roll analyzer now says he's the strongest clasher in the game. Mutilate used to be a dicey shitpost, but it now rolls 30+ with a 95% chance, giving it the highest aggregate in the game (excepting Rip Space, which has charge limitations). His Shank also has the highest aggregate among all S2s, edging out even Ingredient Hunt and Concentrated Fire (but, it's not like either of those would have been likely to lose a clash either). Furthermore, he has no charge or ammo limitations, giving him free reign to abuse that 95% heads to activate all his skill effects and perform extremely well. Ironically, the fact that Mutilate high rolls so high makes him arguably pretty consistent. For other sinners, if their skills don't have enough aggregate, they'll ultimately still rely on the enemy to low roll. Mutilate will not have that problem. In a case where S3 rolling heads won't win a clash, chances are nothing short of high-end egos will outperform it. He gets obligatory bonus points for having an evade, and a relatively strong one at that. It's also worth noting that he has 35 defense, which is considerably higher than other identities with good rolls.
 
 He does have a few downsides though. Besides the miserable S1, he does not tolerate low sanity as well as other sinners. Notably, his combat passive provides a smidge of sanity, which, although undertuned, certainly isn't unwelcome in his heads oriented kit. Additionally, although his kit is cohesive, his damage is not as high as the other units with heavy multicoin skills. Ironically, this makes his overall contributions relatively defensive.
 
@@ -201,9 +201,9 @@ The prime chart represents Faust with Representation Emitter's +2 power active.
 ![](charts/faust_n_corp.png)
 ![](charts/faust_n_corp_prime.png)
 
-N Faust is almost a twin to Chef Ryoshu— S2 oriented, lots of multicoins, no ammo or charge limitations, a techy evade and solid clashes. She'll fare consistently and reliably with her great numbers. Additionally, her kit is less dilapidated than Chef Ryoshu's. The gaze next turn on S2 adds easily capitalized tempo to her kit, and SP restoration is never unappreciated.
+N Faust is almost a twin to Chef Ryoshu— S2 oriented, lots of multicoins, no ammo or charge limitations, a techy evade and solid clashes. She'll fare consistently and reliably with her great numbers. Additionally, her kit is more organized than Chef Ryoshu's. The gaze next turn on S2 adds easily capitalized tempo to her kit, and SP restoration is never unappreciated.
 
-Despite the similarities, Chef Ryoshu has marginally better clashes, and will generally contribute more total damage compared to what N Faust would add with her gaze and nails. That being said, their general differences are not as significant as those that would be imposed by type weaknesses, so that will serve to distinguish their use cases.
+Despite the similarities, Chef Ryoshu has better rolls, and will generally contribute more total damage compared to what N Faust would add with her gaze and nails. That being said, their general differences are not as significant as those that would be imposed by type weaknesses, so there's room for them both in S tier.
 
 ---
 
@@ -211,9 +211,9 @@ Despite the similarities, Chef Ryoshu has marginally better clashes, and will ge
 
 ![](charts/gregor_g_corp.png)
 
-Contrary to intuition, G Gregor's clashes are virtually identical to Sevens Outis! This is plainly evident when comparing their roll charts and aggregates. The reason for this is, G Gregor has an entire 9 offense level over her, and a difference of 5 levels translates to 1 power in a clash. So even though Sevens Outis has an additional +2 power in every clash due to her skill effects, G Gregor just does that by default. So, in practice, if one of them can win a clash, it's very likely the other can as well. The purpose of this analogy is to emphasize that G Gregor is excellent at clashing. If he fails to win, which is relatively uncommon, his kit provides so much healing that he will generally be able to shrug off lost clashes with little to no consequence. This healing is even more reliable after the sanity update. This utility makes him absurdly reliable, and frankly makes him better at pulling dangerous skills away from core DPS units than most other tanks, especially considering how most other tanks tend to be too slow to pull clashes. Furthermore, deliberately allowing him to get staggered and healing him up during low pressure effectively makes him immortal in later rounds, since he'll effectively have removed his own stagger thresholds. Piloting him feels like giving the team a regenerating frontal shield, allowing heavy damage payloads (e.g. Cloud Cutter) to land without risking a clash. His numbers are great, he suffers no consequences, and he gives the team a huge amount of agency.
+Contrary to intuition, G Gregor's clashes are virtually identical to Sevens Outis! This is plainly evident when comparing their roll charts and aggregates. The reason for this is, G Gregor has an entire 9 offense level over her, and a difference of 5 levels translates to 1 power in a clash. So even though Sevens Outis has an additional +2 power in every clash due to her skill effects, G Gregor just does that by default. So, in practice, if one of them can win a clash, it's very likely the other can as well. The purpose of this analogy is to emphasize that G Gregor is excellent at clashing. If he fails to win, which is relatively uncommon, his kit provides so much healing that he will generally be able to shrug off lost clashes with little to no consequence. This utility makes him better at pulling dangerous skills away from core DPS units than most other tanks, especially considering how they tend to be too slow to pull clashes. Furthermore, deliberately allowing him to get staggered and healing him up during low pressure effectively makes him immortal in later rounds, since he'll effectively have removed his own stagger thresholds. Piloting him feels like giving the team a regenerating frontal shield, allowing heavy damage payloads (e.g. Cloud Cutter) to land without risking a clash. His numbers are great, he suffers no consequences, and he gives the team a huge amount of agency.
 
-The weakest part of his kit is his damage. Of the entire S tier, G Gregor probably has the least to offer in this department, being the only identity here with a weighed average raw of less than 30. However, his raw damage is still higher than almost all of the units in lower tiers (which probably says more about the rest of S tier than him). In the current damage-oriented meta, an argument could be made that not being an all-in DPS unit makes him unfavourable. But, from experience, the stability he brings to a team allows other units to attack with abandon, and is truly something to behold.
+If a weakness had to be chosen, it would be his damage. Of the entire S tier, G Gregor probably has the least to offer in this department, being the only identity here with a weighed average raw of less than 30. However, his raw damage is still higher than almost all of the units in lower tiers (which probably says more about the rest of S tier than him). In the current damage-oriented meta, an argument could be made that not being an all-in DPS unit makes him unfavourable. But, from experience, the stability he brings to a team is truly something to behold.
 
 ---
 
@@ -226,7 +226,7 @@ The prime chart can be used to evaluate Ishmael's clashes while Snagharpoon is a
 
 Praise and notes about W Don generally apply to R Ishmael as well, since she is also a charge unit with an evade and hard-hitting S3. However, her kit is more well-rounded, with a weaker S2 and S3 but a stronger S1. Notably, she can play an uncharged Mind Whip without consequence when soloing, albeit without being able to clash or choose a target.
 
-However, her numbers are held back by her somewhat miserable 32 offense level. Sinking also generally translates to less damage than fragile, even against abnormalities. Additionally, her combat passive drains her sanity for a middling amount of attack power, which is dysfunctional in most cases.
+However, her numbers are held back by her somewhat miserable 32 offense level. Sinking also generally translates to less damage than fragile, even against abnormalities. Additionally, her combat passive drains her sanity for a middling amount of attack power, which is ultimately dysfunctional in most cases.
 
 ---
 
