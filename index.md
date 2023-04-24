@@ -26,7 +26,7 @@ If one wishes to attempt to future-proof their unit choices, this is not a bad p
 
 Ordering within affiliations is deliberate. Affiliations within tiers are loosely ordered. This is done to emphasize that not all ordering choices are equally significant.
 
-A cyan badge indicates that a unit benefits significantly from technical prowess. They may have requirements to unlock their damage, require specific techniques to compensate for a lack of damage, emphasize tempo control, or gain more than usual from having multiple actions per turn.
+A cyan badge indicates that a unit benefits significantly from technical prowess. They may have requirements to unlock their damage, require techniques to successfully compensate for a lack of damage, emphasize tempo control, or gain more than usual from having multiple actions per turn.
 
 A yellow badge indicates that a unit has a notably good support passive. They may be impactful when benched, especially for low-sinner teams. Note that the ranking evaluates fielded performance, not support passives, so this badge merely serves as a footnote on how an identity may stay relevant despite their rank.
 
