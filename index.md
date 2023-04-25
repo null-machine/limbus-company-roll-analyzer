@@ -28,11 +28,11 @@ If one wishes to attempt to future-proof their unit choices, this is not a bad p
 
 Ordering within affiliations is deliberate. Affiliations within tiers are loosely ordered. This is done to emphasize that not all ordering choices are equally significant.
 
-A cyan badge indicates that a unit benefits significantly from technical prowess. They may have requirements to unlock their damage, require techniques to successfully compensate for a lack of damage, emphasize tempo control, or gain more than usual from having multiple actions per turn.
+A blue badge indicates that a unit benefits significantly from technical prowess. They may have requirements to unlock their damage, require techniques to successfully compensate for a lack of damage, emphasize tempo control, or gain more than usual from having multiple actions per turn.
 
 A yellow badge indicates that a unit has a notably good support passive. They may be impactful when benched, especially for low-sinner teams. Note that the ranking evaluates fielded performance, not support passives, so this badge merely serves as a footnote on how an identity may stay relevant despite their rank.
 
-A pink badge indicates that a unit performs abnormally well in the context of maximin strategies. They may be an option for optimizing Refraction Railway, but require too many resets or too much setup to be practical in other settings.
+A pink badge indicates that a unit performs abnormally well in the context of maximin strategies. They may be an option for optimizing Refraction Railway, but achieving their prime state may require too many resets to be practical in other settings.
 
 ---
 
