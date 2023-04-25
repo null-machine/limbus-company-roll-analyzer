@@ -44,8 +44,8 @@ Units in this tier tend to directly outperform or invalidate units in lower tier
 ![R Heathcliff](assets/10703.png)
 ![Chef Ryoshu](assets/10404.png)
 ![TT Hong Lu](assets/10603.png)
-![KK Hong Lu](assets/10602.png)
 ![N Faust](assets/10204.png)
+![KK Hong Lu](assets/10602.png)
 
 ---
 
@@ -186,17 +186,6 @@ He does have a few downsides though. Besides the miserable S1, he does not toler
 
 ---
 
-### S Tier: Hong Lu - Kurokumo Wakashu
-
-Due to technical limitations, use the normal chart for evaluating aggregate and the prime chart for evaluating raw damage.
-
-![](charts/hong_lu_kurokumo.png)
-![](charts/hong_lu_kurokumo_prime.png)
-
-Cloud cutter.
-
----
-
 ### S Tier: Faust - The One Who Grips
 
 The prime chart represents Faust with Representation Emitter's +2 power active.
@@ -207,6 +196,17 @@ The prime chart represents Faust with Representation Emitter's +2 power active.
 N Faust is almost a twin to Chef Ryoshu— S2 oriented, lots of multicoins, no ammo or charge limitations, a techy evade and solid clashes. She'll fare consistently and reliably with her great numbers. Additionally, her kit is more organized than Chef Ryoshu's. The gaze next turn on S2 adds easily capitalized tempo to her kit, and SP restoration is never unappreciated.
 
 Despite the similarities, Chef Ryoshu has better rolls, and will generally contribute more total damage compared to what N Faust would add with her gaze and nails. That being said, their general differences are not as significant as those that would be imposed by type weaknesses, so there's room for them both in S tier.
+
+---
+
+### S Tier: Hong Lu - Kurokumo Wakashu
+
+Due to technical limitations, use the normal chart for evaluating aggregate and the prime chart for evaluating raw damage.
+
+![](charts/hong_lu_kurokumo.png)
+![](charts/hong_lu_kurokumo_prime.png)
+
+Cloud cutter.
 
 ---
 
@@ -336,6 +336,8 @@ More individual writeups may be added later.
 ## Additional Notes
 
 The placement of KK Hong Lu in S tier was heavily contested by Nex and heavily defended by the other two. Whether his unique S2 is capable of compensating for his glaring lack of clash power is something individual players are encouraged to decide for themselves.
+
+LCB Outis and LCB Hong Lu used to be firmly placed in A tier, but that was contested by Kervina and Nex. They have been dropped to B tier to make A tier more exclusive. (This is also why they are the only B tier units with writeups.)
 
 Blade Outis only deserves the yellow badge if her support passive works when attacking broken abnormality parts. This still requires testing.
 
