@@ -341,7 +341,7 @@ The placement of KK Hong Lu in S tier was heavily contested by Nex and heavily d
 
 LCB Outis and LCB Hong Lu used to be firmly placed in A tier by LOWERCASE, but that was contested by Kervina and Nex. Both have been dropped to B tier to make A tier more exclusive. (This is also why they are the only B tier units with writeups.)
 
-Shi Ishmael used to be in high B tier but was moved to low A tier after consulting with a server member. The fact that she shares the same raw as W Don without needing her health threshold, alongside her prime performance, was enough to barely edge her in. That being said, individual players are encouraged to evaluate whether sacrificing the stability that high clash power and speed brings makes her worth prioritizing her over the other A tier units. (This is also why she currently lacks a writeup.)
+Shi Ishmael used to be in high B tier but was moved to low A tier after consulting the Project Moon community server. The fact that she shares the same raw as W Don without needing her health threshold, alongside her prime performance, was enough to barely edge her in. That being said, individual players are encouraged to evaluate whether sacrificing the stability that high clash power and speed brings makes her worth prioritizing her over the other A tier units. (This is also why she currently lacks a writeup.)
 
 Blade Outis only deserves the yellow badge if her support passive works when attacking broken abnormality parts. This still requires testing.
 
