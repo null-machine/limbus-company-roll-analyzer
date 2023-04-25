@@ -73,10 +73,10 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 
 ![LCB Outis](assets/11101.png)
 ![LCB Hong Lu](assets/10601.png)
-![Shi Heathcliff](assets/10702.png)
 ![KK Rodion](assets/10902.png)
 ![Blade Sinclair](assets/11002.png)
 ![Blade Yi Sang](assets/10103.png)
+![Shi Heathcliff](assets/10702.png)
 ![Liu Gregor](assets/11202.png)
 ![Liu Hong Lu](assets/10604.png)
 ![Liu Meursault](assets/10502.png)
