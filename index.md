@@ -3,6 +3,8 @@
 Written and maintained by a stats-obsessed psychopath, LOWERCASE#0357.  
 Critically reviewed by Nex#7448 and Kervina.
 
+Limbus Company belongs to Project Moon.
+
 Last update: 2023.4
 
 ---
@@ -28,11 +30,11 @@ If one wishes to attempt to future-proof their unit choices, this is not a bad p
 
 Ordering within affiliations is deliberate. Affiliations within tiers are loosely ordered. This is done to emphasize that not all ordering choices are equally significant.
 
-A blue badge indicates that a unit benefits significantly from technical prowess. They may have requirements to unlock their damage, require techniques to successfully compensate for a lack of damage, emphasize tempo control, or gain more than usual from having multiple actions per turn.
+A blue badge indicates that a unit benefits significantly from technical prowess. They may gain more than usual from having multiple actions per turn, emphasize tempo control, have requirements to unlock their damage, or require techniques to successfully compensate for a lack of damage.
 
 A yellow badge indicates that a unit has a notably good support passive. They may be impactful when benched, especially for low-sinner teams. Note that the ranking evaluates fielded performance, not support passives, so this badge merely serves as a footnote on how an identity may stay relevant despite their rank.
 
-A pink badge indicates that a unit performs abnormally well in the context of maximin strategies. They may be an option for optimizing Refraction Railway, but achieving their prime state may require too many resets to be practical in other settings.
+A pink badge indicates that a unit performs abnormally well in the context of maximin strategies. They may be an option for optimizing Refraction Railway, but achieving their prime state may require too many brain-off resets to be practical in other settings.
 
 ---
 
@@ -91,8 +93,8 @@ One must go out of their way to get these sinners to outperform other options. W
 No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
 
 ![Blade Outis](assets/11102.png)
-![G Outis](assets/11103.png)
 ![LCCB Rodion](assets/10903.png)
+![G Outis](assets/11103.png)
 ![Sevens Yi Sang](assets/10102.png)
 ![LCB Heathcliff](assets/10701.png)
 ![LCB Ryoshu](assets/10401.png)
@@ -108,9 +110,9 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 These units should not be prioritized for practical combat.  
 No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
 
+![Chef Gregor](assets/11204.png)
 ![W Faust](assets/10202.png)
 ![W Meursault](assets/10503.png)
-![Chef Gregor](assets/11204.png)
 ![Mariachi Sinclair](assets/11004.png)
 ![Zwei Sinclair](assets/11003.png)
 ![LCB Rodion](assets/10901.png)
@@ -256,7 +258,7 @@ The prime chart represents Faust with Representation Emitter's +2 power active, 
 
 High-end rolls translate to insane clashes and acceptable damage. The haste from S2 also gives her great pulling power, allowing her to force threatening skills to clash with her reliable S2 or pseudo-ego S3. This synergy makes her an extremely competent fighter. Having an evade doesn't hurt either. She actually has better clashes than N Faust and G Gregor, but not quite as much damage or agency.
 
-Besides the standard miserable S1, her stagger thresholds are also remarkably high. This should not be a problem in most cases, especially in teams that are capable of healing her back up past the threshold, but it does make her feel somewhat glassy. The effects in her kit are generally kind of dysfunctional as well, but to use that as an argument against her would be doing her performance disservice.
+Besides the standard miserable S1, her stagger thresholds are also remarkably poor. This should not be a problem in most cases, especially in teams that are capable of healing her back up past the threshold, but it does make her feel somewhat glassy. The effects in her kit are generally kind of dysfunctional as well, but to use that as an argument against her would be doing her performance disservice.
 
 ---
 
@@ -267,7 +269,7 @@ The prime chart represents Don with Overbreathe's effect active. The activation 
 ![](charts/don_quixote_shi.png)
 ![](charts/don_quixote_shi_prime.png)
 
-Shi Don plays similarly to L Faust, where both have insanely high clash power but not enough damage to edge them into S tier. Shi Don exaggerates this behaviour, with even better clashes and worse damage. They both even have haste on S2 and an evade, causing them to behave extremely similarly. Shi Don's passive has a much less restrictive condition though, so obtaining haste from there is far more viable than L Faust's poise count requirement. Notably, she only has two stagger thresholds, making her more forgiving than her kit would suggest.
+Shi Don plays similarly to L Faust, where both have insanely high clash power but not enough damage to edge them into S tier. Shi Don exaggerates this behaviour, with even better clashes and worse damage. They both even have haste on S2 and an evade, causing them to behave extremely similarly. Shi Don's passive has a much less restrictive condition though, so obtaining haste from there is far more viable than L Faust's poise count requirement. Notably, she only has two stagger thresholds, making her more forgiving than intuition would suggest.
 
 Terrible S1 aside, she also has worse damage than L Faust, and being marginally better at clashing doesn't quite compensate for that.
 
@@ -302,7 +304,7 @@ Additionally, bleed is one of the more awkward damage oriented status effects, s
 
 Great damage and good clashes make for a surprisingly workable identity. LCB Outis is one of the few identities with a workable S1, giving her a somewhat unique tempo. The multicoins make it pretty impactful when it connects, and serves to raise her average damage considerably, especially when used to clean up staggered targets. Her kit effects also contribute a lot more damage than is standard, which is great, considering how her numbers weren't bad to begin with. Her evade is remarkably weak, but still an evade nonetheless.
 
-In terms of downsides, having only 26 defense makes her somewhat glassy, and she may be directly outperformed by higher tier damage-oriented identities. Still, if a roster lacks those units, or favours a different tempo, LCB Outis may be a surprisingly decent replacement. 
+In terms of downsides, having only 26 defense makes her glassy, and she may be directly outperformed by higher tier damage-oriented identities. Still, if a roster lacks those units, or favours a different tempo, LCB Outis may be a surprisingly decent replacement. 
 
 ---
 
@@ -337,14 +339,10 @@ More individual writeups may be added later.
 
 The placement of KK Hong Lu in S tier was heavily contested by Nex and heavily defended by the other two. Whether his unique S2 is capable of compensating for his glaring lack of clash power is something individual players are encouraged to decide for themselves.
 
-LCB Outis and LCB Hong Lu used to be firmly placed in A tier, but that was contested by Kervina and Nex. They have been dropped to B tier to make A tier more exclusive. (This is also why they are the only B tier units with writeups.)
+LCB Outis and LCB Hong Lu used to be firmly placed in A tier by LOWERCASE, but that was contested by Kervina and Nex. Both have been dropped to B tier to make A tier more exclusive. (This is also why they are the only B tier units with writeups.)
 
 Blade Outis only deserves the yellow badge if her support passive works when attacking broken abnormality parts. This still requires testing.
 
 Whether G Gregor and Chef Ryoshu should receive a yellow badge was discussed. A slight preference was given to G Gregor, but it was decided that neither of them should receive one for fairness. Their healing is unlikely to make or break a clear, but both are definitely situationally impactful.
 
 One thing to keep in mind is that stronger units do not necessarily correlate with more enjoyment. Weaker sinners tend to compensate their lack of power in their own strange ways, and giving them a chance tends to lead to making some funny memories. Additionally, the game in its current state is easy enough to comfortably clear with just a support unit, so there's no need to worry about accessibility yet. At the end of the day, Limbus Company is still a game, so have some fun with it!
-
----
-
-Limbus Company belongs to Project Moon.
