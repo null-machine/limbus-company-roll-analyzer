@@ -1,18 +1,18 @@
 !!python/object:sinner.Sinner
-name: ishmael_shi_prime
+name: ishmael_shi_prime_partial
 offense: 34
 s1: !!python/object:skill.Skill
-  base_power: 3
+  base_power: 2
   coin_count: 2
   coin_power: 4
   name: flying_sword
 s2: !!python/object:skill.Skill
-  base_power: 5
+  base_power: 4
   coin_count: 4
   coin_power: 4
   name: flashing_slide
 s3: !!python/object:skill.Skill
-  base_power: 6
-  coin_count: 2
-  coin_power: 4
-  name: catch_breath
+  base_power: 1
+  coin_count: 1
+  coin_power: 1
+  name: n/a

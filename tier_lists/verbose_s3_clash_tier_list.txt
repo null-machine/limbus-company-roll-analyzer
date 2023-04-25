@@ -29,7 +29,6 @@ s3 heathcliff_n_corp_prime | infirm_retribution | agg: 16.03 | raw: 40.82 | var:
 s3 hong_lu_liu | crimson_blaze_fist | agg: 16.01 | raw: 29.38 | var: 0.66
 s3 heathcliff_lcb_prime | upheaval | agg: 16.01 | raw: 29.38 | var: 0.66
 s3 rodion_clearance | suppress | agg: 15.61 | raw: 32.2 | var: 0.43
-s3 ishmael_shi_prime | catch_breath | agg: 15.41 | raw: 30.08 | var: 0.43
 s3 ryoshu_chef | i_can_cook_anything | agg: 15.04 | raw: 50.17 | var: 0.68
 s3 heathcliff_n_corp | infirm_retribution | agg: 15.03 | raw: 37.58 | var: 0.69
 s3 heathcliff_lcb | upheaval | agg: 15.01 | raw: 27.22 | var: 0.71
@@ -38,6 +37,7 @@ s3 heathcliff_r_corp_weak | quick_suppression | agg: 13.74 | raw: 59.16 | var: 0
 s3 gregor_liu_prime | perfected_palm_strike | agg: 13.63 | raw: 50.6 | var: 0.45
 s3 ishmael_shi | catch_breath | agg: 13.41 | raw: 25.72 | var: 0.51
 s3 outis_blade | decisive_dive | agg: 13.41 | raw: 25.72 | var: 0.51
+s3 ishmael_shi_prime | catch_breath | agg: 13.41 | raw: 25.72 | var: 0.51
 s3 meursault_liu | perfected_death_fist | agg: 13.37 | raw: 35.32 | var: 0.56
 s3 outis_seven | exploit_the_gap | agg: 13.11 | raw: 36.59 | var: 0.35
 s3 meursault_n_corp | annihilate_heretics | agg: 13.11 | raw: 25.47 | var: 0.38

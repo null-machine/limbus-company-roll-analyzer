@@ -23,7 +23,7 @@ for file in files:
 	plt.savefig(f'charts/{sinner.name}.png')
 	plt.close()
 	sinners.append(sinner)
-	if not sinner.name.endswith('_weak') and not sinner.name.endswith('_prime'):
+	if not sinner.name.endswith('_weak') and not sinner.name.endswith('_prime') and not sinner.name.endswith('_partial'):
 		skills.append(sinner.s1)
 		skills.append(sinner.s2)
 		skills.append(sinner.s3)

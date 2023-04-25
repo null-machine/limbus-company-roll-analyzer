@@ -47,9 +47,14 @@ class Sinner:
 		ax[2].set(ylim=(0, 1.1), xlim=(0, 30), yticks=np.arange(0, 1.1, 0.25), xticks=np.arange(0, 30.1, 2))
 		ax[2].set_title(f'{self.s3.name} | agg: {round(self.s3.aggregate, 2)} | raw: {round(self.s3.damage, 2)} | var: {round(self.s3.variance, 2)}')
 
-		self.aggregate = (2 * self.s1.aggregate + 2 * self.s2.aggregate + self.s3.aggregate) / 5
-		self.variance = (2 * self.s1.variance + 2 * self.s2.variance + self.s3.variance) / 5
-		self.damage = (2 * self.s1.damage + 2 * self.s2.damage + self.s3.damage) / 5
+		if self.name.endswith('_partial'):
+			self.aggregate = (2 * self.s1.aggregate + 2 * self.s2.aggregate) / 4
+			self.variance = (2 * self.s1.variance + 2 * self.s2.variance) / 4
+			self.damage = (2 * self.s1.damage + 2 * self.s2.damage) / 4
+		else:
+			self.aggregate = (2 * self.s1.aggregate + 2 * self.s2.aggregate + self.s3.aggregate) / 5
+			self.variance = (2 * self.s1.variance + 2 * self.s2.variance + self.s3.variance) / 5
+			self.damage = (2 * self.s1.damage + 2 * self.s2.damage + self.s3.damage) / 5
 		
 		fig.suptitle(self.gen_display_str())
 		fig.canvas.manager.set_window_title('Sinner Ultimate Scientific Analysis Model Of Generally Unknown Strategies')

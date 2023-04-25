@@ -1,4 +1,4 @@
-s2 ishmael_shi_prime | flashing_slide | agg: 22.05 | raw: 73.25 | var: 0.6
+s2 ishmael_shi_prime | flashing_slide | agg: 20.05 | raw: 64.53 | var: 0.68
 s2 hong_lu_kurokumo_prime | cloud_cutter | agg: 19.65 | raw: 61.63 | var: 0.69
 s2 ryoshu_seven_prime | upper_slash | agg: 19.4 | raw: 23.0 | var: 0.6
 s2 heathcliff_r_corp_prime | concentrated_fire | agg: 18.64 | raw: 68.21 | var: 0.51

@@ -1,10 +1,10 @@
 s3 don_quixote_w_corp | rip_space | agg: 30.22 | raw: 110.74 | var: 0.92
 s3 heathcliff_r_corp_prime | quick_suppression | agg: 25.28 | raw: 105.56 | var: 0.66
 s3 heathcliff_r_corp | quick_suppression | agg: 24.28 | raw: 99.76 | var: 0.7
-s2 ishmael_shi_prime | flashing_slide | agg: 22.05 | raw: 73.25 | var: 0.6
 s3 ryoshu_chef_prime | i_can_cook_anything | agg: 19.04 | raw: 68.25 | var: 0.5
 s2 heathcliff_r_corp_prime | concentrated_fire | agg: 18.64 | raw: 68.21 | var: 0.51
 s3 ishmael_r_corp_prime | mind_whip | agg: 22.46 | raw: 68.05 | var: 0.79
+s2 ishmael_shi_prime | flashing_slide | agg: 20.05 | raw: 64.53 | var: 0.68
 s2 heathcliff_r_corp | concentrated_fire | agg: 17.64 | raw: 63.57 | var: 0.55
 s2 hong_lu_kurokumo_prime | cloud_cutter | agg: 19.65 | raw: 61.63 | var: 0.69
 s3 ishmael_r_corp | mind_whip | agg: 20.46 | raw: 59.49 | var: 0.9
@@ -63,7 +63,6 @@ s3 hong_lu_kurokumo | cloudburst | agg: 11.11 | raw: 30.17 | var: 0.43
 s3 hong_lu_kurokumo_prime | cloudburst | agg: 11.11 | raw: 30.17 | var: 0.43
 s3 outis_seven_weak | exploit_the_gap | agg: 11.11 | raw: 30.17 | var: 0.43
 s3 heathcliff_shi | flashing_strike | agg: 16.21 | raw: 30.08 | var: 0.65
-s3 ishmael_shi_prime | catch_breath | agg: 15.41 | raw: 30.08 | var: 0.43
 s2 don_quixote_shi | dual_strike | agg: 15.81 | raw: 30.02 | var: 0.67
 s2 don_quixote_shi_prime | dual_strike | agg: 15.81 | raw: 30.02 | var: 0.67
 s2 outis_seven | field_command | agg: 15.91 | raw: 29.75 | var: 0.54
@@ -84,6 +83,7 @@ s1 faust_n_corp_prime | cackle | agg: 12.51 | raw: 25.76 | var: 0.4
 s1 outis_lcb | pulled_blade | agg: 9.31 | raw: 25.76 | var: 0.53
 s3 ishmael_shi | catch_breath | agg: 13.41 | raw: 25.72 | var: 0.51
 s3 outis_blade | decisive_dive | agg: 13.41 | raw: 25.72 | var: 0.51
+s3 ishmael_shi_prime | catch_breath | agg: 13.41 | raw: 25.72 | var: 0.51
 s1 ishmael_r_corp_prime | mind_strike | agg: 13.91 | raw: 25.47 | var: 0.63
 s2 outis_seven_weak | field_command | agg: 13.91 | raw: 25.47 | var: 0.63
 s3 meursault_n_corp | annihilate_heretics | agg: 13.11 | raw: 25.47 | var: 0.38
@@ -96,7 +96,6 @@ s3 sinclair_blade | to_claim_their_bones | agg: 21.3 | raw: 24.2 | var: 0.64
 s2 outis_lcb | backslash | agg: 12.21 | raw: 23.96 | var: 0.57
 s2 ishmael_shi | flashing_slide | agg: 12.41 | raw: 23.54 | var: 0.56
 s2 outis_blade | acupuncture | agg: 12.41 | raw: 23.54 | var: 0.56
-s1 ishmael_shi_prime | flying_sword | agg: 12.41 | raw: 23.54 | var: 0.56
 s1 rodion_n_corp_prime | devoted_hammering | agg: 12.01 | raw: 23.3 | var: 0.58
 s2 rodion_n_corp_prime | zealous_purge | agg: 11.2 | raw: 23.3 | var: 0.29
 s3 outis_lcb | piercing_thrust | agg: 19.9 | raw: 23.28 | var: 0.68
@@ -135,6 +134,7 @@ s2 heathcliff_shi_prime | flying_sword | agg: 17.3 | raw: 19.4 | var: 0.56
 s3 ishmael_lcb | shield_bash | agg: 17.6 | raw: 19.29 | var: 0.66
 s1 ishmael_shi | flying_sword | agg: 10.41 | raw: 19.18 | var: 0.68
 s1 meursault_liu | assault | agg: 10.41 | raw: 19.18 | var: 0.68
+s1 ishmael_shi_prime | flying_sword | agg: 10.41 | raw: 19.18 | var: 0.68
 s2 meursault_liu | stalwart_stance | agg: 9.6 | raw: 19.18 | var: 0.34
 s3 meursault_lcb | des_coups | agg: 6.01 | raw: 18.99 | var: 0.53
 s2 ishmael_r_corp_prime | flaying_surge | agg: 16.9 | raw: 18.62 | var: 0.57

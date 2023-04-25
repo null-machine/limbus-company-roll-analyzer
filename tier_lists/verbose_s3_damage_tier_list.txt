@@ -43,7 +43,6 @@ s3 hong_lu_kurokumo | cloudburst | agg: 11.11 | raw: 30.17 | var: 0.43
 s3 hong_lu_kurokumo_prime | cloudburst | agg: 11.11 | raw: 30.17 | var: 0.43
 s3 outis_seven_weak | exploit_the_gap | agg: 11.11 | raw: 30.17 | var: 0.43
 s3 heathcliff_shi | flashing_strike | agg: 16.21 | raw: 30.08 | var: 0.65
-s3 ishmael_shi_prime | catch_breath | agg: 15.41 | raw: 30.08 | var: 0.43
 s3 hong_lu_liu | crimson_blaze_fist | agg: 16.01 | raw: 29.38 | var: 0.66
 s3 heathcliff_lcb_prime | upheaval | agg: 16.01 | raw: 29.38 | var: 0.66
 s3 rodion_lcb | slay | agg: 9.23 | raw: 28.51 | var: 0.76
@@ -53,6 +52,7 @@ s3 meursault_w_corp | energy_current | agg: 7.81 | raw: 27.3 | var: 0.38
 s3 heathcliff_lcb | upheaval | agg: 15.01 | raw: 27.22 | var: 0.71
 s3 ishmael_shi | catch_breath | agg: 13.41 | raw: 25.72 | var: 0.51
 s3 outis_blade | decisive_dive | agg: 13.41 | raw: 25.72 | var: 0.51
+s3 ishmael_shi_prime | catch_breath | agg: 13.41 | raw: 25.72 | var: 0.51
 s3 meursault_n_corp | annihilate_heretics | agg: 13.11 | raw: 25.47 | var: 0.38
 s3 rodion_kurokumo | sky_clearing_cut | agg: 22.2 | raw: 25.3 | var: 0.7
 s3 rodion_clearance_weak | suppress | agg: 11.8 | raw: 25.3 | var: 0.27

@@ -218,7 +218,7 @@ Cloud cutter.
 
 Contrary to intuition, G Gregor's clashes are virtually identical to Sevens Outis! This is plainly evident when comparing their roll charts and aggregates. The reason for this is, G Gregor has an entire 9 offense level over her, and a difference of 5 levels translates to 1 power in a clash. So even though Sevens Outis has an additional +2 power in every clash due to her skill effects, G Gregor just does that by default. So, in practice, if one of them can win a clash, it's very likely the other can as well. The purpose of this analogy is to emphasize that G Gregor is excellent at clashing. If he fails to win, which is relatively uncommon, his kit provides so much healing that he will generally be able to shrug off lost clashes with little to no consequence. This utility makes him better at pulling dangerous skills away from core DPS units than most other tanks, especially considering how they tend to be too slow to pull clashes. Furthermore, deliberately allowing him to get staggered and healing him up during low pressure effectively makes him immortal in later rounds, since he'll effectively have removed his own stagger thresholds. Piloting him feels like giving the team a regenerating frontal shield, enabling heavy damage payloads (e.g. Cloud Cutter) to land without risking a clash. Of course, he also enables Legerdemain spam, but, everyone knew that already. His numbers are great, he suffers no consequences, and he gives the team a huge amount of agency.
 
-If a weakness had to be chosen, it would be his damage. However, his raw damage is still higher than almost all of the units in lower tiers.
+Despite everything, his numbers aren't high enough for S tier.
 
 ---
 
@@ -269,9 +269,24 @@ The prime chart represents Don with Overbreathe's effect active. The activation 
 ![](charts/don_quixote_shi.png)
 ![](charts/don_quixote_shi_prime.png)
 
-Shi Don plays similarly to L Faust, where both have insanely high clash power but not enough damage to edge them into S tier. Shi Don exaggerates this behaviour, with even better clashes and worse damage. They both even have haste on S2 and an evade, causing them to behave extremely similarly. Shi Don's passive has a much less restrictive condition though, so obtaining haste from there is far more viable than L Faust's poise count requirement. Notably, she only has two stagger thresholds, making her more forgiving than intuition would suggest.
+Shi Don plays similarly to L Faust, where both have insanely high clash power but not enough damage to edge them into S tier. Shi Don exaggerates this behaviour, with even better clashes and worse damage. They both even have haste on S2 and an evade, causing them to behave extremely similarly. Shi Don's passive has a much less restrictive condition, so obtaining haste from there is far more viable than L Faust's poise count requirement. Notably, she only has two stagger thresholds, making her more forgiving than intuition would suggest.
 
 Terrible S1 aside, she also has worse damage than L Faust, and being marginally better at clashing doesn't quite compensate for that.
+
+---
+
+### A Tier: Ishmael - Shi Section 5
+
+The prime chart represents Ishmael with Flashing Strike's additional coins. Snagharpoon's passive is not included in the prime chart for ease of evaluating damage.
+
+![](charts/ishmael_shi.png)
+![](charts/ishmael_shi_prime.png)
+
+Above her health threshold, Shi Ishmael has the damage of Shi Don but not remotely as much clash power. However, dropping below half effectively gives her S tier numbers via a better Cloud Cutter. Having decent numbers on S1 provides a solid baseline damage output as well.
+
+Maintaining her prime state is impractical outside of Refraction Railway. Needing to go through at least one stagger forces a dead turn, and staying there often causes healing options to prioritize her, which may be awkward to manage. If one intends to play her without managing the threshold and trusting it to kick in when necessary, the other members of A tier may be more consistent options.
+
+Additionally, there is speculation that Shi Ishmael at UT2 may be more performant than Shi Ishmael at UT3. Since her S3 is not particularly strong, keeping it out of the skill pool may result in sleeker performance. A similar logic applies to KK Hong Lu.
 
 ---
 
@@ -284,7 +299,7 @@ Due to technical limitations, the normal chart should be used to evaluate clashe
 
 And so an interesting truth comes to light— Sevens Outis is generally worse at clashing than the low rarity clash god trio, and ties with G Gregor in terms of clash strength! But, she applies far more debuffs than the typical identity. Her presence in a team generally makes winning clashes for others easier, with the next turn paralysis on S1 and offense level down on S3. Having a high speed roll of 5-8, a high defense level of 41 and only one stagger threshold also allows her to take a similar role to G Gregor in pulling clashes and tanking the ones she loses.
 
-However, the damage attributed to her defense level down and weakness analyzed debuffs is generally not enough to compensate for her poor numbers, and having lots of effective health is generally not preferable to G Gregor's regen.
+However, the damage attributed to her defense level down and weakness analyzed debuffs is generally not enough to compensate for her poor numbers, and having lots of effective health is generally not preferable to G Gregor's regeneration.
 
 ---
 
@@ -292,9 +307,9 @@ However, the damage attributed to her defense level down and weakness analyzed d
 
 ![](charts/ryoshu_kurokumo.png)
 
-Above average rolls mean above average clashes and above average damage. Notably, she inflicts a healthy amount of bleed count, making the status effect far more impactful. But, having above average damage from statuses won't let her reach the damage contributed by S tier units anytime soon, and doubling down on more bleed just means invoking a greater opportunity cost.
+Above average rolls mean above average clashes and above average damage. Notably, she inflicts a healthy amount of bleed count, making the status effect far more impactful.
 
-Additionally, bleed is one of the more awkward damage oriented status effects, since it relies on the target to attack. Stacking a lot of bleed on a broken part or a staggered enemy that's about to die can feel mildly miserable. Also, KK Ryoshu has arguably has a bit of anti-synergy with KK Hong Lu, since it's dubious whether the extra bleed potency would kill the target faster than simply letting Cloud Cutter perform two extra hits. The other parts of her kit apply on the same turn and are relatively unimpactful. That being said, her numbers are still more than workable.
+But, having above average damage from statuses won't let her reach the damage contributed by S tier units anytime soon, and doubling down on more bleed just means invoking a greater opportunity cost. Additionally, bleed is one of the more awkward damage oriented status effects, since it relies on the target to attack. Stacking a lot of bleed on a broken part or a staggered enemy that's about to die can feel mildly miserable. Also, KK Ryoshu has arguably has a bit of anti-synergy with KK Hong Lu, since it's dubious whether the extra bleed potency would kill the target faster than simply letting Cloud Cutter perform two extra hits. The other parts of her kit apply on the same turn and are relatively unimpactful. That being said, her numbers are still more than workable.
 
 ---
 
@@ -341,7 +356,7 @@ The placement of KK Hong Lu in S tier was heavily contested by Nex and heavily d
 
 LCB Outis and LCB Hong Lu used to be firmly placed in A tier by LOWERCASE, but that was contested by Kervina and Nex. Both have been dropped to B tier to make A tier more exclusive. (This is also why they are the only B tier units with writeups.)
 
-Shi Ishmael used to be in high B tier but was moved to low A tier after consulting the Project Moon community server. The fact that she shares the same raw as W Don without needing her health threshold, alongside her prime performance, was enough to barely edge her in. That being said, individual players are encouraged to evaluate whether sacrificing the stability that high clash power and speed brings makes her worth prioritizing her over the other A tier units. (This is also why she currently lacks a writeup.)
+Shi Ishmael used to be in high B tier but was moved to low A tier after discussion in the Project Moon community server. The fact that she shares the same raw as W Don without needing her health threshold, alongside her prime performance, was enough to barely edge her in. That being said, individual players are encouraged to evaluate whether sacrificing the stability that high clash power and speed brings makes her worth prioritizing her over the other A tier units.
 
 Blade Outis only deserves the yellow badge if her support passive works when attacking broken abnormality parts. This still requires testing.
 

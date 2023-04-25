@@ -1,13 +1,15 @@
 heathcliff_r_corp_prime | agg: 17.68 | raw: 63.99 | var: 0.48
 heathcliff_r_corp | agg: 16.68 | raw: 59.58 | var: 0.52
-ishmael_shi_prime | agg: 16.87 | raw: 44.73 | var: 0.55
 don_quixote_w_corp | agg: 16.97 | raw: 44.48 | var: 0.64
 heathcliff_r_corp_weak | agg: 12.24 | raw: 43.57 | var: 0.49
 ryoshu_chef_prime | agg: 15.08 | raw: 40.32 | var: 0.59
 faust_n_corp_prime | agg: 15.2 | raw: 39.31 | var: 0.44
+ishmael_shi_prime | agg: 14.87 | raw: 38.63 | var: 0.64
+ishmael_shi_prime_partial | agg: 14.23 | raw: 38.59 | var: 0.75
 ryoshu_chef | agg: 14.28 | raw: 36.7 | var: 0.63
 hong_lu_kurokumo_prime | agg: 13.72 | raw: 34.71 | var: 0.62
 faust_n_corp | agg: 13.2 | raw: 33.38 | var: 0.52
+hong_lu_kurokumo_prime_partial | agg: 13.38 | raw: 33.17 | var: 0.73
 faust_l_corp_prime | agg: 15.35 | raw: 31.36 | var: 0.52
 ishmael_r_corp_prime | agg: 16.82 | raw: 31.24 | var: 0.64
 don_quixote_w_corp_weak | agg: 13.16 | raw: 30.92 | var: 0.62

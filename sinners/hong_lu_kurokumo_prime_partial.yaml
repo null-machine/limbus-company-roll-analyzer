@@ -1,0 +1,18 @@
+!!python/object:sinner.Sinner
+name: hong_lu_kurokumo_prime_partial
+offense: 32
+s1: !!python/object:skill.Skill
+  base_power: 3
+  coin_count: 1
+  coin_power: 6
+  name: cleave
+s2: !!python/object:skill.Skill
+  base_power: 4
+  coin_count: 4
+  coin_power: 4
+  name: cloud_cutter
+s3: !!python/object:skill.Skill
+  base_power: 1
+  coin_count: 1
+  coin_power: 1
+  name: n/a
