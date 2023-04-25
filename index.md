@@ -21,7 +21,7 @@ If one wishes to attempt to future-proof their unit choices, this is not a bad p
 
 **What this isn't:**
 - A mirror dungeon tier list. Animation speeds and performance in undertuned stages with arbitrary artifacts play absolutely no role in any of these rankings.
-- A story tier list. [Virtually any strategy](https://www.youtube.com/playlist?list=PL9PkdtklMNOv6vDgTHwNvtsLecK0G7GrR) can work for story stages. This means that they generally cannot provide meaningful feedback on a sinner's future viability.
+- A story tier list. [Story stages are highly accessible.](https://www.youtube.com/playlist?list=PL9PkdtklMNOv6vDgTHwNvtsLecK0G7GrR) This means that they generally cannot provide meaningful feedback on a sinner's future viability.
 - An autobattle tier list. Knowing how to redirect clashes, cancel enemy actions, pace skill pools and manipulate skill order within a turn is critical for maximizing certain identities.
 
 ---
@@ -61,6 +61,7 @@ These units win clashes that units in lower tiers couldn't, and can be relied up
 ![Sevens Ryoshu](assets/10402.png)
 ![L Faust](assets/10203.png)
 ![Shi Don](assets/10303.png)
+![Shi Ishmael](assets/10803.png)
 ![KK Ryoshu](assets/10403.png)
 
 ---
@@ -72,7 +73,6 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 
 ![LCB Outis](assets/11101.png)
 ![LCB Hong Lu](assets/10601.png)
-![Shi Ishmael](assets/10803.png)
 ![Shi Heathcliff](assets/10702.png)
 ![KK Rodion](assets/10902.png)
 ![Blade Sinclair](assets/11002.png)
@@ -340,6 +340,8 @@ More individual writeups may be added later.
 The placement of KK Hong Lu in S tier was heavily contested by Nex and heavily defended by the other two. Whether his unique S2 is capable of compensating for his glaring lack of clash power is something individual players are encouraged to decide for themselves.
 
 LCB Outis and LCB Hong Lu used to be firmly placed in A tier by LOWERCASE, but that was contested by Kervina and Nex. Both have been dropped to B tier to make A tier more exclusive. (This is also why they are the only B tier units with writeups.)
+
+Shi Ishmael used to be in high B tier but was moved to low A tier after consulting with a server member. The fact that she shares the same raw as W Don without needing her health threshold, alongside her prime performance, was enough to barely edge her in. That being said, individual players are encouraged to evaluate whether sacrificing the stability that high clash power and speed brings makes her worth prioritizing her over the other A tier units. (This is also why she currently lacks a writeup.)
 
 Blade Outis only deserves the yellow badge if her support passive works when attacking broken abnormality parts. This still requires testing.
 
