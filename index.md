@@ -170,11 +170,11 @@ A Quick Suppression at 6+ speed can perform a similar role to a charged Rip Spac
 
 ![](charts/ryoshu_chef.png)
 
-Unlike W Don and R Heath, Chef Ryoshu has no limitations on when she can fire her skills. Her S2 is excellent at clashing, and her S3 has remarkably high damage (but not to the same degree as RS and QS). As of Hell's Chicken, there is a possible bug that causes S3 to experience reversed scaling with enemy defense, so it is unknown how it will behave in the future. Regardless, she can be thought of as a consistently strong fighter, as opposed to the highs and lows of W Don and R Heathcliff. Her numbers are definitely there, and she can be expected to clash and deal damage very reliably. Having an evade and no ammo limitations opens up low-sinner strategies as well. The haste on evade win is certainly not unwelcome.
+Unlike W Don and R Heath, Chef Ryoshu has no limitations on when she can fire her skills. Her S2 is excellent at clashing, and her S3 has remarkably high damage (but not to the same degree as RS and QS). As of Hell's Chicken, there is a possible bug that causes S3 to experience reversed scaling with enemy defense, so it is unknown how it will behave in the future. (This still requires testing.) Regardless, she can be thought of as a consistently strong fighter, as opposed to the highs and lows of W Don and R Heathcliff. Her numbers are definitely there, and she can be expected to clash and deal damage very reliably. Having an evade and no ammo limitations opens up low-sinner strategies as well. The haste on evade is certainly not unwelcome either.
 
 Her kit itself is a bit strange; anti-heal and heal on kill are both rather stage dependent. But, with numbers like that, being a bit dilapidated doesn't define her performance.
 
-It's worth mentioning that her 4th Match Flame passive can theoretically buff her S3, adding tempo to her kit and bringing the raw value up to 50.17 → 68.25, but playing around that is an undertaking most players will not find practical. Maybe it'll show up as a deranged RR tactic...
+It's worth mentioning that her 4th Match Flame passive can theoretically buff her S3, adding tempo to her kit and bringing the raw value up 50.17 → 68.25, but playing around that is an undertaking most players will not find practical. Maybe it'll show up as a deranged RR tactic...
 
 ---
 
