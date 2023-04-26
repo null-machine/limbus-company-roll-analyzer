@@ -5,12 +5,10 @@ don_quixote_shi | agg: 15.24 | raw: 22.36 | var: 0.66
 ishmael_r_corp | agg: 14.82 | raw: 26.96 | var: 0.74
 ryoshu_seven | agg: 14.7 | raw: 23.23 | var: 0.63
 ryoshu_chef | agg: 14.28 | raw: 36.7 | var: 0.63
-ishmael_shi_prime_partial | agg: 14.23 | raw: 38.59 | var: 0.75
 ryoshu_kurokumo | agg: 13.81 | raw: 23.68 | var: 0.52
 gregor_g_corp | agg: 13.61 | raw: 26.45 | var: 0.52
 outis_seven | agg: 13.47 | raw: 24.1 | var: 0.43
 rodion_kurokumo | agg: 13.4 | raw: 19.14 | var: 0.53
-hong_lu_kurokumo_prime_partial | agg: 13.38 | raw: 33.17 | var: 0.73
 faust_l_corp | agg: 13.35 | raw: 26.88 | var: 0.61
 faust_n_corp | agg: 13.2 | raw: 33.38 | var: 0.52
 heathcliff_shi | agg: 12.76 | raw: 16.74 | var: 0.65

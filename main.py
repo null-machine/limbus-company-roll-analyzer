@@ -43,7 +43,7 @@ tier_list.close()
 
 tier_list = open('tier_lists/sinner_clash_tier_list.txt', 'w+')
 for sinner in sinners:
-	if not sinner.name.endswith('_weak') and not sinner.name.endswith('_prime'):
+	if not sinner.name.endswith('_weak') and not sinner.name.endswith('_prime') and not sinner.name.endswith('_partial'):
 		tier_list.write(f'{sinner.gen_display_str()}\n')
 tier_list.close()
 
@@ -57,7 +57,7 @@ tier_list.close()
 
 tier_list = open('tier_lists/sinner_damage_tier_list.txt', 'w+')
 for sinner in sinners:
-	if not sinner.name.endswith('_weak') and not sinner.name.endswith('_prime'):
+	if not sinner.name.endswith('_weak') and not sinner.name.endswith('_prime') and not sinner.name.endswith('_partial'):
 		tier_list.write(f'{sinner.gen_display_str()}\n')
 tier_list.close()
 
