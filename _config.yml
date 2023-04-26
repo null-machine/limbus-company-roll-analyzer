@@ -1,5 +1,1 @@
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
-layout: single
-toc: true
-toc_sticky: true
+remote_theme: mmistakes/minimal-mistakes@4.24.0
