@@ -3,8 +3,6 @@ toc: true
 toc_sticky: true
 ---
 
-# Yet Another Limbus Company Tier List
-
 Written and maintained by a stats-obsessed psychopath, LOWERCASE#0357.
 
 Critically reviewed by Nex#7448 and Kervina.
