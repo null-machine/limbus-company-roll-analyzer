@@ -2,6 +2,9 @@
 title: Yet Another Limbus Company Tier List
 ---
 
+<meta property="og:title" content="Yet Another Limbus Company Tier List">
+<meta property="og:description" content="A ranking based on numerical analysis and supported by experience.">
+
 # Yet Another Limbus Company Tier List
 
 Written and maintained by a stats-obsessed psychopath, LOWERCASE#0357.
