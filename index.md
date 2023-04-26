@@ -3,7 +3,7 @@ title: Yet Another Limbus Company Tier List
 ---
 
 <meta property="og:title" content="Yet Another Limbus Company Tier List">
-<meta property="og:description" content="A ranking based on numerical analysis and supported by experience.">
+<meta property="og:description" content="A ranking based on numerical analysis, supported by experience.">
 
 # Yet Another Limbus Company Tier List
 
@@ -38,9 +38,9 @@ If one wishes to attempt to future-proof their unit choices, this is not a bad p
 
 Ordering within affiliations is deliberate. Affiliations within tiers are loosely ordered. This is done to emphasize that not all ordering choices are equally significant.
 
-A blue badge indicates that a unit benefits significantly from technical prowess. They may gain more than usual from having multiple actions per turn, emphasize tempo control, have requirements to unlock their damage, or require techniques to successfully compensate for a lack of damage.
+A blue badge indicates that a unit benefits significantly from technical prowess. They may gain more than usual from having multiple actions per turn, emphasize tempo control or require specific techniques to compensate for a lack of damage.
 
-A yellow badge indicates that a unit has a notably good support passive. They may be impactful when benched, especially for low-sinner teams. Note that the ranking evaluates fielded performance, not support passives, so this badge merely serves as a footnote on how an identity may stay relevant despite their rank.
+A yellow badge indicates that a unit has a notably good support passive. They may be impactful when benched, especially for low-sinner teams. Note that the ranking evaluates fielded performance, not support passives, so this badge serves as a footnote on how an identity may stay relevant despite their rank.
 
 A pink badge indicates that a unit performs abnormally well in the context of maximin strategies. They may be an option for optimizing Refraction Railway, but achieving their prime state may require too many brain-off resets to be practical in other settings.
 
