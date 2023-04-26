@@ -1,1 +1,8 @@
-remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-default-layout
+
+title: Yet Another Limbus Company Tier List
+description: By a stats-obsessed psychopath.
+theme: just-the-docs
+
+url: https://null-machine.github.io/limbus-company-roll-analyzer/
