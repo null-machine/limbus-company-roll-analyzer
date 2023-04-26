@@ -1,6 +1,7 @@
 # Yet Another Limbus Company Tier List
 
-Written and maintained by a stats-obsessed psychopath, LOWERCASE#0357.  
+Written and maintained by a stats-obsessed psychopath, LOWERCASE#0357.
+
 Critically reviewed by Nex#7448 and Kervina.
 
 Limbus Company belongs to Project Moon.
@@ -235,6 +236,19 @@ However, her numbers are held back by her somewhat miserable 32 offense level. S
 
 ---
 
+### A Tier: Outis - Seven Section 6 Director
+
+Due to technical limitations, the normal chart should be used to evaluate clashes, and the weak chart should be used to evaluate damage.
+
+![](charts/outis_seven.png)
+![](charts/outis_seven_weak.png)
+
+And so an interesting truth comes to light— Sevens Outis is generally worse at clashing than the low rarity clash god trio, and ties with G Gregor in terms of clash strength! But, she applies far more debuffs than the typical identity. Her presence in a team generally makes winning clashes for others easier, with the next turn paralysis on S1 and offense level down on S3. Having a high speed roll of 5-8, a high defense level of 41 and only one stagger threshold also allows her to take a similar role to G Gregor in pulling clashes and tanking the ones she loses.
+
+However, the damage attributed to her defense level down and weakness analyzed debuffs is generally not enough to compensate for her poor numbers, and having lots of effective health is generally not preferable to G Gregor's regeneration.
+
+---
+
 ### A Tier: Ryoshu - Seven Section 6
 
 The prime chart represents Ryoshu with Upper Slash's effect and next turn +1 attack power active.
@@ -287,19 +301,6 @@ Above her health threshold, Shi Ishmael has the damage of Shi Don but not remote
 Maintaining her prime state is impractical outside of Refraction Railway. Needing to go through at least one stagger forces a dead turn, and staying there often causes healing options to prioritize her, which may be awkward to manage. If one intends to play her without managing the threshold and trusting it to kick in when necessary, the other members of A tier may be more consistent options.
 
 Additionally, there is speculation that Shi Ishmael at UT2 may be more performant than Shi Ishmael at UT3. Since her S3 is not particularly strong, keeping it out of the skill pool may result in sleeker performance. A similar logic applies to KK Hong Lu.
-
----
-
-### A Tier: Outis - Seven Section 6 Director
-
-Due to technical limitations, the normal chart should be used to evaluate clashes, and the weak chart should be used to evaluate damage.
-
-![](charts/outis_seven.png)
-![](charts/outis_seven_weak.png)
-
-And so an interesting truth comes to light— Sevens Outis is generally worse at clashing than the low rarity clash god trio, and ties with G Gregor in terms of clash strength! But, she applies far more debuffs than the typical identity. Her presence in a team generally makes winning clashes for others easier, with the next turn paralysis on S1 and offense level down on S3. Having a high speed roll of 5-8, a high defense level of 41 and only one stagger threshold also allows her to take a similar role to G Gregor in pulling clashes and tanking the ones she loses.
-
-However, the damage attributed to her defense level down and weakness analyzed debuffs is generally not enough to compensate for her poor numbers, and having lots of effective health is generally not preferable to G Gregor's regeneration.
 
 ---
 

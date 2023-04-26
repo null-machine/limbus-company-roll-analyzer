@@ -1,9 +1,9 @@
-# remote_theme: mmistakes/minimal-mistakes@4.24.0
+---
+toc: true
+toc_sticky: true
+---
 
-# plugins:
-# - jekyll-include-cache
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 
-# ---
-# toc: true
-# toc_sticky: true
-# ---
+plugins:
+- jekyll-include-cache
