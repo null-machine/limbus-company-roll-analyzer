@@ -1,9 +1,3 @@
-<!-- ---
-title: Yet Another Limbus Company Tier List
-toc: true
-toc_sticky: true
---- -->
-
 # Yet Another Limbus Company Tier List
 
 Written and maintained by a stats-obsessed psychopath, LOWERCASE#0357.
