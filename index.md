@@ -65,8 +65,8 @@ These units win clashes that units in lower tiers couldn't, and can be relied up
 
 ![G Gregor](assets/11203.png)
 ![R Ishmael](assets/10802.png)
-![Sevens Outis](assets/11104.png)
-![Sevens Ryoshu](assets/10402.png)
+![7S Outis](assets/11104.png)
+![7S Ryoshu](assets/10402.png)
 ![L Faust](assets/10203.png)
 ![Shi Don](assets/10303.png)
 ![Shi Ishmael](assets/10803.png)
@@ -82,8 +82,8 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 ![LCB Outis](assets/11101.png)
 ![LCB Hong Lu](assets/10601.png)
 ![KK Rodion](assets/10902.png)
-![Blade Sinclair](assets/11002.png)
-![Blade Yi Sang](assets/10103.png)
+![BL Sinclair](assets/11002.png)
+![BL Yi Sang](assets/10103.png)
 ![Shi Heathcliff](assets/10702.png)
 ![Liu Gregor](assets/11202.png)
 ![Liu Hong Lu](assets/10604.png)
@@ -100,10 +100,10 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 One must go out of their way to get these sinners to outperform other options. Whatever specialties they have are likely to be easily made redundant, and their rolls are subpar.  
 No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
 
-![Blade Outis](assets/11102.png)
+![BL Outis](assets/11102.png)
 ![LCCB Rodion](assets/10903.png)
 ![G Outis](assets/11103.png)
-![Sevens Yi Sang](assets/10102.png)
+![7S Yi Sang](assets/10102.png)
 ![LCB Heathcliff](assets/10701.png)
 ![LCB Ryoshu](assets/10401.png)
 ![LCB Don Quixote](assets/10301.png)
@@ -224,7 +224,7 @@ Cloud cutter.
 
 ![](charts/gregor_g_corp.png)
 
-Contrary to intuition, G Gregor's clashes are virtually identical to Sevens Outis! This is plainly evident when comparing their roll charts and aggregates. The reason for this is, G Gregor has an entire 9 offense level over her, and a difference of 5 levels translates to 1 power in a clash. So even though Sevens Outis has an additional +2 power in every clash due to her skill effects, G Gregor just does that by default. So, in practice, if one of them can win a clash, it's very likely the other can as well. The purpose of this analogy is to emphasize that G Gregor is excellent at clashing. If he fails to win, which is relatively uncommon, his kit provides so much healing that he will generally be able to shrug off lost clashes with little to no consequence. This utility makes him better at pulling dangerous skills away from core DPS units than most other tanks, especially considering how they tend to be too slow to pull clashes. Furthermore, deliberately allowing him to get staggered and healing him up during low pressure effectively makes him immortal in later rounds, since he'll effectively have removed his own stagger thresholds. Piloting him feels like giving the team a regenerating frontal shield, enabling heavy damage payloads (e.g. Cloud Cutter) to land without risking a clash. Of course, he also enables Legerdemain spam, but, everyone knew that already. His numbers are great, he suffers no consequences, and he gives the team a huge amount of agency.
+Contrary to intuition, G Gregor's clashes are virtually identical to 7S Outis! This is plainly evident when comparing their roll charts and aggregates. The reason for this is, G Gregor has an entire 9 offense level over her, and a difference of 5 levels translates to 1 power in a clash. So even though 7S Outis has an additional +2 power in every clash due to her skill effects, G Gregor just does that by default. So, in practice, if one of them can win a clash, it's very likely the other can as well. The purpose of this analogy is to emphasize that G Gregor is excellent at clashing. If he fails to win, which is relatively uncommon, his kit provides so much healing that he will generally be able to shrug off lost clashes with little to no consequence. This utility makes him better at pulling dangerous skills away from core DPS units than most other tanks, especially considering how they tend to be too slow to pull clashes. Furthermore, deliberately allowing him to get staggered and healing him up during low pressure effectively makes him immortal in later rounds, since he'll effectively have removed his own stagger thresholds. Piloting him feels like giving the team a regenerating frontal shield, enabling heavy damage payloads (e.g. Cloud Cutter) to land without risking a clash. Of course, he also enables Legerdemain spam, but, everyone knew that already. His numbers are great, he suffers no consequences, and he gives the team a huge amount of agency.
 
 Despite everything, his numbers aren't high enough for S tier.
 
@@ -250,7 +250,7 @@ Due to technical limitations, the normal chart should be used to evaluate clashe
 ![](charts/outis_seven.png)
 ![](charts/outis_seven_weak.png)
 
-And so an interesting truth comes to light— Sevens Outis is generally worse at clashing than the low rarity clash god trio, and ties with G Gregor in terms of clash strength! But, she applies far more debuffs than the typical identity. Her presence in a team generally makes winning clashes for others easier, with the next turn paralysis on S1 and offense level down on S3. Having a high speed roll of 5-8, a high defense level of 41 and only one stagger threshold also allows her to take a similar role to G Gregor in pulling clashes and tanking the ones she loses.
+And so an interesting truth comes to light— 7S Outis is generally worse at clashing than the low rarity clash god trio, and ties with G Gregor in terms of clash strength! But, she applies far more debuffs than the typical identity. Her presence in a team generally makes winning clashes for others easier, with the next turn paralysis on S1 and offense level down on S3. Having a high speed roll of 5-8, a high defense level of 41 and only one stagger threshold also allows her to take a similar role to G Gregor in pulling clashes and tanking the ones she loses.
 
 However, the damage attributed to her defense level down and weakness analyzed debuffs is generally not enough to compensate for her poor numbers, and having lots of effective health is generally not preferable to G Gregor's regeneration.
 
@@ -263,7 +263,7 @@ The prime chart represents Ryoshu with Upper Slash's effect and next turn +1 att
 ![](charts/ryoshu_seven.png)
 ![](charts/ryoshu_seven_prime.png)
 
-Sevens Ryoshu heralds the low rarity clash god trio with L Faust and Shi Don. Her raw damage is more concentrated in S3 and lower overall than either of them. But, she successfully compensates for that with kit effects powerful enough to make her the best slash support in the game, which get even more powerful in low-sinner teams. Besides that, her skill effects also press the advantage of her frequent clash wins by giving her even more power and damage.
+7S Ryoshu heralds the low rarity clash god trio with L Faust and Shi Don. Her raw damage is more concentrated in S3 and lower overall than either of them. But, she successfully compensates for that with kit effects powerful enough to make her the best slash support in the game, which get even more powerful in low-sinner teams. Besides that, her skill effects also press the advantage of her frequent clash wins by giving her even more power and damage.
 
 Aside from the seemingly obligatory miserable S1, she also lacks an evade, reducing her viability in low-sinner teams. 
 
@@ -344,17 +344,50 @@ His kit effects contribute less damage than is standard, but the numbers make hi
 
 ---
 
-<!-- ### C Tier: Heathcliff - Shi Section 5
+### B Tier: Rodion - Kurokumo Wakashu
+
+![](charts/rodion_kurokumo.png)
+
+With serviceable rolls and a mildly clunky kit, KK Rodion is playable but generally unremarkable. She has notably high base power on her S2 and S3, giving her an edge in cases where everyone is forced to roll tails.  
+
+Her S3 effects are rather restrictive due to lacking count for both her bleed and poise. This will require additional effort to build around if one wishes to maximize them. Although she can achieve a powerful tempo with her passive, finding situations that favour countering over clashing requires a certain amount of creativity.
+
+---
+
+### B Tier: Sinclair - Blade Lineage Salsu
+
+![](charts/sinclair_blade.png)
+
+While 7S Ryoshu, L Faust and Shi Don achieve excellence at their best, BL Yi Sang and BL Sinclair are capable of performing consistently in dicey situations. The distinction comes from how Limbus Company balances their skills— the former has high coin power and low base power, and vice versa. Furthermore, most the former have evades, and these two have counters, furthering their minimax philosophy. This causes the former trio to have amazing rolls once scaled to 95% heads, while the latter will remain consistent but relatively unimpactful. This is represented by the former's high variance scores, and vice versa. If consistency is what one seeks, these two are likely to perform the same regardless of whether they're rolling heads or tails, giving them fairly good low sanity tolerance. Unlike BL Yi Sang, BL Sinclair's S3 can function as a pseudo-ego. His kit effects are relatively functional as well, with the rare poise count on S1, and an accessible yet reasonably impactful passive.
+
+However, in this snowball, high sanity meta where 95% heads is fairly commonplace, units that trade coin power for base power tend to underperform. Despite how consistently his S2 and S1 can achieve their expected clash power, they probably will still rely on the opposing skill to low roll due to their low aggregate, ironically making him generally less consistent than coin power oriented units. 
+
+---
+
+### B Tier: Yi Sang - Blade Lineage Salsu
+
+![](charts/yi_sang_blade.png)
+
+BL Yi Sang is an exaggeration of BL Sinclair, with the lowest variance in the game and no aggregate to make use of it. His S2 and S3 can be expected to perform the same regardless of sanity. Having poise count on both his S2 and passive makes him relatively okay at stacking it as well, giving him a decent amount of power from kit effects. Flank Thrust has remarkably high raw damage, which can be attributed to being a multicoin with high offense level.
+
+However, his horrendous lack of high rolls will make his clashes either extremely safe or reliant on the enemy to flip tails (most often the latter).
+
+---
+
+### B Tier: Heathcliff - Shi Section 5
 
 The prime chart represents Heathcliff under 25% HP and with Bodysack active.
 
 ![](charts/heathcliff_shi.png)
 ![](charts/heathcliff_shi_prime.png)
 
-His clashes are actually pretty great. He might be viable if he's played like a normal fighter and is given a source of healing to keep him topped off from the S3 self-damage. But, after consulting someone who has an UT3 Shi Heathcliff, there are probably safer investments than this...
+His clashes are actually pretty great. He might be viable if he's played like a normal fighter and is given a source of healing to keep him topped off from the S3 self-damage. Playing around his 25% health threshold is likely not recommended. But, after consulting someone who has an UT3 Shi Heathcliff, there are probably safer investments than this...
 
-![](assets/shi_heathcliff_review.png) -->
-More individual writeups may be added later.
+![](assets/shi_heathcliff_review.png)
+
+---
+
+More individual writeups may be added later. The three Liu identities are next.
 
 ---
 
@@ -366,7 +399,7 @@ LCB Outis and LCB Hong Lu used to be firmly placed in A tier by LOWERCASE, but t
 
 Shi Ishmael used to be in high B tier but was moved to low A tier after discussion in the Project Moon community server. The fact that she shares the same raw as W Don without needing her health threshold, alongside her prime performance, was enough to barely edge her in. That being said, individual players are encouraged to evaluate whether sacrificing the stability that high clash power and speed brings makes her worth prioritizing her over the other A tier units.
 
-Blade Outis only deserves the yellow badge if her support passive works when attacking broken abnormality parts. This still requires testing.
+BL Outis only deserves the yellow badge if her support passive works when attacking broken abnormality parts. This still requires testing.
 
 Whether G Gregor and Chef Ryoshu should receive a yellow badge was discussed. A slight preference was given to G Gregor, but it was decided that neither of them should receive one for fairness. Their healing is unlikely to make or break a clear, but both are definitely situationally impactful.
 
