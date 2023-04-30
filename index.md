@@ -358,9 +358,9 @@ Her S3 effects are rather restrictive due to lacking count for both her bleed an
 
 ![](charts/sinclair_blade.png)
 
-While 7S Ryoshu, L Faust and Shi Don achieve excellence at their best, BL Yi Sang and BL Sinclair are capable of performing consistently in dicey situations. The distinction comes from how Limbus Company balances their skills— the former has high coin power and low base power, and vice versa. Furthermore, most the former have evades, and these two have counters, furthering their minimax philosophy. This causes the former trio to have amazing rolls once scaled to 95% heads, while the latter will remain consistent but relatively unimpactful. This is represented by the former's high variance scores, and vice versa. If consistency is what one seeks, these two are likely to perform the same regardless of whether they're rolling heads or tails, giving them fairly good low sanity tolerance. Unlike BL Yi Sang, BL Sinclair's S3 can function as a pseudo-ego. His kit effects are relatively functional as well, with the rare poise count on S1, and an accessible yet reasonably impactful passive.
+While 7S Ryoshu, L Faust and Shi Don achieve excellence at their best, BL Yi Sang and BL Sinclair are capable of performing consistently in dicey situations. The distinction comes from how their skills are balanced— the former has high coin power and low base power, and vice versa. Furthermore, most the former have evades, and these two have counters, furthering this minimax philosophy. This causes the former trio to have amazing rolls once scaled to 95% heads, while the latter will remain consistent but relatively unimpactful. This is represented by the former's high variance scores, and vice versa. If consistency is what one seeks, these two are likely to perform the same regardless of whether they're rolling heads or tails, giving them fairly good low sanity tolerance. Unlike BL Yi Sang, BL Sinclair's S3 can function as a pseudo-ego. His kit effects are relatively functional as well, with the rare poise count on S1, and an accessible yet reasonably impactful passive.
 
-However, in this snowball, high sanity meta where 95% heads is fairly commonplace, units that trade coin power for base power tend to underperform. Despite how consistently his S2 and S1 can achieve their expected clash power, they probably will still rely on the opposing skill to low roll due to their low aggregate, ironically making him generally less consistent than coin power oriented units. 
+However, in this snowball, high sanity meta where 95% heads is fairly commonplace, units that trade coin power for base power tend to underperform. Despite how consistently his S2 and S1 can achieve their expected clash power, they probably will still rely on the opposing skill to low roll due to their low aggregate, ironically making him arguably less consistent than coin power oriented units. 
 
 ---
 
@@ -370,7 +370,7 @@ However, in this snowball, high sanity meta where 95% heads is fairly commonplac
 
 BL Yi Sang is an exaggeration of BL Sinclair, with the lowest variance in the game and no aggregate to make use of it. His S2 and S3 can be expected to perform the same regardless of sanity. Having poise count on both his S2 and passive makes him relatively okay at stacking it as well, giving him a decent amount of power from kit effects. Flank Thrust has remarkably high raw damage, which can be attributed to being a multicoin with high offense level.
 
-However, his horrendous lack of high rolls will make his clashes either extremely safe or reliant on the enemy to flip tails (most often the latter).
+However, his horrendous lack of high rolls will make his clashes either extremely safe or reliant on the enemy to flip tails (most often the latter). Analysis that applies to BL Sinclair can generally apply to BL Yi Sang, and vice versa.
 
 ---
 
@@ -381,7 +381,9 @@ The prime chart represents Heathcliff under 25% HP and with Bodysack active.
 ![](charts/heathcliff_shi.png)
 ![](charts/heathcliff_shi_prime.png)
 
-His clashes are actually pretty great. He might be viable if he's played like a normal fighter and is given a source of healing to keep him topped off from the S3 self-damage. Playing around his 25% health threshold is likely not recommended. But, after consulting someone who has an UT3 Shi Heathcliff, there are probably safer investments than this...
+His clashes are actually pretty great. He might be viable if he's played like a normal fighter and is given a source of healing to keep him topped off from the S3 self-damage.
+
+But, after consulting someone who has an UT3 Shi Heathcliff, there are probably safer investments than this...
 
 ![](assets/shi_heathcliff_review.png)
 
