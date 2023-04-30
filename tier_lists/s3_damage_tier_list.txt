@@ -4,8 +4,8 @@ s3 ishmael_r_corp | mind_whip | agg: 20.46 | raw: 59.49 | var: 0.9
 s3 ryoshu_seven | swash | agg: 19.28 | raw: 51.75 | var: 0.67
 s3 ryoshu_chef | i_can_cook_anything | agg: 15.04 | raw: 50.17 | var: 0.68
 s3 gregor_g_corp | eviscerate | agg: 12.83 | raw: 47.33 | var: 0.49
+s3 faust_l_corp | opportunistic_slash | agg: 25.33 | raw: 46.82 | var: 0.79
 s3 gregor_liu | perfected_palm_strike | agg: 12.63 | raw: 46.0 | var: 0.5
-s3 faust_l_corp | opportunistic_slash | agg: 22.62 | raw: 43.46 | var: 0.62
 s3 rodion_n_corp | ironclad_retribution | agg: 12.03 | raw: 42.11 | var: 0.53
 s3 yi_sang_blade | flank_thrust | agg: 12.06 | raw: 38.98 | var: 0.18
 s3 heathcliff_n_corp | infirm_retribution | agg: 15.03 | raw: 37.58 | var: 0.69

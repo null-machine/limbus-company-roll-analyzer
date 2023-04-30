@@ -1,8 +1,8 @@
 s3 don_quixote_w_corp | rip_space | agg: 30.22 | raw: 110.74 | var: 0.92
 s3 hong_lu_tingtang | mutilate | agg: 29.35 | raw: 34.58 | var: 0.82
+s3 faust_l_corp | opportunistic_slash | agg: 25.33 | raw: 46.82 | var: 0.79
 s3 don_quixote_shi | overbreathe | agg: 24.35 | raw: 28.45 | var: 0.83
 s3 heathcliff_r_corp | quick_suppression | agg: 24.28 | raw: 99.76 | var: 0.7
-s3 faust_l_corp | opportunistic_slash | agg: 22.62 | raw: 43.46 | var: 0.62
 s3 rodion_kurokumo | sky_clearing_cut | agg: 22.2 | raw: 25.3 | var: 0.7
 s3 sinclair_blade | to_claim_their_bones | agg: 21.3 | raw: 24.2 | var: 0.64
 s3 ishmael_r_corp | mind_whip | agg: 20.46 | raw: 59.49 | var: 0.9

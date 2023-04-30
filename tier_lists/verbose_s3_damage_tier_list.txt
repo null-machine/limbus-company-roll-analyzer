@@ -7,15 +7,15 @@ s3 ishmael_r_corp | mind_whip | agg: 20.46 | raw: 59.49 | var: 0.9
 s3 heathcliff_r_corp_weak | quick_suppression | agg: 13.74 | raw: 59.16 | var: 0.59
 s3 ryoshu_seven_prime | swash | agg: 20.28 | raw: 55.2 | var: 0.62
 s3 ryoshu_seven | swash | agg: 19.28 | raw: 51.75 | var: 0.67
+s3 faust_l_corp_prime | opportunistic_slash | agg: 27.33 | raw: 51.3 | var: 0.72
 s3 don_quixote_lcb_prime | for_justice | agg: 19.48 | raw: 50.62 | var: 0.66
 s3 gregor_liu_prime | perfected_palm_strike | agg: 13.63 | raw: 50.6 | var: 0.45
 s3 ryoshu_chef | i_can_cook_anything | agg: 15.04 | raw: 50.17 | var: 0.68
-s3 faust_l_corp_prime | opportunistic_slash | agg: 24.62 | raw: 47.94 | var: 0.56
 s3 gregor_g_corp | eviscerate | agg: 12.83 | raw: 47.33 | var: 0.49
+s3 faust_l_corp | opportunistic_slash | agg: 25.33 | raw: 46.82 | var: 0.79
 s3 rodion_n_corp_prime | ironclad_retribution | agg: 13.03 | raw: 46.59 | var: 0.48
 s3 gregor_liu | perfected_palm_strike | agg: 12.63 | raw: 46.0 | var: 0.5
 s3 faust_n_corp_prime | execution | agg: 14.51 | raw: 43.78 | var: 0.31
-s3 faust_l_corp | opportunistic_slash | agg: 22.62 | raw: 43.46 | var: 0.62
 s3 don_quixote_w_corp_weak | rip_space | agg: 11.14 | raw: 42.94 | var: 0.79
 s3 rodion_n_corp | ironclad_retribution | agg: 12.03 | raw: 42.11 | var: 0.53
 s3 heathcliff_n_corp_prime | infirm_retribution | agg: 16.03 | raw: 40.82 | var: 0.63
