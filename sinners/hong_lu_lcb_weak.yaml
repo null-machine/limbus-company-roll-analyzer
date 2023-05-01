@@ -1,18 +1,24 @@
 !!python/object:sinner.Sinner
 name: hong_lu_lcb_weak
-offense: 36
-s1: !!python/object:skill.Skill
+skills:
+- !!python/object:skill.Skill
   base_power: 3
   coin_count: 1
   coin_power: 7
+  coin_type: plus
   name: downward_cleave
-s2: !!python/object:skill.Skill
+  offense: 36
+- !!python/object:skill.Skill
   base_power: 4
   coin_count: 2
   coin_power: 4
+  coin_type: plus
   name: dual_strike
-s3: !!python/object:skill.Skill
+  offense: 36
+- !!python/object:skill.Skill
   base_power: 5
   coin_count: 2
   coin_power: 4
+  coin_type: plus
   name: whirlwind
+  offense: 36

@@ -3,39 +3,42 @@ import math
 
 class Skill:
 
-	def __init__(self, name, base_power, coin_count, coin_power):
+	def __init__(self, name, offense, base_power, coin_count, coin_power, coin_type):
 		self.name = name
+		self.offense = offense
 		self.base_power = base_power
 		self.coin_count = coin_count
 		self.coin_power = coin_power
-		self.user = ''
-		self.type = ''
+		self.coin_type = coin_type
 	
-	def gen_display_str(self):
-		return f'{self.type} {self.user} | {self.name} | agg: {round(self.aggregate, 2)} | raw: {round(self.damage, 2)} | var: {round(self.variance, 2)}'
+	def gen_summary(self):
+		return f'{self.type} {self.user} | {self.name} | agg: {round(self.max_agg, 2)} | raw: {round(self.max_raw, 2)} | var: {round(self.var, 2)}'
 
-	def gen_breakpoints(self, offense, enemy_offense=35):
-		offense_power = (offense - enemy_offense) / 5
-		effective_base_power = self.base_power + offense_power
+	def calibrate(self, enemy_offense=35):
+		offense_delta = self.offense - enemy_offense
+		effective_base_power = self.base_power + offense_delta / 5
 		breakpoints = []
 		max_chance = []
 		reg_chance = []
 		min_chance = []
 		breakpoints.append(0)
-		max_chance.append(1)
-		reg_chance.append(1)
-		min_chance.append(1)
-		self.aggregate = 0
-		self.reg_aggregate = 0
-		self.min_aggregate = 0
-		self.damage = 0
-		self.min_damage = 0
+		if effective_base_power > 0:
+			max_chance.append(1)
+			reg_chance.append(1)
+			min_chance.append(1)
+		else:
+			max_chance.append(0)
+			reg_chance.append(0)
+			min_chance.append(0)
+		self.max_agg = 0
+		self.min_agg = 0
+		self.max_raw = 0
+		self.min_raw = 0
 		for i in range(self.coin_count + 1):
 			breakpoints.append(effective_base_power + i * self.coin_power)
 			if i > 0:
-				# self.damage += self.base_power + i * self.coin_power
-				self.damage += effective_base_power + i * self.coin_power
-				self.min_damage += effective_base_power
+				self.max_raw += self.base_power + i * self.coin_power
+				self.min_raw += self.base_power
 			max_chance.append(self.eval_chance(0.95, i))
 			reg_chance.append(self.eval_chance(0.5, i))
 			min_chance.append(self.eval_chance(0.05, i))
@@ -43,17 +46,15 @@ class Skill:
 			# reg_chance.append(self.eval_chance(0.5, i))
 			# min_chance.append(self.eval_chance(0.3, i))
 			delta_x = effective_base_power + i * self.coin_power - breakpoints[i]
-			self.aggregate += delta_x * max_chance[i + 1]
-			self.reg_aggregate += delta_x * reg_chance[i + 1]
-			self.min_aggregate += delta_x * min_chance[i + 1]
-		# self.variance = (self.aggregate - self.min_aggregate) / self.aggregate
-		self.variance = (self.damage - self.min_damage) / self.damage
-		# damage_multiplier = 1 + (offense - enemy_offense) / (abs(offense - enemy_offense) + 25)
-		# damage_multiplier = 0.5 + 0.5 * math.sqrt(offense / 25) # https://www.desmos.com/calculator/sjvjbrsu5f
-		damage_multiplier = 1 + offense / 100 - 0.25 # https://www.desmos.com/calculator/zqwq99r9i9
-		self.damage *= damage_multiplier
-		self.min_damage *= damage_multiplier
-		return breakpoints, min_chance, reg_chance, max_chance
+			self.max_agg += delta_x * max_chance[i + 1]
+			self.min_agg += delta_x * min_chance[i + 1]
+		self.var = (self.max_agg - self.min_agg) / self.max_agg
+		# self.var = (self.max_raw - self.min_raw) / self.max_raw
+		# raw_multiplier = 1 + (offense - enemy_offense) / (abs(offense - enemy_offense) + 25)
+		raw_multiplier = 1 + offense_delta / 100 # https://www.desmos.com/calculator/ftlrxxrzai
+		self.max_raw *= raw_multiplier
+		self.min_raw *= raw_multiplier
+		return breakpoints, max_chance, reg_chance, min_chance
 	
 	def eval_chance(self, heads_chance, required_heads):
 		if required_heads <= 0:

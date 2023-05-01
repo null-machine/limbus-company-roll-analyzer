@@ -1,18 +1,24 @@
 !!python/object:sinner.Sinner
 name: ryoshu_seven_prime
-offense: 40
-s1: !!python/object:skill.Skill
+skills:
+- !!python/object:skill.Skill
   base_power: 5
   coin_count: 1
   coin_power: 6
+  coin_type: plus
   name: slash
-s2: !!python/object:skill.Skill
+  offense: 40
+- !!python/object:skill.Skill
   base_power: 7
   coin_count: 1
   coin_power: 12
+  coin_type: plus
   name: upper_slash
-s3: !!python/object:skill.Skill
+  offense: 40
+- !!python/object:skill.Skill
   base_power: 5
   coin_count: 3
   coin_power: 5
+  coin_type: plus
   name: swash
+  offense: 40

@@ -1,18 +1,24 @@
 !!python/object:sinner.Sinner
 name: sinclair_blade
-offense: 35
-s1: !!python/object:skill.Skill
+skills:
+- !!python/object:skill.Skill
   base_power: 5
   coin_count: 2
   coin_power: 1
+  coin_type: plus
   name: slice_then_stab
-s2: !!python/object:skill.Skill
+  offense: 35
+- !!python/object:skill.Skill
   base_power: 6
   coin_count: 3
   coin_power: 1
+  coin_type: plus
   name: slash_series
-s3: !!python/object:skill.Skill
+  offense: 35
+- !!python/object:skill.Skill
   base_power: 8
   coin_count: 1
   coin_power: 14
+  coin_type: plus
   name: to_claim_their_bones
+  offense: 35

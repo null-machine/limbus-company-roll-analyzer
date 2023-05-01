@@ -1,18 +1,24 @@
 !!python/object:sinner.Sinner
 name: outis_lcb
-offense: 38
-s1: !!python/object:skill.Skill
+skills:
+- !!python/object:skill.Skill
   base_power: 3
   coin_count: 3
   coin_power: 2
+  coin_type: plus
   name: pulled_blade
-s2: !!python/object:skill.Skill
+  offense: 38
+- !!python/object:skill.Skill
   base_power: 4
   coin_count: 2
   coin_power: 4
+  coin_type: plus
   name: backslash
-s3: !!python/object:skill.Skill
+  offense: 38
+- !!python/object:skill.Skill
   base_power: 6
   coin_count: 1
   coin_power: 14
+  coin_type: plus
   name: piercing_thrust
+  offense: 38

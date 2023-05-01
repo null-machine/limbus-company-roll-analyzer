@@ -1,18 +1,24 @@
 !!python/object:sinner.Sinner
 name: yi_sang_seven
-offense: 32
-s1: !!python/object:skill.Skill
+skills:
+- !!python/object:skill.Skill
   base_power: 4
   coin_count: 1
   coin_power: 6
+  coin_type: plus
   name: fleche
-s2: !!python/object:skill.Skill
+  offense: 32
+- !!python/object:skill.Skill
   base_power: 5
   coin_count: 2
   coin_power: 2
+  coin_type: plus
   name: riposte
-s3: !!python/object:skill.Skill
+  offense: 32
+- !!python/object:skill.Skill
   base_power: 5
   coin_count: 3
   coin_power: 3
+  coin_type: plus
   name: moulinet
+  offense: 32

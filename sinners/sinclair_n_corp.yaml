@@ -1,24 +1,24 @@
 !!python/object:sinner.Sinner
-name: don_quixote_w_corp_weak
+name: lcb_sinclair_minus
 skills:
 - !!python/object:skill.Skill
-  base_power: 5
+  base_power: 3
   coin_count: 1
-  coin_power: 6
-  coin_type: plus
-  name: rip
+  coin_power: 7
+  coin_type: minus
+  name: downward_swing
   offense: 38
 - !!python/object:skill.Skill
   base_power: 4
   coin_count: 3
-  coin_power: 4
-  coin_type: plus
-  name: leap
+  coin_power: 2
+  coin_type: minus
+  name: halberd_combo
   offense: 38
 - !!python/object:skill.Skill
-  base_power: 1
-  coin_count: 5
+  base_power: 5
+  coin_count: 3
   coin_power: 2
-  coin_type: plus
-  name: rip_space
+  coin_type: minus
+  name: ravaging_cut
   offense: 38

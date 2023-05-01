@@ -1,18 +1,24 @@
 !!python/object:sinner.Sinner
 name: faust_w_corp_prime
-offense: 29
-s1: !!python/object:skill.Skill
+skills:
+- !!python/object:skill.Skill
   base_power: 6
   coin_count: 1
   coin_power: 6
+  coin_type: plus
   name: energy_cycle
-s2: !!python/object:skill.Skill
+  offense: 29
+- !!python/object:skill.Skill
   base_power: 7
   coin_count: 2
   coin_power: 4
+  coin_type: plus
   name: leap
-s3: !!python/object:skill.Skill
+  offense: 29
+- !!python/object:skill.Skill
   base_power: 8
   coin_count: 3
   coin_power: 2
+  coin_type: plus
   name: overcharge
+  offense: 29

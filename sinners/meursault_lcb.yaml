@@ -1,18 +1,24 @@
 !!python/object:sinner.Sinner
 name: meursault_lcb
-offense: 26
-s1: !!python/object:skill.Skill
+skills:
+- !!python/object:skill.Skill
   base_power: 2
   coin_count: 2
   coin_power: 4
+  coin_type: plus
   name: un_deux
-s2: !!python/object:skill.Skill
+  offense: 26
+- !!python/object:skill.Skill
   base_power: 5
   coin_count: 1
   coin_power: 8
+  coin_type: plus
   name: nailing_fist
-s3: !!python/object:skill.Skill
+  offense: 26
+- !!python/object:skill.Skill
   base_power: 4
   coin_count: 4
   coin_power: 1
+  coin_type: plus
   name: des_coups
+  offense: 26

@@ -1,18 +1,24 @@
 !!python/object:sinner.Sinner
 name: rodion_clearance_weak
-offense: 40
-s1: !!python/object:skill.Skill
+skills:
+- !!python/object:skill.Skill
   base_power: 4
   coin_count: 1
   coin_power: 6
+  coin_type: plus
   name: bludgeon
-s2: !!python/object:skill.Skill
+  offense: 40
+- !!python/object:skill.Skill
   base_power: 6
   coin_count: 2
   coin_power: 1
+  coin_type: plus
   name: thrust
-s3: !!python/object:skill.Skill
+  offense: 40
+- !!python/object:skill.Skill
   base_power: 7
   coin_count: 2
   coin_power: 2
+  coin_type: plus
   name: suppress
+  offense: 40

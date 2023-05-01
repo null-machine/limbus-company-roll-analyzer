@@ -1,18 +1,24 @@
 !!python/object:sinner.Sinner
 name: faust_l_corp_prime
-offense: 37
-s1: !!python/object:skill.Skill
+skills:
+- !!python/object:skill.Skill
   base_power: 5
   coin_count: 1
   coin_power: 6
+  coin_type: plus
   name: sole_strike
-s2: !!python/object:skill.Skill
+  offense: 37
+- !!python/object:skill.Skill
   base_power: 6
   coin_count: 3
   coin_power: 3
+  coin_type: plus
   name: deep_cuts
-s3: !!python/object:skill.Skill
+  offense: 37
+- !!python/object:skill.Skill
   base_power: 6
   coin_count: 2
   coin_power: 11
+  coin_type: plus
   name: opportunistic_slash
+  offense: 37

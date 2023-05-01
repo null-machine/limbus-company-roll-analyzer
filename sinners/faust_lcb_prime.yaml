@@ -1,18 +1,24 @@
 !!python/object:sinner.Sinner
 name: faust_lcb_prime
-offense: 28
-s1: !!python/object:skill.Skill
+skills:
+- !!python/object:skill.Skill
   base_power: 5
   coin_count: 1
   coin_power: 7
+  coin_type: plus
   name: downward_slash
-s2: !!python/object:skill.Skill
+  offense: 28
+- !!python/object:skill.Skill
   base_power: 6
   coin_count: 2
   coin_power: 4
+  coin_type: plus
   name: upward_slash
-s3: !!python/object:skill.Skill
+  offense: 28
+- !!python/object:skill.Skill
   base_power: 8
   coin_count: 2
   coin_power: 2
+  coin_type: plus
   name: drilling_stab
+  offense: 28

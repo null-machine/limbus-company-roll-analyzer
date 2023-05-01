@@ -1,18 +1,24 @@
 !!python/object:sinner.Sinner
 name: sinclair_mariachi
-offense: 27
-s1: !!python/object:skill.Skill
+skills:
+- !!python/object:skill.Skill
   base_power: 4
   coin_count: 2
   coin_power: 2
+  coin_type: plus
   name: baile_y_rola
-s2: !!python/object:skill.Skill
+  offense: 27
+- !!python/object:skill.Skill
   base_power: 5
   coin_count: 3
   coin_power: 1
+  coin_type: plus
   name: danza_de_pasion
-s3: !!python/object:skill.Skill
+  offense: 27
+- !!python/object:skill.Skill
   base_power: 8
   coin_count: 1
   coin_power: 11
+  coin_type: plus
   name: pinata_party
+  offense: 27

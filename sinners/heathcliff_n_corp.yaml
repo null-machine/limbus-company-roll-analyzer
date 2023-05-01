@@ -1,18 +1,24 @@
 !!python/object:sinner.Sinner
 name: heathcliff_n_corp
-offense: 33
-s1: !!python/object:skill.Skill
+skills:
+- !!python/object:skill.Skill
   base_power: 3
   coin_count: 2
   coin_power: 4
+  coin_type: plus
   name: gawky_nailing
-s2: !!python/object:skill.Skill
+  offense: 33
+- !!python/object:skill.Skill
   base_power: 6
   coin_count: 1
   coin_power: 8
+  coin_type: plus
   name: purify
-s3: !!python/object:skill.Skill
+  offense: 33
+- !!python/object:skill.Skill
   base_power: 4
   coin_count: 3
   coin_power: 4
+  coin_type: plus
   name: infirm_retribution
+  offense: 33

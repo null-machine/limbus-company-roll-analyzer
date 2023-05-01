@@ -1,18 +1,24 @@
 !!python/object:sinner.Sinner
 name: meursault_liu
-offense: 34
-s1: !!python/object:skill.Skill
+skills:
+- !!python/object:skill.Skill
   base_power: 3
   coin_count: 2
   coin_power: 4
+  coin_type: plus
   name: assault
-s2: !!python/object:skill.Skill
+  offense: 34
+- !!python/object:skill.Skill
   base_power: 6
   coin_count: 2
   coin_power: 2
+  coin_type: plus
   name: stalwart_stance
-s3: !!python/object:skill.Skill
+  offense: 34
+- !!python/object:skill.Skill
   base_power: 5
   coin_count: 3
   coin_power: 3
+  coin_type: plus
   name: perfected_death_fist
+  offense: 34
