@@ -17,7 +17,7 @@ This tool approximates every sinner's ability to win a clash against a single co
 - The Y-axis represents the chance of winning the clash.
 - The X-axis represents the power required to win the clash.
 - The three coloured lines represent win chances at maximum, zero and minimum sanity.
-	- In other words, cyan, yellow and magenta lines are associated a chance of 0.95, 0.5 and 0.05 of getting heads respectively.
+	- In other words, cyan, grey and magenta lines are associated a chance of 0.95, 0.5 and 0.05 of getting heads respectively.
 - For example, if a skill has the cyan line at x=12 and y=0.75, it has a 75% chance of beating a 12 at maximum sanity.
 
 ![G Corp Gregor's Chart](charts/gregor_g_corp.png)
@@ -42,7 +42,7 @@ This tool approximates every sinner's ability to win a clash against a single co
 - Additional prime or weak charts will be generated for sinners with passives or conditionals, with the additional charts representing an abnormal state.
 	- For example, each Faust identity has an additional prime chart to represent her kit while Representation Emitter's passive is active.
 	- Determining a sinner's default state is is somewhat arbitrary, so sinner.yaml files can be viewed to see the chosen numbers.
-	- Due to technical limitations, Ishmael's prime charts treat Snagharpoon's passive as if it can contribute to damage. Please refer to regular Ishmael charts for more accurate representations of her raw damage values. Additionally, Kurokumo Hong Lu's prime chart should be used for damage, and his regular chart should be used for clashes. A similar bug is present for Sevens Outis. Also, the tool currently cannot support sinners with different offense levels per skill (namely Chef Gregor specifically). A rework to support that behaviour is planned for the same time an identity with a multiply coin releases.
+	- Due to technical limitations, Ishmael's prime charts treat Snagharpoon's passive as if it can contribute to damage. Please refer to regular Ishmael charts for more accurate representations of her raw damage values. Additionally, Kurokumo Hong Lu's prime chart should be used for damage, and his regular chart should be used for clashes. A similar bug is present for Sevens Outis.
 - Enemy offense level is assumed to be 35.
 	- Technically, this could be anything for the purposes of comparing aggregates, since it affects everyone in a constant way.
 	- But, 35 is the displayed level of Refraction Railway 1 on its end screen, so it should result in numbers players are used to seeing.

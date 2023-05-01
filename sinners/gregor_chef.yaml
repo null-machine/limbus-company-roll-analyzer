@@ -14,11 +14,11 @@ skills:
   coin_power: 8
   coin_type: plus
   name: you_fresh_enough
-  offense: 34
+  offense: 32
 - !!python/object:skill.Skill
   base_power: 5
   coin_count: 4
   coin_power: 1
   coin_type: plus
   name: butcher_viand
-  offense: 34
+  offense: 37
