@@ -48,8 +48,8 @@ class Skill:
 			delta_x = effective_base_power + i * self.coin_power - breakpoints[i]
 			self.max_agg += delta_x * max_chance[i + 1]
 			self.min_agg += delta_x * min_chance[i + 1]
-		self.var = (self.max_agg - self.min_agg) / self.max_agg
-		# self.var = (self.max_raw - self.min_raw) / self.max_raw
+		# self.var = (self.max_agg - self.min_agg) / self.max_agg
+		self.var = (self.max_raw - self.min_raw) / self.max_raw
 		# raw_multiplier = 1 + (offense - enemy_offense) / (abs(offense - enemy_offense) + 25)
 		raw_multiplier = 1 + offense_delta / 100 # https://www.desmos.com/calculator/ftlrxxrzai
 		self.max_raw *= raw_multiplier

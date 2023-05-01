@@ -134,15 +134,15 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 
 [A full explanation of how to read the roll charts can be found here.](https://github.com/null-machine/limbus-company-clash-tool) 
 
-For a condensed version, the cyan yellow and magenta lines represent a sinner's chance to beat a power at max, zero and minimum sanity. The y-axis represents chance of winning the clash, and the x-axis represents the power of the opposing skill.
+For a condensed version, the cyan, grey and magenta lines represent a sinner's chance to beat a power at max, zero and minimum sanity. The y-axis represents chance of winning the clash, and the x-axis represents the power of the opposing skill.
 
 "agg" → aggregate, or clash power.  
 "raw" → raw damage.  
 "var" → variance, or heads dependency.
 
-Emphasis will not be placed on colours— there's no telling what future EGOs hold in store. Furthermore, Refraction Railway 1 has proven that simply taking strong individual identities will outperform a team that goes out of its way to align colours for EGO or resonance. Having rare damage types in the current state of the game will not serve as as a ranking factor for similar reasons.
+Emphasis will not be placed on skill colours— there's no telling what future EGOs hold in store. Furthermore, Refraction Railway 1 has proven that simply taking strong individual identities will outperform a team that goes out of its way to align colours for EGO spam or resonance. Having rare damage types in the current state of the game will not serve as as a ranking factor for similar reasons.
 
-For the sake of transparency, let it be known that the author uses G Gregor, KK Hong Lu, L Faust and W Don very frequently, and dislikes R Heath, N Rodion and LCCB Ishmael. Everything is still kept as objective as possible.
+For the sake of transparency, let it be known that the author uses G Gregor, KK Hong Lu, L Faust and W Don very frequently, and dislikes R Heathcliff, N Rodion and LCCB Ishmael. Everything is still kept as objective as possible.
 
 ---
 
@@ -203,7 +203,7 @@ The prime chart represents Faust with Representation Emitter's +2 power active.
 ![](charts/faust_n_corp.png)
 ![](charts/faust_n_corp_prime.png)
 
-N Faust is almost a twin to Chef Ryoshu— S2 oriented, lots of multicoins, no ammo or charge limitations, a techy evade and solid clashes. She'll fare consistently and reliably with her great numbers. Additionally, her kit is more organized than Chef Ryoshu's. The gaze next turn on S2 adds easily capitalized tempo to her kit, and SP restoration is never unappreciated.
+N Faust is almost a twin to Chef Ryoshu— S2 oriented, lots of multicoins, no ammo or charge limitations, a techy evade and solid clashes. She'll fare consistently and reliably with her great numbers. Additionally, her kit is more organized than Chef Ryoshu's. The gaze next turn on S2 adds easily capitalized tempo to her kit, and SP restoration is appreciated.
 
 Despite the similarities, Chef Ryoshu has better rolls, and will generally contribute more total damage compared to what N Faust would add with her gaze and nails. That being said, their general differences are not as significant as those that would be imposed by type weaknesses, so there's room for them both in S tier.
 
@@ -405,4 +405,4 @@ BL Outis only deserves the yellow badge if her support passive works when attack
 
 Whether G Gregor and Chef Ryoshu should receive a yellow badge was discussed. A slight preference was given to G Gregor, but it was decided that neither of them should receive one for fairness. Their healing is unlikely to make or break a clear, but both are definitely situationally impactful.
 
-One thing to keep in mind is that stronger units do not necessarily correlate with more enjoyment. Weaker sinners tend to compensate their lack of power in their own strange ways, and giving them a chance tends to lead to making some funny memories. Additionally, the game in its current state is easy enough to comfortably clear with just a support unit, so there's no need to worry about accessibility yet. At the end of the day, Limbus Company is still a game, so have some fun with it!
+One thing to keep in mind is that stronger units do not necessarily correlate with more enjoyment. Weaker sinners tend to compensate their lack of power in their own strange ways, and giving them a chance tends to lead to making some funny memories. Additionally, the game in its current state is easy enough to comfortably clear with just a support unit, so there's no need to worry about accessibility yet.
