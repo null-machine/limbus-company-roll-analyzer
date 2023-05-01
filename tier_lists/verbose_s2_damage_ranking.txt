@@ -24,7 +24,7 @@ s1 ryoshu_kurokumo | clean_up | agg: 15.11 | raw: 25.75 | var: 0.58
 s1 meursault_w_corp | energy_cycle | agg: 9.71 | raw: 25.65 | var: 0.53
 s1 gregor_liu_prime | rush_down | agg: 9.86 | raw: 25.2 | var: 0.26
 s1 sinclair_lcb | halberd_combo | agg: 10.31 | raw: 24.72 | var: 0.5
-s1 lcb_sinclair_minus | halberd_combo | agg: 10.31 | raw: 24.72 | var: 0.5
+s1 sinclair_n_corp | halberd_combo | agg: 10.31 | raw: 24.72 | var: 0.5
 s1 faust_w_corp_prime | leap | agg: 13.41 | raw: 24.44 | var: 0.52
 s1 outis_seven_weak | field_command | agg: 13.91 | raw: 24.25 | var: 0.63
 s1 sinclair_blade | slash_series | agg: 8.86 | raw: 24.0 | var: 0.29

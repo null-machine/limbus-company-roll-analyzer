@@ -31,7 +31,7 @@ meursault_liu | agg: 10.68 | raw: 20.79 | var: 0.53
 hong_lu_kurokumo | agg: 10.67 | raw: 18.24 | var: 0.56
 sinclair_blade | agg: 10.56 | raw: 19.2 | var: 0.34
 sinclair_lcb | agg: 10.49 | raw: 19.57 | var: 0.54
-lcb_sinclair_minus | agg: 10.49 | raw: 19.57 | var: 0.54
+sinclair_n_corp | agg: 10.49 | raw: 19.57 | var: 0.54
 gregor_chef | agg: 10.08 | raw: 17.1 | var: 0.48
 faust_w_corp | agg: 10.07 | raw: 17.67 | var: 0.6
 ishmael_clearance | agg: 10.03 | raw: 21.81 | var: 0.66

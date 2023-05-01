@@ -40,7 +40,7 @@ ryoshu_seven | agg: 14.7 | raw: 19.74 | var: 0.6
 heathcliff_n_corp | agg: 12.37 | raw: 19.6 | var: 0.63
 hong_lu_liu | agg: 11.05 | raw: 19.6 | var: 0.56
 sinclair_lcb | agg: 10.49 | raw: 19.57 | var: 0.54
-lcb_sinclair_minus | agg: 10.49 | raw: 19.57 | var: 0.54
+sinclair_n_corp | agg: 10.49 | raw: 19.57 | var: 0.54
 outis_seven_weak | agg: 11.47 | raw: 19.4 | var: 0.5
 sinclair_blade | agg: 10.56 | raw: 19.2 | var: 0.34
 heathcliff_shi_prime | agg: 15.76 | raw: 19.01 | var: 0.49

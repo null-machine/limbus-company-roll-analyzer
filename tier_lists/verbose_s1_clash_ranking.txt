@@ -32,7 +32,7 @@ s0 ishmael_shi_prime | flying_sword | agg: 10.41 | raw: 17.82 | var: 0.68
 s0 ryoshu_chef | perfect_cut | agg: 10.31 | raw: 17.51 | var: 0.51
 s0 ryoshu_chef_prime | perfect_cut | agg: 10.31 | raw: 17.51 | var: 0.51
 s0 sinclair_lcb | downward_swing | agg: 10.25 | raw: 10.3 | var: 0.61
-s0 lcb_sinclair_minus | downward_swing | agg: 10.25 | raw: 10.3 | var: 0.61
+s0 sinclair_n_corp | downward_swing | agg: 10.25 | raw: 10.3 | var: 0.61
 s0 faust_lcb_prime | downward_slash | agg: 10.25 | raw: 11.16 | var: 0.61
 s0 heathcliff_lcb_prime | bat_bash | agg: 10.25 | raw: 10.78 | var: 0.61
 s0 heathcliff_n_corp | gawky_nailing | agg: 10.21 | raw: 17.64 | var: 0.69

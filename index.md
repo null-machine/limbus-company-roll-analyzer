@@ -182,7 +182,7 @@ Unlike W Don and R Heath, Chef Ryoshu has no limitations on when she can fire he
 
 Her kit itself is a bit strange; anti-heal and heal on kill are both rather stage dependent. But, with numbers like that, being a bit dilapidated doesn't define her performance.
 
-It's worth mentioning that her 4th Match Flame passive can theoretically buff her S3, adding tempo to her kit and bringing the raw value up 50.17 → 68.25, but playing around that is an undertaking most players will not find practical. Maybe it'll show up as a deranged RR tactic...
+It's worth mentioning that her 4th Match Flame passive can theoretically buff her S3, adding tempo to her kit and bringing the raw value up considerably. Furthermore, the passive can be stacked through evade recycles. But, playing around that is an undertaking most players will not find practical. Maybe it'll show up as a deranged RR tactic...
 
 ---
 

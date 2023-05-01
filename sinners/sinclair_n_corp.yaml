@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: lcb_sinclair_minus
+name: sinclair_n_corp
 skills:
 - !!python/object:skill.Skill
   base_power: 3

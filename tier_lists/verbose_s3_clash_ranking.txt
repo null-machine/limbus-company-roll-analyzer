@@ -55,7 +55,7 @@ s2 gregor_lcb | chop_up | agg: 11.81 | raw: 21.12 | var: 0.6
 s2 rodion_clearance_weak | suppress | agg: 11.8 | raw: 21.0 | var: 0.3
 s2 don_quixote_lcb | for_justice | agg: 11.77 | raw: 27.27 | var: 0.66
 s2 sinclair_lcb | ravaging_cut | agg: 11.31 | raw: 27.81 | var: 0.46
-s2 lcb_sinclair_minus | ravaging_cut | agg: 11.31 | raw: 27.81 | var: 0.46
+s2 sinclair_n_corp | ravaging_cut | agg: 11.31 | raw: 27.81 | var: 0.46
 s2 don_quixote_w_corp_weak | rip_space | agg: 11.14 | raw: 36.05 | var: 0.75
 s2 hong_lu_kurokumo | cloudburst | agg: 11.11 | raw: 29.1 | var: 0.46
 s2 hong_lu_kurokumo_prime | cloudburst | agg: 11.11 | raw: 29.1 | var: 0.46

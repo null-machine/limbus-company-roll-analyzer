@@ -10,7 +10,7 @@ s1 don_quixote_shi | dual_strike | agg: 15.81 | raw: 26.52 | var: 0.67
 s1 ryoshu_kurokumo | clean_up | agg: 15.11 | raw: 25.75 | var: 0.58
 s1 meursault_w_corp | energy_cycle | agg: 9.71 | raw: 25.65 | var: 0.53
 s1 sinclair_lcb | halberd_combo | agg: 10.31 | raw: 24.72 | var: 0.5
-s1 lcb_sinclair_minus | halberd_combo | agg: 10.31 | raw: 24.72 | var: 0.5
+s1 sinclair_n_corp | halberd_combo | agg: 10.31 | raw: 24.72 | var: 0.5
 s1 sinclair_blade | slash_series | agg: 8.86 | raw: 24.0 | var: 0.29
 s1 hong_lu_lcb | dual_strike | agg: 13.71 | raw: 23.23 | var: 0.64
 s1 gregor_liu | rush_down | agg: 8.86 | raw: 22.05 | var: 0.29

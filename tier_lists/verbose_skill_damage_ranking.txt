@@ -63,7 +63,7 @@ s1 ishmael_clearance | quake_rounds | agg: 11.37 | raw: 28.2 | var: 0.68
 s2 faust_w_corp | overcharge | agg: 10.51 | raw: 28.2 | var: 0.49
 s1 outis_seven | field_command | agg: 15.91 | raw: 28.13 | var: 0.55
 s2 sinclair_lcb | ravaging_cut | agg: 11.31 | raw: 27.81 | var: 0.46
-s2 lcb_sinclair_minus | ravaging_cut | agg: 11.31 | raw: 27.81 | var: 0.46
+s2 sinclair_n_corp | ravaging_cut | agg: 11.31 | raw: 27.81 | var: 0.46
 s2 heathcliff_shi | flashing_strike | agg: 16.21 | raw: 27.72 | var: 0.65
 s2 hong_lu_liu | crimson_blaze_fist | agg: 16.01 | raw: 27.44 | var: 0.66
 s2 heathcliff_lcb_prime | upheaval | agg: 16.01 | raw: 27.44 | var: 0.66
@@ -80,7 +80,7 @@ s2 heathcliff_lcb | upheaval | agg: 15.01 | raw: 25.48 | var: 0.7
 s0 heathcliff_r_corp_weak | graze_the_grass | agg: 10.91 | raw: 25.44 | var: 0.47
 s1 gregor_liu_prime | rush_down | agg: 9.86 | raw: 25.2 | var: 0.26
 s1 sinclair_lcb | halberd_combo | agg: 10.31 | raw: 24.72 | var: 0.5
-s1 lcb_sinclair_minus | halberd_combo | agg: 10.31 | raw: 24.72 | var: 0.5
+s1 sinclair_n_corp | halberd_combo | agg: 10.31 | raw: 24.72 | var: 0.5
 s1 faust_w_corp_prime | leap | agg: 13.41 | raw: 24.44 | var: 0.52
 s0 ishmael_r_corp_prime | mind_strike | agg: 13.91 | raw: 24.25 | var: 0.63
 s1 outis_seven_weak | field_command | agg: 13.91 | raw: 24.25 | var: 0.63
@@ -192,7 +192,7 @@ s0 ryoshu_seven | slash | agg: 10.7 | raw: 10.5 | var: 0.5
 s0 rodion_clearance_weak | bludgeon | agg: 10.7 | raw: 10.5 | var: 0.5
 s0 meursault_w_corp | rip | agg: 9.7 | raw: 10.45 | var: 0.56
 s0 sinclair_lcb | downward_swing | agg: 10.25 | raw: 10.3 | var: 0.61
-s0 lcb_sinclair_minus | downward_swing | agg: 10.25 | raw: 10.3 | var: 0.61
+s0 sinclair_n_corp | downward_swing | agg: 10.25 | raw: 10.3 | var: 0.61
 s0 don_quixote_shi | catch_breath | agg: 10.1 | raw: 10.2 | var: 0.53
 s0 don_quixote_shi_prime | catch_breath | agg: 10.1 | raw: 10.2 | var: 0.53
 s0 don_quixote_lcb | joust | agg: 9.85 | raw: 10.1 | var: 0.64

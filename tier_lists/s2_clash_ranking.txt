@@ -31,7 +31,7 @@ s1 rodion_lcb | axe_combo | agg: 11.21 | raw: 19.6 | var: 0.63
 s1 meursault_n_corp | you_are_cleansed_of_sin | agg: 11.11 | raw: 20.37 | var: 0.47
 s1 meursault_lcb | nailing_fist | agg: 10.8 | raw: 11.83 | var: 0.67
 s1 sinclair_lcb | halberd_combo | agg: 10.31 | raw: 24.72 | var: 0.5
-s1 lcb_sinclair_minus | halberd_combo | agg: 10.31 | raw: 24.72 | var: 0.5
+s1 sinclair_n_corp | halberd_combo | agg: 10.31 | raw: 24.72 | var: 0.5
 s1 faust_lcb | upward_slash | agg: 10.21 | raw: 18.6 | var: 0.69
 s1 yi_sang_lcb | end_stop_stab | agg: 10.21 | raw: 18.6 | var: 0.69
 s1 rodion_n_corp | zealous_purge | agg: 10.2 | raw: 18.36 | var: 0.34

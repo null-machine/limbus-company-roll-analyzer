@@ -20,7 +20,7 @@ ryoshu_seven | agg: 14.7 | raw: 19.74 | var: 0.6
 heathcliff_n_corp | agg: 12.37 | raw: 19.6 | var: 0.63
 hong_lu_liu | agg: 11.05 | raw: 19.6 | var: 0.56
 sinclair_lcb | agg: 10.49 | raw: 19.57 | var: 0.54
-lcb_sinclair_minus | agg: 10.49 | raw: 19.57 | var: 0.54
+sinclair_n_corp | agg: 10.49 | raw: 19.57 | var: 0.54
 sinclair_blade | agg: 10.56 | raw: 19.2 | var: 0.34
 hong_lu_lcb | agg: 12.75 | raw: 18.99 | var: 0.64
 hong_lu_kurokumo | agg: 10.67 | raw: 18.24 | var: 0.56

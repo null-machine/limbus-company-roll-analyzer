@@ -34,6 +34,7 @@ class Sinner:
 			ax[i].step(breakpoints, reg_chance, color='grey')
 			ax[i].step(breakpoints, max_chance, color=max_color)
 			ax[i].set(ylim=(0, 1.1), xlim=(0, 40), yticks=np.arange(0, 1.1, 0.25), xticks=np.arange(0, 40.1, 2))
+			ax[i].yaxis.set_major_formatter(matplotlib.ticker.PercentFormatter(1.0))
 			ax[i].set_title(f'{self.skills[i].name} | agg: {round(self.skills[i].max_agg, 2)} | raw: {round(self.skills[i].max_raw, 2)} | var: {round(self.skills[i].var, 2)}')
 
 		if self.name.endswith('_partial'):
