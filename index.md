@@ -13,7 +13,7 @@ Critically reviewed by Nex#7448 and Kervina.
 
 Limbus Company belongs to Project Moon.
 
-Last update: 2023.4
+Last update: 2023.5
 
 ---
 
