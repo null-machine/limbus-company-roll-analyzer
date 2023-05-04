@@ -199,12 +199,16 @@ The prime chart represents Sinclair with Fanatic's +1 power active.
 The counsel of nerds is still discussing, and lots of tech likely remains undiscovered. Kervina suggests he deserves S tier, Nex is skeptical, and LOWERCASE is leaning to S tier. However, we've agreed on a few points:  
 \+ Unprecedentedly strong minimax clashes.  
 \+ Inconsistent but remarkably high damage.  
-\+ Corrosion tempo is a novel thing to micro. He can play defends to prevent corrosion and maintain low sanity. Additionally, corrosion tempo can allow him to act during staggers. This ability is exaggerated when given multiple actions.  
+\+ Corrosion tempo is a novel thing to micro. He can play defends to prevent corrosion and maintain low sanity, when anticipating high sanity drops (e.g. from sinking). Additionally, corrosion can allow him to act during staggers. This ability is exaggerated when given multiple actions.  
 • Because of minus coin sequencing, the damage of his multicoin attacks are frontloaded rather than backloaded. This means he plays a bit uniquely when planning staggers.  
 \- He will practically never achieve the consistency of 95% heads units. Don't expect to play him at negative sanity easily.  
-\- Like W Don, much worse in a team, but for completely different reasons (corrosion micro).  
+\- Like W Don, he's much worse in a team, but for completely different reasons (corrosion targeting).  
 
 Skill 2 and 3 are simply fantastic, Great clasher.
+
+———
+
+Also, for the time being, just judging from the rolls, N Don is probably B tier. But, analysis has not really taken place yet.
 
 ---
 
