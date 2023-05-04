@@ -1,22 +1,22 @@
 !!python/object:sinner.Sinner
-name: sinclair_n_corp
+name: sinclair_n_corp_prime
 skills:
 - !!python/object:skill.Skill
-  base_power: 4
+  base_power: 5
   coin_count: 2
   coin_power: 2
   coin_type: minus
   name: coerced_judgement
   offense: 38
 - !!python/object:skill.Skill
-  base_power: 0
+  base_power: 1
   coin_count: 4
   coin_power: 4
   coin_type: minus
   name: amoral_enactment
   offense: 39
 - !!python/object:skill.Skill
-  base_power: -6
+  base_power: -5
   coin_count: 3
   coin_power: 12
   coin_type: minus

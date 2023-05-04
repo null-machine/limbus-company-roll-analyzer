@@ -53,8 +53,9 @@ Units in this tier tend to directly outperform or invalidate units in lower tier
 ![W Don](assets/10302.png)
 ![R Heathcliff](assets/10703.png)
 ![Chef Ryoshu](assets/10404.png)
-![TT Hong Lu](assets/10603.png)
+![N Sinclair](assets/sink.png)
 ![N Faust](assets/10204.png)
+![TT Hong Lu](assets/10603.png)
 ![KK Hong Lu](assets/10602.png)
 
 ---
@@ -186,13 +187,23 @@ It's worth mentioning that her 4th Match Flame passive can theoretically buff he
 
 ---
 
-### S Tier: Hong Lu - Tingtang Gangleader
+### S Tier: Sinclair - The One Who Shall Grip
 
-![](charts/hong_lu_tingtang.png)
+The prime chart represents Sinclair with Fanatic's +1 power active.
 
-The sanity update was so good to TT Hong Lu that the roll analyzer now says he's the strongest clasher in the game. Mutilate used to be a dicey shitpost, but it now rolls 30+ with a 95% chance, giving it the highest aggregate in the game (excepting Rip Space, which has charge limitations). His Shank also has the highest aggregate among all S2s, edging out even Ingredient Hunt and Concentrated Fire (but, it's not like either of those would have been likely to lose a clash either). Furthermore, he has no charge or ammo limitations, giving him free reign to abuse that 95% heads to activate all his skill effects and perform extremely well. Ironically, the fact that Mutilate high rolls so high makes him arguably pretty consistent. For other sinners, if their skills don't have enough aggregate, they'll ultimately still rely on the enemy to low roll. Mutilate will not have that problem. In a case where S3 rolling heads won't win a clash, chances are nothing short of high-end egos will outperform it. He gets obligatory bonus points for having an evade, and a relatively strong one at that. It's also worth noting that he has 35 defense, which is considerably higher than other identities with good rolls.
+![](charts/sinclair_n_corp.png)
+![](charts/sinclair_n_corp_prime.png)
 
-He does have a few downsides though. Besides the miserable S1, he does not tolerate low sanity as well as other sinners. Notably, his combat passive provides a smidge of sanity, which, although undertuned, certainly isn't unwelcome in his heads oriented kit. Additionally, although his kit is cohesive, his damage is not as high as the other units with heavy multicoin skills. Ironically, this makes his overall contributions relatively defensive.
+
+
+The counsel of nerds is still discussing, and lots of tech likely remains undiscovered. Kervina suggests he deserves S tier, Nex is skeptical about it, and LOWERCASE is leaning to S tier as well. However, we've agreed on a few points:  
+\+ Unprecedentedly strong minimax clashes.  
+\+ Inconsistent but remarkably high damage.  
+\+ Corrosion tempo is a novel thing to micro. He can play defends to prevent corrosion and maintain low sanity. Additionally, corrosion tempo can allow him to act during staggers. This ability is exaggerated when given multiple actions.  
+• Because of minus coin sequencing, the damage of his multicoin attacks are frontloaded rather than backloaded. This means he plays a bit uniquely when planning staggers.  
+\- He will practically never achieve the consistency of 95% heads units. Don't expect to play him at negative sanity easily.  
+
+Skill 2 and 3 are simply fantastic, Great clasher.
 
 ---
 
@@ -207,6 +218,15 @@ N Faust is almost a twin to Chef Ryoshu— S2 oriented, lots of multicoins, no a
 
 Despite the similarities, Chef Ryoshu has better rolls, and will generally contribute more total damage compared to what N Faust would add with her gaze and nails. That being said, their general differences are not as significant as those that would be imposed by type weaknesses, so there's room for them both in S tier.
 
+---
+
+### S Tier: Hong Lu - Tingtang Gangleader
+
+![](charts/hong_lu_tingtang.png)
+
+The sanity update was so good to TT Hong Lu that the roll analyzer now says he's the strongest clasher in the game. Mutilate used to be a dicey shitpost, but it now rolls 30+ with a 95% chance, giving it the highest aggregate in the game (excepting Rip Space, which has charge limitations). His Shank also has the highest aggregate among all S2s, edging out even Ingredient Hunt and Concentrated Fire (but, it's not like either of those would have been likely to lose a clash either). Furthermore, he has no charge or ammo limitations, giving him free reign to abuse that 95% heads to activate all his skill effects and perform extremely well. Ironically, the fact that Mutilate high rolls so high makes him arguably pretty consistent. For other sinners, if their skills don't have enough aggregate, they'll ultimately still rely on the enemy to low roll. Mutilate will not have that problem. In a case where S3 rolling heads won't win a clash, chances are nothing short of high-end egos will outperform it. He gets obligatory bonus points for having an evade, and a relatively strong one at that. It's also worth noting that he has 35 defense, which is considerably higher than other identities with good rolls.
+
+He does have a few downsides though. Besides the miserable S1, he does not tolerate low sanity as well as other sinners. Notably, his combat passive provides a smidge of sanity, which, although undertuned, certainly isn't unwelcome in his heads oriented kit. Additionally, although his kit is cohesive, his damage is not as high as the other units with heavy multicoin skills. Ironically, this makes his overall contributions relatively defensive.
 ---
 
 ### S Tier: Hong Lu - Kurokumo Wakashu
