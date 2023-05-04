@@ -208,7 +208,7 @@ The counsel of nerds is still discussing, and lots of tech likely remains undisc
 
 ———
 
-Also, for the time being, just judging from the rolls, N Don is probably B tier. But, analysis has not really taken place yet.
+Also, for the time being, just judging from the rolls, N Don is probably B tier.
 
 ---
 
