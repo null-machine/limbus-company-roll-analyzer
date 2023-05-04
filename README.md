@@ -24,14 +24,10 @@ This tool approximates every sinner's ability to win a clash against a single co
 
 ### Aggregate, Raw & Variance
 
-- Aggregate, variance and raw damage are abbreviated as "agg", "var" and "raw" respectively.
-- A subchart's aggregate is the integral of the cyan line, which roughly approximates the power that skill can comfortably beat at max sanity.
-- A subchart's raw is the sum of all coins on a max roll without effects or statuses factored in. An approximal encounter agnostic offense damage calculation is used in place of the canon one to favour linear comparison. The exact formula can be viewed in skill.py. Besides that modification, please recognize how this statistic can be misleading (e.g. cloud cutter's extra coins are not factored in).
-- A subchart's variance is the summation of a skill's max roll minus the summation of a skill's min roll, then divided by the former. This roughly approximates the skill's ability to perform well at low sanity. Lower values are more desirable.
-	- This number is kept as a saving grace to some sinners that were affected pretty harshly by the sanity changes, e.g. Blade Lineage Yi Sang.
-- The main chart's aggregate is a weighted average of all skill aggregates. It compares average power between sinners.
+- A subchart's aggregate is the integral of the clash lines, which roughly approximates the power that skill can comfortably beat. The first value is for the max line, and the second is for the min line.
+- A subchart's raw is the sum of all coins on a max roll without anything else factored in. The first value is for the max roll, and the second is for the min roll. Offense level is indicated in parentheses.
+- The main chart's aggregate is a weighted average of all skill aggregates. It compares average clash power between sinners.
 - The main chart's raw is a weighted average of all skill raws. It approximates the average damage a sinner will output. Please be aware that this is arguably the most misleading statistic, since it ignores effects and statuses. Furthermore, players can manipulate tempo to ensure hard-hitting skills will be present during enemy staggers and use weaker skills to manipulate thresholds, so the raws of individual skills are more worthy of analysis.
-- The main chart's variance is a weighted average of all skill variances. It approximates how well a sinner can tolerate low sanity or bad luck, with lower values being more desirable.
 - The weighting used for averages assumes two s1, two s2 and one s3 per pool. Two s1 instead of three s1 per pool is chosen for a few reasons:
 	- Despite defense skill cycling being patched, each sinner still has two slots per dashboard, so a weak skill can still theoretically be removed from the pool by just keeping it in a bottom slot, hence the total of five.
 	- Furthermore, ego usage consumes slots, so players that manipulate draw will be able to reduce the effective pool size even further.
@@ -51,11 +47,9 @@ This tool approximates every sinner's ability to win a clash against a single co
 
 ## Tier Lists
 
-[Tier lists can be found here.](tier_lists/).
+[Tier lists based solely on data can be found here.](tier_lists/)
 
-Remember that this tool solely evaluates the rolls of each sinner's three skills. It provides no information about a sinner's utility, defensive options or available ego, so their position in the lists may not accurately reflect their overall power.
-
-If game balance is to be trusted, those with poor rolls may compensate for that with some other part of their kit (especially true for tanks). Likewise, the best rollers may have restraints, such as charge, ammo or health thresholds.
+[A detailed writeup can be found here.](https://null-machine.github.io/limbus-company-roll-analyzer/)
 
 ---
 
