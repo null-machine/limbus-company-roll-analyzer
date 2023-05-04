@@ -196,7 +196,7 @@ The prime chart represents Sinclair with Fanatic's +1 power active.
 
 
 
-The counsel of nerds is still discussing, and lots of tech likely remains undiscovered. Kervina suggests he deserves S tier, Nex is skeptical about it, and LOWERCASE is leaning to S tier as well. However, we've agreed on a few points:  
+The counsel of nerds is still discussing, and lots of tech likely remains undiscovered. Kervina suggests he deserves S tier, Nex is skeptical, and LOWERCASE is leaning to S tier. However, we've agreed on a few points:  
 \+ Unprecedentedly strong minimax clashes.  
 \+ Inconsistent but remarkably high damage.  
 \+ Corrosion tempo is a novel thing to micro. He can play defends to prevent corrosion and maintain low sanity. Additionally, corrosion tempo can allow him to act during staggers. This ability is exaggerated when given multiple actions.  
@@ -228,6 +228,7 @@ Despite the similarities, Chef Ryoshu has better rolls, and will generally contr
 The sanity update was so good to TT Hong Lu that the roll analyzer now says he's the strongest clasher in the game. Mutilate used to be a dicey shitpost, but it now rolls 30+ with a 95% chance, giving it the highest aggregate in the game (excepting Rip Space, which has charge limitations). His Shank also has the highest aggregate among all S2s, edging out even Ingredient Hunt and Concentrated Fire (but, it's not like either of those would have been likely to lose a clash either). Furthermore, he has no charge or ammo limitations, giving him free reign to abuse that 95% heads to activate all his skill effects and perform extremely well. Ironically, the fact that Mutilate high rolls so high makes him arguably pretty consistent. For other sinners, if their skills don't have enough aggregate, they'll ultimately still rely on the enemy to low roll. Mutilate will not have that problem. In a case where S3 rolling heads won't win a clash, chances are nothing short of high-end egos will outperform it. He gets obligatory bonus points for having an evade, and a relatively strong one at that. It's also worth noting that he has 35 defense, which is considerably higher than other identities with good rolls.
 
 He does have a few downsides though. Besides the miserable S1, he does not tolerate low sanity as well as other sinners. Notably, his combat passive provides a smidge of sanity, which, although undertuned, certainly isn't unwelcome in his heads oriented kit. Additionally, although his kit is cohesive, his damage is not as high as the other units with heavy multicoin skills. Ironically, this makes his overall contributions relatively defensive.
+
 ---
 
 ### S Tier: Hong Lu - Kurokumo Wakashu
