@@ -189,20 +189,14 @@ It's worth mentioning that her 4th Match Flame passive can theoretically buff he
 
 ### S Tier: Sinclair - The One Who Shall Grip
 
-The prime chart represents Sinclair with Fanatic's +1 power active.
+The prime chart represents Sinclair with fanatic's +1 power active.
 
 ![](charts/sinclair_n_corp.png)
 ![](charts/sinclair_n_corp_prime.png)
 
+As the first identity with minus coins, N Sinclair has a unique playstyle. Each time a coin is destroyed in a clash, it is treated as a tails roll for the remaining sub-clashes, giving him unprecedentedly high min-rolls, which translates to extremely stable clashes. A similar logic applies to his damage rolls— any unrolled remaining coins are treated as tails rolls, giving each of his skills a first hit with decent guaranteed power. This frontloaded damage spread also opens up new ways to play around stagger thresholds. Additionally, being oriented around negative sanity opens up tech associated with corrosion tempo. He can play defends to prevent corrosion when anticipating high sanity drops, and well-timed corrosion allows him to act during staggers. This micro becomes far easier to control when given multiple actions. His kit effects also serve him well.
 
-
-The counsel of nerds is still discussing, and lots of tech likely remains undiscovered. Kervina suggests he deserves S tier, Nex is skeptical, and LOWERCASE is leaning to S tier. However, we've agreed on a few points:  
-\+ Unprecedentedly strong minimax clashes.  
-\+ Inconsistent but remarkably high damage.  
-\+ Corrosion tempo is a novel thing to micro. He can play defends to prevent corrosion and maintain low sanity, when anticipating high sanity drops (e.g. from sinking). Additionally, corrosion can allow him to act during staggers. This ability is exaggerated when given multiple actions.  
-• Because of minus coin sequencing, the damage of his multicoin attacks are frontloaded rather than backloaded. This means he plays a bit uniquely when planning staggers.  
-\- He will practically never achieve the consistency of 95% heads units. Don't expect to play him at negative sanity easily.  
-\- Like W Don, he's much worse in a team, but for completely different reasons (corrosion targeting).  
+Despite this, maximizing his kit is impractical. He will effectively never maintain the consistency of units that take advantage of max sanity's 95% heads rate. Additionally, he works relatively poorly in a team. If corrosion tempo is prioritized, indiscriminate targeting may hit allies, and skipping ego in favour of panic invokes a heavy opportunity cost. Attempting to keep him at a desirable negative sanity threshold may be difficult without enough actions, and giving up on sanity management to play him at max will massively reduce his consistency. His abnormally low defense might be considered a downside, but he has a strangely high health pool to offset it.
 
 `Skill 2 and 3 are simply fantastic, Great clasher.`
 
