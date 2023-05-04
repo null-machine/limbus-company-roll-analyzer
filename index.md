@@ -202,6 +202,7 @@ The counsel of nerds is still discussing, and lots of tech likely remains undisc
 \+ Corrosion tempo is a novel thing to micro. He can play defends to prevent corrosion and maintain low sanity. Additionally, corrosion tempo can allow him to act during staggers. This ability is exaggerated when given multiple actions.  
 • Because of minus coin sequencing, the damage of his multicoin attacks are frontloaded rather than backloaded. This means he plays a bit uniquely when planning staggers.  
 \- He will practically never achieve the consistency of 95% heads units. Don't expect to play him at negative sanity easily.  
+\- Like W Don, much worse in a team, but for completely different (and obvious) reasons.  
 
 Skill 2 and 3 are simply fantastic, Great clasher.
 
