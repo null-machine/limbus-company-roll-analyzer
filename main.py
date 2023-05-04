@@ -33,7 +33,7 @@ for file in files:
 print("Generating tier lists...")
 
 tier_list = open('tier_lists/sinner_clash_ranking.txt', 'w+')
-sinners.sort(reverse=True, key=lambda x: x.agg)
+sinners.sort(reverse=True, key=lambda x: x.max_agg)
 for x in sinners:
 	tier_list.write(f'{x.gen_summary()}\n')
 tier_list.close()
@@ -59,7 +59,7 @@ for x in s3_list:
 tier_list.close()
 
 tier_list = open('tier_lists/sinner_damage_ranking.txt', 'w+')
-sinners.sort(reverse=True, key=lambda x: x.raw)
+sinners.sort(reverse=True, key=lambda x: x.max_raw)
 for x in sinners:
 	tier_list.write(f'{x.gen_summary()}\n')
 tier_list.close()
@@ -98,7 +98,7 @@ for file in files:
 			skills.append(sinner.skills[i])
 
 tier_list = open('tier_lists/verbose_sinner_clash_ranking.txt', 'w+')
-sinners.sort(reverse=True, key=lambda x: x.agg)
+sinners.sort(reverse=True, key=lambda x: x.max_agg)
 for x in sinners:
 	tier_list.write(f'{x.gen_summary()}\n')
 tier_list.close()
@@ -124,7 +124,7 @@ for x in s3_list:
 tier_list.close()
 
 tier_list = open('tier_lists/verbose_sinner_damage_ranking.txt', 'w+')
-sinners.sort(reverse=True, key=lambda x: x.raw)
+sinners.sort(reverse=True, key=lambda x: x.max_raw)
 for x in sinners:
 	tier_list.write(f'{x.gen_summary()}\n')
 tier_list.close()

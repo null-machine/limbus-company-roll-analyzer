@@ -1,48 +1,48 @@
-s0 heathcliff_r_corp | graze_the_grass | agg: 11.91 | raw: 27 (41) | var: 0.44
-s0 ishmael_r_corp | mind_strike | agg: 11.91 | raw: 21 (32) | var: 0.71
-s0 yi_sang_blade | strikers_stance | agg: 11.9 | raw: 11 (41) | var: 0.55
-s0 don_quixote_w_corp | rip | agg: 11.3 | raw: 11 (38) | var: 0.55
-s0 hong_lu_tingtang | throat_slit | agg: 11.3 | raw: 11 (38) | var: 0.55
-s0 ryoshu_kurokumo | focus_strike | agg: 11.3 | raw: 11 (38) | var: 0.55
-s0 outis_seven | predictive_analysis | agg: 11.2 | raw: 12 (32) | var: 0.33
-s0 rodion_n_corp | devoted_hammering | agg: 11.01 | raw: 18 (37) | var: 0.67
-s0 gregor_g_corp | hack | agg: 10.91 | raw: 17 (41) | var: 0.53
-s0 rodion_clearance | bludgeon | agg: 10.7 | raw: 10 (40) | var: 0.6
-s0 rodion_kurokumo | sharpened_blade | agg: 10.7 | raw: 11 (35) | var: 0.55
-s0 ryoshu_seven | slash | agg: 10.7 | raw: 10 (40) | var: 0.6
-s0 faust_n_corp | cackle | agg: 10.51 | raw: 17 (39) | var: 0.53
-s0 don_quixote_n_corp | rightful_purge | agg: 10.41 | raw: 18 (34) | var: 0.67
-s0 ishmael_shi | flying_sword | agg: 10.41 | raw: 18 (34) | var: 0.67
-s0 meursault_liu | assault | agg: 10.41 | raw: 18 (34) | var: 0.67
-s0 ryoshu_chef | cooking_prep | agg: 10.31 | raw: 17 (38) | var: 0.53
-s0 sinclair_lcb | downward_swing | agg: 10.25 | raw: 10 (38) | var: 0.7
-s0 heathcliff_n_corp | gawky_nailing | agg: 10.21 | raw: 18 (33) | var: 0.67
-s0 hong_lu_liu | warm_up | agg: 10.21 | raw: 18 (33) | var: 0.67
-s0 don_quixote_shi | catch_breath | agg: 10.1 | raw: 10 (37) | var: 0.6
-s0 don_quixote_lcb | joust | agg: 9.85 | raw: 10 (36) | var: 0.7
-s0 hong_lu_lcb | downward_cleave | agg: 9.85 | raw: 10 (36) | var: 0.7
-s0 ryoshu_lcb | paint | agg: 9.85 | raw: 10 (36) | var: 0.7
-s0 meursault_w_corp | rip | agg: 9.7 | raw: 11 (30) | var: 0.55
-s0 heathcliff_shi | extreme_edge | agg: 9.5 | raw: 10 (34) | var: 0.6
-s0 outis_blade | draw_of_the_sword | agg: 9.5 | raw: 10 (34) | var: 0.6
-s0 outis_lcb | pulled_blade | agg: 9.31 | raw: 21 (38) | var: 0.57
-s0 heathcliff_lcb | bat_bash | agg: 9.25 | raw: 10 (33) | var: 0.7
-s0 rodion_lcb | strike_down | agg: 9.25 | raw: 10 (33) | var: 0.7
-s0 faust_l_corp | sole_strike | agg: 9.1 | raw: 9 (37) | var: 0.67
-s0 hong_lu_kurokumo | cleave | agg: 9.1 | raw: 10 (32) | var: 0.6
-s0 yi_sang_seven | fleche | agg: 9.1 | raw: 10 (32) | var: 0.6
-s0 gregor_lcb | swipe | agg: 8.85 | raw: 10 (31) | var: 0.7
-s0 ishmael_lcb | loggerhead | agg: 8.85 | raw: 10 (31) | var: 0.7
-s0 gregor_liu | single_point_stab | agg: 8.8 | raw: 14 (40) | var: 0.43
-s0 sinclair_n_corp | coerced_judgement | agg: 8.59 | raw: 16 (38) | var: 0.38
-s0 faust_w_corp | energy_cycle | agg: 8.5 | raw: 10 (29) | var: 0.6
-s0 ishmael_clearance | shove | agg: 8.5 | raw: 10 (29) | var: 0.6
-s0 outis_g_corp | order | agg: 8.5 | raw: 10 (29) | var: 0.6
-s0 sinclair_zwei | baton | agg: 8.5 | raw: 10 (29) | var: 0.6
-s0 faust_lcb | downward_slash | agg: 8.25 | raw: 10 (28) | var: 0.7
-s0 yi_sang_lcb | deflect | agg: 8.25 | raw: 10 (28) | var: 0.7
-s0 meursault_lcb | un_deux | agg: 7.81 | raw: 16 (26) | var: 0.75
-s0 gregor_chef | keep_it_fresh | agg: 7.6 | raw: 14 (34) | var: 0.43
-s0 sinclair_blade | slice_then_stab | agg: 6.9 | raw: 13 (35) | var: 0.23
-s0 meursault_n_corp | drive | agg: 6.3 | raw: 13 (32) | var: 0.23
-s0 sinclair_mariachi | baile_y_rola | agg: 6.2 | raw: 14 (27) | var: 0.43
+s0 heathcliff_r_corp | graze_the_grass | agg: 6.75, 11.91 | raw: 15, 27 (41)
+s0 ishmael_r_corp | mind_strike | agg: 3.13, 11.91 | raw: 6, 21 (32)
+s0 yi_sang_blade | strikers_stance | agg: 6.5, 11.9 | raw: 5, 11 (41)
+s0 don_quixote_w_corp | rip | agg: 5.9, 11.3 | raw: 5, 11 (38)
+s0 hong_lu_tingtang | throat_slit | agg: 5.9, 11.3 | raw: 5, 11 (38)
+s0 ryoshu_kurokumo | focus_strike | agg: 5.9, 11.3 | raw: 5, 11 (38)
+s0 outis_seven | predictive_analysis | agg: 7.6, 11.2 | raw: 8, 12 (32)
+s0 rodion_n_corp | devoted_hammering | agg: 3.98, 11.01 | raw: 6, 18 (37)
+s0 gregor_g_corp | hack | agg: 5.64, 10.91 | raw: 8, 17 (41)
+s0 rodion_clearance | bludgeon | agg: 5.3, 10.7 | raw: 4, 10 (40)
+s0 rodion_kurokumo | sharpened_blade | agg: 5.3, 10.7 | raw: 5, 11 (35)
+s0 ryoshu_seven | slash | agg: 5.3, 10.7 | raw: 4, 10 (40)
+s0 faust_n_corp | cackle | agg: 5.24, 10.51 | raw: 8, 17 (39)
+s0 don_quixote_n_corp | rightful_purge | agg: 3.38, 10.41 | raw: 6, 18 (34)
+s0 ishmael_shi | flying_sword | agg: 3.38, 10.41 | raw: 6, 18 (34)
+s0 meursault_liu | assault | agg: 3.38, 10.41 | raw: 6, 18 (34)
+s0 ryoshu_chef | cooking_prep | agg: 5.04, 10.31 | raw: 8, 17 (38)
+s0 sinclair_lcb | downward_swing | agg: 3.95, 10.25 | raw: 3, 10 (38)
+s0 heathcliff_n_corp | gawky_nailing | agg: 3.18, 10.21 | raw: 6, 18 (33)
+s0 hong_lu_liu | warm_up | agg: 3.18, 10.21 | raw: 6, 18 (33)
+s0 don_quixote_shi | catch_breath | agg: 4.7, 10.1 | raw: 4, 10 (37)
+s0 don_quixote_lcb | joust | agg: 3.55, 9.85 | raw: 3, 10 (36)
+s0 hong_lu_lcb | downward_cleave | agg: 3.55, 9.85 | raw: 3, 10 (36)
+s0 ryoshu_lcb | paint | agg: 3.55, 9.85 | raw: 3, 10 (36)
+s0 meursault_w_corp | rip | agg: 4.3, 9.7 | raw: 5, 11 (30)
+s0 heathcliff_shi | extreme_edge | agg: 4.1, 9.5 | raw: 4, 10 (34)
+s0 outis_blade | draw_of_the_sword | agg: 4.1, 9.5 | raw: 4, 10 (34)
+s0 outis_lcb | pulled_blade | agg: 4.15, 9.31 | raw: 9, 21 (38)
+s0 heathcliff_lcb | bat_bash | agg: 2.95, 9.25 | raw: 3, 10 (33)
+s0 rodion_lcb | strike_down | agg: 2.95, 9.25 | raw: 3, 10 (33)
+s0 faust_l_corp | sole_strike | agg: 3.7, 9.1 | raw: 3, 9 (37)
+s0 hong_lu_kurokumo | cleave | agg: 3.7, 9.1 | raw: 4, 10 (32)
+s0 yi_sang_seven | fleche | agg: 3.7, 9.1 | raw: 4, 10 (32)
+s0 gregor_lcb | swipe | agg: 2.55, 8.85 | raw: 3, 10 (31)
+s0 ishmael_lcb | loggerhead | agg: 2.55, 8.85 | raw: 3, 10 (31)
+s0 gregor_liu | single_point_stab | agg: 5.29, 8.8 | raw: 8, 14 (40)
+s0 sinclair_n_corp | coerced_judgement | agg: 6.7, 8.59 | raw: 10, 16 (38)
+s0 faust_w_corp | energy_cycle | agg: 3.1, 8.5 | raw: 4, 10 (29)
+s0 ishmael_clearance | shove | agg: 3.1, 8.5 | raw: 4, 10 (29)
+s0 outis_g_corp | order | agg: 3.1, 8.5 | raw: 4, 10 (29)
+s0 sinclair_zwei | baton | agg: 3.1, 8.5 | raw: 4, 10 (29)
+s0 faust_lcb | downward_slash | agg: 1.95, 8.25 | raw: 3, 10 (28)
+s0 yi_sang_lcb | deflect | agg: 1.95, 8.25 | raw: 3, 10 (28)
+s0 meursault_lcb | un_deux | agg: 0.78, 7.81 | raw: 4, 16 (26)
+s0 gregor_chef | keep_it_fresh | agg: 4.09, 7.6 | raw: 8, 14 (34)
+s0 sinclair_blade | slice_then_stab | agg: 5.15, 6.9 | raw: 10, 13 (35)
+s0 meursault_n_corp | drive | agg: 4.55, 6.3 | raw: 10, 13 (32)
+s0 sinclair_mariachi | baile_y_rola | agg: 2.69, 6.2 | raw: 8, 14 (27)

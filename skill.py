@@ -12,7 +12,10 @@ class Skill:
 		self.coin_type = coin_type
 	
 	def gen_summary(self):
-		return f'{self.type} {self.user} | {self.name} | agg: {round(self.max_agg, 2)} | raw: {round(self.max_raw, 2)} ({self.offense}) | var: {round(self.var, 2)}'
+		return f'{self.type} {self.user} | {self.gen_display()}'
+	
+	def gen_display(self):
+		return f'{self.name} | agg: {round(self.min_agg, 2)}, {round(self.max_agg, 2)} | raw: {round(self.min_raw, 2)}, {round(self.max_raw, 2)} ({self.offense})'
 
 	def calibrate(self, enemy_offense=35):
 		offense_delta = self.offense - enemy_offense
@@ -40,7 +43,7 @@ class Skill:
 			if i > 0:
 				if self.coin_type == 'minus':
 					self.max_raw += self.base_power + self.coin_count * self.coin_power
-					self.min_raw += self.base_power + (i - 1) * self.coin_power
+					self.min_raw += self.base_power + (i - 1) * self.coin_power if self.base_power + (i - 1) * self.coin_power > 0 else 0
 				else:
 					self.max_raw += self.base_power + i * self.coin_power
 					self.min_raw += self.base_power
