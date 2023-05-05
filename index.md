@@ -435,7 +435,7 @@ However, his offense level is slightly miserable, making his damage deceptively 
 
 ![](charts/meursault_liu.png)
 
-Liu Meursault forms the middle ground of the three Liu identities. He contributes both potency and count, but cannot practically sustain the burn count on his own with only one or two actions. Notably, his S2 and S3 effects are capable of choosing the same target multiple times, maintaining his kit effect contributions in encounters with fewer enemies.
+Liu Meursault forms the middle ground of the three Liu identities. He contributes both potency and count, but cannot practically sustain the burn count on his own with only one or two actions. Notably, his S2 and S3 effects are capable of choosing the same target multiple times, maintaining his kit effect contributions consistent in encounters with fewer enemies.
 
 Of course, being mediocre at everything obviously makes for a rather mediocre unit.
 
