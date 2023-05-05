@@ -195,7 +195,7 @@ The prime chart represents Sinclair with fanatic's +1 power active.
 ![](charts/sinclair_n_corp.png)
 ![](charts/sinclair_n_corp_prime.png)
 
-As the first identity with minus coins, N Sinclair has a unique playstyle. Each time a coin is destroyed in a clash, it is treated as a tails roll for the remaining sub-clashes, giving him unprecedentedly high min-rolls, which translates to extremely stable clashes. A similar logic applies to his damage rolls— any unrolled remaining coins are treated as tails rolls, giving each of his skills a first hit with decent guaranteed power. This frontloaded damage spread also opens up new ways to play around stagger thresholds. Additionally, being oriented around negative sanity opens up tech associated with corrosion tempo. He can play defends to prevent corrosion when anticipating high sanity drops, and well-timed corrosion allows him to act during staggers. This micro becomes far easier to control when given multiple actions. His kit effects also serve him well.
+As the first identity with minus coins, N Sinclair has a unique playstyle. Each time a coin is destroyed in a clash, it is treated as a tails roll for the remaining sub-clashes, giving him unprecedentedly high min-rolls, which translates to extremely stable clashes. A similar logic applies to his damage rolls— any unrolled remaining coins are treated as tails rolls, giving each of his skills a first hit with decent guaranteed power. This frontloaded damage spread also opens up new ways to play around stagger thresholds. Additionally, being oriented around negative sanity opens up tech associated with corrosion tempo. He can play defends to prevent corrosion when anticipating high sanity drops, and well-timed corrosion allows him to act during staggers. This micro becomes far easier to control when given multiple actions. His kit effects also serve him well. Since this does not seem to be public knowledge, it is worth mentioning that the indiscriminate egos that appear during corrosion may have different targets, and can be previewed.
 
 Despite this, maximizing his kit is impractical. He will effectively never maintain the consistency of units that take advantage of max sanity's 95% heads rate. Additionally, he works relatively poorly in a team. If corrosion tempo is prioritized, indiscriminate targeting may hit allies, and skipping ego in favour of panic invokes a heavy opportunity cost. Attempting to keep him at a desirable negative sanity threshold may be difficult without enough actions, and giving up on sanity management to play him at max will massively reduce his consistency. His abnormally low defense might be considered a downside, but he has a strangely high health pool to offset it.
 
@@ -294,7 +294,7 @@ The prime chart represents Faust with Representation Emitter's +2 power active, 
 ![](charts/faust_l_corp_prime.png)
 ![](charts/faust_l_corp_weak.png)
 
-High-end rolls translate to insane clashes and acceptable damage. The haste from S2 also gives her great pulling power, allowing her to force threatening skills to clash with her reliable S2 or pseudo-ego S3. This synergy makes her an extremely competent fighter. Having an evade doesn't hurt either. She actually has better clashes than N Faust and G Gregor, but not quite as much damage or agency.
+High-end rolls translate to insane clashes and acceptable damage. The haste from S2 also gives her great pulling power, allowing her to force threatening skills to clash with her reliable S2 or pseudo-ego S3. This synergy makes her an extremely competent fighter. Having an evade doesn't hurt either.
 
 Besides the standard miserable S1, her stagger thresholds are also remarkably poor. This should not be a problem in most cases, especially in teams that are capable of healing her back up past the threshold, but it does make her feel somewhat glassy. The effects in her kit are generally kind of dysfunctional as well, but to use that as an argument against her would be doing her performance disservice.
 
@@ -307,9 +307,9 @@ The prime chart represents Don with Overbreathe's effect active. The activation 
 ![](charts/don_quixote_shi.png)
 ![](charts/don_quixote_shi_prime.png)
 
-Shi Don plays similarly to L Faust, where both have insanely high clash power but not enough damage to edge them into S tier. Shi Don exaggerates this behaviour, with even better clashes and worse damage. They both even have haste on S2 and an evade, causing them to behave extremely similarly. Shi Don's passive has a much less restrictive condition, so obtaining haste from there is far more viable than L Faust's poise count requirement. Notably, she only has two stagger thresholds, making her more forgiving than intuition would suggest.
+Shi Don plays similarly to L Faust, where both have insanely high clash power but not enough damage to edge them into S tier. Shi Don exaggerates this behaviour, with even better clashes and worse damage. They both even have haste on S2 and an evade, causing them to behave extremely similarly. Shi Don's passive has a much less restrictive condition, so obtaining haste from there is far more viable than L Faust's poise count requirement. Notably, she only has two stagger thresholds, making her more forgiving than intuition would suggest. Numerically, she actually has the fifth highest weighted average clash power in the game, losing only to S tier units (as of 2023.5).
 
-Terrible S1 aside, she also has worse damage than L Faust, and being marginally better at clashing doesn't quite compensate for that.
+Terrible S1 aside, she also has worse damage than L Faust, and being better at clashing doesn't quite compensate for that.
 
 ---
 
@@ -320,11 +320,11 @@ The prime chart represents Ishmael with Flashing Strike's additional coins. Snag
 ![](charts/ishmael_shi.png)
 ![](charts/ishmael_shi_prime.png)
 
-Above her health threshold, Shi Ishmael has the damage of Shi Don but not remotely as much clash power. However, dropping below half effectively gives her S tier numbers via a better Cloud Cutter. Having decent numbers on S1 provides a solid baseline damage output as well.
+Above her health threshold, Shi Ishmael has the damage of Shi Don but not remotely as much clash power. However, dropping below half health effectively gives her a better Cloud Cutter. Having decent numbers on S1 provides a solid baseline damage output as well.
 
 Maintaining her prime state is impractical outside of Refraction Railway. Needing to go through at least one stagger forces a dead turn, and staying there often causes healing options to prioritize her, which may be awkward to manage. If one intends to play her without managing the threshold and trusting it to kick in when necessary, the other members of A tier may be more consistent options.
 
-Additionally, there is speculation that Shi Ishmael at UT2 may be more performant than Shi Ishmael at UT3. Since her S3 is not particularly strong, keeping it out of the skill pool may result in sleeker performance. A similar logic applies to KK Hong Lu.
+Additionally, there is speculation that Shi Ishmael at UT2 may be more performant than Shi Ishmael at UT3. Since her S3 is not particularly strong, keeping it out of the skill pool may result in sleeker performance. This is also important for mirror dungeon speed optimization to avoid animation lockouts, but this tidbit does not factor into her ranking.
 
 ---
 
@@ -334,7 +334,7 @@ Additionally, there is speculation that Shi Ishmael at UT2 may be more performan
 
 Above average rolls mean above average clashes and above average damage. Notably, she inflicts a healthy amount of bleed count, making the status effect far more impactful.
 
-But, having above average damage from statuses won't let her reach the damage contributed by S tier units anytime soon, and doubling down on more bleed just means invoking a greater opportunity cost. Additionally, bleed is one of the more awkward damage oriented status effects, since it relies on the target to attack. Stacking a lot of bleed on a broken part or a staggered enemy that's about to die can feel mildly miserable. Also, KK Ryoshu has arguably has a bit of anti-synergy with KK Hong Lu, since it's dubious whether the extra bleed potency would kill the target faster than simply letting Cloud Cutter perform two extra hits. The other parts of her kit apply on the same turn and are relatively unimpactful. That being said, her numbers are still more than workable.
+But, having above average damage from statuses won't let her reach the damage contributed by S tier units anytime soon, and doubling down on more bleed just means invoking a greater opportunity cost. Additionally, bleed is one of the more awkward damage oriented status effects, since it relies on the target to attack. Stacking a lot of bleed on a broken part or a staggered enemy that's about to die can feel mildly miserable. Also, KK Ryoshu has arguably has a bit of anti-synergy with KK Hong Lu, since it's highly dubious whether the extra bleed potency from a two-coin Cloud Cutter would kill the target faster than simply letting Cloud Cutter perform its full salvo. The other parts of her kit apply on the same turn and are relatively unimpactful. That being said, her roll numbers are still more than workable.
 
 ---
 

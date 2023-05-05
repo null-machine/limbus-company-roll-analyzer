@@ -14,7 +14,7 @@ class Sinner:
 	def calibrate(self):
 		for i in range(0, len(self.skills)):
 			self.skills[i].user = self.name
-			self.skills[i].type = f's{i}'
+			self.skills[i].type = f's{i + 1}'
 			self.skills[i].calibrate()
 		
 		plt.style.use('dark_background')
