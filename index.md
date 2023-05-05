@@ -441,7 +441,7 @@ Of course, being mediocre at everything obviously makes for a rather mediocre un
 
 ---
 
-
+Writeups for LCCB Ishmael and the N Corp units will be added next at a later date.
 
 ---
 
