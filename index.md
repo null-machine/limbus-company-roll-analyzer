@@ -23,7 +23,7 @@ Last update: 2023.5
 
 An encounter agnostic tier list. The rationale behind a sinner's rank will never be based solely on their performance in existing content. First and foremost, the numbers on their rolls will be analyzed in detail to approximate their ability to clash and deal damage, since this ability is universal and critical. Then, notable parts about their kit that compensate or undermine their numbers will be taken into account. Example strategies and experiences will be provided if appropriate, but won't form the basis of judgement.
 
-What this means is, this list will make the Limbus Company experience and future stages as accessible as possible. Investing in high-tier units will provide a practical way to clear content. Failing that, it will illustrate the opportunity cost of not having certain units (which is usually more acceptable than intuition would suggest).
+What this means is, this list will make the game experience and future stages as accessible as possible. Investing in high-tier units will provide a practical way to clear content. Failing that, it will illustrate the opportunity cost of not having certain units (which is usually far more acceptable than influencers would suggest).
 
 If one wishes to attempt to future-proof their unit choices, this is not a bad place to start. Regardless, please recognize that all tier lists, including this one, are generalizations.
 
@@ -78,7 +78,7 @@ These units win clashes that units in lower tiers couldn't, and can be relied up
 **B TIER — MEDIOCRE**
 
 Neither great nor terrible, these units may leave a player idly wishing they were someone else. That being said, they aren't liabilities.  
-No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
+Not all individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
 
 ![LCB Outis](assets/11101.png)
 ![LCB Hong Lu](assets/10601.png)
@@ -89,10 +89,11 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 ![Liu Gregor](assets/11202.png)
 ![Liu Hong Lu](assets/10604.png)
 ![Liu Meursault](assets/10502.png)
+![LCCB Ishmael](assets/10804.png)
 ![N Heathcliff](assets/10704.png)
+![N Don Quixote](assets/donk.png)
 ![N Rodion](assets/10904.png)
 ![N Meursault](assets/10504.png)
-![LCCB Ishmael](assets/10804.png)
 
 ---
 
@@ -199,10 +200,6 @@ As the first identity with minus coins, N Sinclair has a unique playstyle. Each 
 Despite this, maximizing his kit is impractical. He will effectively never maintain the consistency of units that take advantage of max sanity's 95% heads rate. Additionally, he works relatively poorly in a team. If corrosion tempo is prioritized, indiscriminate targeting may hit allies, and skipping ego in favour of panic invokes a heavy opportunity cost. Attempting to keep him at a desirable negative sanity threshold may be difficult without enough actions, and giving up on sanity management to play him at max will massively reduce his consistency. His abnormally low defense might be considered a downside, but he has a strangely high health pool to offset it.
 
 `Skill 2 and 3 are simply fantastic, Great clasher.`
-
-———
-
-Also, for the time being, just judging from the rolls, N Don is probably B tier.
 
 ---
 
@@ -378,9 +375,9 @@ Her S3 effects are rather restrictive due to lacking count for both her bleed an
 
 ![](charts/sinclair_blade.png)
 
-While 7S Ryoshu, L Faust and Shi Don achieve excellence at their best, BL Yi Sang and BL Sinclair are capable of performing consistently in dicey situations. The distinction comes from how their skills are balanced— the former has high coin power and low base power, and vice versa. Furthermore, most the former have evades, and these two have counters, furthering this minimax philosophy. This causes the former trio to have amazing rolls once scaled to 95% heads, while the latter will remain consistent but relatively unimpactful. This is represented by the former's high variance scores, and vice versa. If consistency is what one seeks, these two are likely to perform the same regardless of whether they're rolling heads or tails, giving them fairly good low sanity tolerance. Unlike BL Yi Sang, BL Sinclair's S3 can function as a pseudo-ego. His kit effects are relatively functional as well, with the rare poise count on S1, and an accessible yet reasonably impactful passive.
+While 7S Ryoshu, L Faust and Shi Don achieve excellence at their best, BL Yi Sang and BL Sinclair are capable of performing consistently in dicey situations. The distinction comes from how their skills are balanced— the former has high highs and low lows, and vice versa. Furthermore, most of the former have evades, and these two have counters, furthering this minimax philosophy. This causes the former trio to have amazing rolls once scaled to 95% heads, while the latter will remain consistent but relatively unimpactful. This is represented by the former's high variance, and vice versa. If consistency is what one seeks, these two are likely to perform the same regardless of whether they're rolling heads or tails, giving them fairly good low sanity tolerance. Unlike BL Yi Sang, BL Sinclair's S3 can function as a pseudo-ego. His kit effects are relatively functional as well, with the rare poise count on S1, and an accessible yet decent passive.
 
-However, in this snowball, high sanity meta where 95% heads is fairly commonplace, units that trade coin power for base power tend to underperform. Despite how consistently his S2 and S1 can achieve their expected clash power, they probably will still rely on the opposing skill to low roll due to their low aggregate, ironically making him arguably less consistent than coin power oriented units. 
+However, in this snowball, high sanity meta where 95% heads is fairly commonplace, units that favour base power tend to underperform. Despite how consistently his S2 and S1 can achieve their expected clash power, they probably will still rely on the opposing skill to low roll due to their low aggregate, ironically making him arguably less consistent than coin power oriented units. 
 
 ---
 
@@ -388,7 +385,7 @@ However, in this snowball, high sanity meta where 95% heads is fairly commonplac
 
 ![](charts/yi_sang_blade.png)
 
-BL Yi Sang is an exaggeration of BL Sinclair, with the lowest variance in the game and no aggregate to make use of it. His S2 and S3 can be expected to perform the same regardless of sanity. Having poise count on both his S2 and passive makes him relatively okay at stacking it as well, giving him a decent amount of power from kit effects. Flank Thrust has remarkably high raw damage, which can be attributed to being a multicoin with high offense level.
+BL Yi Sang is an exaggeration of BL Sinclair, with the lowest variance in the game and no aggregate to make use of it. His S2 and S3 can be expected to perform the same regardless of sanity. Having poise count on both his S2 and passive makes him relatively okay at stacking it as well, giving him a decent amount of power from kit effects. Flank Thrust has decent raw damage, which can be attributed to being a multicoin with high offense level.
 
 However, his horrendous lack of high rolls will make his clashes either extremely safe or reliant on the enemy to flip tails (most often the latter). Analysis that applies to BL Sinclair can generally apply to BL Yi Sang, and vice versa.
 
@@ -401,7 +398,7 @@ The prime chart represents Heathcliff under 25% HP and with Bodysack active.
 ![](charts/heathcliff_shi.png)
 ![](charts/heathcliff_shi_prime.png)
 
-His clashes are actually pretty great. He might be viable if he's played like a normal fighter and is given a source of healing to keep him topped off from the S3 self-damage.
+Despite his poor reputation, Shi Heathcliff's clashes are actually relatively pretty great. He might be viable if he's played like a normal fighter, and is given a source of healing to keep him topped off from the S3 self-damage.
 
 But, after consulting someone who has an UT3 Shi Heathcliff, there are probably safer investments than this...
 
@@ -409,7 +406,42 @@ But, after consulting someone who has an UT3 Shi Heathcliff, there are probably 
 
 ---
 
-More individual writeups may be added later. The three Liu identities are next.
+### B Tier: Gregor - Liu Section 6
+
+The prime chart represents Gregor with +1 power from his S2 effects.
+
+![](charts/gregor_liu.png)
+![](charts/gregor_liu_prime.png)
+
+The Liu Association can be summarized as favouring damage over clashes, and Liu Gregor is the most emblematic of this philosophy. Due to how their burn stacks play into each other, their kit effects will contribute more and more depending on how hard burn is being funneled. Liu Gregor contributes burn potency to this setup. However, of the three Liu identities, he may be the one that works best as a standalone, taking the role of a high damage unit with S3 tempo. Funnily enough, outside of S3, he plays somewhat similarly to Blade Lineage units, relying on low variance and high coin count to win clashes by waiting for enemies to low roll. Furthermore, he's also the fastest of the trio.
+
+Regardless, his clashes are held back from having a low max aggregate, and he is on the glassier side in terms of health and defense.
+
+For the sake of transparency, Nex favours this unit.
+
+---
+
+### B Tier: Hong Lu - Liu Section 5
+
+![](charts/hong_lu_liu.png)
+
+Liu Hong Lu is the most clash-oriented of the Liu trio, while still playing into the philosophy of multicoin damage. He contributes the much needed burn count for burn funnel. Being tanky (he surprisingly has higher defense and one less stagger threshold than Liu Meursault) and having SP restoration are also not unwelcome.
+
+However, his offense level is slightly miserable, making his damage deceptively lower than his raws would suggest.
+
+---
+
+### B Tier: Meursault - Liu Section 6
+
+![](charts/meursault_liu.png)
+
+Liu Meursault forms the middle ground of the three Liu identities. He contributes both potency and count, but cannot practically sustain the burn count on his own with only one or two actions. Notably, his S2 and S3 effects are capable of choosing the same target multiple times, maintaining his kit effect contributions in encounters with fewer enemies.
+
+Of course, being mediocre at everything obviously makes for a rather mediocre unit.
+
+---
+
+
 
 ---
 
