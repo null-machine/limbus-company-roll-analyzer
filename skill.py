@@ -15,7 +15,7 @@ class Skill:
 		return f'{self.type} {self.user} | {self.gen_display()}'
 	
 	def gen_display(self):
-		return f'{self.name} | agg: {round(self.min_agg, 2)}, {round(self.max_agg, 2)} | raw: {round(self.min_raw, 2)}, {round(self.max_raw, 2)} ({self.offense})'
+		return f'{self.name} | agg: {round(self.min_agg, 2)}~{round(self.max_agg, 2)} | raw: {round(self.min_raw, 2)}~{round(self.max_raw, 2)} ({self.offense})'
 
 	def calibrate(self, enemy_offense=35):
 		offense_delta = self.offense - enemy_offense

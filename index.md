@@ -42,7 +42,7 @@ A blue badge indicates that a unit benefits significantly from technical prowess
 
 A yellow badge indicates that a unit has a notably good support passive. They may be impactful when benched, especially for low-sinner teams. Note that the ranking evaluates fielded performance, not support passives, so this badge serves as a footnote on how an identity may stay relevant despite their rank.
 
-A pink badge indicates that a unit performs abnormally well in the context of maximin strategies. They may be an option for optimizing Refraction Railway, but achieving their prime state may require too many brain-off resets to be practical in other settings.
+A pink badge indicates that a unit performs abnormally well in the context of maximax strategies. They may be an option for optimizing Refraction Railway, but achieving their prime state may require too many brain-off resets to be practical in other settings.
 
 ---
 

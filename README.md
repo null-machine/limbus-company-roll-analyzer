@@ -28,9 +28,9 @@ This tool approximates every sinner's ability to win a clash against a single co
 - A subchart's raw is the sum of all coins on a max roll without anything else factored in. The first value is for the max roll, and the second is for the min roll. Offense level is indicated in parentheses.
 - The main chart's aggregate is a weighted average of all skill aggregates. It compares average clash power between sinners.
 - The main chart's raw is a weighted average of all skill raws. It approximates the average damage a sinner will output. Please be aware that this is arguably the most misleading statistic, since it ignores effects and statuses. Furthermore, players can manipulate tempo to ensure hard-hitting skills will be present during enemy staggers and use weaker skills to manipulate thresholds, so the raws of individual skills are more worthy of analysis.
-- The weighting used for averages assumes two s1, two s2 and one s3 per pool. Two s1 instead of three s1 per pool is chosen for a few reasons:
-	- Despite defense skill cycling being patched, each sinner still has two slots per dashboard, so a weak skill can still theoretically be removed from the pool by just keeping it in a bottom slot, hence the total of five.
-	- Furthermore, ego usage consumes slots, so players that manipulate draw will be able to reduce the effective pool size even further.
+- The weighting used for averages assumes three s1, two s2 and one s3 per pool.
+	- Since the game uses a "refill bag by bag" system instead of a "used skills requeue the pool" system, weak skills cannot be removed from the pool just by keeping them in a bottom slot (but this can still be used to greed for tempo).
+	- However, ego and defense usage consumes slots, so players that manipulate draw will be able to reduce the effective pool size regardless.
 	- Additionally, evade skills are particularly strong after the sanity patch, so sinners with evade can viably use that instead of s1 in tight situations.
 
 ### Assumptions & Notes
