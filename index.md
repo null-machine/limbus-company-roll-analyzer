@@ -1,5 +1,7 @@
 ---
 title: Yet Another Limbus Company Tier List
+toc: true
+toc_sticky: true
 ---
 
 <meta property="og:title" content="Yet Another Limbus Company Tier List">
