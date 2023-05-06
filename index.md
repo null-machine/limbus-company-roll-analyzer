@@ -17,6 +17,39 @@ Last update: 2023.5
 
 ---
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Rankings](#rankings)
+- [Writeups](#writeups)
+  * [S Tier: Don Quixote - W Corp. Cleanup Agent](#s-tier--don-quixote---w-corp-cleanup-agent)
+  * [S Tier: Heathcliff - R Corp. 4th Pack Rabbit](#s-tier--heathcliff---r-corp-4th-pack-rabbit)
+  * [S Tier: Ryoshu - R.B. Chef de Cuisine](#s-tier--ryoshu---rb-chef-de-cuisine)
+  * [S Tier: Sinclair - The One Who Shall Grip](#s-tier--sinclair---the-one-who-shall-grip)
+  * [S Tier: Faust - The One Who Grips](#s-tier--faust---the-one-who-grips)
+  * [S Tier: Hong Lu - Tingtang Gangleader](#s-tier--hong-lu---tingtang-gangleader)
+  * [S Tier: Hong Lu - Kurokumo Wakashu](#s-tier--hong-lu---kurokumo-wakashu)
+  * [A Tier: Gregor - G Corp. Manager Corporal](#a-tier--gregor---g-corp-manager-corporal)
+  * [A Tier: Ishmael - R Corp. 4th Pack Reindeer](#a-tier--ishmael---r-corp-4th-pack-reindeer)
+  * [A Tier: Outis - Seven Section 6 Director](#a-tier--outis---seven-section-6-director)
+  * [A Tier: Ryoshu - Seven Section 6](#a-tier--ryoshu---seven-section-6)
+  * [A Tier: Faust - Lobotomy Corp. Remnant](#a-tier--faust---lobotomy-corp-remnant)
+  * [A Tier: Don Quixote - Shi Section 5 Director](#a-tier--don-quixote---shi-section-5-director)
+  * [A Tier: Ishmael - Shi Section 5](#a-tier--ishmael---shi-section-5)
+  * [A Tier: Ryoshu - Kurokumo Wakashu](#a-tier--ryoshu---kurokumo-wakashu)
+  * [B Tier: Outis - LCB Sinner](#b-tier--outis---lcb-sinner)
+  * [B Tier: Hong Lu - LCB Sinner](#b-tier--hong-lu---lcb-sinner)
+  * [B Tier: Rodion - Kurokumo Wakashu](#b-tier--rodion---kurokumo-wakashu)
+  * [B Tier: Sinclair - Blade Lineage Salsu](#b-tier--sinclair---blade-lineage-salsu)
+  * [B Tier: Yi Sang - Blade Lineage Salsu](#b-tier--yi-sang---blade-lineage-salsu)
+  * [B Tier: Heathcliff - Shi Section 5](#b-tier--heathcliff---shi-section-5)
+  * [B Tier: Gregor - Liu Section 6](#b-tier--gregor---liu-section-6)
+  * [B Tier: Hong Lu - Liu Section 5](#b-tier--hong-lu---liu-section-5)
+  * [B Tier: Meursault - Liu Section 6](#b-tier--meursault---liu-section-6)
+- [Additional Notes](#additional-notes)
+
+---
+
 ## Introduction
 
 **What this is:**  
@@ -26,6 +59,8 @@ An encounter agnostic tier list. The rationale behind a sinner's rank will never
 What this means is, this list will make the game experience and future stages as accessible as possible. Investing in high-tier units will provide a practical way to clear content. Failing that, it will illustrate the opportunity cost of not having certain units (which is usually far more acceptable than influencers would suggest).
 
 If one wishes to attempt to future-proof their unit choices, this is not a bad place to start. Regardless, please recognize that all tier lists, including this one, are generalizations.
+
+Ctrl-F is recommended for navigation.
 
 **What this isn't:**
 - A mirror dungeon tier list. Animation speeds and performance in undertuned stages with arbitrary artifacts play absolutely no role in any of these rankings.
@@ -132,7 +167,7 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 
 ---
 
-## Rationale
+## Writeups
 
 [A full explanation of how to read the roll charts can be found here.](https://github.com/null-machine/limbus-company-clash-tool) 
 
