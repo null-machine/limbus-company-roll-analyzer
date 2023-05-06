@@ -1,5 +1,5 @@
 sinclair_n_corp | agg: 10.96~15.06 | raw: 17.0~44.33 (38.67)
-heathcliff_r_corp | agg: 7.12~15.88 | raw: 17.5~43.5 (41.0)
+heathcliff_r_corp | agg: 6.12~14.88 | raw: 13.83~39.83 (41.0)
 don_quixote_w_corp | agg: 5.7~16.03 | raw: 7.33~33.33 (38.0)
 ryoshu_chef | agg: 4.99~13.62 | raw: 9.0~28.5 (38.0)
 ishmael_r_corp | agg: 4.12~14.33 | raw: 6.33~25.5 (32.0)

@@ -1,7 +1,7 @@
 hong_lu_tingtang | agg: 5.75~16.5 | raw: 6.33~23.5 (38.0)
 don_quixote_w_corp | agg: 5.7~16.03 | raw: 7.33~33.33 (38.0)
-heathcliff_r_corp | agg: 7.12~15.88 | raw: 17.5~43.5 (41.0)
 sinclair_n_corp | agg: 10.96~15.06 | raw: 17.0~44.33 (38.67)
+heathcliff_r_corp | agg: 6.12~14.88 | raw: 13.83~39.83 (41.0)
 don_quixote_shi | agg: 5.02~14.38 | raw: 5.33~17.83 (37.0)
 ishmael_r_corp | agg: 4.12~14.33 | raw: 6.33~25.5 (32.0)
 ryoshu_seven | agg: 5.58~14.03 | raw: 5.33~17.33 (40.0)
