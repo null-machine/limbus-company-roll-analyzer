@@ -11,6 +11,8 @@ Written and maintained by a stats-obsessed psychopath, LOWERCASE#0357.
 
 Critically reviewed by Nex#7448 and Kervina.
 
+[The analysis tool this tier list is based on can be found here.](https://github.com/null-machine/limbus-company-clash-tool)
+
 Limbus Company belongs to Project Moon.
 
 Last update: 2023.5
@@ -220,7 +222,7 @@ The prime chart represents Faust with Representation Emitter's +2 power active.
 ![](charts/faust_n_corp.png)
 ![](charts/faust_n_corp_prime.png)
 
-N Faust is almost a twin to Chef Ryoshu— S2 oriented, lots of multicoins, no ammo or charge limitations, a techy evade and solid clashes. She'll fare consistently and reliably with her great numbers. Additionally, her kit is more organized than Chef Ryoshu's. The gaze next turn on S2 adds easily capitalized tempo to her kit, and SP restoration is appreciated.
+N Faust is almost a twin to Chef Ryoshu— S2 oriented, lots of multicoins, no ammo or charge limitations, a techy evade and solid clashes. She'll fare consistently and reliably with her great numbers. Additionally, her kit is more organized than Chef Ryoshu's. The gaze next turn on S2 adds easily capitalized tempo to her kit, and SP restoration is generally appreciated.
 
 Despite the similarities, Chef Ryoshu has better rolls, and will generally contribute more total damage compared to what N Faust would add with her gaze and nails. That being said, their general differences are not as significant as those that would be imposed by type weaknesses, so there's room for them both in S tier.
 
@@ -385,7 +387,7 @@ Her S3 effects are rather restrictive due to lacking count for both her bleed an
 
 ![](charts/sinclair_blade.png)
 
-While 7S Ryoshu, L Faust and Shi Don achieve excellence at their best, BL Yi Sang and BL Sinclair are capable of performing consistently in dicey situations. The distinction comes from how their skills are balanced— the former has high highs and low lows, and vice versa. Furthermore, most of the former have evades, and these two have counters, furthering this minimax philosophy. This causes the former trio to have amazing rolls once scaled to 95% heads, while the latter will remain consistent but relatively unimpactful. This is represented by the former's high variance, and vice versa. If consistency is what one seeks, these two are likely to perform the same regardless of whether they're rolling heads or tails, giving them fairly good low sanity tolerance. Unlike BL Yi Sang, BL Sinclair's S3 can function as a pseudo-ego. His kit effects are relatively functional as well, with the rare poise count on S1, and an accessible yet decent passive.
+While 7S Ryoshu, L Faust and Shi Don achieve excellence at their best, BL Yi Sang and BL Sinclair are capable of performing consistently in dicey situations. The distinction comes from how their skills are balanced— the former has high highs and low lows, and vice versa. Furthermore, most of the former have evades, and these two have counters, furthering this "constant output" philosophy. This causes the former trio to have amazing rolls once scaled to 95% heads, while the latter will remain consistent but relatively unimpactful. This is represented by the former's high variance, and vice versa. If consistency is what one seeks, these two are likely to perform the same regardless of whether they're rolling heads or tails, giving them fairly good low sanity tolerance. Unlike BL Yi Sang, BL Sinclair's S3 can function as a pseudo-ego. His kit effects are relatively functional as well, with the rare poise count on S1, and an accessible yet decent passive.
 
 However, in this snowball, high sanity meta where 95% heads is fairly commonplace, units that favour base power tend to underperform. Despite how consistently his S2 and S1 can achieve their expected clash power, they probably will still rely on the opposing skill to low roll due to their low aggregate, ironically making him arguably less consistent than coin power oriented units. 
 
