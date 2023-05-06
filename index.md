@@ -167,9 +167,10 @@ That being said, she has a few downsides. Her S1 is miserable and can result in 
 
 ### S Tier: Heathcliff - R Corp. 4th Pack Rabbit
 
-The weak chart represents Heathcliff with less than 6 speed.
+The prime chart represents Heathcliff with +1 power from his charge passive and +1 power from Bodysack. The weak chart represents him with less than 6 speed.
 
 ![](charts/heathcliff_r_corp.png)
+![](charts/heathcliff_r_corp_prime.png)
 ![](charts/heathcliff_r_corp_weak.png)
 
 A Quick Suppression at 6+ speed can perform a similar role to a charged Rip Space. Additionally, tech exists to conserve ammo, such as using Bodysack to cycle S1 and S2. Even when out of ammo, his clashing power remains, so he can still reliably neutralize incoming threats with his insane roll numbers. His kit effects also add considerably more damage than is standard, with 4 fragile on S3. Although he has an evade, soloing is probably not advisable due to his ammo mechanics. On the flip side, this means he won't experience a loss in performance in a full team of sinners.
@@ -413,7 +414,7 @@ The prime chart represents Gregor with +1 power from his S2 effects.
 ![](charts/gregor_liu.png)
 ![](charts/gregor_liu_prime.png)
 
-The Liu Association can be summarized as favouring damage over clashes, and Liu Gregor is the most emblematic of this philosophy. Due to how their burn stacks play into each other, their kit effects will contribute more and more depending on how hard burn is being funneled. Liu Gregor contributes burn potency to this setup. However, of the three Liu identities, he may be the one that works best as a standalone, taking the role of a high damage unit with S3 tempo. Funnily enough, outside of S3, he plays somewhat similarly to Blade Lineage units, relying on low variance and high coin count to win clashes by waiting for enemies to low roll. Furthermore, he's also the fastest of the trio.
+The Liu Association can be summarized as favouring damage over clashes, and Liu Gregor is the most emblematic of this philosophy. Due to how their burn stacks play into each other, their kit effects will contribute more and more depending on how hard burn is being funneled. For maximization, utilizing all three is recommended, even if some of them are merely used to provide their support passive. Additionally, they will perform best when there is one centralized unit to stack burn upon. Liu Gregor contributes the most burn potency of the trio. However, of the three Liu identities, he may be the one that works best as a standalone, taking the role of a high damage unit with S3 tempo. Funnily enough, outside of S3, he plays somewhat similarly to Blade Lineage units, relying on low variance and high coin count to win clashes by waiting for enemies to low roll. Furthermore, he's also the fastest of the trio.
 
 Regardless, his clashes are held back from having a low max aggregate, and he is on the glassier side in terms of health and defense.
 
@@ -425,7 +426,7 @@ For the sake of transparency, Nex favours this unit.
 
 ![](charts/hong_lu_liu.png)
 
-Liu Hong Lu is the most clash-oriented of the Liu trio, while still playing into the philosophy of multicoin damage. He contributes the much needed burn count for burn funnel. Being tanky (he surprisingly has higher defense and one less stagger threshold than Liu Meursault) and having SP restoration are also not unwelcome.
+Liu Hong Lu is the most clash-oriented of the Liu trio, while still playing into the philosophy of multicoin damage. He contributes the much needed burn count for burn funnel, but the least burn potency. He's surprisingly tanky too— he has higher defense and one less stagger threshold than Liu Meursault. SP restoration is also not unwelcome.
 
 However, his offense level is slightly miserable, making his damage deceptively lower than his raws would suggest.
 
@@ -435,9 +436,9 @@ However, his offense level is slightly miserable, making his damage deceptively 
 
 ![](charts/meursault_liu.png)
 
-Liu Meursault forms the middle ground of the three Liu identities. He contributes both potency and count, but cannot practically sustain the burn count on his own with only one or two actions. Notably, his S2 and S3 effects are capable of choosing the same target multiple times, maintaining his kit effect contributions consistent in encounters with fewer enemies.
+Liu Meursault forms the middle ground of the three Liu identities, and is arguably the easiest one to bench. He contributes both potency and count, but cannot practically sustain the burn count on his own with only one or two actions. His rolls are standard for a Liu identity. Notably, his S2 and S3 effects are capable of choosing the same target multiple times, maintaining his kit effect contributions in encounters with fewer enemies.
 
-Of course, being mediocre at everything obviously makes for a rather mediocre unit.
+Of course, being mediocre at everything makes for a rather mediocre unit.
 
 ---
 
