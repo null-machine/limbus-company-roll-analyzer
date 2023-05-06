@@ -19,6 +19,8 @@ Last update: 2023.5
 
 ## Table of Contents
 
+Pressing HOME on the keyboard will scroll to the top of the page.
+
 * TOC
 {:toc}
 
@@ -33,8 +35,6 @@ An encounter agnostic tier list. The rationale behind a sinner's rank will never
 What this means is, this list will make the game experience and future stages as accessible as possible. Investing in high-tier units will provide a practical way to clear content. Failing that, it will illustrate the opportunity cost of not having certain units (which is usually far more acceptable than influencers would suggest).
 
 If one wishes to attempt to future-proof their unit choices, this is not a bad place to start. Regardless, please recognize that all tier lists, including this one, are generalizations.
-
-Ctrl-F is recommended for navigation.
 
 **What this isn't:**
 - A mirror dungeon tier list. Animation speeds and performance in undertuned stages with arbitrary artifacts play absolutely no role in any of these rankings.
