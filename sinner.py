@@ -23,15 +23,21 @@ class Sinner:
 		# plt.figure()
 		
 		for i in range(0, len(self.skills)):
-			breakpoints, max_chance, reg_chance, min_chance = self.skills[i].calibrate()
+			breakpoints, max_chance, reg_chance, min_chance, pos_chance, neg_chance = self.skills[i].calibrate()
 			if self.skills[i].coin_type == 'minus':
 				min_color = 'cyan'
 				max_color = 'magenta'
+				pos_color = (0.5, 0, 0.5)
+				neg_color = (0, 0.5, 0.5)
 			else:
 				min_color = 'magenta'
 				max_color = 'cyan'
-			ax[i].step(breakpoints, min_chance, color=min_color)
+				pos_color = (0, 0.5, 0.5)
+				neg_color = (0.5, 0, 0.5)
+			ax[i].step(breakpoints, pos_chance, color=pos_color)
+			ax[i].step(breakpoints, neg_chance, color=neg_color)
 			ax[i].step(breakpoints, reg_chance, color='grey')
+			ax[i].step(breakpoints, min_chance, color=min_color)
 			ax[i].step(breakpoints, max_chance, color=max_color)
 			ax[i].set(ylim=(0, 1.1), xlim=(0, 40), yticks=np.arange(0, 1.1, 0.25), xticks=np.arange(0, 40.1, 2))
 			ax[i].yaxis.set_major_formatter(matplotlib.ticker.PercentFormatter(1.0))

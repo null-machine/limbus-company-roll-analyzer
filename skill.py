@@ -24,15 +24,21 @@ class Skill:
 		max_chance = []
 		reg_chance = []
 		min_chance = []
+		pos_chance = []
+		neg_chance = []
 		breakpoints.append(0)
 		if effective_base_power > 0:
 			max_chance.append(1)
 			reg_chance.append(1)
 			min_chance.append(1)
+			pos_chance.append(1)
+			neg_chance.append(1)
 		else:
 			max_chance.append(0)
 			reg_chance.append(0)
 			min_chance.append(0)
+			pos_chance.append(0)
+			neg_chance.append(0)
 		self.max_agg = 0
 		self.min_agg = 0
 		self.max_raw = 0
@@ -51,10 +57,14 @@ class Skill:
 				max_chance.append(self.eval_chance_minus(0.95, i))
 				reg_chance.append(self.eval_chance_minus(0.5, i))
 				min_chance.append(self.eval_chance_minus(0.05, i))
+				pos_chance.append(self.eval_chance_minus(0.725, i))
+				neg_chance.append(self.eval_chance_minus(0.275, i))
 			else:
 				max_chance.append(self.eval_chance(0.95, i))
 				reg_chance.append(self.eval_chance(0.5, i))
 				min_chance.append(self.eval_chance(0.05, i))
+				pos_chance.append(self.eval_chance(0.725, i))
+				neg_chance.append(self.eval_chance(0.275, i))
 			# max_chance.append(self.eval_chance(0.7, i))
 			# reg_chance.append(self.eval_chance(0.5, i))
 			# min_chance.append(self.eval_chance(0.3, i))
@@ -69,7 +79,7 @@ class Skill:
 		raw_multiplier = 1
 		self.max_raw *= raw_multiplier
 		self.min_raw *= raw_multiplier
-		return breakpoints, max_chance, reg_chance, min_chance
+		return breakpoints, max_chance, reg_chance, min_chance, pos_chance, neg_chance
 	
 	def eval_chance(self, heads_chance, required_heads):
 		if required_heads <= 0:

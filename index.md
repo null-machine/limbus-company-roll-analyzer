@@ -38,7 +38,7 @@ An encounter agnostic tier list. The rationale behind a sinner's rank will never
 
 What this means is, this list will make the game experience and future stages as accessible as possible. Investing in high-tier units will provide a practical way to clear content. Failing that, it will illustrate the opportunity cost of not having certain units (which is usually far more acceptable than influencers would suggest).
 
-If one wishes to attempt to future-proof their unit choices, this is not a bad place to start. Regardless, please recognize that all tier lists, including this one, are generalizations.
+If one wishes to attempt to future-proof their unit choices, this is not a bad place to start. Regardless, please recognize that all tier lists, including this one, are generalizations. Cases that favour units of lower tiers will always exist, especially when it comes to playing around sin resources and type weaknesses.
 
 **What this isn't:**
 - A mirror dungeon tier list. Animation speeds and performance in undertuned stages with arbitrary artifacts play absolutely no role in any of these rankings.
@@ -131,7 +131,8 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 **D TIER — CHALLENGING**
 
 These units should not be prioritized for practical combat.  
-No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
+Writeups will not be available for this tier. They would all essentially say the same thing— their rolls are abysmally unredeemable.  
+[But as usual, everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
 
 ![Chef Gregor](assets/11204.png)
 ![W Faust](assets/10202.png)
@@ -463,9 +464,9 @@ Writeups for LCCB Ishmael and the N Corp units will be added next at a later dat
 
 The placement of KK Hong Lu in S tier was heavily contested by Nex and heavily defended by the other two. Whether his unique S2 is capable of compensating for his glaring lack of clash power is something individual players are encouraged to decide for themselves.
 
-LCB Outis and LCB Hong Lu used to be firmly placed in A tier by LOWERCASE, but that was contested by Kervina and Nex. Both have been dropped to B tier to make A tier more exclusive. (This is also why they are the only B tier units with writeups.)
+LCB Outis and LCB Hong Lu used to be firmly placed in A tier by LOWERCASE, but that was contested by Kervina and Nex. Both have been dropped to B tier to make A tier more exclusive.
 
-Shi Ishmael used to be in high B tier but was moved to low A tier after discussion in the Project Moon community server. The fact that she shares the same raw as W Don without needing her health threshold, alongside her prime performance, was enough to barely edge her in. That being said, individual players are encouraged to evaluate whether sacrificing the stability that high clash power and speed brings makes her worth prioritizing her over the other A tier units.
+Shi Ishmael used to be in high B tier but was moved to low A tier after discussion in the Project Moon community server. The fact that she shares the same raw as Shi Don without needing her health threshold, alongside her prime performance, was enough to barely edge her in. That being said, individual players are encouraged to evaluate whether sacrificing the stability that high clash power and speed brings makes her worth prioritizing her over the other A tier units.
 
 BL Outis only deserves the yellow badge if her support passive works when attacking broken abnormality parts. This still requires testing.
 
