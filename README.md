@@ -41,7 +41,7 @@ This tool approximates every sinner's ability to win a clash against a single co
 	- Due to technical limitations, Ishmael's prime charts treat Snagharpoon's passive as if it can contribute to damage. Please refer to regular Ishmael charts for more accurate representations of her raw damage values. Additionally, Kurokumo Hong Lu's prime chart should be used for damage, and his regular chart should be used for clashes. A similar bug is present for Sevens Outis.
 - Enemy offense level is assumed to be 35.
 	- Technically, this could be anything for the purposes of comparing aggregates, since it affects everyone in a constant way.
-	- But, 35 is the displayed level of Refraction Railway 1 on its end screen, so it should result in numbers players are used to seeing.
+- Due to how it takes a difference of 5 or more offense level to have it influence clash power, aggregate is discontinuous. A sinner with marginally more aggregate than another will only see better performance given specific conditions.
 
 ---
 

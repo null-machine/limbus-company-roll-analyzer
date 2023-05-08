@@ -9,7 +9,7 @@ class Sinner:
 		self.skills = skills
 	
 	def gen_summary(self):
-		return f'{self.name} | agg: {round(self.min_agg, 2)}~{round(self.max_agg, 2)} | raw: {round(self.min_raw, 2)}~{round(self.max_raw, 2)} ({round(self.offense, 2)})'
+		return f'{self.name} | agg: {round(self.min_agg, 2)}~{round(self.max_agg, 2)} | raw: {round(self.min_raw, 2)}~{round(self.max_raw, 2)} @ {round(self.offense, 2)}'
 	
 	def calibrate(self):
 		for i in range(0, len(self.skills)):
@@ -36,7 +36,7 @@ class Sinner:
 				neg_color = '#e77aff'
 			ax[i].step(breakpoints, pos_chance, color=pos_color)
 			ax[i].step(breakpoints, neg_chance, color=neg_color)
-			ax[i].step(breakpoints, reg_chance, color='#cccccc')
+			ax[i].step(breakpoints, reg_chance, color='#c6aeff')
 			ax[i].step(breakpoints, min_chance, color=min_color)
 			ax[i].step(breakpoints, max_chance, color=max_color)
 			ax[i].set(ylim=(0, 1.1), xlim=(0, 40), yticks=np.arange(0, 1.1, 0.25), xticks=np.arange(0, 40.1, 2))
