@@ -25,7 +25,7 @@ This information can then be used to generate a set of tier lists.
 - The Y-axis represents the chance of winning the clash.
 - The X-axis represents the power required to win the clash.
 - The coloured lines represent win chances at varying sanity levels.
-	- In other words, cyan, grey and magenta lines are associated a chance of 0.95, 0.5 and 0.05 of getting heads respectively.
+	- In other words, cyan, grey and magenta lines are associated a chance of 0.95, 0.5 and 0.05 of getting heads respectively. The other two colours represent sanity halfway to max and min.
 - For example, if a skill has the cyan line at x=12 and y=0.75, it has a 75% chance of beating a 12 at maximum sanity.
 
 ![G Corp Gregor's Chart](charts/gregor_g_corp.png)

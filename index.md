@@ -131,8 +131,8 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 **D TIER — CHALLENGING**
 
 These units should not be prioritized for practical combat.  
-Writeups will not be available for this tier. They would all essentially say the same thing— their rolls are abysmally unredeemable.  
-[But as usual, everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
+Writeups will not be available for this tier, because they would all essentially say the same thing— their abysmal rolls are not redeemed by their kits.  
+[But, their roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
 
 ![Chef Gregor](assets/11204.png)
 ![W Faust](assets/10202.png)
@@ -169,7 +169,7 @@ The weak chart represents Don Quixote with Rip Space uncharged.
 ![](charts/don_quixote_w_corp.png)
 ![](charts/don_quixote_w_corp_weak.png)
 
-W Don rewards technical play more than any other identity. At the surface level, playing around S3 tempo allows her to set the standard for what high DPS should look like. Being a charge unit with an evade also lends well to high performance solo or low-sinner clears. S2 additionally inflicts fragile, rewarding tempo control even further. Within individual turns in low-sinner clears, players capable of manipulating skill order will be given agency to charge and fire S3 in the correct order, resulting in good fragile usage, less dead turns and more frequent S3 usage. She has a well-known synergy with Telepole and a lesser known synergy with W Faust's support passive, but relies on neither to earn her rank at the top of the charts. Of course, her S2 and S3 are great at clashing, as befitting an S tier unit.
+W Don rewards technical play more than any other identity. At the surface level, playing around S3 tempo allows her to set the standard for what high DPS should look like. Being a charge unit with an evade also lends well to high performance solo or low-sinner clears. S2 additionally inflicts fragile, rewarding tempo control even further. Within individual turns in low-sinner clears, players capable of manipulating skill order will be given agency to charge and fire S3 in the correct order, resulting in good fragile usage, less dead turns and more frequent S3 usage. She has a well-known synergy with Telepole and a lesser-known synergy with W Faust's support passive, but relies on neither to earn her rank at the top of the charts. Of course, her S2 and S3 are great at clashing, as befitting an S tier unit.
 
 That being said, she has a few downsides. Her S1 is miserable and can result in dead turns. Her performance may degrade significantly or have increased reliance on Telepole when only given one action a turn. A notable example of this is when she is forced to play S1 multiple turns in a row— something that can be avoided when given multiple actions. Of course, autobattle plays her pretty poorly, but a reason that trivial will not be factored into her ranking. Other guides may point out that S3's damage is excessive for general content, but having too much damage seems like a good problem to have... and her S2 remains reliable anyways.
 
@@ -187,7 +187,7 @@ The prime chart represents Heathcliff with +1 power from his charge passive and 
 ![](charts/heathcliff_r_corp_prime.png)
 ![](charts/heathcliff_r_corp_weak.png)
 
-A Quick Suppression at 6+ speed can perform a similar role to a charged Rip Space. Additionally, tech exists to conserve ammo, such as using Bodysack to cycle S1 and S2. Even when out of ammo, his clashing power remains, so he can still reliably neutralize incoming threats with his insane roll numbers. His kit effects also add considerably more damage than is standard, with 4 fragile on S3. Although he has an evade, soloing is probably not advisable due to his ammo mechanics. On the flip side, this means he won't experience a loss in performance in a full team of sinners.
+A Quick Suppression at 6+ speed can perform a similar role to a charged Rip Space. Additionally, tech exists to conserve ammo, such as using Bodysack to cycle S1 and S2. Even when out of ammo, his clashing power remains, so he can still reliably neutralize incoming threats with his insane roll numbers. His kit effects also add considerably more damage than is standard, with 4 fragile on S3. Although he has an evade, soloing is not advisable due to his ammo mechanics. On the flip side, this means he won't experience a loss in performance in a full team of sinners.
 
 ---
 
@@ -212,7 +212,7 @@ The prime chart represents Sinclair with fanatic's +1 power active.
 
 As the first identity with minus coins, N Sinclair has a unique playstyle. Each time a coin is destroyed in a clash, it is treated as a tails roll for the remaining sub-clashes, giving him unprecedentedly high min-rolls, which translates to extremely stable clashes. A similar logic applies to his damage rolls— any unrolled remaining coins are treated as tails rolls, giving each of his skills a first hit with decent guaranteed power. This frontloaded damage spread also opens up new ways to play around stagger thresholds. Additionally, being oriented around negative sanity opens up tech associated with corrosion tempo. He can play defends to prevent corrosion when anticipating high sanity drops, and well-timed corrosion allows him to act during staggers. This micro becomes far easier to control when given multiple actions. His kit effects also serve him well. Since this does not seem to be public knowledge, it is worth mentioning that the indiscriminate egos that appear during corrosion may have different targets, and can be previewed.
 
-Despite this, maximizing his kit is impractical. He will effectively never maintain the consistency of units that take advantage of max sanity's 95% heads rate. Additionally, he works relatively poorly in a team. If corrosion tempo is prioritized, indiscriminate targeting may hit allies, and skipping ego in favour of panic invokes a heavy opportunity cost. Attempting to keep him at a desirable negative sanity threshold may be difficult without enough actions, and giving up on sanity management to play him at max will massively reduce his consistency. His abnormally low defense might be considered a downside, but he has a strangely high health pool to offset it.
+Despite this, maximizing his kit is impractical. He will effectively never maintain the consistency of units that take advantage of max sanity's 95% heads rate. Additionally, he works relatively poorly in a team. When playing around corrosion, indiscriminate targeting may hit allies, and skipping ego in favour of panic invokes a heavy opportunity cost. Attempting to keep him at a desirable negative sanity threshold may be difficult without enough actions, and giving up on sanity management to play him at max will massively reduce his consistency. His abnormally low defense might be considered a downside, but he has a strangely high health pool to offset it.
 
 `Skill 2 and 3 are simply fantastic, Great clasher.`
 
@@ -282,9 +282,9 @@ Due to technical limitations, the normal chart should be used to evaluate clashe
 ![](charts/outis_seven.png)
 ![](charts/outis_seven_weak.png)
 
-And so an interesting truth comes to light— 7S Outis is generally worse at clashing than the low rarity clash god trio, and ties with G Gregor in terms of clash strength! But, she applies far more debuffs than the typical identity. Her presence in a team generally makes winning clashes for others easier, with the next turn paralysis on S1 and offense level down on S3. Having a high speed roll of 5-8, a high defense level of 41 and only one stagger threshold also allows her to take a similar role to G Gregor in pulling clashes and tanking the ones she loses.
+And so an interesting truth comes to light— 7S Outis is generally worse at clashing than the low rarity clash god trio, and ties with G Gregor in terms of general clash strength! But, she applies far more debuffs than the typical identity. Her presence in a team generally makes winning clashes for others easier, with the next turn paralysis on S1 and offense level down on S3. Having a high speed roll of 5-8, a high defense level of 41 and only one stagger threshold also allows her to take a similar role to G Gregor in pulling clashes and tanking the ones she loses.
 
-However, the damage attributed to her defense level down and weakness analyzed debuffs is generally not enough to compensate for her poor numbers, and having lots of effective health is generally not preferable to G Gregor's regeneration.
+However, the damage attributed to her defense level down and weakness analyzed debuffs is generally not enough to compensate for her poor numbers, and having lots of effective health is not preferable to G Gregor's regeneration.
 
 ---
 
@@ -317,7 +317,7 @@ Besides the standard miserable S1, her stagger thresholds are also remarkably po
 
 ### A Tier: Don Quixote - Shi Section 5 Director
 
-The prime chart represents Don with Overbreathe's effect active. The activation condition is extremely restrictive, so it is added for the sake of completeness. The ranking and statements are based solely on the normal chart.
+The prime chart represents Don with Overbreathe's effect active. The activation condition is extremely restrictive, so it is added for the sake of completeness, and does not factor into her ranking.
 
 ![](charts/don_quixote_shi.png)
 ![](charts/don_quixote_shi_prime.png)
