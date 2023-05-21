@@ -1,6 +1,7 @@
 s3 don_quixote_w_corp | rip_space | agg: 5.11~30.22 | raw: 5~95 @ 38
 s3 sinclair_n_corp_prime | self_destructive_purge | agg: 20.63~31.99 | raw: 26~93 @ 40
 s3 sinclair_n_corp | self_destructive_purge | agg: 19.63~30.99 | raw: 24~90 @ 40
+s3 hong_lu_tingtang_prime | mutilate | agg: 9.23~53.16 | raw: 10~85 @ 38
 s3 heathcliff_r_corp_prime | quick_suppression | agg: 8.54~25.28 | raw: 25~85 @ 41
 s3 heathcliff_r_corp | quick_suppression | agg: 6.54~23.28 | raw: 15~75 @ 41
 s3 ishmael_r_corp_prime | mind_whip | agg: 5.53~22.46 | raw: 16~66 @ 32

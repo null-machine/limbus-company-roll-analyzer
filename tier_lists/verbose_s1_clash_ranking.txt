@@ -11,6 +11,7 @@ s1 don_quixote_w_corp | rip | agg: 5.9~11.3 | raw: 5~11 @ 38
 s1 hong_lu_tingtang | throat_slit | agg: 5.9~11.3 | raw: 5~11 @ 38
 s1 ryoshu_kurokumo | focus_strike | agg: 5.9~11.3 | raw: 5~11 @ 38
 s1 don_quixote_w_corp_weak | rip | agg: 5.9~11.3 | raw: 5~11 @ 38
+s1 hong_lu_tingtang_prime | throat_slit | agg: 5.9~11.3 | raw: 5~11 @ 38
 s1 heathcliff_n_corp_prime | gawky_nailing | agg: 4.18~11.21 | raw: 8~20 @ 33
 s1 outis_seven | predictive_analysis | agg: 7.6~11.2 | raw: 8~12 @ 32
 s1 faust_l_corp_prime | sole_strike | agg: 5.7~11.1 | raw: 5~11 @ 37

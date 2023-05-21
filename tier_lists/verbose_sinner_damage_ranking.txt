@@ -1,6 +1,7 @@
 heathcliff_r_corp_prime | agg: 8.12~16.88 | raw: 21.17~47.17 @ 41.0
 sinclair_n_corp_prime | agg: 11.96~16.06 | raw: 19.67~47.17 @ 38.67
 sinclair_n_corp | agg: 10.96~15.06 | raw: 17.0~44.33 @ 38.67
+hong_lu_tingtang_prime | agg: 6.4~22.06 | raw: 8.17~40.33 @ 38.0
 heathcliff_r_corp | agg: 6.12~14.88 | raw: 13.83~39.83 @ 41.0
 don_quixote_w_corp | agg: 5.7~16.03 | raw: 7.33~33.33 @ 38.0
 ishmael_shi_prime | agg: 4.92~14.12 | raw: 11.67~33.0 @ 34.0

@@ -233,9 +233,12 @@ Despite the similarities, Chef Ryoshu has better rolls, and will generally contr
 
 ### S Tier: Hong Lu - Tingtang Gangleader
 
-![](charts/hong_lu_tingtang.png)
+Due to technical limitations, use the normal chart for evaluating aggregate and the prime chart for evaluating raw damage when S2 and S3 gain additional coins.
 
-The sanity update was so good to TT Hong Lu that the roll analyzer now says he's the strongest clasher in the game. Mutilate used to be a dicey shitpost, but it now rolls 30+ with a 95% chance, giving it the highest aggregate in the game (excepting Rip Space, which has charge limitations). His Shank also has the highest aggregate among all S2s, edging out even Ingredient Hunt and Concentrated Fire (but, it's not like either of those would have been likely to lose a clash either). Furthermore, he has no charge or ammo limitations, giving him free reign to abuse that 95% heads to activate all his skill effects and perform extremely well. Ironically, the fact that Mutilate high rolls so high makes him arguably pretty consistent. For other sinners, if their skills don't have enough aggregate, they'll ultimately still rely on the enemy to low roll. Mutilate will not have that problem. In a case where S3 rolling heads won't win a clash, chances are nothing short of high-end egos will outperform it. He gets obligatory bonus points for having an evade, and a relatively strong one at that. It's also worth noting that he has 35 defense, which is considerably higher than other identities with good rolls.
+![](charts/hong_lu_tingtang.png)
+![](charts/hong_lu_tingtang_prime.png)
+
+The sanity update was so good to TT Hong Lu that the roll analyzer now says he's the strongest clasher in the game. Mutilate used to be a dicey shitpost, but it now rolls 30+ with a 95% chance, giving it the highest aggregate (excepting Rip Space, which has charge limitations). His Shank also has the highest aggregate among all S2s, edging out even Ingredient Hunt and Concentrated Fire (but, it's not like either of those would have been likely to lose a clash either). Furthermore, he has no charge or ammo limitations, giving him free reign to abuse that 95% heads to activate all his skill effects and perform extremely well. Ironically, the fact that Mutilate high rolls so high makes him arguably pretty consistent. For other sinners, if their skills don't have enough aggregate, they'll ultimately still rely on the enemy to low roll. In a case where S3 rolling heads won't win a clash, chances are nothing short of high-end egos will outperform it. He gets obligatory bonus points for having an evade, and a relatively strong one at that. Additionally, his S2's extra coin will also appear while attacking broken abnormality parts. It's also worth noting that he has 35 defense, which is considerably higher than other identities with good rolls.
 
 He does have a few downsides though. Besides the miserable S1, he does not tolerate low sanity as well as other sinners. Notably, his combat passive provides a smidge of sanity, which, although undertuned, certainly isn't unwelcome in his heads oriented kit. Additionally, although his kit is cohesive, his damage is not as high as the other units with heavy multicoin skills. Ironically, this makes his overall contributions relatively defensive.
 
@@ -467,8 +470,6 @@ The placement of KK Hong Lu in S tier was heavily contested by Nex and heavily d
 LCB Outis and LCB Hong Lu used to be firmly placed in A tier by LOWERCASE, but that was contested by Kervina and Nex. Both have been dropped to B tier to make A tier more exclusive.
 
 Shi Ishmael used to be in high B tier but was moved to low A tier after discussion in the Project Moon community server. The fact that she shares the same raw as Shi Don without needing her health threshold, alongside her prime performance, was enough to barely edge her in. That being said, individual players are encouraged to evaluate whether sacrificing the stability that high clash power and speed brings makes her worth prioritizing her over the other A tier units.
-
-BL Outis only deserves the yellow badge if her support passive works when attacking broken abnormality parts. This still requires testing.
 
 Whether G Gregor and Chef Ryoshu should receive a yellow badge was discussed. A slight preference was given to G Gregor, but it was decided that neither of them should receive one for fairness. Their healing is unlikely to make or break a clear, but both are definitely situationally impactful.
 

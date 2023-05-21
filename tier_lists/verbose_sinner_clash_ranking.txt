@@ -1,3 +1,4 @@
+hong_lu_tingtang_prime | agg: 6.4~22.06 | raw: 8.17~40.33 @ 38.0
 heathcliff_r_corp_prime | agg: 8.12~16.88 | raw: 21.17~47.17 @ 41.0
 hong_lu_tingtang | agg: 5.75~16.5 | raw: 6.33~23.5 @ 38.0
 ishmael_r_corp_prime | agg: 6.12~16.33 | raw: 10.33~29.5 @ 32.0

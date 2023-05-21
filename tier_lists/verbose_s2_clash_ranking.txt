@@ -1,3 +1,4 @@
+s2 hong_lu_tingtang_prime | shank | agg: 5.73~22.66 | raw: 12~62 @ 38
 s2 ishmael_shi_prime | flashing_slide | agg: 6.5~20.05 | raw: 20~60 @ 34
 s2 hong_lu_kurokumo_prime | cloud_cutter | agg: 6.1~19.65 | raw: 20~60 @ 32
 s2 ryoshu_seven_prime | upper_slash | agg: 8.6~19.4 | raw: 7~19 @ 40
