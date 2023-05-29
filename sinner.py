@@ -49,12 +49,19 @@ class Sinner:
 			self.max_raw = (3 * self.skills[0].max_raw + 2 * self.skills[1].max_raw) / 5
 			self.min_raw = (3 * self.skills[0].min_raw + 2 * self.skills[1].min_raw) / 5
 			self.offense = (3 * self.skills[0].offense + 2 * self.skills[1].offense) / 5
+			
+			self.turn_one_max_agg = (9 * self.skills[0].max_agg + 16 * self.skills[1].max_agg) / 25
+			self.turn_one_min_agg = (9 * self.skills[0].min_agg + 16 * self.skills[1].min_agg) / 25
+			self.turn_one_max_raw = (9 * self.skills[0].max_raw + 16 * self.skills[1].max_raw) / 25
+			self.turn_one_min_raw = (9 * self.skills[0].min_raw + 16 * self.skills[1].min_raw) / 25
+			self.turn_one_offense = (9 * self.skills[0].offense + 16 * self.skills[1].offense) / 25
 		else:
-			# self.max_agg = (1 * self.skills[0].max_agg + 2 * self.skills[1].max_agg + self.skills[2].max_agg) / 6
-			# self.min_agg = (1 * self.skills[0].min_agg + 2 * self.skills[1].min_agg + self.skills[2].min_agg) / 6
-			# self.max_raw = (1 * self.skills[0].max_raw + 2 * self.skills[1].max_raw + self.skills[2].max_raw) / 6
-			# self.min_raw = (1 * self.skills[0].min_raw + 2 * self.skills[1].min_raw + self.skills[2].min_raw) / 6
-			# self.offense = (1 * self.skills[0].offense + 2 * self.skills[1].offense + self.skills[2].offense) / 6
+			self.turn_one_max_agg = (1 * self.skills[0].max_agg + 2 * self.skills[1].max_agg + self.skills[2].max_agg) / 6
+			self.turn_one_min_agg = (1 * self.skills[0].min_agg + 2 * self.skills[1].min_agg + self.skills[2].min_agg) / 6
+			self.turn_one_max_raw = (1 * self.skills[0].max_raw + 2 * self.skills[1].max_raw + self.skills[2].max_raw) / 6
+			self.turn_one_min_raw = (1 * self.skills[0].min_raw + 2 * self.skills[1].min_raw + self.skills[2].min_raw) / 6
+			self.turn_one_offense = (1 * self.skills[0].offense + 2 * self.skills[1].offense + self.skills[2].offense) / 6
+			
 			self.max_agg = (3 * self.skills[0].max_agg + 2 * self.skills[1].max_agg + self.skills[2].max_agg) / 6
 			self.min_agg = (3 * self.skills[0].min_agg + 2 * self.skills[1].min_agg + self.skills[2].min_agg) / 6
 			self.max_raw = (3 * self.skills[0].max_raw + 2 * self.skills[1].max_raw + self.skills[2].max_raw) / 6
