@@ -5,6 +5,7 @@ s2 ryoshu_seven_prime | upper_slash | agg: 8.6~19.4 | raw: 7~19 @ 40
 s2 heathcliff_r_corp_prime | concentrated_fire | agg: 8.48~18.64 | raw: 24~54 @ 41
 s2 ishmael_shi_prime | flashing_slide | agg: 6.5~20.05 | raw: 20~60 @ 34
 s2 faust_n_corp_prime | the_gripping | agg: 7.9~18.23 | raw: 18~42 @ 39
+s2 rodion_rosespanner | vibration_compression | agg: 7.88~18.04 | raw: 24~54 @ 38
 s2 hong_lu_kurokumo_prime | cloud_cutter | agg: 6.1~19.65 | raw: 20~60 @ 32
 s2 heathcliff_shi_prime | flying_sword | agg: 8.3~17.3 | raw: 8~18 @ 34
 s2 ishmael_r_corp_prime | flaying_surge | agg: 7.9~16.9 | raw: 8~18 @ 32
@@ -31,6 +32,7 @@ s2 ishmael_lcb_prime | slide | agg: 6.6~13.8 | raw: 7~15 @ 31
 s2 faust_w_corp_prime | leap | agg: 6.38~13.41 | raw: 14~26 @ 29
 s2 don_quixote_n_corp | enactment | agg: 4.4~15.2 | raw: 4~16 @ 34
 s2 heathcliff_shi | flying_sword | agg: 5.3~14.3 | raw: 5~15 @ 34
+s2 rodion_rosespanner_weak | vibration_compression | agg: 7.04~12.31 | raw: 12~21 @ 38
 s2 heathcliff_n_corp | purify | agg: 6.0~13.2 | raw: 6~14 @ 33
 s2 outis_seven_weak | field_command | agg: 5.13~13.91 | raw: 10~25 @ 32
 s2 ishmael_clearance_prime | quake_rounds | agg: 5.62~13.37 | raw: 18~36 @ 29
@@ -46,6 +48,7 @@ s2 rodion_kurokumo | scattering_slash | agg: 6.44~11.71 | raw: 12~21 @ 35
 s2 ishmael_shi | flashing_slide | agg: 5.38~12.41 | raw: 10~22 @ 34
 s2 outis_blade | acupuncture | agg: 5.38~12.41 | raw: 10~22 @ 34
 s2 outis_g_corp | onslaught_command | agg: 4.3~13.3 | raw: 5~15 @ 29
+s2 meursault_rosespanner | forced_break | agg: 5.18~12.21 | raw: 10~22 @ 33
 s2 outis_lcb | backslash | agg: 5.18~12.21 | raw: 8~20 @ 38
 s2 faust_lcb_prime | upward_slash | agg: 5.18~12.21 | raw: 12~24 @ 28
 s2 heathcliff_lcb_prime | smackdown | agg: 5.18~12.21 | raw: 10~22 @ 33

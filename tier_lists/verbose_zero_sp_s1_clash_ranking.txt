@@ -27,7 +27,9 @@ s1 faust_w_corp_prime | energy_cycle | agg: 5.1~10.5 | raw: 6~12 @ 29
 s1 ishmael_clearance_prime | shove | agg: 5.1~10.5 | raw: 6~12 @ 29
 s1 ishmael_lcb_prime | loggerhead | agg: 4.55~10.85 | raw: 5~12 @ 31
 s1 heathcliff_n_corp_prime | gawky_nailing | agg: 4.18~11.21 | raw: 8~20 @ 33
+s1 rodion_rosespanner | rev_up | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 ryoshu_chef | cooking_prep | agg: 5.04~10.31 | raw: 8~17 @ 38
+s1 rodion_rosespanner_weak | rev_up | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 ryoshu_chef_prime | cooking_prep | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 sinclair_n_corp | coerced_judgement | agg: 6.7~8.59 | raw: 10~16 @ 38
 s1 ishmael_r_corp | mind_strike | agg: 3.13~11.91 | raw: 6~21 @ 32
@@ -53,6 +55,7 @@ s1 ryoshu_lcb | paint | agg: 3.55~9.85 | raw: 3~10 @ 36
 s1 hong_lu_lcb_weak | downward_cleave | agg: 3.55~9.85 | raw: 3~10 @ 36
 s1 heathcliff_n_corp | gawky_nailing | agg: 3.18~10.21 | raw: 6~18 @ 33
 s1 hong_lu_liu | warm_up | agg: 3.18~10.21 | raw: 6~18 @ 33
+s1 meursault_rosespanner | saddled_tasks | agg: 3.9~9.3 | raw: 4~10 @ 33
 s1 hong_lu_kurokumo | cleave | agg: 3.7~9.1 | raw: 4~10 @ 32
 s1 yi_sang_seven | fleche | agg: 3.7~9.1 | raw: 4~10 @ 32
 s1 faust_l_corp | sole_strike | agg: 3.7~9.1 | raw: 3~9 @ 37

@@ -19,11 +19,14 @@ s3 faust_w_corp_prime | overcharge | agg: 7.35~12.51 | raw: 24~36 @ 29
 s3 faust_l_corp_prime | opportunistic_slash | agg: 8.0~27.33 | raw: 12~45 @ 37
 s3 ryoshu_seven | swash | agg: 6.37~19.28 | raw: 12~42 @ 40
 s3 ryoshu_chef | i_can_cook_anything | agg: 4.88~15.04 | raw: 12~42 @ 38
+s3 rodion_rosespanner | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
+s3 rodion_rosespanner_weak | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
 s3 heathcliff_n_corp_prime | infirm_retribution | agg: 5.7~16.03 | raw: 15~39 @ 33
 s3 yi_sang_blade | flank_thrust | agg: 9.47~12.06 | raw: 24~30 @ 41
 s3 gregor_g_corp | eviscerate | agg: 6.05~12.83 | raw: 16~36 @ 41
 s3 gregor_liu | perfected_palm_strike | agg: 5.85~12.63 | raw: 16~36 @ 40
 s3 rodion_n_corp | ironclad_retribution | agg: 5.25~12.03 | raw: 16~36 @ 37
+s3 meursault_rosespanner | finishing_runup | agg: 4.45~11.23 | raw: 16~36 @ 33
 s3 ishmael_clearance | suppress | agg: 3.65~10.43 | raw: 16~36 @ 29
 s3 heathcliff_shi_prime | flashing_strike | agg: 8.67~19.21 | raw: 16~34 @ 34
 s3 gregor_chef | butcher_viand | agg: 5.83~9.21 | raw: 20~30 @ 37

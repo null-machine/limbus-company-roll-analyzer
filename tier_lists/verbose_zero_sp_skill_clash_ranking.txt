@@ -25,6 +25,7 @@ s2 heathcliff_r_corp_prime | concentrated_fire | agg: 8.48~18.64 | raw: 24~54 @ 
 s2 ishmael_shi_prime | flashing_slide | agg: 6.5~20.05 | raw: 20~60 @ 34
 s2 faust_n_corp_prime | the_gripping | agg: 7.9~18.23 | raw: 18~42 @ 39
 s3 don_quixote_lcb_prime | for_justice | agg: 6.57~19.48 | raw: 15~45 @ 36
+s2 rodion_rosespanner | vibration_compression | agg: 7.88~18.04 | raw: 24~54 @ 38
 s2 hong_lu_kurokumo_prime | cloud_cutter | agg: 6.1~19.65 | raw: 20~60 @ 32
 s3 ryoshu_seven | swash | agg: 6.37~19.28 | raw: 12~42 @ 40
 s3 outis_g_corp | focus | agg: 5.6~20.0 | raw: 6~22 @ 29
@@ -41,6 +42,8 @@ s3 ishmael_r_corp | mind_whip | agg: 3.53~20.46 | raw: 8~58 @ 32
 s3 faust_n_corp_prime | execution | agg: 9.35~14.51 | raw: 24~36 @ 39
 s3 sinclair_mariachi | pinata_party | agg: 6.95~16.85 | raw: 8~19 @ 27
 s2 hong_lu_kurokumo_prime_partial | cloud_cutter | agg: 5.1~18.65 | raw: 16~56 @ 32
+s3 rodion_rosespanner | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
+s3 rodion_rosespanner_weak | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
 s2 heathcliff_r_corp | concentrated_fire | agg: 6.48~16.64 | raw: 16~46 @ 41
 s2 outis_seven | field_command | agg: 7.13~15.91 | raw: 14~29 @ 32
 s2 hong_lu_tingtang | shank | agg: 4.97~17.88 | raw: 9~39 @ 38
@@ -82,6 +85,7 @@ s2 don_quixote_n_corp | enactment | agg: 4.4~15.2 | raw: 4~16 @ 34
 s2 heathcliff_shi | flying_sword | agg: 5.3~14.3 | raw: 5~15 @ 34
 s1 heathcliff_shi_prime | extreme_edge | agg: 7.1~12.5 | raw: 7~13 @ 34
 s3 heathcliff_lcb | upheaval | agg: 4.47~15.01 | raw: 8~26 @ 33
+s2 rodion_rosespanner_weak | vibration_compression | agg: 7.04~12.31 | raw: 12~21 @ 38
 s3 rodion_n_corp_prime | ironclad_retribution | agg: 6.25~13.03 | raw: 20~40 @ 37
 s2 heathcliff_n_corp | purify | agg: 6.0~13.2 | raw: 6~14 @ 33
 s3 heathcliff_r_corp_weak | quick_suppression | agg: 5.37~13.74 | raw: 15~45 @ 41
@@ -111,6 +115,7 @@ s2 outis_blade | acupuncture | agg: 5.38~12.41 | raw: 10~22 @ 34
 s2 outis_g_corp | onslaught_command | agg: 4.3~13.3 | raw: 5~15 @ 29
 s3 sinclair_lcb | ravaging_cut | agg: 6.15~11.31 | raw: 15~27 @ 38
 s1 don_quixote_lcb_prime | joust | agg: 5.55~11.85 | raw: 5~12 @ 36
+s2 meursault_rosespanner | forced_break | agg: 5.18~12.21 | raw: 10~22 @ 33
 s2 outis_lcb | backslash | agg: 5.18~12.21 | raw: 8~20 @ 38
 s2 faust_lcb_prime | upward_slash | agg: 5.18~12.21 | raw: 12~24 @ 28
 s2 heathcliff_lcb_prime | smackdown | agg: 5.18~12.21 | raw: 10~22 @ 33
@@ -153,6 +158,7 @@ s3 don_quixote_lcb | for_justice | agg: 4.02~11.77 | raw: 9~27 @ 36
 s2 faust_w_corp | leap | agg: 4.38~11.41 | raw: 10~22 @ 29
 s1 faust_n_corp | cackle | agg: 5.24~10.51 | raw: 8~17 @ 39
 s2 meursault_liu | stalwart_stance | agg: 6.09~9.6 | raw: 12~18 @ 34
+s3 meursault_rosespanner | finishing_runup | agg: 4.45~11.23 | raw: 16~36 @ 33
 s1 faust_w_corp_prime | energy_cycle | agg: 5.1~10.5 | raw: 6~12 @ 29
 s1 ishmael_clearance_prime | shove | agg: 5.1~10.5 | raw: 6~12 @ 29
 s2 sinclair_lcb | halberd_combo | agg: 5.15~10.31 | raw: 12~24 @ 38
@@ -160,7 +166,9 @@ s1 ishmael_lcb_prime | loggerhead | agg: 4.55~10.85 | raw: 5~12 @ 31
 s2 heathcliff_lcb | smackdown | agg: 4.18~11.21 | raw: 8~20 @ 33
 s2 rodion_lcb | axe_combo | agg: 4.18~11.21 | raw: 8~20 @ 33
 s1 heathcliff_n_corp_prime | gawky_nailing | agg: 4.18~11.21 | raw: 8~20 @ 33
+s1 rodion_rosespanner | rev_up | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 ryoshu_chef | cooking_prep | agg: 5.04~10.31 | raw: 8~17 @ 38
+s1 rodion_rosespanner_weak | rev_up | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 ryoshu_chef_prime | cooking_prep | agg: 5.04~10.31 | raw: 8~17 @ 38
 s2 hong_lu_liu | flowing_flame | agg: 5.89~9.4 | raw: 12~18 @ 33
 s1 sinclair_n_corp | coerced_judgement | agg: 6.7~8.59 | raw: 10~16 @ 38
@@ -198,6 +206,7 @@ s2 yi_sang_lcb | end_stop_stab | agg: 3.18~10.21 | raw: 8~20 @ 28
 s1 heathcliff_n_corp | gawky_nailing | agg: 3.18~10.21 | raw: 6~18 @ 33
 s1 hong_lu_liu | warm_up | agg: 3.18~10.21 | raw: 6~18 @ 33
 s3 faust_lcb | drilling_stab | agg: 4.89~8.4 | raw: 12~18 @ 28
+s1 meursault_rosespanner | saddled_tasks | agg: 3.9~9.3 | raw: 4~10 @ 33
 s2 yi_sang_seven | riposte | agg: 4.69~8.2 | raw: 10~16 @ 32
 s1 hong_lu_kurokumo | cleave | agg: 3.7~9.1 | raw: 4~10 @ 32
 s1 yi_sang_seven | fleche | agg: 3.7~9.1 | raw: 4~10 @ 32

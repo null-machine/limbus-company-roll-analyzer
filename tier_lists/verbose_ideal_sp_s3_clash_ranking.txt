@@ -24,6 +24,8 @@ s3 heathcliff_shi_prime | flashing_strike | agg: 8.67~19.21 | raw: 16~34 @ 34
 s3 ryoshu_chef_prime | i_can_cook_anything | agg: 8.88~19.04 | raw: 28~58 @ 38
 s3 sinclair_zwei | strong_strike | agg: 6.45~18.15 | raw: 7~20 @ 29
 s3 ishmael_lcb | shield_bash | agg: 6.8~17.6 | raw: 7~19 @ 31
+s3 rodion_rosespanner | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
+s3 rodion_rosespanner_weak | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
 s3 sinclair_mariachi | pinata_party | agg: 6.95~16.85 | raw: 8~19 @ 27
 s3 hong_lu_lcb | whirlwind | agg: 6.07~16.61 | raw: 10~28 @ 36
 s3 heathcliff_shi | flashing_strike | agg: 5.67~16.21 | raw: 10~28 @ 34
@@ -59,6 +61,7 @@ s3 gregor_lcb | chop_up | agg: 4.78~11.81 | raw: 10~22 @ 31
 s3 rodion_clearance_weak | suppress | agg: 8.29~11.8 | raw: 14~20 @ 40
 s3 don_quixote_lcb | for_justice | agg: 4.02~11.77 | raw: 9~27 @ 36
 s3 sinclair_lcb | ravaging_cut | agg: 6.15~11.31 | raw: 15~27 @ 38
+s3 meursault_rosespanner | finishing_runup | agg: 4.45~11.23 | raw: 16~36 @ 33
 s3 don_quixote_w_corp_weak | rip_space | agg: 2.77~11.14 | raw: 5~35 @ 38
 s3 hong_lu_kurokumo | cloudburst | agg: 5.95~11.11 | raw: 18~30 @ 32
 s3 hong_lu_kurokumo_prime | cloudburst | agg: 5.95~11.11 | raw: 18~30 @ 32

@@ -11,9 +11,11 @@ s3 outis_g_corp | focus | agg: 5.6~20.0 | raw: 6~22 @ 29
 s3 outis_lcb | piercing_thrust | agg: 7.3~19.9 | raw: 6~20 @ 38
 s3 ryoshu_seven | swash | agg: 6.37~19.28 | raw: 12~42 @ 40
 s3 sinclair_zwei | strong_strike | agg: 6.45~18.15 | raw: 7~20 @ 29
+s2 rodion_rosespanner | vibration_compression | agg: 7.88~18.04 | raw: 24~54 @ 38
 s2 hong_lu_tingtang | shank | agg: 4.97~17.88 | raw: 9~39 @ 38
 s2 ryoshu_chef | ingredient_hunt | agg: 4.97~17.88 | raw: 9~39 @ 38
 s3 ishmael_lcb | shield_bash | agg: 6.8~17.6 | raw: 7~19 @ 31
+s3 rodion_rosespanner | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
 s3 sinclair_mariachi | pinata_party | agg: 6.95~16.85 | raw: 8~19 @ 27
 s2 sinclair_n_corp | amoral_enactment | agg: 13.01~16.8 | raw: 24~64 @ 39
 s2 gregor_g_corp | dismember | agg: 7.7~16.7 | raw: 6~16 @ 41
@@ -54,6 +56,7 @@ s3 faust_n_corp | execution | agg: 7.35~12.51 | raw: 18~30 @ 39
 s2 ishmael_shi | flashing_slide | agg: 5.38~12.41 | raw: 10~22 @ 34
 s2 outis_blade | acupuncture | agg: 5.38~12.41 | raw: 10~22 @ 34
 s3 don_quixote_n_corp | fanatical_judgement | agg: 4.62~12.37 | raw: 12~30 @ 34
+s2 meursault_rosespanner | forced_break | agg: 5.18~12.21 | raw: 10~22 @ 33
 s2 outis_lcb | backslash | agg: 5.18~12.21 | raw: 8~20 @ 38
 s3 yi_sang_blade | flank_thrust | agg: 9.47~12.06 | raw: 24~30 @ 41
 s3 rodion_n_corp | ironclad_retribution | agg: 5.25~12.03 | raw: 16~36 @ 37
@@ -71,6 +74,7 @@ s3 sinclair_lcb | ravaging_cut | agg: 6.15~11.31 | raw: 15~27 @ 38
 s1 don_quixote_w_corp | rip | agg: 5.9~11.3 | raw: 5~11 @ 38
 s1 hong_lu_tingtang | throat_slit | agg: 5.9~11.3 | raw: 5~11 @ 38
 s1 ryoshu_kurokumo | focus_strike | agg: 5.9~11.3 | raw: 5~11 @ 38
+s3 meursault_rosespanner | finishing_runup | agg: 4.45~11.23 | raw: 16~36 @ 33
 s2 heathcliff_lcb | smackdown | agg: 4.18~11.21 | raw: 8~20 @ 33
 s2 rodion_lcb | axe_combo | agg: 4.18~11.21 | raw: 8~20 @ 33
 s1 outis_seven | predictive_analysis | agg: 7.6~11.2 | raw: 8~12 @ 32
@@ -91,6 +95,7 @@ s1 don_quixote_n_corp | rightful_purge | agg: 3.38~10.41 | raw: 6~18 @ 34
 s1 ishmael_shi | flying_sword | agg: 3.38~10.41 | raw: 6~18 @ 34
 s1 meursault_liu | assault | agg: 3.38~10.41 | raw: 6~18 @ 34
 s2 sinclair_lcb | halberd_combo | agg: 5.15~10.31 | raw: 12~24 @ 38
+s1 rodion_rosespanner | rev_up | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 ryoshu_chef | cooking_prep | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 sinclair_lcb | downward_swing | agg: 3.95~10.25 | raw: 3~10 @ 38
 s2 faust_lcb | upward_slash | agg: 3.18~10.21 | raw: 8~20 @ 28
@@ -110,6 +115,7 @@ s1 heathcliff_shi | extreme_edge | agg: 4.1~9.5 | raw: 4~10 @ 34
 s1 outis_blade | draw_of_the_sword | agg: 4.1~9.5 | raw: 4~10 @ 34
 s2 hong_lu_liu | flowing_flame | agg: 5.89~9.4 | raw: 12~18 @ 33
 s1 outis_lcb | pulled_blade | agg: 4.15~9.31 | raw: 9~21 @ 38
+s1 meursault_rosespanner | saddled_tasks | agg: 3.9~9.3 | raw: 4~10 @ 33
 s1 heathcliff_lcb | bat_bash | agg: 2.95~9.25 | raw: 3~10 @ 33
 s1 rodion_lcb | strike_down | agg: 2.95~9.25 | raw: 3~10 @ 33
 s3 rodion_lcb | slay | agg: 2.45~9.23 | raw: 8~28 @ 33

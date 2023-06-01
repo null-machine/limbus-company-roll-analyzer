@@ -4,6 +4,7 @@ s1 ishmael_r_corp | mind_strike | agg: 3.13~11.91 | raw: 6~21 @ 32
 s1 sinclair_n_corp | coerced_judgement | agg: 6.7~8.59 | raw: 10~16 @ 38
 s1 gregor_g_corp | hack | agg: 5.64~10.91 | raw: 8~17 @ 41
 s1 faust_n_corp | cackle | agg: 5.24~10.51 | raw: 8~17 @ 39
+s1 rodion_rosespanner | rev_up | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 ryoshu_chef | cooking_prep | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 rodion_n_corp | devoted_hammering | agg: 3.98~11.01 | raw: 6~18 @ 37
 s1 don_quixote_n_corp | rightful_purge | agg: 3.38~10.41 | raw: 6~18 @ 34
@@ -29,6 +30,7 @@ s1 ryoshu_seven | slash | agg: 5.3~10.7 | raw: 4~10 @ 40
 s1 don_quixote_shi | catch_breath | agg: 4.7~10.1 | raw: 4~10 @ 37
 s1 heathcliff_shi | extreme_edge | agg: 4.1~9.5 | raw: 4~10 @ 34
 s1 outis_blade | draw_of_the_sword | agg: 4.1~9.5 | raw: 4~10 @ 34
+s1 meursault_rosespanner | saddled_tasks | agg: 3.9~9.3 | raw: 4~10 @ 33
 s1 hong_lu_kurokumo | cleave | agg: 3.7~9.1 | raw: 4~10 @ 32
 s1 yi_sang_seven | fleche | agg: 3.7~9.1 | raw: 4~10 @ 32
 s1 faust_w_corp | energy_cycle | agg: 3.1~8.5 | raw: 4~10 @ 29

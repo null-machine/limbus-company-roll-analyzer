@@ -13,6 +13,7 @@ don_quixote_w_corp | agg: 5.7~16.03 | raw: 7.33~33.33 @ 38.0
 faust_n_corp_prime | agg: 7.81~14.75 | raw: 16.0~30.5 @ 39.0
 don_quixote_shi_prime | agg: 5.52~14.88 | raw: 5.83~18.33 @ 37.0
 heathcliff_r_corp | agg: 6.12~14.88 | raw: 13.83~39.83 @ 41.0
+rodion_rosespanner | agg: 6.26~14.0 | raw: 14.5~33.0 @ 38.0
 ryoshu_chef_prime | agg: 5.66~14.29 | raw: 11.67~31.17 @ 38.0
 don_quixote_lcb_prime | agg: 6.1~14.41 | raw: 7.0~18.83 @ 36.0
 don_quixote_shi | agg: 5.02~14.38 | raw: 5.33~17.83 @ 37.0
@@ -29,6 +30,7 @@ ishmael_r_corp | agg: 4.12~14.33 | raw: 6.33~25.5 @ 32.0
 faust_l_corp | agg: 4.59~13.09 | raw: 6.83~21.33 @ 37.0
 faust_n_corp | agg: 5.81~12.75 | raw: 11.0~25.5 @ 39.0
 heathcliff_n_corp_prime | agg: 5.37~13.01 | raw: 8.83~21.5 @ 33.0
+rodion_rosespanner_weak | agg: 5.98~12.09 | raw: 10.5~22.0 @ 38.0
 yi_sang_blade | agg: 7.61~11.33 | raw: 11.17~16.17 @ 41.0
 outis_lcb | agg: 5.02~12.04 | raw: 8.17~20.5 @ 38.0
 faust_w_corp_prime | agg: 5.9~11.81 | raw: 11.67~20.67 @ 29.0
@@ -60,6 +62,7 @@ hong_lu_lcb_weak | agg: 4.33~11.0 | raw: 5.83~15.33 @ 36.0
 gregor_chef | agg: 4.95~9.67 | raw: 9.33~16.67 @ 33.83
 meursault_liu | agg: 4.66~10.63 | raw: 9.5~20.5 @ 34.0
 hong_lu_kurokumo | agg: 4.5~10.41 | raw: 8.33~17.33 @ 32.0
+meursault_rosespanner | agg: 4.42~10.59 | raw: 8.0~18.33 @ 33.0
 ryoshu_lcb | agg: 4.33~10.68 | raw: 6.67~16.17 @ 36.0
 gregor_liu | agg: 5.71~9.46 | raw: 11.67~20.0 @ 40.0
 sinclair_lcb | agg: 4.72~10.45 | raw: 8.0~17.5 @ 38.0

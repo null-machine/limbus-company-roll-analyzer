@@ -1,0 +1,24 @@
+!!python/object:sinner.Sinner
+name: meursault_rosespanner
+skills:
+- !!python/object:skill.Skill
+  base_power: 4
+  coin_count: 1
+  coin_power: 6
+  coin_type: plus
+  name: saddled_tasks
+  offense: 33
+- !!python/object:skill.Skill
+  base_power: 5
+  coin_count: 2
+  coin_power: 4
+  coin_type: plus
+  name: forced_break
+  offense: 33
+- !!python/object:skill.Skill
+  base_power: 4
+  coin_count: 4
+  coin_power: 2
+  coin_type: plus
+  name: finishing_runup
+  offense: 33

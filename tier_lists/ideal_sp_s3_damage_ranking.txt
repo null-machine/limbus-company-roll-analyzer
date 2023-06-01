@@ -5,11 +5,13 @@ s3 ishmael_r_corp | mind_whip | agg: 3.53~20.46 | raw: 8~58 @ 32
 s3 ryoshu_seven | swash | agg: 6.37~19.28 | raw: 12~42 @ 40
 s3 ryoshu_chef | i_can_cook_anything | agg: 4.88~15.04 | raw: 12~42 @ 38
 s3 faust_l_corp | opportunistic_slash | agg: 6.0~25.33 | raw: 8~41 @ 37
+s3 rodion_rosespanner | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
 s3 outis_seven | exploit_the_gap | agg: 7.95~13.11 | raw: 24~36 @ 32
 s3 heathcliff_n_corp | infirm_retribution | agg: 4.7~15.03 | raw: 12~36 @ 33
 s3 gregor_g_corp | eviscerate | agg: 6.05~12.83 | raw: 16~36 @ 41
 s3 gregor_liu | perfected_palm_strike | agg: 5.85~12.63 | raw: 16~36 @ 40
 s3 rodion_n_corp | ironclad_retribution | agg: 5.25~12.03 | raw: 16~36 @ 37
+s3 meursault_rosespanner | finishing_runup | agg: 4.45~11.23 | raw: 16~36 @ 33
 s3 ishmael_clearance | suppress | agg: 3.65~10.43 | raw: 16~36 @ 29
 s3 meursault_liu | perfected_death_fist | agg: 5.62~13.37 | raw: 15~33 @ 34
 s3 yi_sang_seven | moulinet | agg: 5.22~12.97 | raw: 15~33 @ 32
