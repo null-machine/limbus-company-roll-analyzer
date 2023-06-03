@@ -594,7 +594,7 @@ Writeups will not be available for the rest of the units, since they are general
 
 ## Additional Notes
 
-The placement of KK Hong Lu in S tier was heavily contested by Nex and heavily defended by the other two. Whether his unique S2 is capable of compensating for his glaring lack of clash power is something individual players are encouraged to decide for themselves.
+KK Hong Lu used to be placed in S tier. This was heavily contested by Nex and heavily defended by the other two. However, the addition of N Sinclair and Rose Rodion edged heavily into his niche of having a nova S2. This creep, combined with his glaring lack of clash power, edged him into A tier. That being said, his actual viability is something individual players are encouraged to decide for themselves.
 
 LCB Outis and LCB Hong Lu used to be firmly placed in A tier by LOWERCASE, but that was contested by Kervina and Nex. Both have been dropped to B tier to make A tier more exclusive.
 
