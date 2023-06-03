@@ -25,7 +25,7 @@ s2 heathcliff_r_corp_prime | concentrated_fire | agg: 8.48~18.64 | raw: 24~54 @ 
 s2 ishmael_shi_prime | flashing_slide | agg: 6.5~20.05 | raw: 20~60 @ 34
 s2 faust_n_corp_prime | the_gripping | agg: 7.9~18.23 | raw: 18~42 @ 39
 s3 don_quixote_lcb_prime | for_justice | agg: 6.57~19.48 | raw: 15~45 @ 36
-s2 rodion_rosespanner | vibration_compression | agg: 7.88~18.04 | raw: 24~54 @ 38
+s2 rodion_rosespanner_prime | vibration_compression | agg: 7.88~18.04 | raw: 24~54 @ 38
 s2 hong_lu_kurokumo_prime | cloud_cutter | agg: 6.1~19.65 | raw: 20~60 @ 32
 s3 ryoshu_seven | swash | agg: 6.37~19.28 | raw: 12~42 @ 40
 s3 outis_g_corp | focus | agg: 5.6~20.0 | raw: 6~22 @ 29
@@ -43,7 +43,7 @@ s3 faust_n_corp_prime | execution | agg: 9.35~14.51 | raw: 24~36 @ 39
 s3 sinclair_mariachi | pinata_party | agg: 6.95~16.85 | raw: 8~19 @ 27
 s2 hong_lu_kurokumo_prime_partial | cloud_cutter | agg: 5.1~18.65 | raw: 16~56 @ 32
 s3 rodion_rosespanner | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
-s3 rodion_rosespanner_weak | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
+s3 rodion_rosespanner_prime | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
 s2 heathcliff_r_corp | concentrated_fire | agg: 6.48~16.64 | raw: 16~46 @ 41
 s2 outis_seven | field_command | agg: 7.13~15.91 | raw: 14~29 @ 32
 s2 hong_lu_tingtang | shank | agg: 4.97~17.88 | raw: 9~39 @ 38
@@ -85,7 +85,7 @@ s2 don_quixote_n_corp | enactment | agg: 4.4~15.2 | raw: 4~16 @ 34
 s2 heathcliff_shi | flying_sword | agg: 5.3~14.3 | raw: 5~15 @ 34
 s1 heathcliff_shi_prime | extreme_edge | agg: 7.1~12.5 | raw: 7~13 @ 34
 s3 heathcliff_lcb | upheaval | agg: 4.47~15.01 | raw: 8~26 @ 33
-s2 rodion_rosespanner_weak | vibration_compression | agg: 7.04~12.31 | raw: 12~21 @ 38
+s2 rodion_rosespanner | vibration_compression | agg: 7.04~12.31 | raw: 12~21 @ 38
 s3 rodion_n_corp_prime | ironclad_retribution | agg: 6.25~13.03 | raw: 20~40 @ 37
 s2 heathcliff_n_corp | purify | agg: 6.0~13.2 | raw: 6~14 @ 33
 s3 heathcliff_r_corp_weak | quick_suppression | agg: 5.37~13.74 | raw: 15~45 @ 41
@@ -168,7 +168,7 @@ s2 rodion_lcb | axe_combo | agg: 4.18~11.21 | raw: 8~20 @ 33
 s1 heathcliff_n_corp_prime | gawky_nailing | agg: 4.18~11.21 | raw: 8~20 @ 33
 s1 rodion_rosespanner | rev_up | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 ryoshu_chef | cooking_prep | agg: 5.04~10.31 | raw: 8~17 @ 38
-s1 rodion_rosespanner_weak | rev_up | agg: 5.04~10.31 | raw: 8~17 @ 38
+s1 rodion_rosespanner_prime | rev_up | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 ryoshu_chef_prime | cooking_prep | agg: 5.04~10.31 | raw: 8~17 @ 38
 s2 hong_lu_liu | flowing_flame | agg: 5.89~9.4 | raw: 12~18 @ 33
 s1 sinclair_n_corp | coerced_judgement | agg: 6.7~8.59 | raw: 10~16 @ 38

@@ -1,5 +1,4 @@
 s2 sinclair_n_corp | amoral_enactment | agg: 13.01~16.8 | raw: 24~64 @ 39
-s2 rodion_rosespanner | vibration_compression | agg: 7.88~18.04 | raw: 24~54 @ 38
 s2 heathcliff_r_corp | concentrated_fire | agg: 6.48~16.64 | raw: 16~46 @ 41
 s2 hong_lu_tingtang | shank | agg: 4.97~17.88 | raw: 9~39 @ 38
 s2 ryoshu_chef | ingredient_hunt | agg: 4.97~17.88 | raw: 9~39 @ 38
@@ -19,6 +18,7 @@ s2 outis_blade | acupuncture | agg: 5.38~12.41 | raw: 10~22 @ 34
 s2 meursault_rosespanner | forced_break | agg: 5.18~12.21 | raw: 10~22 @ 33
 s2 hong_lu_kurokumo | cloud_cutter | agg: 4.98~12.01 | raw: 10~22 @ 32
 s2 faust_w_corp | leap | agg: 4.38~11.41 | raw: 10~22 @ 29
+s2 rodion_rosespanner | vibration_compression | agg: 7.04~12.31 | raw: 12~21 @ 38
 s2 rodion_kurokumo | scattering_slash | agg: 6.44~11.71 | raw: 12~21 @ 35
 s2 meursault_n_corp | you_are_cleansed_of_sin | agg: 5.84~11.11 | raw: 12~21 @ 32
 s2 gregor_liu | rush_down | agg: 6.27~8.86 | raw: 15~21 @ 40

@@ -25,7 +25,7 @@ s3 ryoshu_chef_prime | i_can_cook_anything | agg: 8.88~19.04 | raw: 28~58 @ 38
 s3 sinclair_zwei | strong_strike | agg: 6.45~18.15 | raw: 7~20 @ 29
 s3 ishmael_lcb | shield_bash | agg: 6.8~17.6 | raw: 7~19 @ 31
 s3 rodion_rosespanner | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
-s3 rodion_rosespanner_weak | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
+s3 rodion_rosespanner_prime | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
 s3 sinclair_mariachi | pinata_party | agg: 6.95~16.85 | raw: 8~19 @ 27
 s3 hong_lu_lcb | whirlwind | agg: 6.07~16.61 | raw: 10~28 @ 36
 s3 heathcliff_shi | flashing_strike | agg: 5.67~16.21 | raw: 10~28 @ 34

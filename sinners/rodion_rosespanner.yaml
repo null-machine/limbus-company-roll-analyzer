@@ -10,7 +10,7 @@ skills:
   offense: 38
 - !!python/object:skill.Skill
   base_power: 6
-  coin_count: 4
+  coin_count: 2
   coin_power: 3
   coin_type: plus
   name: vibration_compression

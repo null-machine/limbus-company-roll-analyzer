@@ -33,7 +33,7 @@ s1 meursault_liu | assault | agg: 3.38~10.41 | raw: 6~18 @ 34
 s1 ishmael_shi_prime | flying_sword | agg: 3.38~10.41 | raw: 6~18 @ 34
 s1 rodion_rosespanner | rev_up | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 ryoshu_chef | cooking_prep | agg: 5.04~10.31 | raw: 8~17 @ 38
-s1 rodion_rosespanner_weak | rev_up | agg: 5.04~10.31 | raw: 8~17 @ 38
+s1 rodion_rosespanner_prime | rev_up | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 ryoshu_chef_prime | cooking_prep | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 sinclair_lcb | downward_swing | agg: 3.95~10.25 | raw: 3~10 @ 38
 s1 faust_lcb_prime | downward_slash | agg: 3.95~10.25 | raw: 5~12 @ 28

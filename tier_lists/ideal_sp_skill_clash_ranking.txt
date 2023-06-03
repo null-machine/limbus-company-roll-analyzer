@@ -11,7 +11,6 @@ s3 outis_g_corp | focus | agg: 5.6~20.0 | raw: 6~22 @ 29
 s3 outis_lcb | piercing_thrust | agg: 7.3~19.9 | raw: 6~20 @ 38
 s3 ryoshu_seven | swash | agg: 6.37~19.28 | raw: 12~42 @ 40
 s3 sinclair_zwei | strong_strike | agg: 6.45~18.15 | raw: 7~20 @ 29
-s2 rodion_rosespanner | vibration_compression | agg: 7.88~18.04 | raw: 24~54 @ 38
 s2 hong_lu_tingtang | shank | agg: 4.97~17.88 | raw: 9~39 @ 38
 s2 ryoshu_chef | ingredient_hunt | agg: 4.97~17.88 | raw: 9~39 @ 38
 s3 ishmael_lcb | shield_bash | agg: 6.8~17.6 | raw: 7~19 @ 31
@@ -56,6 +55,7 @@ s3 faust_n_corp | execution | agg: 7.35~12.51 | raw: 18~30 @ 39
 s2 ishmael_shi | flashing_slide | agg: 5.38~12.41 | raw: 10~22 @ 34
 s2 outis_blade | acupuncture | agg: 5.38~12.41 | raw: 10~22 @ 34
 s3 don_quixote_n_corp | fanatical_judgement | agg: 4.62~12.37 | raw: 12~30 @ 34
+s2 rodion_rosespanner | vibration_compression | agg: 7.04~12.31 | raw: 12~21 @ 38
 s2 meursault_rosespanner | forced_break | agg: 5.18~12.21 | raw: 10~22 @ 33
 s2 outis_lcb | backslash | agg: 5.18~12.21 | raw: 8~20 @ 38
 s3 yi_sang_blade | flank_thrust | agg: 9.47~12.06 | raw: 24~30 @ 41

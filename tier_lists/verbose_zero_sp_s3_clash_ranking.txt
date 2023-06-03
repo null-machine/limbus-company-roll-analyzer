@@ -29,7 +29,7 @@ s3 ishmael_r_corp | mind_whip | agg: 3.53~20.46 | raw: 8~58 @ 32
 s3 faust_n_corp_prime | execution | agg: 9.35~14.51 | raw: 24~36 @ 39
 s3 sinclair_mariachi | pinata_party | agg: 6.95~16.85 | raw: 8~19 @ 27
 s3 rodion_rosespanner | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
-s3 rodion_rosespanner_weak | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
+s3 rodion_rosespanner_prime | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
 s3 hong_lu_lcb | whirlwind | agg: 6.07~16.61 | raw: 10~28 @ 36
 s3 heathcliff_shi | flashing_strike | agg: 5.67~16.21 | raw: 10~28 @ 34
 s3 heathcliff_n_corp_prime | infirm_retribution | agg: 5.7~16.03 | raw: 15~39 @ 33

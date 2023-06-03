@@ -1,11 +1,11 @@
 sinclair_n_corp | agg: 10.96~15.06 | raw: 17.0~44.33 @ 38.67
 heathcliff_r_corp | agg: 6.12~14.88 | raw: 13.83~39.83 @ 41.0
 don_quixote_w_corp | agg: 5.7~16.03 | raw: 7.33~33.33 @ 38.0
-rodion_rosespanner | agg: 6.26~14.0 | raw: 14.5~33.0 @ 38.0
 ryoshu_chef | agg: 4.99~13.62 | raw: 9.0~28.5 @ 38.0
 faust_n_corp | agg: 5.81~12.75 | raw: 11.0~25.5 @ 39.0
 ishmael_r_corp | agg: 4.12~14.33 | raw: 6.33~25.5 @ 32.0
 hong_lu_tingtang | agg: 5.75~16.5 | raw: 6.33~23.5 @ 38.0
+rodion_rosespanner | agg: 5.98~12.09 | raw: 10.5~22.0 @ 38.0
 outis_seven | agg: 7.5~13.09 | raw: 12.67~21.67 @ 32.0
 faust_l_corp | agg: 4.59~13.09 | raw: 6.83~21.33 @ 37.0
 rodion_n_corp | agg: 5.1~10.91 | raw: 9.67~21.0 @ 37.0

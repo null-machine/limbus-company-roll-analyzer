@@ -11,7 +11,7 @@ s3 ishmael_r_corp_prime | mind_whip | agg: 5.53~22.46 | raw: 16~66 @ 32
 s2 ishmael_shi_prime | flashing_slide | agg: 6.5~20.05 | raw: 20~60 @ 34
 s2 hong_lu_kurokumo_prime | cloud_cutter | agg: 6.1~19.65 | raw: 20~60 @ 32
 s2 heathcliff_r_corp_prime | concentrated_fire | agg: 8.48~18.64 | raw: 24~54 @ 41
-s2 rodion_rosespanner | vibration_compression | agg: 7.88~18.04 | raw: 24~54 @ 38
+s2 rodion_rosespanner_prime | vibration_compression | agg: 7.88~18.04 | raw: 24~54 @ 38
 s2 hong_lu_tingtang_prime | shank | agg: 5.73~22.66 | raw: 12~62 @ 38
 s2 ishmael_shi_prime_partial | flashing_slide | agg: 5.5~19.05 | raw: 16~56 @ 34
 s2 hong_lu_kurokumo_prime_partial | cloud_cutter | agg: 5.1~18.65 | raw: 16~56 @ 32
@@ -31,7 +31,7 @@ s3 faust_l_corp_prime | opportunistic_slash | agg: 8.0~27.33 | raw: 12~45 @ 37
 s3 ryoshu_seven | swash | agg: 6.37~19.28 | raw: 12~42 @ 40
 s3 ryoshu_chef | i_can_cook_anything | agg: 4.88~15.04 | raw: 12~42 @ 38
 s3 rodion_rosespanner | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
-s3 rodion_rosespanner_weak | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
+s3 rodion_rosespanner_prime | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
 s3 heathcliff_n_corp_prime | infirm_retribution | agg: 5.7~16.03 | raw: 15~39 @ 33
 s2 faust_l_corp_prime | deep_cuts | agg: 7.22~14.97 | raw: 18~36 @ 37
 s2 ishmael_clearance_prime | quake_rounds | agg: 5.62~13.37 | raw: 18~36 @ 29
@@ -106,7 +106,7 @@ s3 heathcliff_lcb | upheaval | agg: 4.47~15.01 | raw: 8~26 @ 33
 s3 rodion_clearance_weak | suppress | agg: 8.29~11.8 | raw: 14~20 @ 40
 s2 rodion_n_corp_prime | zealous_purge | agg: 7.69~11.2 | raw: 14~20 @ 37
 s1 faust_n_corp_prime | cackle | agg: 7.24~12.51 | raw: 12~21 @ 39
-s2 rodion_rosespanner_weak | vibration_compression | agg: 7.04~12.31 | raw: 12~21 @ 38
+s2 rodion_rosespanner | vibration_compression | agg: 7.04~12.31 | raw: 12~21 @ 38
 s2 rodion_kurokumo | scattering_slash | agg: 6.44~11.71 | raw: 12~21 @ 35
 s2 meursault_n_corp | you_are_cleansed_of_sin | agg: 5.84~11.11 | raw: 12~21 @ 32
 s3 hong_lu_lcb_weak | whirlwind | agg: 5.78~12.81 | raw: 10~22 @ 36
@@ -157,7 +157,7 @@ s1 gregor_g_corp | hack | agg: 5.64~10.91 | raw: 8~17 @ 41
 s1 faust_n_corp | cackle | agg: 5.24~10.51 | raw: 8~17 @ 39
 s1 rodion_rosespanner | rev_up | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 ryoshu_chef | cooking_prep | agg: 5.04~10.31 | raw: 8~17 @ 38
-s1 rodion_rosespanner_weak | rev_up | agg: 5.04~10.31 | raw: 8~17 @ 38
+s1 rodion_rosespanner_prime | rev_up | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 ryoshu_chef_prime | cooking_prep | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 rodion_n_corp | devoted_hammering | agg: 3.98~11.01 | raw: 6~18 @ 37
 s1 don_quixote_n_corp | rightful_purge | agg: 3.38~10.41 | raw: 6~18 @ 34

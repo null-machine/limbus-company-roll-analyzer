@@ -31,7 +31,7 @@ s2 hong_lu_kurokumo_prime_partial | cloud_cutter | agg: 5.1~18.65 | raw: 16~56 @
 s2 heathcliff_r_corp_prime | concentrated_fire | agg: 8.48~18.64 | raw: 24~54 @ 41
 s2 faust_n_corp_prime | the_gripping | agg: 7.9~18.23 | raw: 18~42 @ 39
 s3 sinclair_zwei | strong_strike | agg: 6.45~18.15 | raw: 7~20 @ 29
-s2 rodion_rosespanner | vibration_compression | agg: 7.88~18.04 | raw: 24~54 @ 38
+s2 rodion_rosespanner_prime | vibration_compression | agg: 7.88~18.04 | raw: 24~54 @ 38
 s2 hong_lu_tingtang | shank | agg: 4.97~17.88 | raw: 9~39 @ 38
 s2 ryoshu_chef | ingredient_hunt | agg: 4.97~17.88 | raw: 9~39 @ 38
 s2 ryoshu_chef_prime | ingredient_hunt | agg: 4.97~17.88 | raw: 9~39 @ 38
@@ -39,7 +39,7 @@ s2 sinclair_n_corp_prime | amoral_enactment | agg: 14.01~17.8 | raw: 28~68 @ 39
 s3 ishmael_lcb | shield_bash | agg: 6.8~17.6 | raw: 7~19 @ 31
 s2 heathcliff_shi_prime | flying_sword | agg: 8.3~17.3 | raw: 8~18 @ 34
 s3 rodion_rosespanner | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
-s3 rodion_rosespanner_weak | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
+s3 rodion_rosespanner_prime | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
 s2 ishmael_r_corp_prime | flaying_surge | agg: 7.9~16.9 | raw: 8~18 @ 32
 s3 sinclair_mariachi | pinata_party | agg: 6.95~16.85 | raw: 8~19 @ 27
 s2 sinclair_n_corp | amoral_enactment | agg: 13.01~16.8 | raw: 24~64 @ 39
@@ -106,7 +106,7 @@ s3 ishmael_clearance_prime | suppress | agg: 5.65~12.43 | raw: 24~44 @ 29
 s2 ishmael_shi | flashing_slide | agg: 5.38~12.41 | raw: 10~22 @ 34
 s2 outis_blade | acupuncture | agg: 5.38~12.41 | raw: 10~22 @ 34
 s3 don_quixote_n_corp | fanatical_judgement | agg: 4.62~12.37 | raw: 12~30 @ 34
-s2 rodion_rosespanner_weak | vibration_compression | agg: 7.04~12.31 | raw: 12~21 @ 38
+s2 rodion_rosespanner | vibration_compression | agg: 7.04~12.31 | raw: 12~21 @ 38
 s2 meursault_rosespanner | forced_break | agg: 5.18~12.21 | raw: 10~22 @ 33
 s2 outis_lcb | backslash | agg: 5.18~12.21 | raw: 8~20 @ 38
 s2 faust_lcb_prime | upward_slash | agg: 5.18~12.21 | raw: 12~24 @ 28
@@ -170,7 +170,7 @@ s3 faust_lcb_prime | drilling_stab | agg: 6.89~10.4 | raw: 16~22 @ 28
 s2 sinclair_lcb | halberd_combo | agg: 5.15~10.31 | raw: 12~24 @ 38
 s1 rodion_rosespanner | rev_up | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 ryoshu_chef | cooking_prep | agg: 5.04~10.31 | raw: 8~17 @ 38
-s1 rodion_rosespanner_weak | rev_up | agg: 5.04~10.31 | raw: 8~17 @ 38
+s1 rodion_rosespanner_prime | rev_up | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 ryoshu_chef_prime | cooking_prep | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 sinclair_lcb | downward_swing | agg: 3.95~10.25 | raw: 3~10 @ 38
 s1 faust_lcb_prime | downward_slash | agg: 3.95~10.25 | raw: 5~12 @ 28

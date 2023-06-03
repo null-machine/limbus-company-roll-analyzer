@@ -17,7 +17,7 @@ Critically reviewed by Nex#7448 and Kervina.
 
 Limbus Company belongs to Project Moon.
 
-Last update: 2023.5
+Last update: 2023.6 (Update in progress...)
 
 ---
 
@@ -65,11 +65,11 @@ Units in this tier tend to directly outperform or invalidate units in lower tier
 
 ![W Don](assets/10302.png)
 ![R Heathcliff](assets/10703.png)
-![Chef Ryoshu](assets/10404.png)
 ![N Sinclair](assets/sink.png)
 ![N Faust](assets/10204.png)
+![Chef Ryoshu](assets/10404.png)
+![Rose Rodion](assets/rod_rose.png)
 ![TT Hong Lu](assets/10603.png)
-![KK Hong Lu](assets/10602.png)
 
 ---
 
@@ -79,19 +79,19 @@ These units win clashes that units in lower tiers couldn't, and can be relied up
 
 ![G Gregor](assets/11203.png)
 ![R Ishmael](assets/10802.png)
+![KK Hong Lu](assets/10602.png)
+![KK Ryoshu](assets/10403.png)
 ![7S Outis](assets/11104.png)
 ![7S Ryoshu](assets/10402.png)
 ![L Faust](assets/10203.png)
-![Shi Don](assets/10303.png)
 ![Shi Ishmael](assets/10803.png)
-![KK Ryoshu](assets/10403.png)
+![Shi Don](assets/10303.png)
 
 ---
 
 **B TIER — MEDIOCRE**
 
-Neither great nor terrible, these units may leave a player idly wishing they were someone else. That being said, they aren't liabilities.  
-Not all individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
+Neither great nor terrible, these units may leave a player idly wishing they were someone else. That being said, they aren't liabilities.
 
 ![LCB Outis](assets/11101.png)
 ![LCB Hong Lu](assets/10601.png)
@@ -103,6 +103,7 @@ Not all individual writeups are available for this tier yet, [but everyone's rol
 ![Liu Hong Lu](assets/10604.png)
 ![Liu Meursault](assets/10502.png)
 ![LCCB Ishmael](assets/10804.png)
+![Rose Meursault](assets/meur_rose.png)
 ![N Heathcliff](assets/10704.png)
 ![N Don Quixote](assets/donk.png)
 ![N Rodion](assets/10904.png)
@@ -113,7 +114,7 @@ Not all individual writeups are available for this tier yet, [but everyone's rol
 **C TIER — TECHNICAL**
 
 One must go out of their way to get these sinners to outperform other options. Whatever specialties they have are likely to be easily made redundant, and their rolls are subpar.  
-No individual writeups are available for this tier yet, [but everyone's roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
+Writeups will not be available for this tier, because they would all essentially say the same thing— their terrible rolls are not redeemed by their kits.
 
 ![BL Outis](assets/11102.png)
 ![LCCB Rodion](assets/10903.png)
@@ -131,8 +132,7 @@ No individual writeups are available for this tier yet, [but everyone's roll cha
 **D TIER — CHALLENGING**
 
 These units should not be prioritized for practical combat.  
-Writeups will not be available for this tier, because they would all essentially say the same thing— their abysmal rolls are not redeemed by their kits.  
-[But, their roll charts can be found here.](https://github.com/null-machine/limbus-company-roll-analyzer/tree/main/charts)
+Writeups will not be available for this tier, because they would all essentially say the same thing— their terrible rolls are not redeemed by their kits.
 
 ![Chef Gregor](assets/11204.png)
 ![W Faust](assets/10202.png)
@@ -158,20 +158,28 @@ For a condensed version, the cyan, grey and magenta lines represent a sinner's c
 
 Emphasis will not be placed on skill colours— there's no telling what future EGOs hold in store. Furthermore, Refraction Railway 1 has proven that simply taking strong individual identities will outperform a team that goes out of its way to align colours for EGO spam or resonance. Having rare damage types in the current state of the game will not serve as as a ranking factor for similar reasons.
 
-For the sake of transparency, let it be known that the author uses G Gregor, KK Hong Lu, L Faust and W Don very frequently, and dislikes R Heathcliff, N Rodion and LCCB Ishmael. Everything is still kept as objective as possible.
+For the sake of transparency, let it be known that the author uses G Gregor, N Sinclair, L Faust and W Don very frequently, and dislikes R Heathcliff, N Rodion and LCCB Ishmael. Everything is still kept as objective as possible.
 
 ---
 
-### S Tier: Don Quixote - W Corp. Cleanup Agent
+### S Tier: Don Quixote - W Corp. L3 Cleanup Agent
 
 The weak chart represents Don Quixote with Rip Space uncharged.
 
 ![](charts/don_quixote_w_corp.png)
 ![](charts/don_quixote_w_corp_weak.png)
 
-W Don rewards technical play more than any other identity. At the surface level, playing around S3 tempo allows her to set the standard for what high DPS should look like. Being a charge unit with an evade also lends well to high performance solo or low-sinner clears. S2 additionally inflicts fragile, rewarding tempo control even further. Within individual turns in low-sinner clears, players capable of manipulating skill order will be given agency to charge and fire S3 in the correct order, resulting in good fragile usage, less dead turns and more frequent S3 usage. She has a well-known synergy with Telepole and a lesser-known synergy with W Faust's support passive, but relies on neither to earn her rank at the top of the charts. Of course, her S2 and S3 are great at clashing, as befitting an S tier unit.
+\+ Rewards technical play more than any other identity  
+\+ Playing around S3 tempo sets the standard for what high DPS should look like  
+\+ Being a charge unit with an evade lends well to high performance solo or low-sinner clears  
+\+ S2 inflicts fragile, rewarding tempo control even further  
+\+ Manipulating skill order allows charging and firing S3 on the same turn, resulting in good fragile usage and less dead turns  
+\+ Well-known synergy with Telepole and a lesser-known synergy with W Faust's support passive, but relies on neither  
+\+ S2 and S3 are great at clashing, as befitting an S tier unit  
 
-That being said, she has a few downsides. Her S1 is miserable and can result in dead turns. Her performance may degrade significantly or have increased reliance on Telepole when only given one action a turn. A notable example of this is when she is forced to play S1 multiple turns in a row— something that can be avoided when given multiple actions. Of course, autobattle plays her pretty poorly, but a reason that trivial will not be factored into her ranking. Other guides may point out that S3's damage is excessive for general content, but having too much damage seems like a good problem to have... and her S2 remains reliable anyways.
+\- Miserable S1 and charge limitations can result in dead turns  
+\- Performance degrades significantly or has increased reliance on Telepole when only given one action a turn  
+\- Impractical for autobattle (worth mentioning, but does not factor into her ranking)  
 
 ![](assets/w_don_solo.png)
 
@@ -187,19 +195,12 @@ The prime chart represents Heathcliff with +1 power from his charge passive and 
 ![](charts/heathcliff_r_corp_prime.png)
 ![](charts/heathcliff_r_corp_weak.png)
 
-A Quick Suppression at 6+ speed can perform a similar role to a charged Rip Space. Additionally, tech exists to conserve ammo, such as using Bodysack to cycle S1 and S2. Even when out of ammo, his clashing power remains, so he can still reliably neutralize incoming threats with his insane roll numbers. His kit effects also add considerably more damage than is standard, with 4 fragile on S3. Although he has an evade, soloing is not advisable due to his ammo mechanics. On the flip side, this means he won't experience a loss in performance in a full team of sinners.
+\+ Quick Suppression at 6+ speed performs a similar role to Rip Space  
+\+ Tech exists to conserve ammo, such as using Bodysack to cycle S1 and S2  
+\+ Still clashes when out of ammo, neutralizing incoming threats with insane rolls  
+\+ Kit effects also add considerably more damage than is standard, with 4 fragile on S3  
 
----
-
-### S Tier: Ryoshu - R.B. Chef de Cuisine
-
-![](charts/ryoshu_chef.png)
-
-Unlike W Don and R Heath, Chef Ryoshu has no limitations on when she can fire her skills. Her S2 is excellent at clashing, and her S3 has remarkably high damage (but not to the same degree as RS and QS). As of Hell's Chicken, there is a possible bug that causes S3 to experience reversed scaling with enemy defense, so it is unknown how it will behave in the future. (This still requires testing.) Regardless, she can be thought of as a consistently strong fighter, as opposed to the highs and lows of W Don and R Heathcliff. Her numbers are definitely there, and she can be expected to clash and deal damage very reliably. Having an evade and no ammo limitations opens up low-sinner strategies as well. The haste on evade is certainly not unwelcome either.
-
-Her kit itself is a bit strange; anti-heal and heal on kill are both rather stage dependent. But, with numbers like that, being a bit dilapidated doesn't define her performance.
-
-It's worth mentioning that her 4th Match Flame passive can theoretically buff her S3, adding tempo to her kit and bringing the raw value up considerably. Furthermore, the passive can be stacked through evade recycles. But, playing around that is an undertaking most players will not find practical. Maybe it'll show up as a deranged RR tactic...
+\- Despite having an evade, soloing is not advisable due to ammo  
 
 ---
 
@@ -210,9 +211,17 @@ The prime chart represents Sinclair with fanatic's +1 power active.
 ![](charts/sinclair_n_corp.png)
 ![](charts/sinclair_n_corp_prime.png)
 
-As the first identity with minus coins, N Sinclair has a unique playstyle. Each time a coin is destroyed in a clash, it is treated as a tails roll for the remaining sub-clashes, giving him unprecedentedly high min-rolls, which translates to extremely stable clashes. A similar logic applies to his damage rolls— any unrolled remaining coins are treated as tails rolls, giving each of his skills a first hit with decent guaranteed power. This frontloaded damage spread also opens up new ways to play around stagger thresholds. Additionally, being oriented around negative sanity opens up tech associated with corrosion tempo. He can play defends to prevent corrosion when anticipating high sanity drops, and well-timed corrosion allows him to act during staggers. This micro becomes far easier to control when given multiple actions. His kit effects also serve him well. Since this does not seem to be public knowledge, it is worth mentioning that the indiscriminate egos that appear during corrosion may have different targets, and can be previewed.
+\+ Minus coins provide an unprecedently strong baseline clash power, since destroyed coins are unable to lower skill clash power  
+\+ Unrolled damage coins are treated as tails rolls, giving skills a powerful first hit (which also opens up new ways to play around stagger thresholds)  
+\+ Corrosion tempo tech allows him to act during stagger or manifest ego without paying resource costs  
+\+ Strangely powerful defensive skill that does not interfere with sin generation and offers a means of controlling sanity when anticipating high drops  
+\+ Control over sanity scales with the number of actions he receives, increasing his power in low-sinner compositions  
+\+ Different corroded ego skills may generate with different targets, making indiscriminate targeting more lenient  
 
-Despite this, maximizing his kit is impractical. He will effectively never maintain the consistency of units that take advantage of max sanity's 95% heads rate. Additionally, he works relatively poorly in a team. When playing around corrosion, indiscriminate targeting may hit allies, and skipping ego in favour of panic invokes a heavy opportunity cost. Attempting to keep him at a desirable negative sanity threshold may be difficult without enough actions, and giving up on sanity management to play him at max will massively reduce his consistency. His abnormally low defense might be considered a downside, but he has a strangely high health pool to offset it.
+\- Will effectively never maintain the consistency of plus coin units, kit maximization is impractical  
+\- Works relatively poorly in a team due to the higher chance of hitting allies and worse sanity control  
+\- Skipping ego in favour of panic invokes a heavy opportunity cost, and giving up on sanity management to play him at max will massively reduce his consistency  
+\- Strangely low defense (but offset with a high health pool)  
 
 `Skill 2 and 3 are simply fantastic, Great clasher.`
 
@@ -225,9 +234,45 @@ The prime chart represents Faust with Representation Emitter's +2 power active.
 ![](charts/faust_n_corp.png)
 ![](charts/faust_n_corp_prime.png)
 
-N Faust is almost a twin to Chef Ryoshu— S2 oriented, lots of multicoins, no ammo or charge limitations, a techy evade and solid clashes. She'll fare consistently and reliably with her great numbers. Additionally, her kit is more organized than Chef Ryoshu's. The gaze next turn on S2 adds easily capitalized tempo to her kit, and SP restoration is generally appreciated.
+\+ S2 oriented with high damage from multicoins  
+\+ No ammo or charge limitations  
+\+ Fares consistently and reliably with her great numbers  
+\+ Debuffs from kit effects provide easily capitalizable tempo  
 
-Despite the similarities, Chef Ryoshu has better rolls, and will generally contribute more total damage compared to what N Faust would add with her gaze and nails. That being said, their general differences are not as significant as those that would be imposed by type weaknesses, so there's room for them both in S tier.
+\- Extremely similar to Chef Ryoshu, who trades debuffs for better numbers  
+
+---
+
+### S Tier: Ryoshu - R.B. Chef de Cuisine
+
+![](charts/ryoshu_chef.png)
+
+\+ S3 has reversed scaling with enemy defense  
+\+ Evade recycles can stack 4th Match Flame, adding tempo to S3  
+\+ Viable in low-sinner and solo compositions  
+\+ Consistently strong fighter that can be expected to clash and deal damage reliably  
+\+ No ammo or charge limitations  
+
+\- Kit effects are disorganized and stage dependent (but her numbers don't rely on them)  
+\- Extremely similar to N Faust, who trades numbers for debuffs
+
+---
+
+### S Tier: Rodion - Rosespanner Workshop Representative
+
+Due to technical limitations, use the normal chart for evaluating aggregate and the prime chart for evaluating raw damage when S2 gains additional coins.
+
+![](charts/rodion_rosespanner.png)
+![](charts/rodion_rosespanner_prime.png)
+
+\+ Well-rounded damage spread across all three skills, with bias to S2
+\+ Consistently powerful damage rolls  
+\+ Functions as a standalone tremor unit, opening up potential future synergies  
+
+\- Relatively poor clashing power  
+\- Tremor and stagger threshold manipulation are not that remarkable on their own  
+
+Note: The authors of this tier list have not had that much first-hand experience with this unit. This ranking was done primarily by looking at her roll numbers and kit.
 
 ---
 
@@ -238,20 +283,16 @@ Due to technical limitations, use the normal chart for evaluating aggregate and 
 ![](charts/hong_lu_tingtang.png)
 ![](charts/hong_lu_tingtang_prime.png)
 
-The sanity update was so good to TT Hong Lu that the roll analyzer now says he's the strongest clasher in the game. Mutilate used to be a dicey shitpost, but it now rolls 30+ with a 95% chance, giving it the highest aggregate (excepting Rip Space, which has charge limitations). His Shank also has the highest aggregate among all S2s, edging out even Ingredient Hunt and Concentrated Fire (but, it's not like either of those would have been likely to lose a clash either). Furthermore, he has no charge or ammo limitations, giving him free reign to abuse that 95% heads to activate all his skill effects and perform extremely well. Ironically, the fact that Mutilate high rolls so high makes him arguably pretty consistent. For other sinners, if their skills don't have enough aggregate, they'll ultimately still rely on the enemy to low roll. In a case where S3 rolling heads won't win a clash, chances are nothing short of high-end egos will outperform it. He gets obligatory bonus points for having an evade, and a relatively strong one at that. Additionally, his S2's extra coin will also appear while attacking broken abnormality parts. It's also worth noting that he has 35 defense, which is considerably higher than other identities with good rolls.
+\+ Often tops the raw data clash aggregate rankings due to insane performance at max sanity  
+\+ S3's unprecedented clash ceiling reduces dependence on enemy low rolls  
+\+ S2's extra coin appears when attacking broken abnormality parts  
+\+ Having an evade opens up low-sinner compositions  
+\+ Has high defense for some reason  
+\+ Kit contributes more damage than usual  
+\+ No charge or ammo limitations  
 
-He does have a few downsides though. Besides the miserable S1, he does not tolerate low sanity as well as other sinners. Notably, his combat passive provides a smidge of sanity, which, although undertuned, certainly isn't unwelcome in his heads oriented kit. Additionally, although his kit is cohesive, his damage is not as high as the other units with heavy multicoin skills. Ironically, this makes his overall contributions relatively defensive.
-
----
-
-### S Tier: Hong Lu - Kurokumo Wakashu
-
-Due to technical limitations, use the normal chart for evaluating aggregate and the prime chart for evaluating raw damage.
-
-![](charts/hong_lu_kurokumo.png)
-![](charts/hong_lu_kurokumo_prime.png)
-
-Cloud cutter.
+\- Does not tolerate low sanity well (but is slightly offset by his passive)  
+\- More of a clash tank than a pure damage conduit  
 
 ---
 
@@ -259,9 +300,15 @@ Cloud cutter.
 
 ![](charts/gregor_g_corp.png)
 
-Contrary to intuition, G Gregor's clashes are virtually identical to 7S Outis! This is plainly evident when comparing their roll charts and aggregates. The reason for this is, G Gregor has an entire 9 offense level over her, and a difference of 5 levels translates to 1 power in a clash. So even though 7S Outis has an additional +2 power in every clash due to her skill effects, G Gregor just does that by default. So, in practice, if one of them can win a clash, it's very likely the other can as well. The purpose of this analogy is to emphasize that G Gregor is excellent at clashing. If he fails to win, which is relatively uncommon, his kit provides so much healing that he will generally be able to shrug off lost clashes with little to no consequence. This utility makes him better at pulling dangerous skills away from core DPS units than most other tanks, especially considering how they tend to be too slow to pull clashes. Furthermore, deliberately allowing him to get staggered and healing him up during low pressure effectively makes him immortal in later rounds, since he'll effectively have removed his own stagger thresholds. Piloting him feels like giving the team a regenerating frontal shield, enabling heavy damage payloads (e.g. Cloud Cutter) to land without risking a clash. Of course, he also enables Legerdemain spam, but, everyone knew that already. His numbers are great, he suffers no consequences, and he gives the team a huge amount of agency.
+\+ Contrary to intuition, has virtually identical clashes to 7S Outis due to their difference in offense level  
+\+ Kit provides so much healing that he will generally be able to shrug off lost clashes with little to no consequence  
+\+ Surprisingly fast for a tank, giving him the ability to pull dangerous skills away from core units  
+\+ Deliberately allowing him to stagger and healing him up during low pressure effectively removes his own stagger thresholds for later rounds  
+\+ Piloting him feels like giving the team a regenerating frontal shield, enabling heavy damage payloads (e.g. Cloud Cutter) to land without risking a clash  
+\+ Building around Legerdemain allows him to take on a damage role  
+\+ Happens to be the author's favourite unit (so take that bias as you will)  
 
-Despite everything, his numbers aren't high enough for S tier.
+\- Does not have S tier roll numbers  
 
 ---
 
@@ -272,35 +319,76 @@ The prime chart can be used to evaluate Ishmael's clashes while Snagharpoon is a
 ![](charts/ishmael_r_corp.png)
 ![](charts/ishmael_r_corp_prime.png)
 
-Praise and notes about W Don generally apply to R Ishmael as well, since she is also a charge unit with an evade and hard-hitting S3. However, her kit is more well-rounded, with a weaker S2 and S3 but a stronger S1. Notably, she can play an uncharged Mind Whip without consequence when soloing, albeit without being able to clash or choose a target. Additionally, although her combat passive drains her sanity for attack power, the loss can be easily offset through LCB Yi Sang's support passive or winning clashes repeatedly with her excellent rolls. Although this makes her reliant on sanity and Snagharpoon, she fuels the latter very well.
+\+ Plays similarly to W Don, but with worse numbers  
+\+ Well-rounded kit with a strong S1  
+\+ Suffers no consequences when firing uncharged S3 when solo, albeit without being able to clash or choose a target  
+\+ Combat passive drains sanity for attack power, which can be easily offset through support passives or clash wins  
 
-However, her numbers are held back by her somewhat miserable 32 offense level. Sinking also generally translates to less damage than fragile, even against abnormalities. Additionally, she either needs charge support via W Don or W Faust or to be in a low-sinner team for max potential, since her base charge generation is somewhat lacking. She is also heavily reliant on landing heads coins in order for S1 to generate charge and S2 to win clashes, which makes her early turns likely worse than average, especially with a turn one S3 draw.
+\- Held back by her somewhat miserable 32 offense  
+\- Below average contributions from kit effects  
+\- Charge limitations are exaggerated by poor generation from her kit  
 
 ---
 
-### A Tier: Outis - Seven Section 6 Director
+### A Tier: Hong Lu - Kurokumo Wakashu
+
+Due to technical limitations, use the normal chart for evaluating aggregate and the prime chart for evaluating raw damage.
+
+![](charts/hong_lu_kurokumo.png)
+![](charts/hong_lu_kurokumo_prime.png)
+
+\+ Cloud cutter.
+
+---
+
+### A Tier: Ryoshu - Kurokumo Wakashu
+
+![](charts/ryoshu_kurokumo.png)
+
+\+ Above average rolls  
+\+ Inflicts bleed count, making the status effect more impactful  
+
+\- Damage contributed by bleed is substandard compared to just using skills with bigger numbers  
+\- Doubling down on more bleed invokes a greater opportunity cost (but this applies to status teams in general)  
+\- Bleed relies on the target to attack, making it miserable when targeting a broken part or staggered enemy  
+\- Has a minor amount of anti-synergy with KK Hong Lu, since Cloud Cutter checks bleed count  
+\- Other parts of her kit apply on the same turn and are relatively unimpactful  
+
+---
+
+### A Tier: Outis - Seven Association South Section 6 Director
 
 Due to technical limitations, the normal chart should be used to evaluate clashes, and the weak chart should be used to evaluate damage.
 
 ![](charts/outis_seven.png)
 ![](charts/outis_seven_weak.png)
 
-And so an interesting truth comes to light— 7S Outis is generally worse at clashing than the low rarity clash god trio, and ties with G Gregor in terms of general clash strength! But, she applies far more debuffs than the typical identity. Her presence in a team generally makes winning clashes for others easier, with the next turn paralysis on S1 and offense level down on S3. Having a high speed roll of 5-8, a high defense level of 41 and only one stagger threshold also allows her to take a similar role to G Gregor in pulling clashes and tanking the ones she loses.
+\+ Can be thought of as a less durable but more explicitly supportive version of G Gregor  
+\+ Kit has far more debuffs than usual  
+\+ Paralysis on S1 and offense down on S3 make it easier for the team to win clashes  
+\+ High speed allows her to pull clashes reliably  
+\+ High defense and only one stagger threshold also allows her to tank the clashes she can't win  
 
-However, the damage attributed to her defense level down and weakness analyzed debuffs is generally not enough to compensate for her poor numbers, and having lots of effective health is not preferable to G Gregor's regeneration.
+\- Despite her public opinion of being a great clasher, the numerical truth is that her clash power is not that remarkable  
+\- Damage attributed to her defense level down and weakness analyzed debuffs often does not compensate for her poor numbers  
+\- Having lots of effective health is rarely preferable to G Gregor's regeneration, who competes for her role  
 
 ---
 
-### A Tier: Ryoshu - Seven Section 6
+### A Tier: Ryoshu - Seven Association South Section 6
 
 The prime chart represents Ryoshu with Upper Slash's effect and next turn +1 attack power active.
 
 ![](charts/ryoshu_seven.png)
 ![](charts/ryoshu_seven_prime.png)
 
-7S Ryoshu heralds the low rarity clash god trio with L Faust and Shi Don. Her raw damage is more concentrated in S3 and lower overall than either of them. But, she successfully compensates for that with kit effects powerful enough to make her the best slash support in the game, which get even more powerful in low-sinner teams. Besides that, her skill effects also press the advantage of her frequent clash wins by giving her even more power and damage.
+\+ Part of the low rarity clash god trio with L Faust and Shi Don, who all play similarly  
+\+ Above average roll numbers make her solid to pilot  
+\+ Kit provides an unprecedented amount of slash fragility, contributing a significant amount of damage  
+\+ Clash win effects in her kit press her advantage of having excellent rolls  
+\+ S3 contributes even more in low-sinner teams (but having a counter instead of an evade can reduce her effectiveness)  
 
-Aside from the seemingly obligatory miserable S1, she also lacks an evade, reducing her viability in low-sinner teams. 
+\- Raw damage is more concentrated in S3 and lower overall compared to L Faust and Shi Don  
 
 ---
 
@@ -312,22 +400,11 @@ The prime chart represents Faust with Representation Emitter's +2 power active, 
 ![](charts/faust_l_corp_prime.png)
 ![](charts/faust_l_corp_weak.png)
 
-High-end rolls translate to insane clashes and acceptable damage. The haste from S2 also gives her great pulling power, allowing her to force threatening skills to clash with her reliable S2 or pseudo-ego S3. This synergy makes her an extremely competent fighter. Having an evade doesn't hurt either.
+\+ Part of the low rarity clash god trio with 7S Ryoshu and Shi Don, who all play similarly  
+\+ High-end rolls translate to solid clashes and acceptable damage  
+\+ Haste from S2 provides great pulling power, allowing her to put her insane clash power to use, making her an extremely competent fighter  
 
-Besides the standard miserable S1, her stagger thresholds are also remarkably poor. This should not be a problem in most cases, especially in teams that are capable of healing her back up past the threshold, but it does make her feel somewhat glassy. The effects in her kit are generally kind of dysfunctional as well, but to use that as an argument against her would be doing her performance disservice.
-
----
-
-### A Tier: Don Quixote - Shi Section 5 Director
-
-The prime chart represents Don with Overbreathe's effect active. The activation condition is extremely restrictive, so it is added for the sake of completeness, and does not factor into her ranking.
-
-![](charts/don_quixote_shi.png)
-![](charts/don_quixote_shi_prime.png)
-
-Shi Don plays similarly to L Faust, where both have insanely high clash power but not enough damage to edge them into S tier. Shi Don exaggerates this behaviour, with even better clashes and worse damage. They both even have haste on S2 and an evade, causing them to behave extremely similarly. Shi Don's passive has a much less restrictive condition, so obtaining haste from there is far more viable than L Faust's poise count requirement. Notably, she only has two stagger thresholds, making her more forgiving than intuition would suggest. Numerically, she actually has the fifth highest weighted average clash power in the game, losing only to S tier units (as of 2023.5).
-
-Terrible S1 aside, she also has worse damage than L Faust, and being better at clashing doesn't quite compensate for that.
+\- Remarkably poor stagger thresholds, making her feel somewhat glassy  
 
 ---
 
@@ -338,21 +415,29 @@ The prime chart represents Ishmael with Flashing Strike's additional coins. Snag
 ![](charts/ishmael_shi.png)
 ![](charts/ishmael_shi_prime.png)
 
-Above her health threshold, Shi Ishmael has the damage of Shi Don but not remotely as much clash power. However, dropping below half health effectively gives her a better Cloud Cutter. Having decent numbers on S1 provides a solid baseline damage output as well.
+\+ Mediocre damage but below average clash power while above her health threshold  
+\+ Gains incredibly high numbers and performance in her prime state  
+\+ Keeping her at UT2 to avoid diluting her skill pool with her mediocre S3 is speculated to result in better performance  
 
-Maintaining her prime state is impractical outside of Refraction Railway. Needing to go through at least one stagger forces a dead turn, and staying there often causes healing options to prioritize her, which may be awkward to manage. If one intends to play her without managing the threshold and trusting it to kick in when necessary, the other members of A tier may be more consistent options.
-
-Additionally, there is speculation that Shi Ishmael at UT2 may be more performant than Shi Ishmael at UT3. Since her S3 is not particularly strong, keeping it out of the skill pool may result in sleeker performance. This is also important for mirror dungeon speed optimization to avoid animation lockouts, but this tidbit does not factor into her ranking.
+\- Maintaining her prime state is impractical outside of Refraction Railway  
+\- Needing to go through at least one stagger forces dead turns  
+\- Unwanted healing priority can be awkward to manage  
 
 ---
 
-### A Tier: Ryoshu - Kurokumo Wakashu
+### A Tier: Don Quixote - Shi Section 5 Director
 
-![](charts/ryoshu_kurokumo.png)
+The prime chart represents Don with Overbreathe's effect active. The activation condition is extremely restrictive, so it is added for the sake of completeness, and does not factor into her ranking.
 
-Above average rolls mean above average clashes and above average damage. Notably, she inflicts a healthy amount of bleed count, making the status effect far more impactful.
+![](charts/don_quixote_shi.png)
+![](charts/don_quixote_shi_prime.png)
 
-But, having above average damage from statuses won't let her reach the damage contributed by S tier units anytime soon, and doubling down on more bleed just means invoking a greater opportunity cost. Additionally, bleed is one of the more awkward damage oriented status effects, since it relies on the target to attack. Stacking a lot of bleed on a broken part or a staggered enemy that's about to die can feel mildly miserable. Also, KK Ryoshu has arguably has a bit of anti-synergy with KK Hong Lu, since it's highly dubious whether the extra bleed potency from a two-coin Cloud Cutter would kill the target faster than simply letting Cloud Cutter perform its full salvo. The other parts of her kit apply on the same turn and are relatively unimpactful. That being said, her roll numbers are still more than workable.
+\+ Part of the low rarity clash god trio with L Faust and 7S Ryoshu, who all play similarly  
+\+ Has the highest clash power of the trio at the cost of having the lowest damage  
+\+ Gains haste from her S2 and passive, giving her the speed she needs to maximize her clashes  
+\+ Only has two stagger thresholds, making her more forgiving than intuition would suggest  
+
+\- Outstanding clash power often does not compensate for having poor damage  
 
 ---
 
@@ -360,9 +445,12 @@ But, having above average damage from statuses won't let her reach the damage co
 
 ![](charts/outis_lcb.png)
 
-Great damage and good clashes make for a surprisingly workable identity. LCB Outis is one of the few identities with a workable S1, giving her a somewhat unique tempo. The multicoins make it pretty impactful when it connects, and serves to raise her average damage considerably, especially when used to clean up staggered targets. Her kit effects also contribute a lot more damage than is standard, which is great, considering how her numbers weren't bad to begin with. Her evade is remarkably weak, but still an evade nonetheless.
+\+ Great damage and decent clashes make for a surprisingly workable identity  
+\+ Workable S1 gives her a rare tempo, and serves as a solid tool to clean up staggered targets or exploit skills that are easy to clash  
+\+ Hit effects contribute a lot more damage than is standard  
 
-In terms of downsides, having only 26 defense makes her glassy, and she may be directly outperformed by higher tier damage-oriented identities. Still, if a roster lacks those units, or favours a different tempo, LCB Outis may be a surprisingly decent replacement. 
+\- Only 26 defense makes her glassy  
+\- May be directly outperformed by higher tier damage-oriented identities  
 
 ---
 
@@ -373,9 +461,11 @@ The weak chart represents Hong Lu without the additional coin power on S2 and S3
 ![](charts/hong_lu_lcb.png)
 ![](charts/hong_lu_lcb_weak.png)
 
-Compared to LCB Outis, LCB Hong Lu has worse damage but marginally more reliable overall clashes. S2 and S3 behave similarly and give him a powerful baseline performance. Having a (somewhat weak) evade and an easy to proc SP passive certainly aren't unwelcome either.
+\+ Decent damage and reliable clashes  
+\+ S2 and S3 behave similarly and provide a powerful baseline performance  
 
-His kit effects contribute less damage than is standard, but the numbers make him perfectly playable nonetheless. The attack power down on S3 also applies on the same turn, making it somewhat limited. Of course, there's the miserable S1 again.
+\- Kit effects contribute less damage than is standard  
+\- Attack power down on S3 also applies on the same turn, making it somewhat limited  
 
 ---
 
@@ -383,9 +473,11 @@ His kit effects contribute less damage than is standard, but the numbers make hi
 
 ![](charts/rodion_kurokumo.png)
 
-With serviceable rolls and a mildly clunky kit, KK Rodion is playable but generally unremarkable. She has notably high base power on her S2 and S3, giving her an edge in cases where everyone is forced to roll tails.  
+\+ Serviceable rolls and a mildly clunky kit make her playable but generally unremarkable  
+\+ Notably high base power on her S2 and S3, lessening dependence on RNG in low sanity scenarios  
 
-Her S3 effects are rather restrictive due to lacking count for both her bleed and poise. This will require additional effort to build around if one wishes to maximize them. Although she can achieve a powerful tempo with her passive, finding situations that favour countering over clashing requires a certain amount of creativity.
+\- S3 effects are restrictive due to lacking count for both her bleed and poise, requiring additional effort to build around for maximization  
+\- Passive theoretically has a powerful tempo, but finding situations that favour countering over clashing requires creativity  
 
 ---
 
@@ -393,9 +485,16 @@ Her S3 effects are rather restrictive due to lacking count for both her bleed an
 
 ![](charts/sinclair_blade.png)
 
-While 7S Ryoshu, L Faust and Shi Don achieve excellence at their best, BL Yi Sang and BL Sinclair are capable of performing consistently in dicey situations. The distinction comes from how their skills are balanced— the former has high highs and low lows, and vice versa. Furthermore, most of the former have evades, and these two have counters, furthering this "constant output" philosophy. This causes the former trio to have amazing rolls once scaled to 95% heads, while the latter will remain consistent but relatively unimpactful. This is represented by the former's high variance, and vice versa. If consistency is what one seeks, these two are likely to perform the same regardless of whether they're rolling heads or tails, giving them fairly good low sanity tolerance. Unlike BL Yi Sang, BL Sinclair's S3 can function as a pseudo-ego. His kit effects are relatively functional as well, with the rare poise count on S1, and an accessible yet decent passive.
+A bit about Blade Lineage identities:
 
-However, in this snowball, high sanity meta where 95% heads is fairly commonplace, units that favour base power tend to underperform. Despite how consistently his S2 and S1 can achieve their expected clash power, they probably will still rely on the opposing skill to low roll due to their low aggregate, ironically making him arguably less consistent than coin power oriented units. 
+While L Faust, 7S Ryoshu and Shi Don achieve excellence at their best, BL Yi Sang and BL Sinclair are capable of performing consistently in dicey situations. The distinction comes from how their skills are balanced— the former has high highs and low lows, and vice versa. Furthermore, most of the former have evades, and these two have counters, furthering this "constant output" philosophy. This causes the former trio to have amazing rolls once scaled to max sanity, while the latter will remain consistent but relatively unimpactful. This is represented by the former's high variance, and vice versa. If consistency is what one seeks, these two are likely to perform the same regardless of whether they're rolling heads or tails, giving them fairly good low sanity tolerance. 
+
+However, in this snowball, high sanity meta where 95% heads is common, units that favour base power tend to underperform. Despite how consistently these skills can achieve their expected clash power, they probably will still rely on the opposing skill to low roll due to their low aggregate, ironically making them arguably less consistent than coin power oriented units. 
+
+\+ S3 can function as a pseudo-ego  
+\+ Kit effects are functional, providing the rare poise count on S1 and a solid passive  
+
+\- Does not make use of max sanity remotely as well as units with coin power
 
 ---
 
@@ -403,9 +502,13 @@ However, in this snowball, high sanity meta where 95% heads is fairly commonplac
 
 ![](charts/yi_sang_blade.png)
 
-BL Yi Sang is an exaggeration of BL Sinclair, with the lowest variance in the game and no aggregate to make use of it. His S2 and S3 can be expected to perform the same regardless of sanity. Having poise count on both his S2 and passive makes him relatively okay at stacking it as well, giving him a decent amount of power from kit effects. Flank Thrust has decent raw damage, which can be attributed to being a multicoin with high offense level.
+\+ Can be thought of as an exaggeration of BL Sinclair, with the lowest variance of all plus coin units but no clash aggregate to make use of it  
+\+ S2 and S3 can be expected to perform the same regardless of sanity  
+\+ Having poise count on both his S2 and passive makes him relatively okay at stacking it as well, giving him a decent amount of power from kit effects  
+\+ Flank Thrust has decent raw damage, which can be attributed to being a multicoin with high offense level  
 
-However, his horrendous lack of high rolls will make his clashes either extremely safe or reliant on the enemy to flip tails (most often the latter). Analysis that applies to BL Sinclair can generally apply to BL Yi Sang, and vice versa.
+\- Horrendous lack of high rolls will make his clashes either extremely safe or reliant on the enemy to flip tails— most often the latter  
+\- Analysis that applies to BL Sinclair can typically apply to BL Yi Sang, and vice versa  
 
 ---
 
@@ -416,26 +519,32 @@ The prime chart represents Heathcliff under 25% HP and with Bodysack active.
 ![](charts/heathcliff_shi.png)
 ![](charts/heathcliff_shi_prime.png)
 
-Despite his poor reputation, Shi Heathcliff's clashes are actually relatively pretty great. He might be viable if he's played like a normal fighter, and is given a source of healing to keep him topped off from the S3 self-damage.
+\+ Despite his poor reputation, Shi Heathcliff's clashes are actually relatively pretty great  
+\+ Might be viable if he's played like a normal fighter, and is given a source of healing to keep him topped off from the S3 self-damage  
 
-But, after consulting someone who has an UT3 Shi Heathcliff, there are probably safer investments than this...
+\- But, after consulting someone who has an UT3 Shi Heathcliff, there are probably safer investments than this...  
 
 ![](assets/shi_heathcliff_review.png)
 
 ---
 
-### B Tier: Gregor - Liu Section 6
+### B Tier: Gregor - Liu Association South Section 6
 
 The prime chart represents Gregor with +1 power from his S2 effects.
 
 ![](charts/gregor_liu.png)
 ![](charts/gregor_liu_prime.png)
 
-The Liu Association can be summarized as favouring damage over clashes, and Liu Gregor is the most emblematic of this philosophy. Due to how their burn stacks play into each other, their kit effects will contribute more and more depending on how hard burn is being funneled. For maximization, utilizing all three is recommended, even if some of them are merely used to provide their support passive. Additionally, they will perform best when there is one centralized unit to stack burn upon. Liu Gregor contributes the most burn potency of the trio. However, of the three Liu identities, he may be the one that works best as a standalone, taking the role of a high damage unit with S3 tempo. Funnily enough, outside of S3, he plays somewhat similarly to Blade Lineage units, relying on low variance and high coin count to win clashes by waiting for enemies to low roll. Furthermore, he's also the fastest of the trio.
+A bit about Liu Association identities:
 
-Regardless, his clashes are held back from having a low max aggregate, and he is on the glassier side in terms of health and defense.
+The Liu Association can be summarized as favouring damage over clashes. Due to how their burn stacks play into each other, their kit effects will contribute more and more depending on how hard burn is being funneled. For maximization, utilizing all three is recommended, even if some of them are merely used to provide their support passive. Additionally, they will perform best when there is one centralized unit to stack burn upon.
 
-For the sake of transparency, Nex favours this unit.
+\+ Contributes the most burn potency of the Liu trio  
+\+ Functions the best as a standalone Liu unit, taking on the role of a high damage unit with S3 tempo  
+\+ Highest speed out of the trio  
+
+\- Outside of S3, plays somewhat similarly to Blade Lineage units, relying on low variance and high coin count to win clashes by waiting for enemies to low roll  
+\- On the glassier side in terms of health and defense  
 
 ---
 
@@ -443,23 +552,43 @@ For the sake of transparency, Nex favours this unit.
 
 ![](charts/hong_lu_liu.png)
 
-Liu Hong Lu is the most clash-oriented of the Liu trio, while still playing into the philosophy of multicoin damage. He contributes the much needed burn count for burn funnel, but the least burn potency. He's surprisingly tanky too— he has higher defense and one less stagger threshold than Liu Meursault. SP restoration is also not unwelcome.
+\+ Most clash-oriented of the Liu trio, while still playing into the philosophy of multicoin damage  
+\+ Contributes the much needed burn count for burn funnel, but the least burn potency  
+\+ Surprisingly tanky too— has higher defense and one less stagger threshold than Liu Meursault  
 
-However, his offense level is slightly miserable, making his damage deceptively lower than his raws would suggest.
+\- Slightly miserable offense level, making his damage deceptively lower than raws would suggest  
 
 ---
 
-### B Tier: Meursault - Liu Section 6
+### B Tier: Meursault - Liu Association South Section 6
 
 ![](charts/meursault_liu.png)
 
-Liu Meursault forms the middle ground of the three Liu identities, and is arguably the easiest one to bench. He contributes both potency and count, but cannot practically sustain the burn count on his own with only one or two actions. His rolls are standard for a Liu identity. Notably, his S2 and S3 effects are capable of choosing the same target multiple times, maintaining his kit effect contributions in encounters with fewer enemies.
+\+ Forms the middle ground of the three Liu identities  
+\+ Contributes both potency and count, but cannot practically sustain the burn count on his own with only one or two actions  
+\+ S2 and S3 effects are capable of choosing the same target multiple times, maintaining his kit effect contributions in encounters with fewer enemies  
 
-Of course, being mediocre at everything makes for a rather mediocre unit.
+\- Being mediocre at everything makes for a rather mediocre unit  
+\- Arguably the easiest one to bench  
 
 ---
 
-Writeups for LCCB Ishmael and the N Corp units will be added next at a later date.
+### B Tier: Ishmael - LCCB Assistant Manager
+
+![](charts/ishmael_clearance.png)
+
+\+ Contributions come almost entirely from powerful debuffs on S3  
+\+ Opens up extreme low-turn strategies in reset heavy contexts  
+\+ Applying a myriad of statuses makes her likely to find synergies  
+\+ Plays like a discount R Heathcliff with less ammo consumption  
+
+\- Paralysis and attack down on S1 and S2 are applied on the same turn, limiting their effectiveness  
+\- Terrible roll numbers and ammo limitations make her generally impractical  
+\- Used almost exclusively to reset until she can fire S3 turn one in battles that take less than a couple turns  
+
+---
+
+Writeups will not be available for the rest of the units, since they are generally unremarkable and do not have much nuance outside of what the average player can figure out by reading their pages and looking at their roll numbers. [Of course, their roll charts and numerical rankings will still be available here.](https://github.com/null-machine/limbus-company-clash-tool)
 
 ---
 

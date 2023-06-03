@@ -3,7 +3,7 @@ s2 sinclair_n_corp | amoral_enactment | agg: 13.01~16.8 | raw: 24~64 @ 39
 s2 ishmael_shi_prime | flashing_slide | agg: 6.5~20.05 | raw: 20~60 @ 34
 s2 hong_lu_kurokumo_prime | cloud_cutter | agg: 6.1~19.65 | raw: 20~60 @ 32
 s2 heathcliff_r_corp_prime | concentrated_fire | agg: 8.48~18.64 | raw: 24~54 @ 41
-s2 rodion_rosespanner | vibration_compression | agg: 7.88~18.04 | raw: 24~54 @ 38
+s2 rodion_rosespanner_prime | vibration_compression | agg: 7.88~18.04 | raw: 24~54 @ 38
 s2 hong_lu_tingtang_prime | shank | agg: 5.73~22.66 | raw: 12~62 @ 38
 s2 ishmael_shi_prime_partial | flashing_slide | agg: 5.5~19.05 | raw: 16~56 @ 34
 s2 hong_lu_kurokumo_prime_partial | cloud_cutter | agg: 5.1~18.65 | raw: 16~56 @ 32
@@ -35,7 +35,7 @@ s2 outis_seven_weak | field_command | agg: 5.13~13.91 | raw: 10~25 @ 32
 s2 don_quixote_shi | dual_strike | agg: 5.27~15.81 | raw: 8~26 @ 37
 s2 don_quixote_shi_prime | dual_strike | agg: 5.27~15.81 | raw: 8~26 @ 37
 s2 rodion_n_corp_prime | zealous_purge | agg: 7.69~11.2 | raw: 14~20 @ 37
-s2 rodion_rosespanner_weak | vibration_compression | agg: 7.04~12.31 | raw: 12~21 @ 38
+s2 rodion_rosespanner | vibration_compression | agg: 7.04~12.31 | raw: 12~21 @ 38
 s2 rodion_kurokumo | scattering_slash | agg: 6.44~11.71 | raw: 12~21 @ 35
 s2 meursault_n_corp | you_are_cleansed_of_sin | agg: 5.84~11.11 | raw: 12~21 @ 32
 s2 ishmael_shi | flashing_slide | agg: 5.38~12.41 | raw: 10~22 @ 34
