@@ -588,6 +588,8 @@ The Liu Association can be summarized as favouring damage over clashes. Due to h
 
 ---
 
+### Unavailable Writeups
+
 Writeups will not be available for the rest of the units, since they are generally unremarkable and do not have much nuance outside of what the average player can figure out by reading their pages and looking at their roll numbers. [Of course, their roll charts and numerical rankings will still be available here.](https://github.com/null-machine/limbus-company-clash-tool)
 
 ---
