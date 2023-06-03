@@ -113,8 +113,7 @@ Neither great nor terrible, these units may leave a player idly wishing they wer
 
 **C TIER — TECHNICAL**
 
-One must go out of their way to get these sinners to outperform other options. Whatever specialties they have are likely to be easily made redundant, and their rolls are subpar.  
-Writeups will not be available for this tier, because they would all essentially say the same thing— their terrible rolls are not redeemed by their kits.
+One must go out of their way to get these sinners to outperform other options. Whatever specialties they have are likely to be easily made redundant, and their rolls are subpar.
 
 ![BL Outis](assets/11102.png)
 ![LCCB Rodion](assets/10903.png)
@@ -131,8 +130,7 @@ Writeups will not be available for this tier, because they would all essentially
 
 **D TIER — CHALLENGING**
 
-These units should not be prioritized for practical combat.  
-Writeups will not be available for this tier, because they would all essentially say the same thing— their terrible rolls are not redeemed by their kits.
+These units should not be prioritized for practical combat.
 
 ![Chef Gregor](assets/11204.png)
 ![W Faust](assets/10202.png)
@@ -154,7 +152,7 @@ For a condensed version, the cyan, grey and magenta lines represent a sinner's c
 
 "agg" → aggregate, or clash power.  
 "raw" → raw damage.  
-"var" → variance, or heads dependency.
+The @ refers to offense level.  
 
 Emphasis will not be placed on skill colours— there's no telling what future EGOs hold in store. Furthermore, Refraction Railway 1 has proven that simply taking strong individual identities will outperform a team that goes out of its way to align colours for EGO spam or resonance. Having rare damage types in the current state of the game will not serve as as a ranking factor for similar reasons.
 
