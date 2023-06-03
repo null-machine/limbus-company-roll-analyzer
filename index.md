@@ -270,7 +270,7 @@ Due to technical limitations, use the normal chart for evaluating aggregate and 
 \- Relatively poor clashing power  
 \- Tremor and stagger threshold manipulation are not that remarkable on their own  
 
-Note: The authors of this tier list have not had that much first-hand experience with this unit. This ranking was done primarily by looking at her roll numbers and kit.
+Note: The authors of this tier list have not had that much first-hand experience with this unit. This ranking was done primarily by analyzing her roll numbers and kit effects. For transparency, all three contributors agreed that she was either high A tier or low S tier, and that she outcompeted KK Hong Lu for his previous position in low S tier.
 
 ---
 
