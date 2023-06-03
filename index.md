@@ -210,7 +210,7 @@ The prime chart represents Sinclair with fanatic's +1 power active.
 ![](charts/sinclair_n_corp_prime.png)
 
 \+ Minus coins provide an unprecedently strong baseline clash power, since destroyed coins are unable to lower skill clash power  
-\+ Unrolled damage coins are treated as tails rolls, giving skills a powerful first hit (which also opens up new ways to play around stagger thresholds)  
+\+ Unrolled damage coins are treated as tails rolls, giving skills a powerful first hit, which also opens up new ways to play around stagger thresholds  
 \+ Corrosion tempo tech allows him to act during stagger or manifest ego without paying resource costs  
 \+ Strangely powerful defensive skill that does not interfere with sin generation and offers a means of controlling sanity when anticipating high drops  
 \+ Control over sanity scales with the number of actions he receives, increasing his power in low-sinner compositions  
