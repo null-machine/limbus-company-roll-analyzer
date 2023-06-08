@@ -1,0 +1,24 @@
+!!python/object:sinner.Sinner
+name: heathcliff_sunshower_prime
+skills:
+- !!python/object:skill.Skill
+  base_power: 1
+  coin_count: 3
+  coin_power: 2
+  coin_type: minus
+  name: umbrella_thwack
+  offense: 39
+- !!python/object:skill.Skill
+  base_power: 1
+  coin_count: 4
+  coin_power: 3
+  coin_type: minus
+  name: puddle_stomp
+  offense: 42
+- !!python/object:skill.Skill
+  base_power: -2
+  coin_count: 3
+  coin_power: 7
+  coin_type: minus
+  name: spread_out
+  offense: 42

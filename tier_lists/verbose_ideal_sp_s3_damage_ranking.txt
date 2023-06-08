@@ -7,6 +7,8 @@ s3 heathcliff_r_corp | quick_suppression | agg: 6.54~23.28 | raw: 15~75 @ 41
 s3 ishmael_r_corp_prime | mind_whip | agg: 5.53~22.46 | raw: 16~66 @ 32
 s3 ryoshu_chef_prime | i_can_cook_anything | agg: 8.88~19.04 | raw: 28~58 @ 38
 s3 ishmael_r_corp | mind_whip | agg: 3.53~20.46 | raw: 8~58 @ 32
+s3 heathcliff_sunshower_prime | spread_out | agg: 13.77~20.4 | raw: 17~57 @ 42
+s3 heathcliff_sunshower | spread_out | agg: 12.77~19.4 | raw: 15~54 @ 42
 s3 faust_l_corp_prime | opportunistic_slash | agg: 8.0~27.33 | raw: 12~45 @ 37
 s3 ryoshu_seven_prime | swash | agg: 7.37~20.28 | raw: 15~45 @ 40
 s3 don_quixote_lcb_prime | for_justice | agg: 6.57~19.48 | raw: 15~45 @ 36
@@ -37,6 +39,7 @@ s3 faust_l_corp_weak | opportunistic_slash | agg: 5.56~19.62 | raw: 8~32 @ 37
 s3 hong_lu_tingtang | mutilate | agg: 6.85~29.35 | raw: 5~30 @ 38
 s3 yi_sang_blade | flank_thrust | agg: 9.47~12.06 | raw: 24~30 @ 41
 s3 faust_n_corp | execution | agg: 7.35~12.51 | raw: 18~30 @ 39
+s3 gregor_rosespanner | lets_grind_em | agg: 5.02~12.77 | raw: 12~30 @ 36
 s3 hong_lu_kurokumo | cloudburst | agg: 5.95~11.11 | raw: 18~30 @ 32
 s3 hong_lu_kurokumo_prime | cloudburst | agg: 5.95~11.11 | raw: 18~30 @ 32
 s3 outis_seven_weak | exploit_the_gap | agg: 5.95~11.11 | raw: 18~30 @ 32

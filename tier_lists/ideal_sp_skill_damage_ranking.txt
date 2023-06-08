@@ -3,10 +3,12 @@ s3 sinclair_n_corp | self_destructive_purge | agg: 19.63~30.99 | raw: 24~90 @ 40
 s3 heathcliff_r_corp | quick_suppression | agg: 6.54~23.28 | raw: 15~75 @ 41
 s2 sinclair_n_corp | amoral_enactment | agg: 13.01~16.8 | raw: 24~64 @ 39
 s3 ishmael_r_corp | mind_whip | agg: 3.53~20.46 | raw: 8~58 @ 32
+s3 heathcliff_sunshower | spread_out | agg: 12.77~19.4 | raw: 15~54 @ 42
 s2 heathcliff_r_corp | concentrated_fire | agg: 6.48~16.64 | raw: 16~46 @ 41
 s3 ryoshu_seven | swash | agg: 6.37~19.28 | raw: 12~42 @ 40
 s3 ryoshu_chef | i_can_cook_anything | agg: 4.88~15.04 | raw: 12~42 @ 38
 s3 faust_l_corp | opportunistic_slash | agg: 6.0~25.33 | raw: 8~41 @ 37
+s2 heathcliff_sunshower | puddle_stomp | agg: 8.56~11.4 | raw: 12~40 @ 42
 s3 rodion_rosespanner | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
 s2 hong_lu_tingtang | shank | agg: 4.97~17.88 | raw: 9~39 @ 38
 s2 ryoshu_chef | ingredient_hunt | agg: 4.97~17.88 | raw: 9~39 @ 38
@@ -25,6 +27,7 @@ s3 hong_lu_tingtang | mutilate | agg: 6.85~29.35 | raw: 5~30 @ 38
 s3 yi_sang_blade | flank_thrust | agg: 9.47~12.06 | raw: 24~30 @ 41
 s3 faust_n_corp | execution | agg: 7.35~12.51 | raw: 18~30 @ 39
 s2 faust_l_corp | deep_cuts | agg: 5.22~12.97 | raw: 12~30 @ 37
+s3 gregor_rosespanner | lets_grind_em | agg: 5.02~12.77 | raw: 12~30 @ 36
 s3 hong_lu_kurokumo | cloudburst | agg: 5.95~11.11 | raw: 18~30 @ 32
 s3 don_quixote_n_corp | fanatical_judgement | agg: 4.62~12.37 | raw: 12~30 @ 34
 s3 faust_w_corp | overcharge | agg: 5.35~10.51 | raw: 18~30 @ 29
@@ -85,12 +88,14 @@ s2 rodion_n_corp | zealous_purge | agg: 6.69~10.2 | raw: 12~18 @ 37
 s2 meursault_liu | stalwart_stance | agg: 6.09~9.6 | raw: 12~18 @ 34
 s2 hong_lu_liu | flowing_flame | agg: 5.89~9.4 | raw: 12~18 @ 33
 s1 rodion_n_corp | devoted_hammering | agg: 3.98~11.01 | raw: 6~18 @ 37
+s1 gregor_rosespanner | rev_up | agg: 3.78~10.81 | raw: 6~18 @ 36
 s1 don_quixote_n_corp | rightful_purge | agg: 3.38~10.41 | raw: 6~18 @ 34
 s1 ishmael_shi | flying_sword | agg: 3.38~10.41 | raw: 6~18 @ 34
 s1 meursault_liu | assault | agg: 3.38~10.41 | raw: 6~18 @ 34
 s1 heathcliff_n_corp | gawky_nailing | agg: 3.18~10.21 | raw: 6~18 @ 33
 s1 hong_lu_liu | warm_up | agg: 3.18~10.21 | raw: 6~18 @ 33
 s3 faust_lcb | drilling_stab | agg: 4.89~8.4 | raw: 12~18 @ 28
+s1 heathcliff_sunshower | umbrella_thwack | agg: 4.9~6.8 | raw: 6~18 @ 39
 s2 yi_sang_blade | heel_turn | agg: 8.35~10.1 | raw: 14~17 @ 41
 s1 gregor_g_corp | hack | agg: 5.64~10.91 | raw: 8~17 @ 41
 s1 faust_n_corp | cackle | agg: 5.24~10.51 | raw: 8~17 @ 39
@@ -99,6 +104,7 @@ s1 ryoshu_chef | cooking_prep | agg: 5.04~10.31 | raw: 8~17 @ 38
 s2 gregor_g_corp | dismember | agg: 7.7~16.7 | raw: 6~16 @ 41
 s2 ryoshu_seven | upper_slash | agg: 5.6~16.4 | raw: 4~16 @ 40
 s2 ishmael_r_corp | flaying_surge | agg: 5.9~14.9 | raw: 6~16 @ 32
+s2 gregor_rosespanner | grease_chains | agg: 4.8~15.6 | raw: 4~16 @ 36
 s2 don_quixote_n_corp | enactment | agg: 4.4~15.2 | raw: 4~16 @ 34
 s1 sinclair_n_corp | coerced_judgement | agg: 6.7~8.59 | raw: 10~16 @ 38
 s2 yi_sang_seven | riposte | agg: 4.69~8.2 | raw: 10~16 @ 32

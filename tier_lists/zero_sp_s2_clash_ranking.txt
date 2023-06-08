@@ -10,6 +10,8 @@ s2 don_quixote_w_corp | leap | agg: 5.7~16.03 | raw: 12~36 @ 38
 s2 ryoshu_kurokumo | clean_up | agg: 6.33~15.11 | raw: 10~25 @ 38
 s2 don_quixote_shi | dual_strike | agg: 5.27~15.81 | raw: 8~26 @ 37
 s2 ishmael_r_corp | flaying_surge | agg: 5.9~14.9 | raw: 6~16 @ 32
+s2 gregor_rosespanner | grease_chains | agg: 4.8~15.6 | raw: 4~16 @ 36
+s2 heathcliff_sunshower | puddle_stomp | agg: 8.56~11.4 | raw: 12~40 @ 42
 s2 don_quixote_n_corp | enactment | agg: 4.4~15.2 | raw: 4~16 @ 34
 s2 heathcliff_shi | flying_sword | agg: 5.3~14.3 | raw: 5~15 @ 34
 s2 rodion_rosespanner | vibration_compression | agg: 7.04~12.31 | raw: 12~21 @ 38

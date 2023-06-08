@@ -13,9 +13,11 @@ ryoshu_chef | agg: 4.99~13.62 | raw: 9.0~28.5 @ 38.0
 faust_n_corp | agg: 5.81~12.75 | raw: 11.0~25.5 @ 39.0
 ishmael_r_corp | agg: 4.12~14.33 | raw: 6.33~25.5 @ 32.0
 rodion_rosespanner | agg: 5.98~12.09 | raw: 10.5~22.0 @ 38.0
+heathcliff_sunshower | agg: 7.43~10.43 | raw: 9.5~31.33 @ 40.5
 faust_l_corp | agg: 4.59~13.09 | raw: 6.83~21.33 @ 37.0
 rodion_clearance | agg: 6.46~10.92 | raw: 8.33~14.33 @ 40.0
 outis_lcb | agg: 5.02~12.04 | raw: 8.17~20.5 @ 38.0
+gregor_rosespanner | agg: 4.33~12.73 | raw: 6.33~19.33 @ 36.0
 heathcliff_shi | agg: 4.76~12.22 | raw: 5.33~14.67 @ 34.0
 hong_lu_lcb | agg: 4.43~12.26 | raw: 5.83~17.33 @ 36.0
 heathcliff_n_corp | agg: 4.37~12.01 | raw: 7.0~19.67 @ 33.0

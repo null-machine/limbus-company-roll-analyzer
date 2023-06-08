@@ -2,11 +2,13 @@ s1 heathcliff_r_corp | graze_the_grass | agg: 5.75~10.91 | raw: 12~24 @ 41
 s1 ishmael_r_corp | mind_strike | agg: 3.13~11.91 | raw: 6~21 @ 32
 s1 outis_lcb | pulled_blade | agg: 4.15~9.31 | raw: 9~21 @ 38
 s1 rodion_n_corp | devoted_hammering | agg: 3.98~11.01 | raw: 6~18 @ 37
+s1 gregor_rosespanner | rev_up | agg: 3.78~10.81 | raw: 6~18 @ 36
 s1 don_quixote_n_corp | rightful_purge | agg: 3.38~10.41 | raw: 6~18 @ 34
 s1 ishmael_shi | flying_sword | agg: 3.38~10.41 | raw: 6~18 @ 34
 s1 meursault_liu | assault | agg: 3.38~10.41 | raw: 6~18 @ 34
 s1 heathcliff_n_corp | gawky_nailing | agg: 3.18~10.21 | raw: 6~18 @ 33
 s1 hong_lu_liu | warm_up | agg: 3.18~10.21 | raw: 6~18 @ 33
+s1 heathcliff_sunshower | umbrella_thwack | agg: 4.9~6.8 | raw: 6~18 @ 39
 s1 gregor_g_corp | hack | agg: 5.64~10.91 | raw: 8~17 @ 41
 s1 faust_n_corp | cackle | agg: 5.24~10.51 | raw: 8~17 @ 39
 s1 rodion_rosespanner | rev_up | agg: 5.04~10.31 | raw: 8~17 @ 38

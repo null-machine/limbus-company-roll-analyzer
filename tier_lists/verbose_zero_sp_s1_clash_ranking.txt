@@ -37,6 +37,7 @@ s1 rodion_n_corp | devoted_hammering | agg: 3.98~11.01 | raw: 6~18 @ 37
 s1 don_quixote_shi | catch_breath | agg: 4.7~10.1 | raw: 4~10 @ 37
 s1 don_quixote_shi_prime | catch_breath | agg: 4.7~10.1 | raw: 4~10 @ 37
 s1 outis_seven_weak | predictive_analysis | agg: 5.6~9.2 | raw: 6~10 @ 32
+s1 gregor_rosespanner | rev_up | agg: 3.78~10.81 | raw: 6~18 @ 36
 s1 sinclair_lcb | downward_swing | agg: 3.95~10.25 | raw: 3~10 @ 38
 s1 faust_lcb_prime | downward_slash | agg: 3.95~10.25 | raw: 5~12 @ 28
 s1 heathcliff_lcb_prime | bat_bash | agg: 3.95~10.25 | raw: 4~11 @ 33
@@ -46,6 +47,7 @@ s1 don_quixote_n_corp | rightful_purge | agg: 3.38~10.41 | raw: 6~18 @ 34
 s1 ishmael_shi | flying_sword | agg: 3.38~10.41 | raw: 6~18 @ 34
 s1 meursault_liu | assault | agg: 3.38~10.41 | raw: 6~18 @ 34
 s1 ishmael_shi_prime | flying_sword | agg: 3.38~10.41 | raw: 6~18 @ 34
+s1 heathcliff_sunshower_prime | umbrella_thwack | agg: 5.9~7.8 | raw: 9~21 @ 39
 s1 heathcliff_shi | extreme_edge | agg: 4.1~9.5 | raw: 4~10 @ 34
 s1 outis_blade | draw_of_the_sword | agg: 4.1~9.5 | raw: 4~10 @ 34
 s1 outis_lcb | pulled_blade | agg: 4.15~9.31 | raw: 9~21 @ 38
@@ -65,6 +67,7 @@ s1 heathcliff_lcb | bat_bash | agg: 2.95~9.25 | raw: 3~10 @ 33
 s1 rodion_lcb | strike_down | agg: 2.95~9.25 | raw: 3~10 @ 33
 s1 sinclair_blade | slice_then_stab | agg: 5.15~6.9 | raw: 10~13 @ 35
 s1 ishmael_shi_prime_partial | flying_sword | agg: 2.38~9.41 | raw: 4~16 @ 34
+s1 heathcliff_sunshower | umbrella_thwack | agg: 4.9~6.8 | raw: 6~18 @ 39
 s1 gregor_chef | keep_it_fresh | agg: 4.09~7.6 | raw: 8~14 @ 34
 s1 faust_w_corp | energy_cycle | agg: 3.1~8.5 | raw: 4~10 @ 29
 s1 ishmael_clearance | shove | agg: 3.1~8.5 | raw: 4~10 @ 29

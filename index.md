@@ -304,9 +304,9 @@ Due to technical limitations, use the normal chart for evaluating aggregate and 
 \+ Deliberately allowing him to stagger and healing him up during low pressure effectively removes his own stagger thresholds for later rounds  
 \+ Piloting him feels like giving the team a regenerating frontal shield, enabling heavy damage payloads (e.g. Cloud Cutter) to land without risking a clash  
 \+ Building around Legerdemain allows him to take on a damage role  
-\+ Happens to be the author's favourite unit (so take that bias as you will)  
 
 \- Does not have S tier roll numbers  
+\- Happens to be the author's favourite unit (so take that bias as you will)  
 
 ---
 

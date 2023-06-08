@@ -24,10 +24,12 @@ s2 outis_seven | field_command | agg: 7.13~15.91 | raw: 14~29 @ 32
 s2 don_quixote_shi | dual_strike | agg: 5.27~15.81 | raw: 8~26 @ 37
 s2 don_quixote_shi_prime | dual_strike | agg: 5.27~15.81 | raw: 8~26 @ 37
 s2 don_quixote_lcb_prime | galloping_tilt | agg: 6.7~15.7 | raw: 6~16 @ 36
+s2 gregor_rosespanner | grease_chains | agg: 4.8~15.6 | raw: 4~16 @ 36
 s2 don_quixote_n_corp | enactment | agg: 4.4~15.2 | raw: 4~16 @ 34
 s2 ryoshu_kurokumo | clean_up | agg: 6.33~15.11 | raw: 10~25 @ 38
 s2 faust_l_corp_prime | deep_cuts | agg: 7.22~14.97 | raw: 18~36 @ 37
 s2 ishmael_r_corp | flaying_surge | agg: 5.9~14.9 | raw: 6~16 @ 32
+s2 heathcliff_sunshower_prime | puddle_stomp | agg: 11.56~14.4 | raw: 22~52 @ 42
 s2 heathcliff_shi | flying_sword | agg: 5.3~14.3 | raw: 5~15 @ 34
 s2 heathcliff_n_corp_prime | purify | agg: 7.0~14.2 | raw: 7~15 @ 33
 s2 outis_seven_weak | field_command | agg: 5.13~13.91 | raw: 10~25 @ 32
@@ -56,6 +58,7 @@ s2 hong_lu_lcb_weak | dual_strike | agg: 4.78~11.81 | raw: 8~20 @ 36
 s2 ishmael_lcb | slide | agg: 4.6~11.8 | raw: 5~13 @ 31
 s2 rodion_kurokumo | scattering_slash | agg: 6.44~11.71 | raw: 12~21 @ 35
 s2 faust_w_corp | leap | agg: 4.38~11.41 | raw: 10~22 @ 29
+s2 heathcliff_sunshower | puddle_stomp | agg: 8.56~11.4 | raw: 12~40 @ 42
 s2 ishmael_clearance | quake_rounds | agg: 3.62~11.37 | raw: 12~30 @ 29
 s2 heathcliff_lcb | smackdown | agg: 4.18~11.21 | raw: 8~20 @ 33
 s2 rodion_lcb | axe_combo | agg: 4.18~11.21 | raw: 8~20 @ 33

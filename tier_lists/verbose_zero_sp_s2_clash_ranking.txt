@@ -5,6 +5,7 @@ s2 ryoshu_seven_prime | upper_slash | agg: 8.6~19.4 | raw: 7~19 @ 40
 s2 heathcliff_r_corp_prime | concentrated_fire | agg: 8.48~18.64 | raw: 24~54 @ 41
 s2 ishmael_shi_prime | flashing_slide | agg: 6.5~20.05 | raw: 20~60 @ 34
 s2 faust_n_corp_prime | the_gripping | agg: 7.9~18.23 | raw: 18~42 @ 39
+s2 heathcliff_sunshower_prime | puddle_stomp | agg: 11.56~14.4 | raw: 22~52 @ 42
 s2 rodion_rosespanner_prime | vibration_compression | agg: 7.88~18.04 | raw: 24~54 @ 38
 s2 hong_lu_kurokumo_prime | cloud_cutter | agg: 6.1~19.65 | raw: 20~60 @ 32
 s2 heathcliff_shi_prime | flying_sword | agg: 8.3~17.3 | raw: 8~18 @ 34
@@ -28,7 +29,9 @@ s2 heathcliff_n_corp_prime | purify | agg: 7.0~14.2 | raw: 7~15 @ 33
 s2 don_quixote_shi | dual_strike | agg: 5.27~15.81 | raw: 8~26 @ 37
 s2 don_quixote_shi_prime | dual_strike | agg: 5.27~15.81 | raw: 8~26 @ 37
 s2 ishmael_r_corp | flaying_surge | agg: 5.9~14.9 | raw: 6~16 @ 32
+s2 gregor_rosespanner | grease_chains | agg: 4.8~15.6 | raw: 4~16 @ 36
 s2 ishmael_lcb_prime | slide | agg: 6.6~13.8 | raw: 7~15 @ 31
+s2 heathcliff_sunshower | puddle_stomp | agg: 8.56~11.4 | raw: 12~40 @ 42
 s2 faust_w_corp_prime | leap | agg: 6.38~13.41 | raw: 14~26 @ 29
 s2 don_quixote_n_corp | enactment | agg: 4.4~15.2 | raw: 4~16 @ 34
 s2 heathcliff_shi | flying_sword | agg: 5.3~14.3 | raw: 5~15 @ 34

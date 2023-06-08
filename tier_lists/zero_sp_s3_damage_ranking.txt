@@ -1,6 +1,7 @@
 s3 sinclair_n_corp | self_destructive_purge | agg: 19.63~30.99 | raw: 24~90 @ 40
 s3 don_quixote_w_corp | rip_space | agg: 5.11~30.22 | raw: 5~95 @ 38
 s3 heathcliff_r_corp | quick_suppression | agg: 6.54~23.28 | raw: 15~75 @ 41
+s3 heathcliff_sunshower | spread_out | agg: 12.77~19.4 | raw: 15~54 @ 42
 s3 ishmael_r_corp | mind_whip | agg: 3.53~20.46 | raw: 8~58 @ 32
 s3 outis_seven | exploit_the_gap | agg: 7.95~13.11 | raw: 24~36 @ 32
 s3 ryoshu_seven | swash | agg: 6.37~19.28 | raw: 12~42 @ 40
@@ -22,6 +23,7 @@ s3 faust_n_corp | execution | agg: 7.35~12.51 | raw: 18~30 @ 39
 s3 hong_lu_kurokumo | cloudburst | agg: 5.95~11.11 | raw: 18~30 @ 32
 s3 faust_w_corp | overcharge | agg: 5.35~10.51 | raw: 18~30 @ 29
 s3 ryoshu_kurokumo | lenticular_swirl | agg: 9.18~16.21 | raw: 16~28 @ 38
+s3 gregor_rosespanner | lets_grind_em | agg: 5.02~12.77 | raw: 12~30 @ 36
 s3 don_quixote_n_corp | fanatical_judgement | agg: 4.62~12.37 | raw: 12~30 @ 34
 s3 sinclair_lcb | ravaging_cut | agg: 6.15~11.31 | raw: 15~27 @ 38
 s3 ryoshu_lcb | brushstroke | agg: 5.75~10.91 | raw: 15~27 @ 36

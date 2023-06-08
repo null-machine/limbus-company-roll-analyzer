@@ -13,12 +13,14 @@ s3 ishmael_r_corp_prime | mind_whip | agg: 5.53~22.46 | raw: 16~66 @ 32
 s3 rodion_kurokumo | sky_clearing_cut | agg: 7.8~22.2 | raw: 7~23 @ 35
 s3 sinclair_blade | to_claim_their_bones | agg: 8.7~21.3 | raw: 8~22 @ 35
 s3 ishmael_r_corp | mind_whip | agg: 3.53~20.46 | raw: 8~58 @ 32
+s3 heathcliff_sunshower_prime | spread_out | agg: 13.77~20.4 | raw: 17~57 @ 42
 s3 ryoshu_seven_prime | swash | agg: 7.37~20.28 | raw: 15~45 @ 40
 s3 outis_g_corp | focus | agg: 5.6~20.0 | raw: 6~22 @ 29
 s3 outis_lcb | piercing_thrust | agg: 7.3~19.9 | raw: 6~20 @ 38
 s3 faust_l_corp_weak | opportunistic_slash | agg: 5.56~19.62 | raw: 8~32 @ 37
 s3 ishmael_lcb_prime | shield_bash | agg: 8.8~19.6 | raw: 9~21 @ 31
 s3 don_quixote_lcb_prime | for_justice | agg: 6.57~19.48 | raw: 15~45 @ 36
+s3 heathcliff_sunshower | spread_out | agg: 12.77~19.4 | raw: 15~54 @ 42
 s3 ryoshu_seven | swash | agg: 6.37~19.28 | raw: 12~42 @ 40
 s3 heathcliff_shi_prime | flashing_strike | agg: 8.67~19.21 | raw: 16~34 @ 34
 s3 ryoshu_chef_prime | i_can_cook_anything | agg: 8.88~19.04 | raw: 28~58 @ 38
@@ -50,6 +52,7 @@ s3 rodion_n_corp_prime | ironclad_retribution | agg: 6.25~13.03 | raw: 20~40 @ 3
 s3 yi_sang_seven | moulinet | agg: 5.22~12.97 | raw: 15~33 @ 32
 s3 gregor_g_corp | eviscerate | agg: 6.05~12.83 | raw: 16~36 @ 41
 s3 hong_lu_lcb_weak | whirlwind | agg: 5.78~12.81 | raw: 10~22 @ 36
+s3 gregor_rosespanner | lets_grind_em | agg: 5.02~12.77 | raw: 12~30 @ 36
 s3 gregor_liu | perfected_palm_strike | agg: 5.85~12.63 | raw: 16~36 @ 40
 s3 faust_n_corp | execution | agg: 7.35~12.51 | raw: 18~30 @ 39
 s3 faust_w_corp_prime | overcharge | agg: 7.35~12.51 | raw: 24~36 @ 29
