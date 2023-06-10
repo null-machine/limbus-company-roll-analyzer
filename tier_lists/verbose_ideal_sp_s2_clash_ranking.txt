@@ -1,4 +1,5 @@
 s2 hong_lu_tingtang_prime | shank | agg: 5.73~22.66 | raw: 12~62 @ 38
+s2 hong_lu_tingtang_prime_partial | shank | agg: 4.73~21.66 | raw: 8~58 @ 38
 s2 ishmael_shi_prime | flashing_slide | agg: 6.5~20.05 | raw: 20~60 @ 34
 s2 hong_lu_kurokumo_prime | cloud_cutter | agg: 6.1~19.65 | raw: 20~60 @ 32
 s2 ryoshu_seven_prime | upper_slash | agg: 8.6~19.4 | raw: 7~19 @ 40
@@ -13,6 +14,7 @@ s2 ryoshu_chef_prime | ingredient_hunt | agg: 4.97~17.88 | raw: 9~39 @ 38
 s2 sinclair_n_corp_prime | amoral_enactment | agg: 14.01~17.8 | raw: 28~68 @ 39
 s2 heathcliff_shi_prime | flying_sword | agg: 8.3~17.3 | raw: 8~18 @ 34
 s2 ishmael_r_corp_prime | flaying_surge | agg: 7.9~16.9 | raw: 8~18 @ 32
+s2 hong_lu_tingtang_partial | shank | agg: 3.97~16.88 | raw: 6~36 @ 38
 s2 sinclair_n_corp | amoral_enactment | agg: 13.01~16.8 | raw: 24~64 @ 39
 s2 gregor_g_corp | dismember | agg: 7.7~16.7 | raw: 6~16 @ 41
 s2 heathcliff_r_corp | concentrated_fire | agg: 6.48~16.64 | raw: 16~46 @ 41

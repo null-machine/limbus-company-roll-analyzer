@@ -21,6 +21,7 @@ faust_n_corp | agg: 5.81~12.75 | raw: 11.0~25.5 @ 39.0
 hong_lu_kurokumo_prime_partial | agg: 3.66~12.32 | raw: 8.2~27.8 @ 32.0
 faust_l_corp_prime | agg: 6.59~15.09 | raw: 10.5~25.0 @ 37.0
 rodion_n_corp_prime | agg: 6.1~11.91 | raw: 12.0~23.33 @ 37.0
+hong_lu_tingtang_prime_partial | agg: 4.83~14.85 | raw: 5.6~29.2 @ 38.0
 outis_seven | agg: 7.5~13.09 | raw: 12.67~21.67 @ 32.0
 rodion_rosespanner | agg: 5.98~12.09 | raw: 10.5~22.0 @ 38.0
 faust_w_corp_prime | agg: 5.9~11.81 | raw: 11.67~20.67 @ 29.0
@@ -57,6 +58,7 @@ don_quixote_n_corp | agg: 3.93~12.33 | raw: 6.33~19.33 @ 34.0
 hong_lu_kurokumo | agg: 4.5~10.41 | raw: 8.33~17.33 @ 32.0
 faust_w_corp | agg: 3.9~9.81 | raw: 8.33~17.33 @ 29.0
 sinclair_lcb | agg: 4.72~10.45 | raw: 8.0~17.5 @ 38.0
+hong_lu_tingtang_partial | agg: 4.53~12.93 | raw: 4.8~20.4 @ 38.0
 heathcliff_lcb_prime | agg: 4.61~11.86 | raw: 7.0~17.5 @ 33.0
 don_quixote_shi_prime | agg: 5.52~14.88 | raw: 5.83~18.33 @ 37.0
 rodion_kurokumo | agg: 6.1~12.95 | raw: 7.67~16.33 @ 35.0

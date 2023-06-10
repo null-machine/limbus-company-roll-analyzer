@@ -1,8 +1,10 @@
 hong_lu_tingtang_prime | agg: 6.4~22.06 | raw: 8.17~40.33 @ 38.0
+hong_lu_tingtang_prime_partial | agg: 4.83~14.85 | raw: 5.6~29.2 @ 38.0
 sinclair_n_corp_prime | agg: 11.96~16.06 | raw: 19.67~47.17 @ 38.67
 sinclair_n_corp | agg: 10.96~15.06 | raw: 17.0~44.33 @ 38.67
 ishmael_shi_prime_partial | agg: 3.63~13.27 | raw: 8.8~32.0 @ 34.0
 hong_lu_kurokumo_prime_partial | agg: 3.66~12.32 | raw: 8.2~27.8 @ 32.0
+hong_lu_tingtang_partial | agg: 4.53~12.93 | raw: 4.8~20.4 @ 38.0
 heathcliff_r_corp_prime | agg: 8.12~16.88 | raw: 21.17~47.17 @ 41.0
 ryoshu_seven_prime | agg: 7.25~15.7 | raw: 7.33~19.33 @ 40.0
 heathcliff_sunshower_prime | agg: 9.1~12.1 | raw: 14.67~37.33 @ 40.5

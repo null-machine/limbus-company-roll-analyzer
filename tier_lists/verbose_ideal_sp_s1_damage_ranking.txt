@@ -54,6 +54,8 @@ s1 meursault_w_corp | rip | agg: 4.3~9.7 | raw: 5~11 @ 30
 s1 rodion_clearance | bludgeon | agg: 5.3~10.7 | raw: 4~10 @ 40
 s1 ryoshu_seven | slash | agg: 5.3~10.7 | raw: 4~10 @ 40
 s1 rodion_clearance_weak | bludgeon | agg: 5.3~10.7 | raw: 4~10 @ 40
+s1 hong_lu_tingtang_partial | throat_slit | agg: 4.9~10.3 | raw: 4~10 @ 38
+s1 hong_lu_tingtang_prime_partial | throat_slit | agg: 4.9~10.3 | raw: 4~10 @ 38
 s1 don_quixote_shi | catch_breath | agg: 4.7~10.1 | raw: 4~10 @ 37
 s1 don_quixote_shi_prime | catch_breath | agg: 4.7~10.1 | raw: 4~10 @ 37
 s1 outis_seven_weak | predictive_analysis | agg: 5.6~9.2 | raw: 6~10 @ 32

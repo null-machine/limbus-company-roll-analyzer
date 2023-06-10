@@ -25,6 +25,7 @@ s3 ryoshu_seven_prime | swash | agg: 7.37~20.28 | raw: 15~45 @ 40
 s3 outis_lcb | piercing_thrust | agg: 7.3~19.9 | raw: 6~20 @ 38
 s2 heathcliff_r_corp_prime | concentrated_fire | agg: 8.48~18.64 | raw: 24~54 @ 41
 s2 ishmael_shi_prime | flashing_slide | agg: 6.5~20.05 | raw: 20~60 @ 34
+s2 hong_lu_tingtang_prime_partial | shank | agg: 4.73~21.66 | raw: 8~58 @ 38
 s2 faust_n_corp_prime | the_gripping | agg: 7.9~18.23 | raw: 18~42 @ 39
 s3 don_quixote_lcb_prime | for_justice | agg: 6.57~19.48 | raw: 15~45 @ 36
 s2 heathcliff_sunshower_prime | puddle_stomp | agg: 11.56~14.4 | raw: 22~52 @ 42
@@ -70,6 +71,7 @@ s2 don_quixote_shi | dual_strike | agg: 5.27~15.81 | raw: 8~26 @ 37
 s2 don_quixote_shi_prime | dual_strike | agg: 5.27~15.81 | raw: 8~26 @ 37
 s3 outis_seven | exploit_the_gap | agg: 7.95~13.11 | raw: 24~36 @ 32
 s3 meursault_n_corp | annihilate_heretics | agg: 7.84~13.11 | raw: 16~25 @ 32
+s2 hong_lu_tingtang_partial | shank | agg: 3.97~16.88 | raw: 6~36 @ 38
 s2 ishmael_r_corp | flaying_surge | agg: 5.9~14.9 | raw: 6~16 @ 32
 s1 heathcliff_r_corp_prime | graze_the_grass | agg: 7.75~12.91 | raw: 18~30 @ 41
 s3 gregor_liu_prime | perfected_palm_strike | agg: 6.85~13.63 | raw: 20~40 @ 40
@@ -178,6 +180,8 @@ s1 rodion_rosespanner_prime | rev_up | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 ryoshu_chef_prime | cooking_prep | agg: 5.04~10.31 | raw: 8~17 @ 38
 s2 hong_lu_liu | flowing_flame | agg: 5.89~9.4 | raw: 12~18 @ 33
 s1 sinclair_n_corp | coerced_judgement | agg: 6.7~8.59 | raw: 10~16 @ 38
+s1 hong_lu_tingtang_partial | throat_slit | agg: 4.9~10.3 | raw: 4~10 @ 38
+s1 hong_lu_tingtang_prime_partial | throat_slit | agg: 4.9~10.3 | raw: 4~10 @ 38
 s2 sinclair_blade | slash_series | agg: 6.27~8.86 | raw: 18~24 @ 35
 s2 gregor_liu | rush_down | agg: 6.27~8.86 | raw: 15~21 @ 40
 s3 gregor_chef | butcher_viand | agg: 5.83~9.21 | raw: 20~30 @ 37
@@ -245,5 +249,7 @@ s2 sinclair_mariachi | danza_de_pasion | agg: 3.67~6.26 | raw: 15~21 @ 27
 s1 sinclair_mariachi | baile_y_rola | agg: 2.69~6.2 | raw: 8~14 @ 27
 s3 meursault_lcb | des_coups | agg: 2.63~6.01 | raw: 16~26 @ 26
 s1 meursault_lcb | un_deux | agg: 0.78~7.81 | raw: 4~16 @ 26
+s3 hong_lu_tingtang_partial | n/a | agg: 1.65~2.55 | raw: 1~2 @ 38
+s3 hong_lu_tingtang_prime_partial | n/a | agg: 1.65~2.55 | raw: 1~2 @ 38
 s3 ishmael_shi_prime_partial | n/a | agg: 0.85~1.75 | raw: 1~2 @ 34
 s3 hong_lu_kurokumo_prime_partial | n/a | agg: 0.45~1.35 | raw: 1~2 @ 32

@@ -79,5 +79,7 @@ s3 rodion_clearance_weak | suppress | agg: 8.29~11.8 | raw: 14~20 @ 40
 s3 ishmael_lcb | shield_bash | agg: 6.8~17.6 | raw: 7~19 @ 31
 s3 sinclair_mariachi | pinata_party | agg: 6.95~16.85 | raw: 8~19 @ 27
 s3 faust_lcb | drilling_stab | agg: 4.89~8.4 | raw: 12~18 @ 28
+s3 hong_lu_tingtang_partial | n/a | agg: 1.65~2.55 | raw: 1~2 @ 38
+s3 hong_lu_tingtang_prime_partial | n/a | agg: 1.65~2.55 | raw: 1~2 @ 38
 s3 ishmael_shi_prime_partial | n/a | agg: 0.85~1.75 | raw: 1~2 @ 34
 s3 hong_lu_kurokumo_prime_partial | n/a | agg: 0.45~1.35 | raw: 1~2 @ 32

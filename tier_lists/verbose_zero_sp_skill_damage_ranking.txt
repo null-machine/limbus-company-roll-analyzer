@@ -19,6 +19,7 @@ s2 ishmael_shi_prime_partial | flashing_slide | agg: 5.5~19.05 | raw: 16~56 @ 34
 s2 hong_lu_kurokumo_prime_partial | cloud_cutter | agg: 5.1~18.65 | raw: 16~56 @ 32
 s3 heathcliff_sunshower | spread_out | agg: 12.77~19.4 | raw: 15~54 @ 42
 s3 ishmael_clearance_prime | suppress | agg: 5.65~12.43 | raw: 24~44 @ 29
+s2 hong_lu_tingtang_prime_partial | shank | agg: 4.73~21.66 | raw: 8~58 @ 38
 s3 ishmael_r_corp | mind_whip | agg: 3.53~20.46 | raw: 8~58 @ 32
 s2 heathcliff_r_corp | concentrated_fire | agg: 6.48~16.64 | raw: 16~46 @ 41
 s3 ryoshu_seven_prime | swash | agg: 7.37~20.28 | raw: 15~45 @ 40
@@ -67,6 +68,7 @@ s3 outis_seven_weak | exploit_the_gap | agg: 5.95~11.11 | raw: 18~30 @ 32
 s3 faust_w_corp | overcharge | agg: 5.35~10.51 | raw: 18~30 @ 29
 s3 ryoshu_kurokumo | lenticular_swirl | agg: 9.18~16.21 | raw: 16~28 @ 38
 s2 outis_seven | field_command | agg: 7.13~15.91 | raw: 14~29 @ 32
+s2 hong_lu_tingtang_partial | shank | agg: 3.97~16.88 | raw: 6~36 @ 38
 s2 faust_l_corp | deep_cuts | agg: 5.22~12.97 | raw: 12~30 @ 37
 s2 faust_l_corp_weak | deep_cuts | agg: 5.22~12.97 | raw: 12~30 @ 37
 s3 gregor_rosespanner | lets_grind_em | agg: 5.02~12.77 | raw: 12~30 @ 36
@@ -219,6 +221,8 @@ s1 heathcliff_lcb_prime | bat_bash | agg: 3.95~10.25 | raw: 4~11 @ 33
 s1 rodion_clearance | bludgeon | agg: 5.3~10.7 | raw: 4~10 @ 40
 s1 ryoshu_seven | slash | agg: 5.3~10.7 | raw: 4~10 @ 40
 s1 rodion_clearance_weak | bludgeon | agg: 5.3~10.7 | raw: 4~10 @ 40
+s1 hong_lu_tingtang_partial | throat_slit | agg: 4.9~10.3 | raw: 4~10 @ 38
+s1 hong_lu_tingtang_prime_partial | throat_slit | agg: 4.9~10.3 | raw: 4~10 @ 38
 s1 don_quixote_shi | catch_breath | agg: 4.7~10.1 | raw: 4~10 @ 37
 s1 don_quixote_shi_prime | catch_breath | agg: 4.7~10.1 | raw: 4~10 @ 37
 s1 heathcliff_shi | extreme_edge | agg: 4.1~9.5 | raw: 4~10 @ 34
@@ -245,5 +249,7 @@ s1 yi_sang_lcb | deflect | agg: 1.95~8.25 | raw: 3~10 @ 28
 s1 faust_l_corp | sole_strike | agg: 3.7~9.1 | raw: 3~9 @ 37
 s1 faust_l_corp_weak | sole_strike | agg: 3.7~9.1 | raw: 3~9 @ 37
 s1 hong_lu_kurokumo_prime_partial | cleave | agg: 2.7~8.1 | raw: 3~9 @ 32
+s3 hong_lu_tingtang_partial | n/a | agg: 1.65~2.55 | raw: 1~2 @ 38
+s3 hong_lu_tingtang_prime_partial | n/a | agg: 1.65~2.55 | raw: 1~2 @ 38
 s3 ishmael_shi_prime_partial | n/a | agg: 0.85~1.75 | raw: 1~2 @ 34
 s3 hong_lu_kurokumo_prime_partial | n/a | agg: 0.45~1.35 | raw: 1~2 @ 32

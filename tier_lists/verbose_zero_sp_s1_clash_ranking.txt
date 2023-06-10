@@ -32,6 +32,8 @@ s1 ryoshu_chef | cooking_prep | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 rodion_rosespanner_prime | rev_up | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 ryoshu_chef_prime | cooking_prep | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 sinclair_n_corp | coerced_judgement | agg: 6.7~8.59 | raw: 10~16 @ 38
+s1 hong_lu_tingtang_partial | throat_slit | agg: 4.9~10.3 | raw: 4~10 @ 38
+s1 hong_lu_tingtang_prime_partial | throat_slit | agg: 4.9~10.3 | raw: 4~10 @ 38
 s1 ishmael_r_corp | mind_strike | agg: 3.13~11.91 | raw: 6~21 @ 32
 s1 rodion_n_corp | devoted_hammering | agg: 3.98~11.01 | raw: 6~18 @ 37
 s1 don_quixote_shi | catch_breath | agg: 4.7~10.1 | raw: 4~10 @ 37

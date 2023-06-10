@@ -12,6 +12,7 @@ s3 heathcliff_r_corp | quick_suppression | agg: 6.54~23.28 | raw: 15~75 @ 41
 s2 hong_lu_tingtang_prime | shank | agg: 5.73~22.66 | raw: 12~62 @ 38
 s3 ishmael_r_corp_prime | mind_whip | agg: 5.53~22.46 | raw: 16~66 @ 32
 s3 rodion_kurokumo | sky_clearing_cut | agg: 7.8~22.2 | raw: 7~23 @ 35
+s2 hong_lu_tingtang_prime_partial | shank | agg: 4.73~21.66 | raw: 8~58 @ 38
 s3 sinclair_blade | to_claim_their_bones | agg: 8.7~21.3 | raw: 8~22 @ 35
 s3 ishmael_r_corp | mind_whip | agg: 3.53~20.46 | raw: 8~58 @ 32
 s3 heathcliff_sunshower_prime | spread_out | agg: 13.77~20.4 | raw: 17~57 @ 42
@@ -43,6 +44,7 @@ s2 heathcliff_shi_prime | flying_sword | agg: 8.3~17.3 | raw: 8~18 @ 34
 s3 rodion_rosespanner | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
 s3 rodion_rosespanner_prime | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
 s2 ishmael_r_corp_prime | flaying_surge | agg: 7.9~16.9 | raw: 8~18 @ 32
+s2 hong_lu_tingtang_partial | shank | agg: 3.97~16.88 | raw: 6~36 @ 38
 s3 sinclair_mariachi | pinata_party | agg: 6.95~16.85 | raw: 8~19 @ 27
 s2 sinclair_n_corp | amoral_enactment | agg: 13.01~16.8 | raw: 24~64 @ 39
 s2 gregor_g_corp | dismember | agg: 7.7~16.7 | raw: 6~16 @ 41
@@ -179,6 +181,8 @@ s1 rodion_rosespanner | rev_up | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 ryoshu_chef | cooking_prep | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 rodion_rosespanner_prime | rev_up | agg: 5.04~10.31 | raw: 8~17 @ 38
 s1 ryoshu_chef_prime | cooking_prep | agg: 5.04~10.31 | raw: 8~17 @ 38
+s1 hong_lu_tingtang_partial | throat_slit | agg: 4.9~10.3 | raw: 4~10 @ 38
+s1 hong_lu_tingtang_prime_partial | throat_slit | agg: 4.9~10.3 | raw: 4~10 @ 38
 s1 sinclair_lcb | downward_swing | agg: 3.95~10.25 | raw: 3~10 @ 38
 s1 faust_lcb_prime | downward_slash | agg: 3.95~10.25 | raw: 5~12 @ 28
 s1 heathcliff_lcb_prime | bat_bash | agg: 3.95~10.25 | raw: 4~11 @ 33
@@ -245,5 +249,7 @@ s1 meursault_n_corp | drive | agg: 4.55~6.3 | raw: 10~13 @ 32
 s2 sinclair_mariachi | danza_de_pasion | agg: 3.67~6.26 | raw: 15~21 @ 27
 s1 sinclair_mariachi | baile_y_rola | agg: 2.69~6.2 | raw: 8~14 @ 27
 s3 meursault_lcb | des_coups | agg: 2.63~6.01 | raw: 16~26 @ 26
+s3 hong_lu_tingtang_partial | n/a | agg: 1.65~2.55 | raw: 1~2 @ 38
+s3 hong_lu_tingtang_prime_partial | n/a | agg: 1.65~2.55 | raw: 1~2 @ 38
 s3 ishmael_shi_prime_partial | n/a | agg: 0.85~1.75 | raw: 1~2 @ 34
 s3 hong_lu_kurokumo_prime_partial | n/a | agg: 0.45~1.35 | raw: 1~2 @ 32

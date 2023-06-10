@@ -1,5 +1,6 @@
 ishmael_shi_prime_partial | agg: 3.63~13.27 | raw: 8.8~32.0 @ 34.0
 sinclair_n_corp_prime | agg: 11.96~16.06 | raw: 19.67~47.17 @ 38.67
+hong_lu_tingtang_prime_partial | agg: 4.83~14.85 | raw: 5.6~29.2 @ 38.0
 hong_lu_kurokumo_prime_partial | agg: 3.66~12.32 | raw: 8.2~27.8 @ 32.0
 sinclair_n_corp | agg: 10.96~15.06 | raw: 17.0~44.33 @ 38.67
 heathcliff_r_corp_prime | agg: 8.12~16.88 | raw: 21.17~47.17 @ 41.0
@@ -10,6 +11,7 @@ don_quixote_w_corp | agg: 5.7~16.03 | raw: 7.33~33.33 @ 38.0
 rodion_rosespanner_prime | agg: 6.26~14.0 | raw: 14.5~33.0 @ 38.0
 ishmael_shi_prime | agg: 4.92~14.12 | raw: 11.67~33.0 @ 34.0
 hong_lu_kurokumo_prime | agg: 4.88~12.95 | raw: 11.67~30.0 @ 32.0
+hong_lu_tingtang_partial | agg: 4.53~12.93 | raw: 4.8~20.4 @ 38.0
 ryoshu_chef_prime | agg: 5.66~14.29 | raw: 11.67~31.17 @ 38.0
 heathcliff_sunshower | agg: 7.43~10.43 | raw: 9.5~31.33 @ 40.5
 faust_n_corp_prime | agg: 7.81~14.75 | raw: 16.0~30.5 @ 39.0

@@ -75,7 +75,7 @@ Units in this tier tend to directly outperform or invalidate units in lower tier
 
 **A TIER — RELIABLE**
 
-These units win clashes that units in lower tiers couldn't, and can be relied upon to hold their own and pull their weight. They feel solid to pilot and their kits are easily appreciated. 
+These units win clashes that units in lower tiers couldn't, and can be relied upon to hold their own and pull their weight. They feel solid to pilot and their kits are easily appreciated. This tier is ordered deliberately.
 
 ![G Gregor](assets/11203.png)
 ![7S Outis](assets/11104.png)
@@ -406,7 +406,7 @@ The prime chart represents Heathcliff with his S2 power and +1 power to all skil
 \+ Like Ninclair, benefits greatly from being the first action recipient  
 
 \- Clashes are surprisingly bad, even for a negative coin unit (but his counter and reliance on self-sinking somewhat offset this)  
-\- Sinking micro does not so much require forward thinking as punish a lack of it  
+\- Sinking micro does not so much reward forward thinking as punish a lack of it  
 \- Sinking stacks are not preserved between fights  
 \- Somewhat reliant on being hit to accelerate sinking, which can lead to unintentional corrosions or staggers (but the latter is offset slightly from AEDD's passive or other sources of healing)  
 \- Requires the team to be built around him and will not be able to function smoothly in random squads, and benefits more from being max level than usual  

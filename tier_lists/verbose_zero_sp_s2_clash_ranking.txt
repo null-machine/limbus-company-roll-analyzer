@@ -4,6 +4,7 @@ s2 hong_lu_tingtang_prime | shank | agg: 5.73~22.66 | raw: 12~62 @ 38
 s2 ryoshu_seven_prime | upper_slash | agg: 8.6~19.4 | raw: 7~19 @ 40
 s2 heathcliff_r_corp_prime | concentrated_fire | agg: 8.48~18.64 | raw: 24~54 @ 41
 s2 ishmael_shi_prime | flashing_slide | agg: 6.5~20.05 | raw: 20~60 @ 34
+s2 hong_lu_tingtang_prime_partial | shank | agg: 4.73~21.66 | raw: 8~58 @ 38
 s2 faust_n_corp_prime | the_gripping | agg: 7.9~18.23 | raw: 18~42 @ 39
 s2 heathcliff_sunshower_prime | puddle_stomp | agg: 11.56~14.4 | raw: 22~52 @ 42
 s2 rodion_rosespanner_prime | vibration_compression | agg: 7.88~18.04 | raw: 24~54 @ 38
@@ -28,6 +29,7 @@ s2 ryoshu_kurokumo | clean_up | agg: 6.33~15.11 | raw: 10~25 @ 38
 s2 heathcliff_n_corp_prime | purify | agg: 7.0~14.2 | raw: 7~15 @ 33
 s2 don_quixote_shi | dual_strike | agg: 5.27~15.81 | raw: 8~26 @ 37
 s2 don_quixote_shi_prime | dual_strike | agg: 5.27~15.81 | raw: 8~26 @ 37
+s2 hong_lu_tingtang_partial | shank | agg: 3.97~16.88 | raw: 6~36 @ 38
 s2 ishmael_r_corp | flaying_surge | agg: 5.9~14.9 | raw: 6~16 @ 32
 s2 gregor_rosespanner | grease_chains | agg: 4.8~15.6 | raw: 4~16 @ 36
 s2 ishmael_lcb_prime | slide | agg: 6.6~13.8 | raw: 7~15 @ 31

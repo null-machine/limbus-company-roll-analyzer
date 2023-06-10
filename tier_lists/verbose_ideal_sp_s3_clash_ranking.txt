@@ -79,5 +79,7 @@ s3 faust_lcb | drilling_stab | agg: 4.89~8.4 | raw: 12~18 @ 28
 s3 meursault_w_corp | energy_current | agg: 4.43~7.81 | raw: 20~30 @ 30
 s3 yi_sang_lcb | enjamb | agg: 4.87~7.46 | raw: 18~24 @ 28
 s3 meursault_lcb | des_coups | agg: 2.63~6.01 | raw: 16~26 @ 26
+s3 hong_lu_tingtang_partial | n/a | agg: 1.65~2.55 | raw: 1~2 @ 38
+s3 hong_lu_tingtang_prime_partial | n/a | agg: 1.65~2.55 | raw: 1~2 @ 38
 s3 ishmael_shi_prime_partial | n/a | agg: 0.85~1.75 | raw: 1~2 @ 34
 s3 hong_lu_kurokumo_prime_partial | n/a | agg: 0.45~1.35 | raw: 1~2 @ 32

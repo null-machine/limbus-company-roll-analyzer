@@ -14,6 +14,7 @@ ryoshu_chef_prime | agg: 5.66~14.29 | raw: 11.67~31.17 @ 38.0
 faust_n_corp_prime | agg: 7.81~14.75 | raw: 16.0~30.5 @ 39.0
 hong_lu_kurokumo_prime | agg: 4.88~12.95 | raw: 11.67~30.0 @ 32.0
 ishmael_r_corp_prime | agg: 6.12~16.33 | raw: 10.33~29.5 @ 32.0
+hong_lu_tingtang_prime_partial | agg: 4.83~14.85 | raw: 5.6~29.2 @ 38.0
 ryoshu_chef | agg: 4.99~13.62 | raw: 9.0~28.5 @ 38.0
 hong_lu_kurokumo_prime_partial | agg: 3.66~12.32 | raw: 8.2~27.8 @ 32.0
 faust_n_corp | agg: 5.81~12.75 | raw: 11.0~25.5 @ 39.0
@@ -33,6 +34,7 @@ ishmael_clearance | agg: 3.37~9.78 | raw: 8.67~21.0 @ 29.0
 faust_w_corp_prime | agg: 5.9~11.81 | raw: 11.67~20.67 @ 29.0
 outis_lcb | agg: 5.02~12.04 | raw: 8.17~20.5 @ 38.0
 meursault_liu | agg: 4.66~10.63 | raw: 9.5~20.5 @ 34.0
+hong_lu_tingtang_partial | agg: 4.53~12.93 | raw: 4.8~20.4 @ 38.0
 ishmael_shi | agg: 4.55~11.58 | raw: 8.33~20.33 @ 34.0
 gregor_liu | agg: 5.71~9.46 | raw: 11.67~20.0 @ 40.0
 gregor_g_corp | agg: 6.39~13.16 | raw: 8.67~19.83 @ 41.0

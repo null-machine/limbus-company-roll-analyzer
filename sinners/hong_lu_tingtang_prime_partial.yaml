@@ -1,0 +1,24 @@
+!!python/object:sinner.Sinner
+name: hong_lu_tingtang_prime_partial
+skills:
+- !!python/object:skill.Skill
+  base_power: 4
+  coin_count: 1
+  coin_power: 6
+  coin_type: plus
+  name: throat_slit
+  offense: 38
+- !!python/object:skill.Skill
+  base_power: 2
+  coin_count: 4
+  coin_power: 5
+  coin_type: plus
+  name: shank
+  offense: 38
+- !!python/object:skill.Skill
+  base_power: 1
+  coin_count: 1
+  coin_power: 1
+  coin_type: plus
+  name: n/a
+  offense: 38
