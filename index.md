@@ -7,7 +7,7 @@ toc_sticky: true
 <meta property="og:title" content="Yet Another Limbus Company Tier List">
 <meta property="og:description" content="A ranking based on numerical analysis, supported by experience.">
 <head>
-	<link rel="shortcut icon" type="image/png" href="favicon.png">
+	<link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 
 # Yet Another Limbus Company Tier List
