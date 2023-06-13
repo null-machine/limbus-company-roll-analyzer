@@ -6,6 +6,9 @@ toc_sticky: true
 
 <meta property="og:title" content="Yet Another Limbus Company Tier List">
 <meta property="og:description" content="A ranking based on numerical analysis, supported by experience.">
+<head>
+	<link rel="shortcut icon" type="image/png" href="favicon.png">
+</head>
 
 # Yet Another Limbus Company Tier List
 
@@ -34,7 +37,7 @@ Pressing HOME on the keyboard will scroll to the top of the page.
 
 **What this is:**  
 
-An encounter agnostic tier list. The rationale behind a sinner's rank will never be based solely on their performance in existing content. First and foremost, the numbers on their rolls will be analyzed in detail to approximate their ability to clash and deal damage, since this ability is universal and critical. Then, notable parts about their kit that compensate or undermine their numbers will be taken into account. Example strategies and experiences will be provided if appropriate, but won't form the basis of judgement.
+An encounter agnostic tier list. The rationale behind a sinner's rank will never be based solely on their performance in existing content to emphasize future viability. First and foremost, the numbers on their rolls will be analyzed in detail to approximate their ability to clash and deal damage, since this ability is universal and critical. Then, notable parts about their kit that compensate or undermine their numbers will be taken into account. Example strategies and experiences will be provided if appropriate, but won't form the basis of judgement.
 
 What this means is, this list will make the game experience and future stages as accessible as possible. Investing in high-tier units will provide a practical way to clear content. Failing that, it will illustrate the opportunity cost of not having certain units (which is usually far more acceptable than influencers would suggest).
 
@@ -179,6 +182,7 @@ The prime chart represents Sinclair with fanatic's +1 power active.
 \- Will effectively never maintain the consistency of plus coin units, kit maximization is impractical  
 \- Works relatively poorly in a team due to the higher chance of hitting allies and worse sanity control  
 \- Skipping ego in favour of panic invokes a heavy opportunity cost, and giving up on sanity management to play him at max will massively reduce his consistency  
+\- Benefits more from being max level than usual  
 \- Strangely low defense (but offset with a high health pool)  
 
 `Skill 2 and 3 are simply fantastic, Great clasher.`
@@ -405,12 +409,13 @@ The prime chart represents Heathcliff with his S2 power and +1 power to all skil
 \+ Strong counter skill is inherent to his gameplay without sacrificing damage tempo  
 \+ Like Ninclair, benefits greatly from being the first action recipient  
 
-\- Clashes are surprisingly bad, even for a negative coin unit (but his counter and reliance on self-sinking somewhat offset this)  
+\- Clashes are surprisingly bad, even for a negative coin unit (but his counter and consuming sinking via getting hit somewhat offset this)  
 \- Sinking micro does not so much reward forward thinking as punish a lack of it  
-\- Sinking stacks are not preserved between fights  
+\- Sinking stacks are not preserved between fights, exacerbating his slow ramping time  
 \- Somewhat reliant on being hit to accelerate sinking, which can lead to unintentional corrosions or staggers (but the latter is offset slightly from AEDD's passive or other sources of healing)  
-\- Requires the team to be built around him and will not be able to function smoothly in random squads, and benefits more from being max level than usual  
-\- Seems to be tuned for sanity changes that ended up being reverted  
+\- Requires the team to be built around him and will not be able to function smoothly in random squads
+\- Benefits more from being max level than usual  
+\- Seems to be tuned for the sanity changes that ended up being reverted  
 
 ---
 
