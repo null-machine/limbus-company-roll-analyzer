@@ -9,7 +9,13 @@ toc_sticky: true
 <head>
 	<link rel="shortcut icon" type="image/png" href="/assets/favicon.png?">
 	<link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico?">
+	<link rel="icon" type="image/png" href="/assets/favicon.png?">
+	<link rel="icon" type="image/x-icon" href="/assets/favicon.ico?">
 </head>
+<link rel="shortcut icon" type="image/png" href="/assets/favicon.png?">
+<link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico?">
+<link rel="icon" type="image/png" href="/assets/favicon.png?">
+<link rel="icon" type="image/x-icon" href="/assets/favicon.ico?">
 
 # Yet Another Limbus Company Tier List
 
