@@ -420,7 +420,7 @@ The prime chart represents Heathcliff with his S2 power and +1 power to all skil
 \- Sinking micro does not so much reward forward thinking as punish a lack of it  
 \- Sinking stacks are not preserved between fights, exacerbating his slow ramping time  
 \- Somewhat reliant on being hit to accelerate sinking, which can lead to unintentional corrosions or staggers (but the latter is offset slightly from AEDD's passive or other sources of healing)  
-\- Requires the team to be built around him and will not be able to function smoothly in random squads
+\- Requires the team to be built around him and will not be able to function smoothly in random squads  
 \- Benefits more from being max level than usual  
 \- Seems to be tuned for the sanity changes that ended up being reverted  
 
