@@ -5,7 +5,7 @@ toc_sticky: true
 ---
 
 <meta property="og:title" content="Yet Another Limbus Company Tier List">
-<meta property="og:description" content="A ranking based on numerical analysis, supported by experience.">
+<meta property="og:description" content="A Limbus Company tier list based on numerical analysis, supported by experience.">
 <head>
 	<link rel="shortcut icon" type="image/png" href="/assets/favicon.png?">
 	<link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico?">
@@ -19,9 +19,9 @@ toc_sticky: true
 
 # Yet Another Limbus Company Tier List
 
-Written and maintained by a stats-obsessed psychopath, LOWERCASE#0357.
+Written and maintained by a stats-obsessed psychopath, LOWERCASE (null_machine).
 
-Critically reviewed by Nex#7448 and Kervina.
+Critically reviewed by Nex (nex7448) and Kervina.
 
 [The analysis tool this tier list is based on can be found here.](https://github.com/null-machine/limbus-company-clash-tool)
 
@@ -276,7 +276,7 @@ Due to technical limitations, use the normal chart for evaluating aggregate and 
 ![](charts/rodion_rosespanner.png)
 ![](charts/rodion_rosespanner_prime.png)
 
-\+ Well-rounded damage spread across all three skills, with bias to S2
+\+ Well-rounded damage spread across all three skills, with bias to S2  
 \+ Consistently powerful damage rolls  
 \+ Functions as a standalone tremor unit, opening up potential future synergies  
 
