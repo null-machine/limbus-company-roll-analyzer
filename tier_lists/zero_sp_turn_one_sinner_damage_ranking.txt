@@ -2,6 +2,7 @@ sinclair_n_corp | agg: 10.96~15.06 | raw: 17.0~44.33 @ 38.67
 heathcliff_r_corp | agg: 6.12~14.88 | raw: 13.83~39.83 @ 41.0
 don_quixote_w_corp | agg: 5.7~16.03 | raw: 7.33~33.33 @ 38.0
 heathcliff_sunshower | agg: 7.43~10.43 | raw: 9.5~31.33 @ 40.5
+yi_sang_spicebush | agg: 6.06~13.8 | raw: 11.5~29.5 @ 42.0
 ryoshu_chef | agg: 4.99~13.62 | raw: 9.0~28.5 @ 38.0
 faust_n_corp | agg: 5.81~12.75 | raw: 11.0~25.5 @ 39.0
 outis_seven | agg: 7.5~13.09 | raw: 12.67~21.67 @ 32.0
@@ -40,6 +41,7 @@ ryoshu_seven | agg: 5.58~14.03 | raw: 5.33~17.33 @ 40.0
 rodion_clearance | agg: 6.46~10.92 | raw: 8.33~14.33 @ 40.0
 gregor_rosespanner | agg: 4.33~12.73 | raw: 6.33~19.33 @ 36.0
 don_quixote_n_corp | agg: 3.93~12.33 | raw: 6.33~19.33 @ 34.0
+ishmael_l_corp | agg: 4.74~12.19 | raw: 6.33~16.0 @ 33.0
 rodion_lcb | agg: 3.28~9.9 | raw: 5.5~16.33 @ 33.0
 heathcliff_lcb | agg: 3.61~10.86 | raw: 5.5~16.0 @ 33.0
 faust_lcb | agg: 2.85~8.93 | raw: 6.17~14.67 @ 28.0

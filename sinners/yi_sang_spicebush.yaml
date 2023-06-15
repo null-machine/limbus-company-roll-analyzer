@@ -1,0 +1,24 @@
+!!python/object:sinner.Sinner
+name: yi_sang_spicebush
+skills:
+- !!python/object:skill.Skill
+  base_power: 3
+  coin_count: 3
+  coin_power: 2
+  coin_type: plus
+  name: sprouting_bud
+  offense: 42
+- !!python/object:skill.Skill
+  base_power: 4
+  coin_count: 3
+  coin_power: 4
+  coin_type: plus
+  name: moments_floral_breeze
+  offense: 41
+- !!python/object:skill.Skill
+  base_power: 6
+  coin_count: 3
+  coin_power: 4
+  coin_type: plus
+  name: bloodsteeped_scent
+  offense: 44

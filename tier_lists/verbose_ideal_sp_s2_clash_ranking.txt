@@ -18,6 +18,7 @@ s2 hong_lu_tingtang_partial | shank | agg: 3.97~16.88 | raw: 6~36 @ 38
 s2 sinclair_n_corp | amoral_enactment | agg: 13.01~16.8 | raw: 24~64 @ 39
 s2 gregor_g_corp | dismember | agg: 7.7~16.7 | raw: 6~16 @ 41
 s2 heathcliff_r_corp | concentrated_fire | agg: 6.48~16.64 | raw: 16~46 @ 41
+s2 yi_sang_spicebush | moments_floral_breeze | agg: 6.3~16.63 | raw: 12~36 @ 41
 s2 ryoshu_seven | upper_slash | agg: 5.6~16.4 | raw: 4~16 @ 40
 s2 faust_n_corp | the_gripping | agg: 5.9~16.23 | raw: 12~36 @ 39
 s2 don_quixote_w_corp | leap | agg: 5.7~16.03 | raw: 12~36 @ 38
@@ -50,6 +51,7 @@ s2 gregor_lcb | jag | agg: 3.7~12.7 | raw: 4~14 @ 31
 s2 ishmael_shi | flashing_slide | agg: 5.38~12.41 | raw: 10~22 @ 34
 s2 outis_blade | acupuncture | agg: 5.38~12.41 | raw: 10~22 @ 34
 s2 rodion_rosespanner | vibration_compression | agg: 7.04~12.31 | raw: 12~21 @ 38
+s2 ishmael_l_corp | its_churning | agg: 5.18~12.21 | raw: 10~22 @ 33
 s2 meursault_rosespanner | forced_break | agg: 5.18~12.21 | raw: 10~22 @ 33
 s2 outis_lcb | backslash | agg: 5.18~12.21 | raw: 8~20 @ 38
 s2 faust_lcb_prime | upward_slash | agg: 5.18~12.21 | raw: 12~24 @ 28

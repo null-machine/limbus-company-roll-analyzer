@@ -4,6 +4,7 @@ don_quixote_w_corp | agg: 5.7~16.03 | raw: 7.33~33.33 @ 38.0
 heathcliff_r_corp | agg: 6.12~14.88 | raw: 13.83~39.83 @ 41.0
 outis_seven | agg: 7.5~13.09 | raw: 12.67~21.67 @ 32.0
 ryoshu_kurokumo | agg: 6.59~13.39 | raw: 8.5~18.5 @ 38.0
+yi_sang_spicebush | agg: 6.06~13.8 | raw: 11.5~29.5 @ 42.0
 ryoshu_seven | agg: 5.58~14.03 | raw: 5.33~17.33 @ 40.0
 gregor_g_corp | agg: 6.39~13.16 | raw: 8.67~19.83 @ 41.0
 don_quixote_shi | agg: 5.02~14.38 | raw: 5.33~17.83 @ 37.0
@@ -19,6 +20,7 @@ rodion_clearance | agg: 6.46~10.92 | raw: 8.33~14.33 @ 40.0
 outis_lcb | agg: 5.02~12.04 | raw: 8.17~20.5 @ 38.0
 gregor_rosespanner | agg: 4.33~12.73 | raw: 6.33~19.33 @ 36.0
 heathcliff_shi | agg: 4.76~12.22 | raw: 5.33~14.67 @ 34.0
+ishmael_l_corp | agg: 4.74~12.19 | raw: 6.33~16.0 @ 33.0
 hong_lu_lcb | agg: 4.43~12.26 | raw: 5.83~17.33 @ 36.0
 heathcliff_n_corp | agg: 4.37~12.01 | raw: 7.0~19.67 @ 33.0
 don_quixote_n_corp | agg: 3.93~12.33 | raw: 6.33~19.33 @ 34.0

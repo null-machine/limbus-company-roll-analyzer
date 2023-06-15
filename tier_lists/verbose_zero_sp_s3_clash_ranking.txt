@@ -14,11 +14,13 @@ s3 sinclair_blade | to_claim_their_bones | agg: 8.7~21.3 | raw: 8~22 @ 35
 s3 heathcliff_r_corp | quick_suppression | agg: 6.54~23.28 | raw: 15~75 @ 41
 s3 don_quixote_shi | overbreathe | agg: 5.45~24.35 | raw: 4~25 @ 37
 s3 ishmael_lcb_prime | shield_bash | agg: 8.8~19.6 | raw: 9~21 @ 31
+s3 yi_sang_spicebush | bloodsteeped_scent | agg: 8.9~19.23 | raw: 18~42 @ 44
 s3 ishmael_r_corp_prime | mind_whip | agg: 5.53~22.46 | raw: 16~66 @ 32
 s3 ryoshu_chef_prime | i_can_cook_anything | agg: 8.88~19.04 | raw: 28~58 @ 38
 s3 heathcliff_shi_prime | flashing_strike | agg: 8.67~19.21 | raw: 16~34 @ 34
 s3 ryoshu_seven_prime | swash | agg: 7.37~20.28 | raw: 15~45 @ 40
 s3 outis_lcb | piercing_thrust | agg: 7.3~19.9 | raw: 6~20 @ 38
+s3 ishmael_l_corp | corrosive_splash | agg: 6.4~20.8 | raw: 6~22 @ 33
 s3 don_quixote_lcb_prime | for_justice | agg: 6.57~19.48 | raw: 15~45 @ 36
 s3 ryoshu_seven | swash | agg: 6.37~19.28 | raw: 12~42 @ 40
 s3 outis_g_corp | focus | agg: 5.6~20.0 | raw: 6~22 @ 29

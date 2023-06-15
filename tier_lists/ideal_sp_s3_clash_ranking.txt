@@ -6,11 +6,13 @@ s3 don_quixote_shi | overbreathe | agg: 5.45~24.35 | raw: 4~25 @ 37
 s3 heathcliff_r_corp | quick_suppression | agg: 6.54~23.28 | raw: 15~75 @ 41
 s3 rodion_kurokumo | sky_clearing_cut | agg: 7.8~22.2 | raw: 7~23 @ 35
 s3 sinclair_blade | to_claim_their_bones | agg: 8.7~21.3 | raw: 8~22 @ 35
+s3 ishmael_l_corp | corrosive_splash | agg: 6.4~20.8 | raw: 6~22 @ 33
 s3 ishmael_r_corp | mind_whip | agg: 3.53~20.46 | raw: 8~58 @ 32
 s3 outis_g_corp | focus | agg: 5.6~20.0 | raw: 6~22 @ 29
 s3 outis_lcb | piercing_thrust | agg: 7.3~19.9 | raw: 6~20 @ 38
 s3 heathcliff_sunshower | spread_out | agg: 12.77~19.4 | raw: 15~54 @ 42
 s3 ryoshu_seven | swash | agg: 6.37~19.28 | raw: 12~42 @ 40
+s3 yi_sang_spicebush | bloodsteeped_scent | agg: 8.9~19.23 | raw: 18~42 @ 44
 s3 sinclair_zwei | strong_strike | agg: 6.45~18.15 | raw: 7~20 @ 29
 s3 ishmael_lcb | shield_bash | agg: 6.8~17.6 | raw: 7~19 @ 31
 s3 rodion_rosespanner | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38

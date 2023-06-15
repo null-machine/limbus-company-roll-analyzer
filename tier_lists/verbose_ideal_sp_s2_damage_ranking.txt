@@ -15,6 +15,7 @@ s2 heathcliff_sunshower | puddle_stomp | agg: 8.56~11.4 | raw: 12~40 @ 42
 s2 hong_lu_tingtang | shank | agg: 4.97~17.88 | raw: 9~39 @ 38
 s2 ryoshu_chef | ingredient_hunt | agg: 4.97~17.88 | raw: 9~39 @ 38
 s2 ryoshu_chef_prime | ingredient_hunt | agg: 4.97~17.88 | raw: 9~39 @ 38
+s2 yi_sang_spicebush | moments_floral_breeze | agg: 6.3~16.63 | raw: 12~36 @ 41
 s2 faust_l_corp_prime | deep_cuts | agg: 7.22~14.97 | raw: 18~36 @ 37
 s2 faust_n_corp | the_gripping | agg: 5.9~16.23 | raw: 12~36 @ 39
 s2 don_quixote_w_corp | leap | agg: 5.7~16.03 | raw: 12~36 @ 38
@@ -39,6 +40,7 @@ s2 sinclair_blade | slash_series | agg: 6.27~8.86 | raw: 18~24 @ 35
 s2 hong_lu_lcb | dual_strike | agg: 4.93~13.71 | raw: 8~23 @ 36
 s2 ishmael_shi | flashing_slide | agg: 5.38~12.41 | raw: 10~22 @ 34
 s2 outis_blade | acupuncture | agg: 5.38~12.41 | raw: 10~22 @ 34
+s2 ishmael_l_corp | its_churning | agg: 5.18~12.21 | raw: 10~22 @ 33
 s2 meursault_rosespanner | forced_break | agg: 5.18~12.21 | raw: 10~22 @ 33
 s2 heathcliff_lcb_prime | smackdown | agg: 5.18~12.21 | raw: 10~22 @ 33
 s2 hong_lu_kurokumo | cloud_cutter | agg: 4.98~12.01 | raw: 10~22 @ 32

@@ -17,12 +17,14 @@ s2 sinclair_n_corp | amoral_enactment | agg: 13.01~16.8 | raw: 24~64 @ 39
 s3 don_quixote_shi | overbreathe | agg: 5.45~24.35 | raw: 4~25 @ 37
 s3 ishmael_lcb_prime | shield_bash | agg: 8.8~19.6 | raw: 9~21 @ 31
 s2 hong_lu_tingtang_prime | shank | agg: 5.73~22.66 | raw: 12~62 @ 38
+s3 yi_sang_spicebush | bloodsteeped_scent | agg: 8.9~19.23 | raw: 18~42 @ 44
 s2 ryoshu_seven_prime | upper_slash | agg: 8.6~19.4 | raw: 7~19 @ 40
 s3 ishmael_r_corp_prime | mind_whip | agg: 5.53~22.46 | raw: 16~66 @ 32
 s3 ryoshu_chef_prime | i_can_cook_anything | agg: 8.88~19.04 | raw: 28~58 @ 38
 s3 heathcliff_shi_prime | flashing_strike | agg: 8.67~19.21 | raw: 16~34 @ 34
 s3 ryoshu_seven_prime | swash | agg: 7.37~20.28 | raw: 15~45 @ 40
 s3 outis_lcb | piercing_thrust | agg: 7.3~19.9 | raw: 6~20 @ 38
+s3 ishmael_l_corp | corrosive_splash | agg: 6.4~20.8 | raw: 6~22 @ 33
 s2 heathcliff_r_corp_prime | concentrated_fire | agg: 8.48~18.64 | raw: 24~54 @ 41
 s2 ishmael_shi_prime | flashing_slide | agg: 6.5~20.05 | raw: 20~60 @ 34
 s2 hong_lu_tingtang_prime_partial | shank | agg: 4.73~21.66 | raw: 8~58 @ 38
@@ -50,6 +52,7 @@ s3 rodion_rosespanner | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @
 s3 rodion_rosespanner_prime | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
 s2 heathcliff_r_corp | concentrated_fire | agg: 6.48~16.64 | raw: 16~46 @ 41
 s2 outis_seven | field_command | agg: 7.13~15.91 | raw: 14~29 @ 32
+s2 yi_sang_spicebush | moments_floral_breeze | agg: 6.3~16.63 | raw: 12~36 @ 41
 s2 hong_lu_tingtang | shank | agg: 4.97~17.88 | raw: 9~39 @ 38
 s2 ryoshu_chef | ingredient_hunt | agg: 4.97~17.88 | raw: 9~39 @ 38
 s2 ryoshu_chef_prime | ingredient_hunt | agg: 4.97~17.88 | raw: 9~39 @ 38
@@ -123,6 +126,7 @@ s2 outis_blade | acupuncture | agg: 5.38~12.41 | raw: 10~22 @ 34
 s2 outis_g_corp | onslaught_command | agg: 4.3~13.3 | raw: 5~15 @ 29
 s3 sinclair_lcb | ravaging_cut | agg: 6.15~11.31 | raw: 15~27 @ 38
 s1 don_quixote_lcb_prime | joust | agg: 5.55~11.85 | raw: 5~12 @ 36
+s2 ishmael_l_corp | its_churning | agg: 5.18~12.21 | raw: 10~22 @ 33
 s2 meursault_rosespanner | forced_break | agg: 5.18~12.21 | raw: 10~22 @ 33
 s2 outis_lcb | backslash | agg: 5.18~12.21 | raw: 8~20 @ 38
 s2 faust_lcb_prime | upward_slash | agg: 5.18~12.21 | raw: 12~24 @ 28
@@ -184,6 +188,7 @@ s1 hong_lu_tingtang_partial | throat_slit | agg: 4.9~10.3 | raw: 4~10 @ 38
 s1 hong_lu_tingtang_prime_partial | throat_slit | agg: 4.9~10.3 | raw: 4~10 @ 38
 s2 sinclair_blade | slash_series | agg: 6.27~8.86 | raw: 18~24 @ 35
 s2 gregor_liu | rush_down | agg: 6.27~8.86 | raw: 15~21 @ 40
+s1 yi_sang_spicebush | sprouting_bud | agg: 4.95~10.11 | raw: 9~21 @ 42
 s3 gregor_chef | butcher_viand | agg: 5.83~9.21 | raw: 20~30 @ 37
 s1 ishmael_r_corp | mind_strike | agg: 3.13~11.91 | raw: 6~21 @ 32
 s2 ishmael_clearance | quake_rounds | agg: 3.62~11.37 | raw: 12~30 @ 29
@@ -218,6 +223,7 @@ s2 yi_sang_lcb | end_stop_stab | agg: 3.18~10.21 | raw: 8~20 @ 28
 s1 heathcliff_n_corp | gawky_nailing | agg: 3.18~10.21 | raw: 6~18 @ 33
 s1 hong_lu_liu | warm_up | agg: 3.18~10.21 | raw: 6~18 @ 33
 s3 faust_lcb | drilling_stab | agg: 4.89~8.4 | raw: 12~18 @ 28
+s1 ishmael_l_corp | its_heavy | agg: 3.9~9.3 | raw: 4~10 @ 33
 s1 meursault_rosespanner | saddled_tasks | agg: 3.9~9.3 | raw: 4~10 @ 33
 s2 yi_sang_seven | riposte | agg: 4.69~8.2 | raw: 10~16 @ 32
 s1 hong_lu_kurokumo | cleave | agg: 3.7~9.1 | raw: 4~10 @ 32

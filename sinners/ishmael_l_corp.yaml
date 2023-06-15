@@ -1,0 +1,24 @@
+!!python/object:sinner.Sinner
+name: ishmael_l_corp
+skills:
+- !!python/object:skill.Skill
+  base_power: 4
+  coin_count: 1
+  coin_power: 6
+  coin_type: plus
+  name: its_heavy
+  offense: 33
+- !!python/object:skill.Skill
+  base_power: 5
+  coin_count: 2
+  coin_power: 4
+  coin_type: plus
+  name: its_churning
+  offense: 33
+- !!python/object:skill.Skill
+  base_power: 6
+  coin_count: 1
+  coin_power: 16
+  coin_type: plus
+  name: corrosive_splash
+  offense: 33

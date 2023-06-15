@@ -5,6 +5,7 @@ s2 sinclair_n_corp | amoral_enactment | agg: 13.01~16.8 | raw: 24~64 @ 39
 s3 ishmael_r_corp | mind_whip | agg: 3.53~20.46 | raw: 8~58 @ 32
 s3 heathcliff_sunshower | spread_out | agg: 12.77~19.4 | raw: 15~54 @ 42
 s2 heathcliff_r_corp | concentrated_fire | agg: 6.48~16.64 | raw: 16~46 @ 41
+s3 yi_sang_spicebush | bloodsteeped_scent | agg: 8.9~19.23 | raw: 18~42 @ 44
 s3 ryoshu_seven | swash | agg: 6.37~19.28 | raw: 12~42 @ 40
 s3 ryoshu_chef | i_can_cook_anything | agg: 4.88~15.04 | raw: 12~42 @ 38
 s3 faust_l_corp | opportunistic_slash | agg: 6.0~25.33 | raw: 8~41 @ 37
@@ -12,6 +13,7 @@ s2 heathcliff_sunshower | puddle_stomp | agg: 8.56~11.4 | raw: 12~40 @ 42
 s3 rodion_rosespanner | lets_rack_up_some_scores | agg: 6.7~17.03 | raw: 15~39 @ 38
 s2 hong_lu_tingtang | shank | agg: 4.97~17.88 | raw: 9~39 @ 38
 s2 ryoshu_chef | ingredient_hunt | agg: 4.97~17.88 | raw: 9~39 @ 38
+s2 yi_sang_spicebush | moments_floral_breeze | agg: 6.3~16.63 | raw: 12~36 @ 41
 s2 faust_n_corp | the_gripping | agg: 5.9~16.23 | raw: 12~36 @ 39
 s2 don_quixote_w_corp | leap | agg: 5.7~16.03 | raw: 12~36 @ 38
 s3 outis_seven | exploit_the_gap | agg: 7.95~13.11 | raw: 24~36 @ 32
@@ -60,9 +62,11 @@ s3 yi_sang_lcb | enjamb | agg: 4.87~7.46 | raw: 18~24 @ 28
 s3 rodion_kurokumo | sky_clearing_cut | agg: 7.8~22.2 | raw: 7~23 @ 35
 s2 hong_lu_lcb | dual_strike | agg: 4.93~13.71 | raw: 8~23 @ 36
 s3 sinclair_blade | to_claim_their_bones | agg: 8.7~21.3 | raw: 8~22 @ 35
+s3 ishmael_l_corp | corrosive_splash | agg: 6.4~20.8 | raw: 6~22 @ 33
 s3 outis_g_corp | focus | agg: 5.6~20.0 | raw: 6~22 @ 29
 s2 ishmael_shi | flashing_slide | agg: 5.38~12.41 | raw: 10~22 @ 34
 s2 outis_blade | acupuncture | agg: 5.38~12.41 | raw: 10~22 @ 34
+s2 ishmael_l_corp | its_churning | agg: 5.18~12.21 | raw: 10~22 @ 33
 s2 meursault_rosespanner | forced_break | agg: 5.18~12.21 | raw: 10~22 @ 33
 s2 hong_lu_kurokumo | cloud_cutter | agg: 4.98~12.01 | raw: 10~22 @ 32
 s3 gregor_lcb | chop_up | agg: 4.78~11.81 | raw: 10~22 @ 31
@@ -71,6 +75,7 @@ s2 rodion_rosespanner | vibration_compression | agg: 7.04~12.31 | raw: 12~21 @ 3
 s2 rodion_kurokumo | scattering_slash | agg: 6.44~11.71 | raw: 12~21 @ 35
 s2 meursault_n_corp | you_are_cleansed_of_sin | agg: 5.84~11.11 | raw: 12~21 @ 32
 s2 gregor_liu | rush_down | agg: 6.27~8.86 | raw: 15~21 @ 40
+s1 yi_sang_spicebush | sprouting_bud | agg: 4.95~10.11 | raw: 9~21 @ 42
 s1 ishmael_r_corp | mind_strike | agg: 3.13~11.91 | raw: 6~21 @ 32
 s1 outis_lcb | pulled_blade | agg: 4.15~9.31 | raw: 9~21 @ 38
 s2 sinclair_mariachi | danza_de_pasion | agg: 3.67~6.26 | raw: 15~21 @ 27
@@ -140,6 +145,7 @@ s1 outis_blade | draw_of_the_sword | agg: 4.1~9.5 | raw: 4~10 @ 34
 s1 don_quixote_lcb | joust | agg: 3.55~9.85 | raw: 3~10 @ 36
 s1 hong_lu_lcb | downward_cleave | agg: 3.55~9.85 | raw: 3~10 @ 36
 s1 ryoshu_lcb | paint | agg: 3.55~9.85 | raw: 3~10 @ 36
+s1 ishmael_l_corp | its_heavy | agg: 3.9~9.3 | raw: 4~10 @ 33
 s1 meursault_rosespanner | saddled_tasks | agg: 3.9~9.3 | raw: 4~10 @ 33
 s1 hong_lu_kurokumo | cleave | agg: 3.7~9.1 | raw: 4~10 @ 32
 s1 yi_sang_seven | fleche | agg: 3.7~9.1 | raw: 4~10 @ 32

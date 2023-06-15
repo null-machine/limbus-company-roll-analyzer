@@ -3,6 +3,7 @@ s1 ishmael_r_corp_prime | mind_strike | agg: 5.13~13.91 | raw: 10~25 @ 32
 s1 heathcliff_r_corp | graze_the_grass | agg: 5.75~10.91 | raw: 12~24 @ 41
 s1 heathcliff_r_corp_weak | graze_the_grass | agg: 5.75~10.91 | raw: 12~24 @ 41
 s1 faust_n_corp_prime | cackle | agg: 7.24~12.51 | raw: 12~21 @ 39
+s1 yi_sang_spicebush | sprouting_bud | agg: 4.95~10.11 | raw: 9~21 @ 42
 s1 ishmael_r_corp | mind_strike | agg: 3.13~11.91 | raw: 6~21 @ 32
 s1 heathcliff_sunshower_prime | umbrella_thwack | agg: 5.9~7.8 | raw: 9~21 @ 39
 s1 outis_lcb | pulled_blade | agg: 4.15~9.31 | raw: 9~21 @ 38
@@ -66,6 +67,7 @@ s1 don_quixote_lcb | joust | agg: 3.55~9.85 | raw: 3~10 @ 36
 s1 hong_lu_lcb | downward_cleave | agg: 3.55~9.85 | raw: 3~10 @ 36
 s1 ryoshu_lcb | paint | agg: 3.55~9.85 | raw: 3~10 @ 36
 s1 hong_lu_lcb_weak | downward_cleave | agg: 3.55~9.85 | raw: 3~10 @ 36
+s1 ishmael_l_corp | its_heavy | agg: 3.9~9.3 | raw: 4~10 @ 33
 s1 meursault_rosespanner | saddled_tasks | agg: 3.9~9.3 | raw: 4~10 @ 33
 s1 hong_lu_kurokumo | cleave | agg: 3.7~9.1 | raw: 4~10 @ 32
 s1 yi_sang_seven | fleche | agg: 3.7~9.1 | raw: 4~10 @ 32

@@ -10,6 +10,7 @@ heathcliff_r_corp_weak | agg: 5.79~12.02 | raw: 13.83~31.5 @ 41.0
 ishmael_shi_prime | agg: 4.92~14.12 | raw: 11.67~33.0 @ 34.0
 ryoshu_chef_prime | agg: 5.66~14.29 | raw: 11.67~31.17 @ 38.0
 hong_lu_kurokumo_prime | agg: 4.88~12.95 | raw: 11.67~30.0 @ 32.0
+yi_sang_spicebush | agg: 6.06~13.8 | raw: 11.5~29.5 @ 42.0
 heathcliff_sunshower | agg: 7.43~10.43 | raw: 9.5~31.33 @ 40.5
 ishmael_shi_prime_partial | agg: 3.63~13.27 | raw: 8.8~32.0 @ 34.0
 don_quixote_w_corp | agg: 5.7~16.03 | raw: 7.33~33.33 @ 38.0
@@ -71,6 +72,7 @@ ryoshu_lcb | agg: 4.33~10.68 | raw: 6.67~16.17 @ 36.0
 yi_sang_lcb | agg: 2.85~8.77 | raw: 7.17~15.67 @ 28.0
 rodion_clearance | agg: 6.46~10.92 | raw: 8.33~14.33 @ 40.0
 ryoshu_seven | agg: 5.58~14.03 | raw: 5.33~17.33 @ 40.0
+ishmael_l_corp | agg: 4.74~12.19 | raw: 6.33~16.0 @ 33.0
 rodion_lcb | agg: 3.28~9.9 | raw: 5.5~16.33 @ 33.0
 rodion_clearance_weak | agg: 6.41~10.28 | raw: 8.33~13.33 @ 40.0
 heathcliff_lcb | agg: 3.61~10.86 | raw: 5.5~16.0 @ 33.0
