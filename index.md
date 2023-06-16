@@ -252,20 +252,7 @@ The prime chart represents Heathcliff with +1 power from his charge passive and 
 
 ![](assets/biggerlif.png)
 
----
-
-The prime chart represents Heathcliff with +1 power from his charge passive and +1 power from Bodysack. The weak chart represents him with less than 6 speed.
-
-![](charts/heathcliff_r_corp.png)
-![](charts/heathcliff_r_corp_prime.png)
-![](charts/heathcliff_r_corp_weak.png)
-
-\+ Quick Suppression at 6+ speed performs a similar role to Rip Space  
-\+ Tech exists to conserve ammo, such as putting him last in the action recipient order, or using Bodysack to cycle S1 and S2  
-\+ Still clashes when out of ammo, neutralizing incoming threats with insane rolls  
-\+ Kit effects also add considerably more damage than is standard, with 4 fragile on S3  
-
-\- Despite having an evade, soloing is not advisable due to ammo  
+*How to aim AoE (tutorial by LIF-tan)*
 
 ---
 
