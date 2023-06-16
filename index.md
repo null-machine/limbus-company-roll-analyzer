@@ -76,6 +76,7 @@ Units in this tier tend to directly outperform or invalidate units in lower tier
 ![N Sinclair](assets/sink.png)
 ![W Don](assets/10302.png)
 ![R Heathcliff](assets/10703.png)
+![Spicebush Yi Sang](assets/spicesang.png)
 ![Chef Ryoshu](assets/10404.png)
 ![N Faust](assets/10204.png)
 ![Rose Rodion](assets/rod_rose.png)
@@ -129,6 +130,7 @@ One must go out of their way to get these sinners to outperform other options. W
 
 ![BL Outis](assets/11102.png)
 ![LCCB Rodion](assets/10903.png)
+![Slime Ishmael](assets/slimeishmael.png)
 ![G Outis](assets/11103.png)
 ![7S Yi Sang](assets/10102.png)
 ![LCB Heathcliff](assets/10701.png)
@@ -222,6 +224,35 @@ The weak chart represents Don Quixote with Rip Space uncharged.
 ---
 
 ### S Tier: Heathcliff - R Corp. 4th Pack Rabbit
+
+The prime chart represents Heathcliff with +1 power from his charge passive and +1 power from Bodysack. The weak chart represents him with less than 6 speed.
+
+![](charts/heathcliff_r_corp.png)
+![](charts/heathcliff_r_corp_prime.png)
+![](charts/heathcliff_r_corp_weak.png)
+
+\+ Quick Suppression at 6+ speed performs a similar role to Rip Space  
+\+ Tech exists to conserve ammo, such as putting him last in the action recipient order, or using Bodysack to cycle S1 and S2  
+\+ Still clashes when out of ammo, neutralizing incoming threats with insane rolls  
+\+ Kit effects also add considerably more damage than is standard, with 4 fragile on S3  
+
+\- Despite having an evade, soloing is not advisable due to ammo  
+
+---
+
+### S Tier: Yi Sang - Effloresced E.G.O::Spicebush
+
+![](charts/yi_sang_spicebush.png)
+
+\+ Great clash and damage power from raw roll numbers alone  
+\+ Multicoin AoE is insane but situational  
+
+\- Punished harsher against enemies that burst tremor and apply potency (but this is inherently situational and chances are he'll perform well anyways)  
+\- S3's deluge is impractical even with heavy sinking investment  
+
+![](assets/biggerlif.png)
+
+---
 
 The prime chart represents Heathcliff with +1 power from his charge passive and +1 power from Bodysack. The weak chart represents him with less than 6 speed.
 
