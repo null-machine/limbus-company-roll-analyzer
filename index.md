@@ -52,7 +52,6 @@ If one wishes to attempt to future-proof their unit choices, this is not a bad p
 
 **What this isn't:**
 - A mirror dungeon tier list. Animation speeds and performance in undertuned stages with arbitrary artifacts play absolutely no role in any of these rankings.
-- A story tier list. [Story stages are highly accessible.](https://www.youtube.com/playlist?list=PL9PkdtklMNOv6vDgTHwNvtsLecK0G7GrR) This means that they generally cannot provide meaningful feedback on a sinner's future viability.
 - An autobattle tier list. Knowing how to redirect clashes, cancel enemy actions, pace skill pools and manipulate skill order within a turn is critical for maximizing certain identities.
 
 ---
@@ -160,7 +159,7 @@ These units should not be prioritized for practical combat.
 
 ## Writeups
 
-[A full explanation of how to read the roll charts can be found here.](https://github.com/null-machine/limbus-company-clash-tool) 
+[A full explanation of how to read the roll charts, as well as missing charts, can be found here.](https://github.com/null-machine/limbus-company-clash-tool) 
 
 For a condensed version, the cyan, grey and magenta lines represent a sinner's chance to beat a power at max, zero and minimum sanity. The y-axis represents chance of winning the clash, and the x-axis represents the power of the opposing skill.
 
@@ -185,12 +184,12 @@ The prime chart represents Sinclair with fanatic's +1 power active.
 \+ Unrolled damage coins are treated as tails rolls, giving skills a powerful first hit, which also opens up new ways to play around stagger thresholds  
 \+ Corrosion tempo tech allows him to act during stagger or manifest ego without paying resource costs  
 \+ Strangely powerful defensive skill that does not interfere with sin generation and offers a means of controlling sanity when anticipating high drops  
-\+ Control over sanity scales with the number of actions he receives, increasing his consistency when being first in the action recipient order, or in low-sinner compositions  
+\+ Control over sanity scales with the number of actions he receives, increasing his consistency when being the first action recipient, or in low-sinner compositions  
 \+ Different corroded ego skills may generate with different targets, making indiscriminate targeting more lenient  
 
-\- Will effectively never maintain the consistency of plus coin units, kit maximization is impractical  
-\- Works relatively poorly in a team due to the higher chance of hitting allies and worse sanity control  
-\- Skipping ego in favour of panic invokes a heavy opportunity cost, and giving up on sanity management to play him at max will massively reduce his consistency  
+\- Will effectively never maintain the consistency of plus coin units; kit maximization is impractical  
+\- Works relatively poorly in a full team due to the higher chance of hitting allies and worse sanity control  
+\- Skipping ego in favour of panic invokes a heavy opportunity cost, and giving up on sanity management massively reduces his consistency  
 \- Benefits more from being max level than usual  
 \- Strangely low defense (but offset with a high health pool)  
 
@@ -207,7 +206,7 @@ The weak chart represents Don Quixote with Rip Space uncharged.
 
 \+ Rewards technical play more than any other identity  
 \+ Playing around S3 tempo sets the standard for what high DPS should look like  
-\+ Being a charge unit with an evade lends well to high performance solo or low-sinner clears, and causes her to benefit from being first in the action recipient order  
+\+ Being a charge unit with an evade lends well to high performance solo or low-sinner clears, and causes her to benefit from being the first action recipient
 \+ S2 inflicts fragile, rewarding tempo control even further  
 \+ Manipulating skill order allows charging and firing S3 on the same turn, resulting in good fragile usage and less dead turns  
 \+ Well-known synergy with Telepole and a lesser-known synergy with W Faust's support passive, but relies on neither  
@@ -232,7 +231,7 @@ The prime chart represents Heathcliff with +1 power from his charge passive and 
 ![](charts/heathcliff_r_corp_weak.png)
 
 \+ Quick Suppression at 6+ speed performs a similar role to Rip Space  
-\+ Tech exists to conserve ammo, such as putting him last in the action recipient order, or using Bodysack to cycle S1 and S2  
+\+ Tech exists to conserve ammo, such as making him the last action recipient, or using Bodysack to cycle S1 and S2  
 \+ Still clashes when out of ammo, neutralizing incoming threats with insane rolls  
 \+ Kit effects also add considerably more damage than is standard, with 4 fragile on S3  
 
@@ -260,10 +259,10 @@ The prime chart represents Heathcliff with +1 power from his charge passive and 
 
 ![](charts/ryoshu_chef.png)
 
+\+ Consistently strong fighter that can be expected to clash and deal damage reliably  
 \+ S3 has reversed scaling with enemy defense  
 \+ Evade recycles can stack 4th Match Flame, adding tempo to S3  
 \+ Viable in low-sinner and solo compositions  
-\+ Consistently strong fighter that can be expected to clash and deal damage reliably  
 \+ No ammo or charge limitations  
 
 \- Kit effects are disorganized and stage dependent (but her numbers don't rely on them)  
@@ -451,10 +450,11 @@ The prime chart represents Ishmael with Flashing Strike's additional coins. Snag
 ![](charts/ishmael_shi.png)
 ![](charts/ishmael_shi_prime.png)
 
-\+ Mediocre damage but below average clash power while above her health threshold  
+\+ Decent clash power while above her health threshold  
 \+ Gains incredibly high numbers and performance in her prime state  
-\+ Keeping her at UT2 to avoid diluting her skill pool with her mediocre S3 is speculated to result in better performance  
+\+ Keeping her at UT2 to avoid diluting her skill pool is speculated to result in better performance  
 
+\- Below average damage while above her health threshold  
 \- Maintaining her prime state is impractical outside of Refraction Railway  
 \- Needing to go through at least one stagger forces dead turns  
 \- Unwanted healing priority can be awkward to manage  
