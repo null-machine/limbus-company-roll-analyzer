@@ -15,7 +15,7 @@ class Skill:
 		return f'{self.type} {self.user} | {self.gen_display()}'
 	
 	def gen_display(self):
-		return f'{self.name} | agg: {round(self.min_agg, 2)}~{round(self.max_agg, 2)} | raw: {round(self.min_raw, 2)}~{round(self.max_raw, 2)} @ {self.offense}'
+		return f'{self.name} | agg: {round(self.min_agg, 2)}~{round(self.max_agg, 2)} | dmg: {round(self.min_dmg, 2)}~{round(self.max_dmg, 2)} @ {self.offense}'
 
 	def calibrate(self, enemy_offense=35):
 		offense_delta = self.offense - enemy_offense
@@ -41,18 +41,18 @@ class Skill:
 			neg_chance.append(0)
 		self.max_agg = 0
 		self.min_agg = 0
-		self.max_raw = 0
-		self.min_raw = 0
-		base_for_raw = 0 if self.base_power < 0 else self.base_power
+		self.max_dmg = 0
+		self.min_dmg = 0
+		base_for_dmg = 0 if self.base_power < 0 else self.base_power
 		for i in range(self.coin_count + 1):
 			breakpoints.append(effective_base_power + i * self.coin_power)
 			if i > 0:
 				if self.coin_type == 'minus':
-					self.max_raw += self.base_power + self.coin_count * self.coin_power
-					self.min_raw += self.base_power + (i - 1) * self.coin_power if self.base_power + (i - 1) * self.coin_power > 0 else 0
+					self.max_dmg += self.base_power + self.coin_count * self.coin_power
+					self.min_dmg += self.base_power + (i - 1) * self.coin_power if self.base_power + (i - 1) * self.coin_power > 0 else 0
 				else:
-					self.max_raw += self.base_power + i * self.coin_power
-					self.min_raw += self.base_power
+					self.max_dmg += self.base_power + i * self.coin_power
+					self.min_dmg += self.base_power
 			if self.coin_type == 'minus':
 				max_chance.append(self.eval_chance_minus(0.95, i))
 				reg_chance.append(self.eval_chance_minus(0.5, i))
@@ -72,13 +72,13 @@ class Skill:
 			self.max_agg += delta_x * max_chance[i + 1]
 			self.min_agg += delta_x * min_chance[i + 1]
 		# self.var = (self.max_agg - self.min_agg) / self.max_agg
-		self.var = (self.max_raw - self.min_raw) / self.max_raw
-		# raw_multiplier = 1 + (offense - enemy_offense) / (abs(offense - enemy_offense) + 25)
+		self.var = (self.max_dmg - self.min_dmg) / self.max_dmg
+		# dmg_multiplier = 1 + (offense - enemy_offense) / (abs(offense - enemy_offense) + 25)
 		
-		# raw_multiplier = 1 + offense_delta / 100 # https://www.desmos.com/calculator/ftlrxxrzai
-		raw_multiplier = 1
-		self.max_raw *= raw_multiplier
-		self.min_raw *= raw_multiplier
+		# dmg_multiplier = 1 + offense_delta / 100 # https://www.desmos.com/calculator/ftlrxxrzai
+		dmg_multiplier = 1
+		self.max_dmg *= dmg_multiplier
+		self.min_dmg *= dmg_multiplier
 		return breakpoints, max_chance, reg_chance, min_chance, pos_chance, neg_chance
 	
 	def eval_chance(self, heads_chance, required_heads):

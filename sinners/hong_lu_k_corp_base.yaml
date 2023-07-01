@@ -1,0 +1,24 @@
+!!python/object:sinner.Sinner
+name: hong_lu_k_corp_base
+skills:
+- !!python/object:skill.Skill
+  base_power: 5
+  coin_count: 1
+  coin_power: 6
+  coin_type: plus
+  name: impede_the_intruder
+  offense: 36
+- !!python/object:skill.Skill
+  base_power: 5
+  coin_count: 2
+  coin_power: 5
+  coin_type: plus
+  name: decay_blade
+  offense: 36
+- !!python/object:skill.Skill
+  base_power: 8
+  coin_count: 2
+  coin_power: 4
+  coin_type: plus
+  name: excise_target
+  offense: 36
