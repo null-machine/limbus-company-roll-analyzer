@@ -35,7 +35,6 @@ s3 hong_lu_kurokumo | cloudburst | agg: 5.95~11.11 | dmg: 18~30 @ 32
 s3 faust_w_corp | overcharge | agg: 5.35~10.51 | dmg: 18~30 @ 29
 s3 hong_lu_k_corp | excise_target | agg: 8.93~17.71 | dmg: 16~31 @ 36
 s3 ryoshu_kurokumo | lenticular_swirl | agg: 9.18~16.21 | dmg: 16~28 @ 38
-s3 hong_lu_k_corp_base | excise_target | agg: 8.78~15.81 | dmg: 16~28 @ 36
 s2 outis_seven | field_command | agg: 7.13~15.91 | dmg: 14~29 @ 32
 s2 faust_l_corp | deep_cuts | agg: 5.22~12.97 | dmg: 12~30 @ 37
 s3 gregor_rosespanner | lets_grind_em | agg: 5.02~12.77 | dmg: 12~30 @ 36
@@ -63,7 +62,6 @@ s2 sinclair_mariachi | danza_de_pasion | agg: 3.67~6.26 | dmg: 15~21 @ 27
 s3 hong_lu_tingtang | mutilate | agg: 6.85~29.35 | dmg: 5~30 @ 38
 s2 ryoshu_kurokumo | clean_up | agg: 6.33~15.11 | dmg: 10~25 @ 38
 s2 hong_lu_k_corp | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
-s2 hong_lu_k_corp_base | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
 s2 don_quixote_shi | dual_strike | agg: 5.27~15.81 | dmg: 8~26 @ 37
 s3 heathcliff_lcb | upheaval | agg: 4.47~15.01 | dmg: 8~26 @ 33
 s2 rodion_rosespanner | vibration_compression | agg: 7.04~12.31 | dmg: 12~21 @ 38
@@ -142,7 +140,6 @@ s1 don_quixote_w_corp | rip | agg: 5.9~11.3 | dmg: 5~11 @ 38
 s1 hong_lu_tingtang | throat_slit | agg: 5.9~11.3 | dmg: 5~11 @ 38
 s1 ryoshu_kurokumo | focus_strike | agg: 5.9~11.3 | dmg: 5~11 @ 38
 s1 hong_lu_k_corp | impede_the_intruder | agg: 5.5~10.9 | dmg: 5~11 @ 36
-s1 hong_lu_k_corp_base | impede_the_intruder | agg: 5.5~10.9 | dmg: 5~11 @ 36
 s1 rodion_kurokumo | sharpened_blade | agg: 5.3~10.7 | dmg: 5~11 @ 35
 s1 meursault_w_corp | rip | agg: 4.3~9.7 | dmg: 5~11 @ 30
 s1 rodion_clearance | bludgeon | agg: 5.3~10.7 | dmg: 4~10 @ 40

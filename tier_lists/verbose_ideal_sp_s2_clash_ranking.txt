@@ -35,7 +35,7 @@ s2 ryoshu_kurokumo | clean_up | agg: 6.33~15.11 | dmg: 10~25 @ 38
 s2 faust_l_corp_prime | deep_cuts | agg: 7.22~14.97 | dmg: 18~36 @ 37
 s2 ishmael_r_corp | flaying_surge | agg: 5.9~14.9 | dmg: 6~16 @ 32
 s2 hong_lu_k_corp | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
-s2 hong_lu_k_corp_base | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
+s2 hong_lu_k_corp_weak | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
 s2 heathcliff_sunshower_prime | puddle_stomp | agg: 11.56~14.4 | dmg: 22~52 @ 42
 s2 heathcliff_shi | flying_sword | agg: 5.3~14.3 | dmg: 5~15 @ 34
 s2 heathcliff_n_corp_prime | purify | agg: 7.0~14.2 | dmg: 7~15 @ 33

@@ -18,7 +18,6 @@ gregor_liu | agg: 5.71~9.46 | dmg: 11.67~20.0 @ 40.0
 meursault_rosespanner | agg: 4.42~10.59 | dmg: 8.0~18.33 @ 33.0
 rodion_n_corp | agg: 5.1~10.91 | dmg: 9.67~21.0 @ 37.0
 ryoshu_kurokumo | agg: 6.59~13.39 | dmg: 8.5~18.5 @ 38.0
-hong_lu_k_corp_base | agg: 6.19~12.99 | dmg: 8.5~18.5 @ 36.0
 don_quixote_shi | agg: 5.02~14.38 | dmg: 5.33~17.83 @ 37.0
 meursault_liu | agg: 4.66~10.63 | dmg: 9.5~20.5 @ 34.0
 ishmael_shi | agg: 4.55~11.58 | dmg: 8.33~20.33 @ 34.0

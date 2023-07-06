@@ -51,7 +51,7 @@ don_quixote_n_corp | agg: 3.93~12.33 | dmg: 6.33~19.33 @ 34.0
 hong_lu_k_corp | agg: 6.21~13.31 | dmg: 8.5~19.0 @ 36.0
 don_quixote_lcb_prime | agg: 6.1~14.41 | dmg: 7.0~18.83 @ 36.0
 ryoshu_kurokumo | agg: 6.59~13.39 | dmg: 8.5~18.5 @ 38.0
-hong_lu_k_corp_base | agg: 6.19~12.99 | dmg: 8.5~18.5 @ 36.0
+hong_lu_k_corp_weak | agg: 6.19~12.99 | dmg: 8.5~18.5 @ 36.0
 don_quixote_shi_prime | agg: 5.52~14.88 | dmg: 5.83~18.33 @ 37.0
 outis_seven_weak | agg: 5.5~11.09 | dmg: 9.33~18.33 @ 32.0
 meursault_rosespanner | agg: 4.42~10.59 | dmg: 8.0~18.33 @ 33.0

@@ -16,7 +16,6 @@ s3 ryoshu_seven | swash | agg: 6.37~19.28 | dmg: 12~42 @ 40
 s3 outis_g_corp | focus | agg: 5.6~20.0 | dmg: 6~22 @ 29
 s3 ryoshu_kurokumo | lenticular_swirl | agg: 9.18~16.21 | dmg: 16~28 @ 38
 s3 sinclair_zwei | strong_strike | agg: 6.45~18.15 | dmg: 7~20 @ 29
-s3 hong_lu_k_corp_base | excise_target | agg: 8.78~15.81 | dmg: 16~28 @ 36
 s3 ishmael_lcb | shield_bash | agg: 6.8~17.6 | dmg: 7~19 @ 31
 s2 gregor_g_corp | dismember | agg: 7.7~16.7 | dmg: 6~16 @ 41
 s3 rodion_clearance | suppress | agg: 8.58~15.61 | dmg: 14~26 @ 40
@@ -42,7 +41,6 @@ s3 outis_seven | exploit_the_gap | agg: 7.95~13.11 | dmg: 24~36 @ 32
 s3 meursault_n_corp | annihilate_heretics | agg: 7.84~13.11 | dmg: 16~25 @ 32
 s2 ishmael_r_corp | flaying_surge | agg: 5.9~14.9 | dmg: 6~16 @ 32
 s2 hong_lu_k_corp | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
-s2 hong_lu_k_corp_base | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
 s2 gregor_rosespanner | grease_chains | agg: 4.8~15.6 | dmg: 4~16 @ 36
 s3 ishmael_liu | inner_gate_elbow_strike | agg: 5.08~15.24 | dmg: 12~42 @ 39
 s2 heathcliff_sunshower | puddle_stomp | agg: 8.56~11.4 | dmg: 12~40 @ 42
@@ -93,7 +91,6 @@ s1 gregor_g_corp | hack | agg: 5.64~10.91 | dmg: 8~17 @ 41
 s2 gregor_lcb | jag | agg: 3.7~12.7 | dmg: 4~14 @ 31
 s2 ishmael_lcb | slide | agg: 4.6~11.8 | dmg: 5~13 @ 31
 s1 hong_lu_k_corp | impede_the_intruder | agg: 5.5~10.9 | dmg: 5~11 @ 36
-s1 hong_lu_k_corp_base | impede_the_intruder | agg: 5.5~10.9 | dmg: 5~11 @ 36
 s2 rodion_clearance | thrust | agg: 7.15~8.9 | dmg: 12~15 @ 40
 s1 rodion_clearance | bludgeon | agg: 5.3~10.7 | dmg: 4~10 @ 40
 s1 rodion_kurokumo | sharpened_blade | agg: 5.3~10.7 | dmg: 5~11 @ 35

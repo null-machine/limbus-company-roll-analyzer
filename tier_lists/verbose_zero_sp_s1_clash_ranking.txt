@@ -19,7 +19,7 @@ s1 heathcliff_r_corp | graze_the_grass | agg: 5.75~10.91 | dmg: 12~24 @ 41
 s1 heathcliff_r_corp_weak | graze_the_grass | agg: 5.75~10.91 | dmg: 12~24 @ 41
 s1 gregor_g_corp | hack | agg: 5.64~10.91 | dmg: 8~17 @ 41
 s1 hong_lu_k_corp | impede_the_intruder | agg: 5.5~10.9 | dmg: 5~11 @ 36
-s1 hong_lu_k_corp_base | impede_the_intruder | agg: 5.5~10.9 | dmg: 5~11 @ 36
+s1 hong_lu_k_corp_weak | impede_the_intruder | agg: 5.5~10.9 | dmg: 5~11 @ 36
 s1 gregor_liu_prime | single_point_stab | agg: 6.29~9.8 | dmg: 10~16 @ 40
 s1 rodion_kurokumo | sharpened_blade | agg: 5.3~10.7 | dmg: 5~11 @ 35
 s1 rodion_clearance | bludgeon | agg: 5.3~10.7 | dmg: 4~10 @ 40

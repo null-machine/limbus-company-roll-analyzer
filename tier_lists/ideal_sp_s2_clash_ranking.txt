@@ -15,7 +15,6 @@ s2 don_quixote_n_corp | enactment | agg: 4.4~15.2 | dmg: 4~16 @ 34
 s2 ryoshu_kurokumo | clean_up | agg: 6.33~15.11 | dmg: 10~25 @ 38
 s2 ishmael_r_corp | flaying_surge | agg: 5.9~14.9 | dmg: 6~16 @ 32
 s2 hong_lu_k_corp | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
-s2 hong_lu_k_corp_base | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
 s2 heathcliff_shi | flying_sword | agg: 5.3~14.3 | dmg: 5~15 @ 34
 s2 hong_lu_lcb | dual_strike | agg: 4.93~13.71 | dmg: 8~23 @ 36
 s2 don_quixote_lcb | galloping_tilt | agg: 4.7~13.7 | dmg: 4~14 @ 36

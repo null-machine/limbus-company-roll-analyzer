@@ -52,7 +52,7 @@ s1 don_quixote_w_corp_weak | rip | agg: 5.9~11.3 | dmg: 5~11 @ 38
 s1 hong_lu_tingtang_prime | throat_slit | agg: 5.9~11.3 | dmg: 5~11 @ 38
 s1 faust_l_corp_prime | sole_strike | agg: 5.7~11.1 | dmg: 5~11 @ 37
 s1 hong_lu_k_corp | impede_the_intruder | agg: 5.5~10.9 | dmg: 5~11 @ 36
-s1 hong_lu_k_corp_base | impede_the_intruder | agg: 5.5~10.9 | dmg: 5~11 @ 36
+s1 hong_lu_k_corp_weak | impede_the_intruder | agg: 5.5~10.9 | dmg: 5~11 @ 36
 s1 rodion_kurokumo | sharpened_blade | agg: 5.3~10.7 | dmg: 5~11 @ 35
 s1 meursault_w_corp | rip | agg: 4.3~9.7 | dmg: 5~11 @ 30
 s1 outis_seven_weak | predictive_analysis | agg: 5.6~9.2 | dmg: 6~10 @ 32

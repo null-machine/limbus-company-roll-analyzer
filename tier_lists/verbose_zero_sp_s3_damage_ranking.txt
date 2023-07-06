@@ -47,7 +47,7 @@ s3 outis_seven_weak | exploit_the_gap | agg: 5.95~11.11 | dmg: 18~30 @ 32
 s3 faust_w_corp | overcharge | agg: 5.35~10.51 | dmg: 18~30 @ 29
 s3 hong_lu_k_corp | excise_target | agg: 8.93~17.71 | dmg: 16~31 @ 36
 s3 ryoshu_kurokumo | lenticular_swirl | agg: 9.18~16.21 | dmg: 16~28 @ 38
-s3 hong_lu_k_corp_base | excise_target | agg: 8.78~15.81 | dmg: 16~28 @ 36
+s3 hong_lu_k_corp_weak | excise_target | agg: 8.78~15.81 | dmg: 16~28 @ 36
 s3 gregor_rosespanner | lets_grind_em | agg: 5.02~12.77 | dmg: 12~30 @ 36
 s3 don_quixote_n_corp | fanatical_judgement | agg: 4.62~12.37 | dmg: 12~30 @ 34
 s3 sinclair_lcb | ravaging_cut | agg: 6.15~11.31 | dmg: 15~27 @ 38

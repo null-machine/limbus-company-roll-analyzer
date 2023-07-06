@@ -16,7 +16,6 @@ hong_lu_k_corp | agg: 6.21~13.31 | dmg: 8.5~19.0 @ 36.0
 rodion_rosespanner | agg: 5.98~12.09 | dmg: 10.5~22.0 @ 38.0
 meursault_rosespanner | agg: 4.42~10.59 | dmg: 8.0~18.33 @ 33.0
 ryoshu_kurokumo | agg: 6.59~13.39 | dmg: 8.5~18.5 @ 38.0
-hong_lu_k_corp_base | agg: 6.19~12.99 | dmg: 8.5~18.5 @ 36.0
 gregor_liu | agg: 5.71~9.46 | dmg: 11.67~20.0 @ 40.0
 don_quixote_shi | agg: 5.02~14.38 | dmg: 5.33~17.83 @ 37.0
 sinclair_lcb | agg: 4.72~10.45 | dmg: 8.0~17.5 @ 38.0

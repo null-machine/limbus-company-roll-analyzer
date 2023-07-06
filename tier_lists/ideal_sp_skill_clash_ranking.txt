@@ -34,7 +34,6 @@ s2 don_quixote_w_corp | leap | agg: 5.7~16.03 | dmg: 12~36 @ 38
 s3 hong_lu_liu | crimson_blaze_fist | agg: 5.47~16.01 | dmg: 10~28 @ 33
 s2 outis_seven | field_command | agg: 7.13~15.91 | dmg: 14~29 @ 32
 s2 don_quixote_shi | dual_strike | agg: 5.27~15.81 | dmg: 8~26 @ 37
-s3 hong_lu_k_corp_base | excise_target | agg: 8.78~15.81 | dmg: 16~28 @ 36
 s3 rodion_clearance | suppress | agg: 8.58~15.61 | dmg: 14~26 @ 40
 s2 gregor_rosespanner | grease_chains | agg: 4.8~15.6 | dmg: 4~16 @ 36
 s3 ishmael_liu | inner_gate_elbow_strike | agg: 5.08~15.24 | dmg: 12~42 @ 39
@@ -45,7 +44,6 @@ s3 heathcliff_n_corp | infirm_retribution | agg: 4.7~15.03 | dmg: 12~36 @ 33
 s3 heathcliff_lcb | upheaval | agg: 4.47~15.01 | dmg: 8~26 @ 33
 s2 ishmael_r_corp | flaying_surge | agg: 5.9~14.9 | dmg: 6~16 @ 32
 s2 hong_lu_k_corp | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
-s2 hong_lu_k_corp_base | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
 s2 heathcliff_shi | flying_sword | agg: 5.3~14.3 | dmg: 5~15 @ 34
 s2 hong_lu_lcb | dual_strike | agg: 4.93~13.71 | dmg: 8~23 @ 36
 s2 don_quixote_lcb | galloping_tilt | agg: 4.7~13.7 | dmg: 4~14 @ 36
@@ -99,7 +97,6 @@ s1 heathcliff_r_corp | graze_the_grass | agg: 5.75~10.91 | dmg: 12~24 @ 41
 s3 ryoshu_lcb | brushstroke | agg: 5.75~10.91 | dmg: 15~27 @ 36
 s1 gregor_g_corp | hack | agg: 5.64~10.91 | dmg: 8~17 @ 41
 s1 hong_lu_k_corp | impede_the_intruder | agg: 5.5~10.9 | dmg: 5~11 @ 36
-s1 hong_lu_k_corp_base | impede_the_intruder | agg: 5.5~10.9 | dmg: 5~11 @ 36
 s1 gregor_rosespanner | rev_up | agg: 3.78~10.81 | dmg: 6~18 @ 36
 s2 meursault_lcb | nailing_fist | agg: 3.6~10.8 | dmg: 5~13 @ 26
 s1 rodion_clearance | bludgeon | agg: 5.3~10.7 | dmg: 4~10 @ 40

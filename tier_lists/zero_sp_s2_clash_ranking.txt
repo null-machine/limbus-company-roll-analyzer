@@ -13,7 +13,6 @@ s2 ryoshu_kurokumo | clean_up | agg: 6.33~15.11 | dmg: 10~25 @ 38
 s2 don_quixote_shi | dual_strike | agg: 5.27~15.81 | dmg: 8~26 @ 37
 s2 ishmael_r_corp | flaying_surge | agg: 5.9~14.9 | dmg: 6~16 @ 32
 s2 hong_lu_k_corp | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
-s2 hong_lu_k_corp_base | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
 s2 gregor_rosespanner | grease_chains | agg: 4.8~15.6 | dmg: 4~16 @ 36
 s2 heathcliff_sunshower | puddle_stomp | agg: 8.56~11.4 | dmg: 12~40 @ 42
 s2 don_quixote_n_corp | enactment | agg: 4.4~15.2 | dmg: 4~16 @ 34

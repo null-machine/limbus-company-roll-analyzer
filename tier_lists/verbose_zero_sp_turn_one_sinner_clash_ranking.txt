@@ -31,7 +31,7 @@ hong_lu_k_corp | agg: 6.21~13.31 | dmg: 8.5~19.0 @ 36.0
 gregor_g_corp | agg: 6.39~13.16 | dmg: 8.67~19.83 @ 41.0
 heathcliff_sunshower | agg: 7.43~10.43 | dmg: 9.5~31.33 @ 40.5
 rodion_kurokumo | agg: 6.1~12.95 | dmg: 7.67~16.33 @ 35.0
-hong_lu_k_corp_base | agg: 6.19~12.99 | dmg: 8.5~18.5 @ 36.0
+hong_lu_k_corp_weak | agg: 6.19~12.99 | dmg: 8.5~18.5 @ 36.0
 hong_lu_kurokumo_prime | agg: 4.88~12.95 | dmg: 11.67~30.0 @ 32.0
 ryoshu_chef | agg: 4.99~13.62 | dmg: 9.0~28.5 @ 38.0
 ishmael_r_corp | agg: 4.12~14.33 | dmg: 6.33~25.5 @ 32.0

@@ -35,7 +35,7 @@ s2 don_quixote_shi_prime | dual_strike | agg: 5.27~15.81 | dmg: 8~26 @ 37
 s2 faust_w_corp_prime | leap | agg: 6.38~13.41 | dmg: 14~26 @ 29
 s2 ryoshu_kurokumo | clean_up | agg: 6.33~15.11 | dmg: 10~25 @ 38
 s2 hong_lu_k_corp | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
-s2 hong_lu_k_corp_base | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
+s2 hong_lu_k_corp_weak | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
 s2 outis_seven_weak | field_command | agg: 5.13~13.91 | dmg: 10~25 @ 32
 s2 faust_lcb_prime | upward_slash | agg: 5.18~12.21 | dmg: 12~24 @ 28
 s2 gregor_liu_prime | rush_down | agg: 7.27~9.86 | dmg: 18~24 @ 40
