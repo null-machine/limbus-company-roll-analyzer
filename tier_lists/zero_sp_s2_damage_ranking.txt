@@ -5,6 +5,7 @@ s2 hong_lu_tingtang | shank | agg: 4.97~17.88 | dmg: 9~39 @ 38
 s2 ryoshu_chef | ingredient_hunt | agg: 4.97~17.88 | dmg: 9~39 @ 38
 s2 yi_sang_spicebush | moments_floral_breeze | agg: 6.3~16.63 | dmg: 12~36 @ 41
 s2 faust_n_corp | the_gripping | agg: 5.9~16.23 | dmg: 12~36 @ 39
+s2 ishmael_liu | frontal_assault | agg: 5.9~16.23 | dmg: 12~36 @ 39
 s2 don_quixote_w_corp | leap | agg: 5.7~16.03 | dmg: 12~36 @ 38
 s2 outis_seven | field_command | agg: 7.13~15.91 | dmg: 14~29 @ 32
 s2 faust_l_corp | deep_cuts | agg: 5.22~12.97 | dmg: 12~30 @ 37
@@ -16,6 +17,7 @@ s2 gregor_liu | rush_down | agg: 6.27~8.86 | dmg: 15~21 @ 40
 s2 sinclair_mariachi | danza_de_pasion | agg: 3.67~6.26 | dmg: 15~21 @ 27
 s2 ryoshu_kurokumo | clean_up | agg: 6.33~15.11 | dmg: 10~25 @ 38
 s2 hong_lu_k_corp | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
+s2 hong_lu_k_corp_base | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
 s2 don_quixote_shi | dual_strike | agg: 5.27~15.81 | dmg: 8~26 @ 37
 s2 rodion_rosespanner | vibration_compression | agg: 7.04~12.31 | dmg: 12~21 @ 38
 s2 rodion_kurokumo | scattering_slash | agg: 6.44~11.71 | dmg: 12~21 @ 35

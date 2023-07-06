@@ -4,6 +4,7 @@ sinclair_n_corp | agg: 10.96~15.06 | dmg: 17.0~44.33 @ 38.67
 hong_lu_tingtang_prime | agg: 6.4~22.06 | dmg: 8.17~40.33 @ 38.0
 heathcliff_r_corp | agg: 6.12~14.88 | dmg: 13.83~39.83 @ 41.0
 heathcliff_sunshower_prime | agg: 9.1~12.1 | dmg: 14.67~37.33 @ 40.5
+ishmael_liu_prime | agg: 5.83~17.64 | dmg: 10.0~36.17 @ 39.0
 don_quixote_w_corp | agg: 5.7~16.03 | dmg: 7.33~33.33 @ 38.0
 rodion_rosespanner_prime | agg: 6.26~14.0 | dmg: 14.5~33.0 @ 38.0
 ishmael_shi_prime | agg: 4.92~14.12 | dmg: 11.67~33.0 @ 34.0
@@ -18,6 +19,7 @@ yi_sang_spicebush | agg: 6.06~13.8 | dmg: 11.5~29.5 @ 42.0
 hong_lu_tingtang_prime_partial | agg: 4.83~14.85 | dmg: 5.6~29.2 @ 38.0
 ryoshu_chef | agg: 4.99~13.62 | dmg: 9.0~28.5 @ 38.0
 hong_lu_kurokumo_prime_partial | agg: 3.66~12.32 | dmg: 8.2~27.8 @ 32.0
+ishmael_liu | agg: 5.43~13.2 | dmg: 10.0~27.5 @ 39.0
 faust_n_corp | agg: 5.81~12.75 | dmg: 11.0~25.5 @ 39.0
 ishmael_r_corp | agg: 4.12~14.33 | dmg: 6.33~25.5 @ 32.0
 ishmael_clearance_prime | agg: 5.37~11.78 | dmg: 13.0~25.33 @ 29.0
@@ -49,6 +51,7 @@ don_quixote_n_corp | agg: 3.93~12.33 | dmg: 6.33~19.33 @ 34.0
 hong_lu_k_corp | agg: 6.21~13.31 | dmg: 8.5~19.0 @ 36.0
 don_quixote_lcb_prime | agg: 6.1~14.41 | dmg: 7.0~18.83 @ 36.0
 ryoshu_kurokumo | agg: 6.59~13.39 | dmg: 8.5~18.5 @ 38.0
+hong_lu_k_corp_base | agg: 6.19~12.99 | dmg: 8.5~18.5 @ 36.0
 don_quixote_shi_prime | agg: 5.52~14.88 | dmg: 5.83~18.33 @ 37.0
 outis_seven_weak | agg: 5.5~11.09 | dmg: 9.33~18.33 @ 32.0
 meursault_rosespanner | agg: 4.42~10.59 | dmg: 8.0~18.33 @ 33.0

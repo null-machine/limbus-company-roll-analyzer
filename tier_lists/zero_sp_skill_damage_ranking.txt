@@ -8,6 +8,7 @@ s2 heathcliff_r_corp | concentrated_fire | agg: 6.48~16.64 | dmg: 16~46 @ 41
 s3 yi_sang_spicebush | bloodsteeped_scent | agg: 8.9~19.23 | dmg: 18~42 @ 44
 s3 outis_seven | exploit_the_gap | agg: 7.95~13.11 | dmg: 24~36 @ 32
 s3 ryoshu_seven | swash | agg: 6.37~19.28 | dmg: 12~42 @ 40
+s3 ishmael_liu | inner_gate_elbow_strike | agg: 5.08~15.24 | dmg: 12~42 @ 39
 s3 ryoshu_chef | i_can_cook_anything | agg: 4.88~15.04 | dmg: 12~42 @ 38
 s3 rodion_rosespanner | lets_rack_up_some_scores | agg: 6.7~17.03 | dmg: 15~39 @ 38
 s3 yi_sang_blade | flank_thrust | agg: 9.47~12.06 | dmg: 24~30 @ 41
@@ -24,6 +25,7 @@ s2 hong_lu_tingtang | shank | agg: 4.97~17.88 | dmg: 9~39 @ 38
 s2 ryoshu_chef | ingredient_hunt | agg: 4.97~17.88 | dmg: 9~39 @ 38
 s2 yi_sang_spicebush | moments_floral_breeze | agg: 6.3~16.63 | dmg: 12~36 @ 41
 s2 faust_n_corp | the_gripping | agg: 5.9~16.23 | dmg: 12~36 @ 39
+s2 ishmael_liu | frontal_assault | agg: 5.9~16.23 | dmg: 12~36 @ 39
 s2 don_quixote_w_corp | leap | agg: 5.7~16.03 | dmg: 12~36 @ 38
 s3 heathcliff_n_corp | infirm_retribution | agg: 4.7~15.03 | dmg: 12~36 @ 33
 s3 meursault_liu | perfected_death_fist | agg: 5.62~13.37 | dmg: 15~33 @ 34
@@ -33,6 +35,7 @@ s3 hong_lu_kurokumo | cloudburst | agg: 5.95~11.11 | dmg: 18~30 @ 32
 s3 faust_w_corp | overcharge | agg: 5.35~10.51 | dmg: 18~30 @ 29
 s3 hong_lu_k_corp | excise_target | agg: 8.93~17.71 | dmg: 16~31 @ 36
 s3 ryoshu_kurokumo | lenticular_swirl | agg: 9.18~16.21 | dmg: 16~28 @ 38
+s3 hong_lu_k_corp_base | excise_target | agg: 8.78~15.81 | dmg: 16~28 @ 36
 s2 outis_seven | field_command | agg: 7.13~15.91 | dmg: 14~29 @ 32
 s2 faust_l_corp | deep_cuts | agg: 5.22~12.97 | dmg: 12~30 @ 37
 s3 gregor_rosespanner | lets_grind_em | agg: 5.02~12.77 | dmg: 12~30 @ 36
@@ -60,6 +63,7 @@ s2 sinclair_mariachi | danza_de_pasion | agg: 3.67~6.26 | dmg: 15~21 @ 27
 s3 hong_lu_tingtang | mutilate | agg: 6.85~29.35 | dmg: 5~30 @ 38
 s2 ryoshu_kurokumo | clean_up | agg: 6.33~15.11 | dmg: 10~25 @ 38
 s2 hong_lu_k_corp | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
+s2 hong_lu_k_corp_base | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
 s2 don_quixote_shi | dual_strike | agg: 5.27~15.81 | dmg: 8~26 @ 37
 s3 heathcliff_lcb | upheaval | agg: 4.47~15.01 | dmg: 8~26 @ 33
 s2 rodion_rosespanner | vibration_compression | agg: 7.04~12.31 | dmg: 12~21 @ 38
@@ -102,6 +106,7 @@ s1 sinclair_n_corp | coerced_judgement | agg: 6.7~8.59 | dmg: 10~16 @ 38
 s2 yi_sang_seven | riposte | agg: 4.69~8.2 | dmg: 10~16 @ 32
 s1 gregor_g_corp | hack | agg: 5.64~10.91 | dmg: 8~17 @ 41
 s1 faust_n_corp | cackle | agg: 5.24~10.51 | dmg: 8~17 @ 39
+s1 ishmael_liu | red_kick | agg: 5.24~10.51 | dmg: 8~17 @ 39
 s1 rodion_rosespanner | rev_up | agg: 5.04~10.31 | dmg: 8~17 @ 38
 s1 ryoshu_chef | cooking_prep | agg: 5.04~10.31 | dmg: 8~17 @ 38
 s1 rodion_n_corp | devoted_hammering | agg: 3.98~11.01 | dmg: 6~18 @ 37
@@ -137,6 +142,7 @@ s1 don_quixote_w_corp | rip | agg: 5.9~11.3 | dmg: 5~11 @ 38
 s1 hong_lu_tingtang | throat_slit | agg: 5.9~11.3 | dmg: 5~11 @ 38
 s1 ryoshu_kurokumo | focus_strike | agg: 5.9~11.3 | dmg: 5~11 @ 38
 s1 hong_lu_k_corp | impede_the_intruder | agg: 5.5~10.9 | dmg: 5~11 @ 36
+s1 hong_lu_k_corp_base | impede_the_intruder | agg: 5.5~10.9 | dmg: 5~11 @ 36
 s1 rodion_kurokumo | sharpened_blade | agg: 5.3~10.7 | dmg: 5~11 @ 35
 s1 meursault_w_corp | rip | agg: 4.3~9.7 | dmg: 5~11 @ 30
 s1 rodion_clearance | bludgeon | agg: 5.3~10.7 | dmg: 4~10 @ 40

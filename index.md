@@ -29,6 +29,8 @@ Limbus Company belongs to Project Moon.
 
 Last update: 2023.6
 
+Note: Updates will be put on pause until the new offense system is released, for ease of maintenance.
+
 ---
 
 ## Table of Contents

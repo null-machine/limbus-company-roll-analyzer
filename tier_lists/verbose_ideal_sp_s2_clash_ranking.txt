@@ -1,4 +1,5 @@
 s2 hong_lu_tingtang_prime | shank | agg: 5.73~22.66 | dmg: 12~62 @ 38
+s2 ishmael_liu_prime | frontal_assault | agg: 6.45~21.94 | dmg: 12~48 @ 39
 s2 hong_lu_tingtang_prime_partial | shank | agg: 4.73~21.66 | dmg: 8~58 @ 38
 s2 ishmael_shi_prime | flashing_slide | agg: 6.5~20.05 | dmg: 20~60 @ 34
 s2 hong_lu_kurokumo_prime | cloud_cutter | agg: 6.1~19.65 | dmg: 20~60 @ 32
@@ -21,6 +22,7 @@ s2 heathcliff_r_corp | concentrated_fire | agg: 6.48~16.64 | dmg: 16~46 @ 41
 s2 yi_sang_spicebush | moments_floral_breeze | agg: 6.3~16.63 | dmg: 12~36 @ 41
 s2 ryoshu_seven | upper_slash | agg: 5.6~16.4 | dmg: 4~16 @ 40
 s2 faust_n_corp | the_gripping | agg: 5.9~16.23 | dmg: 12~36 @ 39
+s2 ishmael_liu | frontal_assault | agg: 5.9~16.23 | dmg: 12~36 @ 39
 s2 don_quixote_w_corp | leap | agg: 5.7~16.03 | dmg: 12~36 @ 38
 s2 don_quixote_w_corp_weak | leap | agg: 5.7~16.03 | dmg: 12~36 @ 38
 s2 outis_seven | field_command | agg: 7.13~15.91 | dmg: 14~29 @ 32
@@ -33,6 +35,7 @@ s2 ryoshu_kurokumo | clean_up | agg: 6.33~15.11 | dmg: 10~25 @ 38
 s2 faust_l_corp_prime | deep_cuts | agg: 7.22~14.97 | dmg: 18~36 @ 37
 s2 ishmael_r_corp | flaying_surge | agg: 5.9~14.9 | dmg: 6~16 @ 32
 s2 hong_lu_k_corp | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
+s2 hong_lu_k_corp_base | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
 s2 heathcliff_sunshower_prime | puddle_stomp | agg: 11.56~14.4 | dmg: 22~52 @ 42
 s2 heathcliff_shi | flying_sword | agg: 5.3~14.3 | dmg: 5~15 @ 34
 s2 heathcliff_n_corp_prime | purify | agg: 7.0~14.2 | dmg: 7~15 @ 33

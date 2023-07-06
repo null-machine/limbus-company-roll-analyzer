@@ -1,6 +1,7 @@
 s2 sinclair_n_corp_prime | amoral_enactment | agg: 14.01~17.8 | dmg: 28~68 @ 39
 s2 sinclair_n_corp | amoral_enactment | agg: 13.01~16.8 | dmg: 24~64 @ 39
 s2 hong_lu_tingtang_prime | shank | agg: 5.73~22.66 | dmg: 12~62 @ 38
+s2 ishmael_liu_prime | frontal_assault | agg: 6.45~21.94 | dmg: 12~48 @ 39
 s2 ryoshu_seven_prime | upper_slash | agg: 8.6~19.4 | dmg: 7~19 @ 40
 s2 heathcliff_r_corp_prime | concentrated_fire | agg: 8.48~18.64 | dmg: 24~54 @ 41
 s2 ishmael_shi_prime | flashing_slide | agg: 6.5~20.05 | dmg: 20~60 @ 34
@@ -23,6 +24,7 @@ s2 ryoshu_chef_prime | ingredient_hunt | agg: 4.97~17.88 | dmg: 9~39 @ 38
 s2 don_quixote_lcb_prime | galloping_tilt | agg: 6.7~15.7 | dmg: 6~16 @ 36
 s2 faust_l_corp_prime | deep_cuts | agg: 7.22~14.97 | dmg: 18~36 @ 37
 s2 faust_n_corp | the_gripping | agg: 5.9~16.23 | dmg: 12~36 @ 39
+s2 ishmael_liu | frontal_assault | agg: 5.9~16.23 | dmg: 12~36 @ 39
 s2 ryoshu_seven | upper_slash | agg: 5.6~16.4 | dmg: 4~16 @ 40
 s2 don_quixote_w_corp | leap | agg: 5.7~16.03 | dmg: 12~36 @ 38
 s2 don_quixote_w_corp_weak | leap | agg: 5.7~16.03 | dmg: 12~36 @ 38
@@ -33,6 +35,7 @@ s2 don_quixote_shi_prime | dual_strike | agg: 5.27~15.81 | dmg: 8~26 @ 37
 s2 hong_lu_tingtang_partial | shank | agg: 3.97~16.88 | dmg: 6~36 @ 38
 s2 ishmael_r_corp | flaying_surge | agg: 5.9~14.9 | dmg: 6~16 @ 32
 s2 hong_lu_k_corp | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
+s2 hong_lu_k_corp_base | decay_blade | agg: 5.93~14.71 | dmg: 10~25 @ 36
 s2 gregor_rosespanner | grease_chains | agg: 4.8~15.6 | dmg: 4~16 @ 36
 s2 ishmael_lcb_prime | slide | agg: 6.6~13.8 | dmg: 7~15 @ 31
 s2 heathcliff_sunshower | puddle_stomp | agg: 8.56~11.4 | dmg: 12~40 @ 42

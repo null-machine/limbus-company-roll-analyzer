@@ -2,6 +2,7 @@ hong_lu_tingtang_prime | agg: 6.4~22.06 | dmg: 8.17~40.33 @ 38.0
 sinclair_n_corp_prime | agg: 11.96~16.06 | dmg: 19.67~47.17 @ 38.67
 sinclair_n_corp | agg: 10.96~15.06 | dmg: 17.0~44.33 @ 38.67
 heathcliff_r_corp_prime | agg: 8.12~16.88 | dmg: 21.17~47.17 @ 41.0
+ishmael_liu_prime | agg: 5.83~17.64 | dmg: 10.0~36.17 @ 39.0
 heathcliff_shi_prime | agg: 7.76~15.22 | dmg: 8.83~18.17 @ 34.0
 ryoshu_seven_prime | agg: 7.25~15.7 | dmg: 7.33~19.33 @ 40.0
 faust_n_corp_prime | agg: 7.81~14.75 | dmg: 16.0~30.5 @ 39.0
@@ -24,9 +25,11 @@ gregor_g_corp | agg: 6.39~13.16 | dmg: 8.67~19.83 @ 41.0
 hong_lu_k_corp | agg: 6.21~13.31 | dmg: 8.5~19.0 @ 36.0
 don_quixote_shi | agg: 5.02~14.38 | dmg: 5.33~17.83 @ 37.0
 ishmael_lcb_prime | agg: 5.94~13.29 | dmg: 6.33~14.5 @ 31.0
+hong_lu_k_corp_base | agg: 6.19~12.99 | dmg: 8.5~18.5 @ 36.0
 rodion_kurokumo | agg: 6.1~12.95 | dmg: 7.67~16.33 @ 35.0
 ishmael_shi_prime | agg: 4.92~14.12 | dmg: 11.67~33.0 @ 34.0
 yi_sang_blade | agg: 7.61~11.33 | dmg: 11.17~16.17 @ 41.0
+ishmael_liu | agg: 5.43~13.2 | dmg: 10.0~27.5 @ 39.0
 ryoshu_chef | agg: 4.99~13.62 | dmg: 9.0~28.5 @ 38.0
 faust_n_corp | agg: 5.81~12.75 | dmg: 11.0~25.5 @ 39.0
 ishmael_r_corp | agg: 4.12~14.33 | dmg: 6.33~25.5 @ 32.0

@@ -8,11 +8,13 @@ s1 rodion_n_corp | devoted_hammering | agg: 3.98~11.01 | dmg: 6~18 @ 37
 s1 heathcliff_r_corp | graze_the_grass | agg: 5.75~10.91 | dmg: 12~24 @ 41
 s1 gregor_g_corp | hack | agg: 5.64~10.91 | dmg: 8~17 @ 41
 s1 hong_lu_k_corp | impede_the_intruder | agg: 5.5~10.9 | dmg: 5~11 @ 36
+s1 hong_lu_k_corp_base | impede_the_intruder | agg: 5.5~10.9 | dmg: 5~11 @ 36
 s1 gregor_rosespanner | rev_up | agg: 3.78~10.81 | dmg: 6~18 @ 36
 s1 rodion_clearance | bludgeon | agg: 5.3~10.7 | dmg: 4~10 @ 40
 s1 rodion_kurokumo | sharpened_blade | agg: 5.3~10.7 | dmg: 5~11 @ 35
 s1 ryoshu_seven | slash | agg: 5.3~10.7 | dmg: 4~10 @ 40
 s1 faust_n_corp | cackle | agg: 5.24~10.51 | dmg: 8~17 @ 39
+s1 ishmael_liu | red_kick | agg: 5.24~10.51 | dmg: 8~17 @ 39
 s1 don_quixote_n_corp | rightful_purge | agg: 3.38~10.41 | dmg: 6~18 @ 34
 s1 ishmael_shi | flying_sword | agg: 3.38~10.41 | dmg: 6~18 @ 34
 s1 meursault_liu | assault | agg: 3.38~10.41 | dmg: 6~18 @ 34

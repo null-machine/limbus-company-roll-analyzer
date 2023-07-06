@@ -3,6 +3,7 @@ s1 heathcliff_r_corp | graze_the_grass | agg: 5.75~10.91 | dmg: 12~24 @ 41
 s1 heathcliff_r_corp_weak | graze_the_grass | agg: 5.75~10.91 | dmg: 12~24 @ 41
 s1 ishmael_r_corp_prime | mind_strike | agg: 5.13~13.91 | dmg: 10~25 @ 32
 s1 faust_n_corp_prime | cackle | agg: 7.24~12.51 | dmg: 12~21 @ 39
+s1 ishmael_liu_prime | red_kick | agg: 5.53~14.31 | dmg: 8~23 @ 39
 s1 yi_sang_spicebush | sprouting_bud | agg: 4.95~10.11 | dmg: 9~21 @ 42
 s1 heathcliff_sunshower_prime | umbrella_thwack | agg: 5.9~7.8 | dmg: 9~21 @ 39
 s1 outis_lcb | pulled_blade | agg: 4.15~9.31 | dmg: 9~21 @ 38
@@ -14,6 +15,7 @@ s1 gregor_liu_prime | single_point_stab | agg: 6.29~9.8 | dmg: 10~16 @ 40
 s1 sinclair_n_corp | coerced_judgement | agg: 6.7~8.59 | dmg: 10~16 @ 38
 s1 gregor_g_corp | hack | agg: 5.64~10.91 | dmg: 8~17 @ 41
 s1 faust_n_corp | cackle | agg: 5.24~10.51 | dmg: 8~17 @ 39
+s1 ishmael_liu | red_kick | agg: 5.24~10.51 | dmg: 8~17 @ 39
 s1 rodion_rosespanner | rev_up | agg: 5.04~10.31 | dmg: 8~17 @ 38
 s1 ryoshu_chef | cooking_prep | agg: 5.04~10.31 | dmg: 8~17 @ 38
 s1 rodion_rosespanner_prime | rev_up | agg: 5.04~10.31 | dmg: 8~17 @ 38
@@ -50,6 +52,7 @@ s1 don_quixote_w_corp_weak | rip | agg: 5.9~11.3 | dmg: 5~11 @ 38
 s1 hong_lu_tingtang_prime | throat_slit | agg: 5.9~11.3 | dmg: 5~11 @ 38
 s1 faust_l_corp_prime | sole_strike | agg: 5.7~11.1 | dmg: 5~11 @ 37
 s1 hong_lu_k_corp | impede_the_intruder | agg: 5.5~10.9 | dmg: 5~11 @ 36
+s1 hong_lu_k_corp_base | impede_the_intruder | agg: 5.5~10.9 | dmg: 5~11 @ 36
 s1 rodion_kurokumo | sharpened_blade | agg: 5.3~10.7 | dmg: 5~11 @ 35
 s1 meursault_w_corp | rip | agg: 4.3~9.7 | dmg: 5~11 @ 30
 s1 outis_seven_weak | predictive_analysis | agg: 5.6~9.2 | dmg: 6~10 @ 32

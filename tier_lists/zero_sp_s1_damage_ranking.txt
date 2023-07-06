@@ -5,6 +5,7 @@ s1 ishmael_r_corp | mind_strike | agg: 3.13~11.91 | dmg: 6~21 @ 32
 s1 sinclair_n_corp | coerced_judgement | agg: 6.7~8.59 | dmg: 10~16 @ 38
 s1 gregor_g_corp | hack | agg: 5.64~10.91 | dmg: 8~17 @ 41
 s1 faust_n_corp | cackle | agg: 5.24~10.51 | dmg: 8~17 @ 39
+s1 ishmael_liu | red_kick | agg: 5.24~10.51 | dmg: 8~17 @ 39
 s1 rodion_rosespanner | rev_up | agg: 5.04~10.31 | dmg: 8~17 @ 38
 s1 ryoshu_chef | cooking_prep | agg: 5.04~10.31 | dmg: 8~17 @ 38
 s1 rodion_n_corp | devoted_hammering | agg: 3.98~11.01 | dmg: 6~18 @ 37
@@ -27,6 +28,7 @@ s1 don_quixote_w_corp | rip | agg: 5.9~11.3 | dmg: 5~11 @ 38
 s1 hong_lu_tingtang | throat_slit | agg: 5.9~11.3 | dmg: 5~11 @ 38
 s1 ryoshu_kurokumo | focus_strike | agg: 5.9~11.3 | dmg: 5~11 @ 38
 s1 hong_lu_k_corp | impede_the_intruder | agg: 5.5~10.9 | dmg: 5~11 @ 36
+s1 hong_lu_k_corp_base | impede_the_intruder | agg: 5.5~10.9 | dmg: 5~11 @ 36
 s1 rodion_kurokumo | sharpened_blade | agg: 5.3~10.7 | dmg: 5~11 @ 35
 s1 meursault_w_corp | rip | agg: 4.3~9.7 | dmg: 5~11 @ 30
 s1 rodion_clearance | bludgeon | agg: 5.3~10.7 | dmg: 4~10 @ 40
