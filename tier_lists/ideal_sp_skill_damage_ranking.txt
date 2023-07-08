@@ -33,6 +33,7 @@ s3 yi_sang_blade | flank_thrust | agg: 9.47~12.06 | dmg: 24~30 @ 41
 s3 faust_n_corp | execution | agg: 7.35~12.51 | dmg: 18~30 @ 39
 s2 faust_l_corp | deep_cuts | agg: 5.22~12.97 | dmg: 12~30 @ 37
 s3 gregor_rosespanner | lets_grind_em | agg: 5.02~12.77 | dmg: 12~30 @ 36
+s2 sinclair_l_corp | proliferating_talismans | agg: 5.02~12.77 | dmg: 12~30 @ 36
 s3 hong_lu_kurokumo | cloudburst | agg: 5.95~11.11 | dmg: 18~30 @ 32
 s3 don_quixote_n_corp | fanatical_judgement | agg: 4.62~12.37 | dmg: 12~30 @ 34
 s3 faust_w_corp | overcharge | agg: 5.35~10.51 | dmg: 18~30 @ 29
@@ -42,6 +43,7 @@ s3 meursault_w_corp | energy_current | agg: 4.43~7.81 | dmg: 20~30 @ 30
 s2 outis_seven | field_command | agg: 7.13~15.91 | dmg: 14~29 @ 32
 s3 ryoshu_kurokumo | lenticular_swirl | agg: 9.18~16.21 | dmg: 16~28 @ 38
 s3 hong_lu_lcb | whirlwind | agg: 6.07~16.61 | dmg: 10~28 @ 36
+s3 sinclair_l_corp | rupturing_talisman | agg: 6.07~16.61 | dmg: 10~28 @ 36
 s3 heathcliff_shi | flashing_strike | agg: 5.67~16.21 | dmg: 10~28 @ 34
 s3 hong_lu_liu | crimson_blaze_fist | agg: 5.47~16.01 | dmg: 10~28 @ 33
 s3 rodion_lcb | slay | agg: 2.45~9.23 | dmg: 8~28 @ 33
@@ -144,6 +146,7 @@ s1 rodion_kurokumo | sharpened_blade | agg: 5.3~10.7 | dmg: 5~11 @ 35
 s1 meursault_w_corp | rip | agg: 4.3~9.7 | dmg: 5~11 @ 30
 s1 rodion_clearance | bludgeon | agg: 5.3~10.7 | dmg: 4~10 @ 40
 s1 ryoshu_seven | slash | agg: 5.3~10.7 | dmg: 4~10 @ 40
+s1 sinclair_l_corp | magnify_wound | agg: 5.45~9.95 | dmg: 5~10 @ 36
 s1 don_quixote_shi | catch_breath | agg: 4.7~10.1 | dmg: 4~10 @ 37
 s1 sinclair_lcb | downward_swing | agg: 3.95~10.25 | dmg: 3~10 @ 38
 s1 heathcliff_shi | extreme_edge | agg: 4.1~9.5 | dmg: 4~10 @ 34

@@ -50,6 +50,7 @@ s1 hong_lu_liu | warm_up | agg: 3.18~10.21 | dmg: 6~18 @ 33
 s1 yi_sang_spicebush | sprouting_bud | agg: 4.95~10.11 | dmg: 9~21 @ 42
 s1 don_quixote_shi | catch_breath | agg: 4.7~10.1 | dmg: 4~10 @ 37
 s1 don_quixote_shi_prime | catch_breath | agg: 4.7~10.1 | dmg: 4~10 @ 37
+s1 sinclair_l_corp | magnify_wound | agg: 5.45~9.95 | dmg: 5~10 @ 36
 s1 don_quixote_lcb | joust | agg: 3.55~9.85 | dmg: 3~10 @ 36
 s1 hong_lu_lcb | downward_cleave | agg: 3.55~9.85 | dmg: 3~10 @ 36
 s1 ryoshu_lcb | paint | agg: 3.55~9.85 | dmg: 3~10 @ 36

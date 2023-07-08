@@ -43,6 +43,7 @@ heathcliff_r_corp_weak | agg: 5.79~12.02 | dmg: 13.83~31.5 @ 41.0
 faust_w_corp_prime | agg: 5.9~11.81 | dmg: 11.67~20.67 @ 29.0
 faust_l_corp | agg: 4.59~13.09 | dmg: 6.83~21.33 @ 37.0
 hong_lu_tingtang_partial | agg: 4.53~12.93 | dmg: 4.8~20.4 @ 38.0
+sinclair_l_corp | agg: 5.41~12.0 | dmg: 8.17~19.67 @ 36.0
 rodion_clearance | agg: 6.46~10.92 | dmg: 8.33~14.33 @ 40.0
 gregor_liu_prime | agg: 6.71~10.46 | dmg: 14.33~22.67 @ 40.0
 ishmael_clearance_prime | agg: 5.37~11.78 | dmg: 13.0~25.33 @ 29.0

@@ -35,6 +35,7 @@ s3 yi_sang_lcb | enjamb | agg: 4.87~7.46 | dmg: 18~24 @ 28
 s3 meursault_n_corp | annihilate_heretics | agg: 7.84~13.11 | dmg: 16~25 @ 32
 s3 rodion_clearance | suppress | agg: 8.58~15.61 | dmg: 14~26 @ 40
 s3 hong_lu_lcb | whirlwind | agg: 6.07~16.61 | dmg: 10~28 @ 36
+s3 sinclair_l_corp | rupturing_talisman | agg: 6.07~16.61 | dmg: 10~28 @ 36
 s3 heathcliff_shi | flashing_strike | agg: 5.67~16.21 | dmg: 10~28 @ 34
 s3 hong_lu_liu | crimson_blaze_fist | agg: 5.47~16.01 | dmg: 10~28 @ 33
 s3 rodion_lcb | slay | agg: 2.45~9.23 | dmg: 8~28 @ 33

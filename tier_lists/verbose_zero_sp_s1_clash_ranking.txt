@@ -30,6 +30,7 @@ s1 ishmael_liu | red_kick | agg: 5.24~10.51 | dmg: 8~17 @ 39
 s1 faust_w_corp_prime | energy_cycle | agg: 5.1~10.5 | dmg: 6~12 @ 29
 s1 ishmael_clearance_prime | shove | agg: 5.1~10.5 | dmg: 6~12 @ 29
 s1 ishmael_lcb_prime | loggerhead | agg: 4.55~10.85 | dmg: 5~12 @ 31
+s1 sinclair_l_corp | magnify_wound | agg: 5.45~9.95 | dmg: 5~10 @ 36
 s1 heathcliff_n_corp_prime | gawky_nailing | agg: 4.18~11.21 | dmg: 8~20 @ 33
 s1 rodion_rosespanner | rev_up | agg: 5.04~10.31 | dmg: 8~17 @ 38
 s1 ryoshu_chef | cooking_prep | agg: 5.04~10.31 | dmg: 8~17 @ 38

@@ -57,6 +57,7 @@ s1 rodion_kurokumo | sharpened_blade | agg: 5.3~10.7 | dmg: 5~11 @ 35
 s1 meursault_w_corp | rip | agg: 4.3~9.7 | dmg: 5~11 @ 30
 s1 outis_seven_weak | predictive_analysis | agg: 5.6~9.2 | dmg: 6~10 @ 32
 s1 heathcliff_lcb_prime | bat_bash | agg: 3.95~10.25 | dmg: 4~11 @ 33
+s1 sinclair_l_corp | magnify_wound | agg: 5.45~9.95 | dmg: 5~10 @ 36
 s1 rodion_clearance | bludgeon | agg: 5.3~10.7 | dmg: 4~10 @ 40
 s1 ryoshu_seven | slash | agg: 5.3~10.7 | dmg: 4~10 @ 40
 s1 rodion_clearance_weak | bludgeon | agg: 5.3~10.7 | dmg: 4~10 @ 40

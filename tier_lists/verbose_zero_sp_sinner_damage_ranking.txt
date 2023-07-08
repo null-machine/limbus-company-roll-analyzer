@@ -44,6 +44,7 @@ ishmael_shi | agg: 4.55~11.58 | dmg: 8.33~20.33 @ 34.0
 gregor_g_corp | agg: 6.39~13.16 | dmg: 8.67~19.83 @ 41.0
 hong_lu_liu | agg: 4.47~10.91 | dmg: 8.67~19.67 @ 33.0
 faust_l_corp | agg: 4.59~13.09 | dmg: 6.83~21.33 @ 37.0
+sinclair_l_corp | agg: 5.41~12.0 | dmg: 8.17~19.67 @ 36.0
 outis_seven_weak | agg: 5.5~11.09 | dmg: 9.33~18.33 @ 32.0
 hong_lu_k_corp | agg: 6.21~13.31 | dmg: 8.5~19.0 @ 36.0
 sinclair_mariachi | agg: 3.73~8.0 | dmg: 10.33~17.17 @ 27.0

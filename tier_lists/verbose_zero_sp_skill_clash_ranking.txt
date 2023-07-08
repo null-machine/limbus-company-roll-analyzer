@@ -61,6 +61,7 @@ s2 hong_lu_tingtang | shank | agg: 4.97~17.88 | dmg: 9~39 @ 38
 s2 ryoshu_chef | ingredient_hunt | agg: 4.97~17.88 | dmg: 9~39 @ 38
 s2 ryoshu_chef_prime | ingredient_hunt | agg: 4.97~17.88 | dmg: 9~39 @ 38
 s3 hong_lu_lcb | whirlwind | agg: 6.07~16.61 | dmg: 10~28 @ 36
+s3 sinclair_l_corp | rupturing_talisman | agg: 6.07~16.61 | dmg: 10~28 @ 36
 s2 don_quixote_lcb_prime | galloping_tilt | agg: 6.7~15.7 | dmg: 6~16 @ 36
 s2 faust_l_corp_prime | deep_cuts | agg: 7.22~14.97 | dmg: 18~36 @ 37
 s2 faust_n_corp | the_gripping | agg: 5.9~16.23 | dmg: 12~36 @ 39
@@ -130,6 +131,7 @@ s2 rodion_kurokumo | scattering_slash | agg: 6.44~11.71 | dmg: 12~21 @ 35
 s3 ishmael_clearance_prime | suppress | agg: 5.65~12.43 | dmg: 24~44 @ 29
 s1 ryoshu_seven_prime | slash | agg: 6.3~11.7 | dmg: 5~11 @ 40
 s3 gregor_rosespanner | lets_grind_em | agg: 5.02~12.77 | dmg: 12~30 @ 36
+s2 sinclair_l_corp | proliferating_talismans | agg: 5.02~12.77 | dmg: 12~30 @ 36
 s2 ishmael_shi | flashing_slide | agg: 5.38~12.41 | dmg: 10~22 @ 34
 s2 outis_blade | acupuncture | agg: 5.38~12.41 | dmg: 10~22 @ 34
 s2 outis_g_corp | onslaught_command | agg: 4.3~13.3 | dmg: 5~15 @ 29
@@ -187,6 +189,7 @@ s1 faust_w_corp_prime | energy_cycle | agg: 5.1~10.5 | dmg: 6~12 @ 29
 s1 ishmael_clearance_prime | shove | agg: 5.1~10.5 | dmg: 6~12 @ 29
 s2 sinclair_lcb | halberd_combo | agg: 5.15~10.31 | dmg: 12~24 @ 38
 s1 ishmael_lcb_prime | loggerhead | agg: 4.55~10.85 | dmg: 5~12 @ 31
+s1 sinclair_l_corp | magnify_wound | agg: 5.45~9.95 | dmg: 5~10 @ 36
 s2 heathcliff_lcb | smackdown | agg: 4.18~11.21 | dmg: 8~20 @ 33
 s2 rodion_lcb | axe_combo | agg: 4.18~11.21 | dmg: 8~20 @ 33
 s1 heathcliff_n_corp_prime | gawky_nailing | agg: 4.18~11.21 | dmg: 8~20 @ 33

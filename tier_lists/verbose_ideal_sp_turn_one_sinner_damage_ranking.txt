@@ -34,6 +34,7 @@ gregor_liu_prime | agg: 6.71~10.46 | dmg: 14.33~22.67 @ 40.0
 faust_l_corp_weak | agg: 4.52~12.14 | dmg: 6.83~19.83 @ 37.0
 faust_w_corp_prime | agg: 5.9~11.81 | dmg: 11.67~20.67 @ 29.0
 rodion_n_corp_prime | agg: 6.1~11.91 | dmg: 12.0~23.33 @ 37.0
+sinclair_l_corp | agg: 5.41~12.0 | dmg: 8.17~19.67 @ 36.0
 rodion_rosespanner | agg: 5.98~12.09 | dmg: 10.5~22.0 @ 38.0
 meursault_w_corp | agg: 4.4~9.39 | dmg: 10.83~19.5 @ 30.0
 ryoshu_seven_prime | agg: 7.25~15.7 | dmg: 7.33~19.33 @ 40.0

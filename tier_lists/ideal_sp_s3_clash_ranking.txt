@@ -19,6 +19,7 @@ s3 ishmael_lcb | shield_bash | agg: 6.8~17.6 | dmg: 7~19 @ 31
 s3 rodion_rosespanner | lets_rack_up_some_scores | agg: 6.7~17.03 | dmg: 15~39 @ 38
 s3 sinclair_mariachi | pinata_party | agg: 6.95~16.85 | dmg: 8~19 @ 27
 s3 hong_lu_lcb | whirlwind | agg: 6.07~16.61 | dmg: 10~28 @ 36
+s3 sinclair_l_corp | rupturing_talisman | agg: 6.07~16.61 | dmg: 10~28 @ 36
 s3 heathcliff_shi | flashing_strike | agg: 5.67~16.21 | dmg: 10~28 @ 34
 s3 ryoshu_kurokumo | lenticular_swirl | agg: 9.18~16.21 | dmg: 16~28 @ 38
 s3 hong_lu_liu | crimson_blaze_fist | agg: 5.47~16.01 | dmg: 10~28 @ 33

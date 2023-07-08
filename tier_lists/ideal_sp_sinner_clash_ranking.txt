@@ -24,6 +24,7 @@ rodion_rosespanner | agg: 5.98~12.09 | dmg: 10.5~22.0 @ 38.0
 outis_lcb | agg: 5.02~12.04 | dmg: 8.17~20.5 @ 38.0
 outis_g_corp | agg: 3.92~12.02 | dmg: 4.67~13.67 @ 29.0
 heathcliff_n_corp | agg: 4.37~12.01 | dmg: 7.0~19.67 @ 33.0
+sinclair_l_corp | agg: 5.41~12.0 | dmg: 8.17~19.67 @ 36.0
 ishmael_shi | agg: 4.55~11.58 | dmg: 8.33~20.33 @ 34.0
 don_quixote_lcb | agg: 4.01~11.45 | dmg: 4.33~14.17 @ 36.0
 yi_sang_blade | agg: 7.61~11.33 | dmg: 11.17~16.17 @ 41.0

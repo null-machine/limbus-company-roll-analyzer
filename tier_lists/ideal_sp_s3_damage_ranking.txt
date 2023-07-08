@@ -30,6 +30,7 @@ s3 gregor_chef | butcher_viand | agg: 5.83~9.21 | dmg: 20~30 @ 37
 s3 meursault_w_corp | energy_current | agg: 4.43~7.81 | dmg: 20~30 @ 30
 s3 ryoshu_kurokumo | lenticular_swirl | agg: 9.18~16.21 | dmg: 16~28 @ 38
 s3 hong_lu_lcb | whirlwind | agg: 6.07~16.61 | dmg: 10~28 @ 36
+s3 sinclair_l_corp | rupturing_talisman | agg: 6.07~16.61 | dmg: 10~28 @ 36
 s3 heathcliff_shi | flashing_strike | agg: 5.67~16.21 | dmg: 10~28 @ 34
 s3 hong_lu_liu | crimson_blaze_fist | agg: 5.47~16.01 | dmg: 10~28 @ 33
 s3 rodion_lcb | slay | agg: 2.45~9.23 | dmg: 8~28 @ 33

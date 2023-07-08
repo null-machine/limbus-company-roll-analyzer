@@ -55,6 +55,7 @@ s3 don_quixote_shi_prime | overbreathe | agg: 8.45~27.35 | dmg: 7~28 @ 37
 s3 ryoshu_kurokumo | lenticular_swirl | agg: 9.18~16.21 | dmg: 16~28 @ 38
 s3 hong_lu_k_corp_weak | excise_target | agg: 8.78~15.81 | dmg: 16~28 @ 36
 s3 hong_lu_lcb | whirlwind | agg: 6.07~16.61 | dmg: 10~28 @ 36
+s3 sinclair_l_corp | rupturing_talisman | agg: 6.07~16.61 | dmg: 10~28 @ 36
 s3 heathcliff_shi | flashing_strike | agg: 5.67~16.21 | dmg: 10~28 @ 34
 s3 hong_lu_liu | crimson_blaze_fist | agg: 5.47~16.01 | dmg: 10~28 @ 33
 s3 heathcliff_lcb_prime | upheaval | agg: 5.47~16.01 | dmg: 10~28 @ 33

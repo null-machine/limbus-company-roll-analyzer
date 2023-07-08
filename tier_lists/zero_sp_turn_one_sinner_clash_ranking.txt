@@ -21,6 +21,7 @@ yi_sang_blade | agg: 7.61~11.33 | dmg: 11.17~16.17 @ 41.0
 outis_lcb | agg: 5.02~12.04 | dmg: 8.17~20.5 @ 38.0
 ishmael_l_corp | agg: 4.74~12.19 | dmg: 6.33~16.0 @ 33.0
 heathcliff_shi | agg: 4.76~12.22 | dmg: 5.33~14.67 @ 34.0
+sinclair_l_corp | agg: 5.41~12.0 | dmg: 8.17~19.67 @ 36.0
 hong_lu_lcb | agg: 4.43~12.26 | dmg: 5.83~17.33 @ 36.0
 gregor_rosespanner | agg: 4.33~12.73 | dmg: 6.33~19.33 @ 36.0
 outis_g_corp | agg: 3.92~12.02 | dmg: 4.67~13.67 @ 29.0

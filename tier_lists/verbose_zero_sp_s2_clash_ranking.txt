@@ -55,6 +55,7 @@ s2 don_quixote_lcb | galloping_tilt | agg: 4.7~13.7 | dmg: 4~14 @ 36
 s2 faust_l_corp | deep_cuts | agg: 5.22~12.97 | dmg: 12~30 @ 37
 s2 faust_l_corp_weak | deep_cuts | agg: 5.22~12.97 | dmg: 12~30 @ 37
 s2 rodion_kurokumo | scattering_slash | agg: 6.44~11.71 | dmg: 12~21 @ 35
+s2 sinclair_l_corp | proliferating_talismans | agg: 5.02~12.77 | dmg: 12~30 @ 36
 s2 ishmael_shi | flashing_slide | agg: 5.38~12.41 | dmg: 10~22 @ 34
 s2 outis_blade | acupuncture | agg: 5.38~12.41 | dmg: 10~22 @ 34
 s2 outis_g_corp | onslaught_command | agg: 4.3~13.3 | dmg: 5~15 @ 29

@@ -22,6 +22,7 @@ s2 outis_g_corp | onslaught_command | agg: 4.3~13.3 | dmg: 5~15 @ 29
 s2 heathcliff_n_corp | purify | agg: 6.0~13.2 | dmg: 6~14 @ 33
 s2 gregor_chef | you_fresh_enough | agg: 5.8~13.0 | dmg: 6~14 @ 32
 s2 faust_l_corp | deep_cuts | agg: 5.22~12.97 | dmg: 12~30 @ 37
+s2 sinclair_l_corp | proliferating_talismans | agg: 5.02~12.77 | dmg: 12~30 @ 36
 s2 gregor_lcb | jag | agg: 3.7~12.7 | dmg: 4~14 @ 31
 s2 ishmael_shi | flashing_slide | agg: 5.38~12.41 | dmg: 10~22 @ 34
 s2 outis_blade | acupuncture | agg: 5.38~12.41 | dmg: 10~22 @ 34

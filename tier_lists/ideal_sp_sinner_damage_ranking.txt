@@ -18,6 +18,7 @@ meursault_liu | agg: 4.66~10.63 | dmg: 9.5~20.5 @ 34.0
 ishmael_shi | agg: 4.55~11.58 | dmg: 8.33~20.33 @ 34.0
 gregor_liu | agg: 5.71~9.46 | dmg: 11.67~20.0 @ 40.0
 gregor_g_corp | agg: 6.39~13.16 | dmg: 8.67~19.83 @ 41.0
+sinclair_l_corp | agg: 5.41~12.0 | dmg: 8.17~19.67 @ 36.0
 heathcliff_n_corp | agg: 4.37~12.01 | dmg: 7.0~19.67 @ 33.0
 hong_lu_liu | agg: 4.47~10.91 | dmg: 8.67~19.67 @ 33.0
 meursault_w_corp | agg: 4.4~9.39 | dmg: 10.83~19.5 @ 30.0

@@ -59,6 +59,7 @@ s3 don_quixote_w_corp_weak | rip_space | agg: 2.77~11.14 | dmg: 5~35 @ 38
 s3 faust_l_corp_weak | opportunistic_slash | agg: 5.56~19.62 | dmg: 8~32 @ 37
 s3 rodion_clearance | suppress | agg: 8.58~15.61 | dmg: 14~26 @ 40
 s3 hong_lu_lcb | whirlwind | agg: 6.07~16.61 | dmg: 10~28 @ 36
+s3 sinclair_l_corp | rupturing_talisman | agg: 6.07~16.61 | dmg: 10~28 @ 36
 s3 heathcliff_shi | flashing_strike | agg: 5.67~16.21 | dmg: 10~28 @ 34
 s3 hong_lu_liu | crimson_blaze_fist | agg: 5.47~16.01 | dmg: 10~28 @ 33
 s3 heathcliff_lcb_prime | upheaval | agg: 5.47~16.01 | dmg: 10~28 @ 33

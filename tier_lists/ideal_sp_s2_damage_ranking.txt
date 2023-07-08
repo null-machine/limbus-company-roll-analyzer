@@ -8,6 +8,7 @@ s2 faust_n_corp | the_gripping | agg: 5.9~16.23 | dmg: 12~36 @ 39
 s2 ishmael_liu | frontal_assault | agg: 5.9~16.23 | dmg: 12~36 @ 39
 s2 don_quixote_w_corp | leap | agg: 5.7~16.03 | dmg: 12~36 @ 38
 s2 faust_l_corp | deep_cuts | agg: 5.22~12.97 | dmg: 12~30 @ 37
+s2 sinclair_l_corp | proliferating_talismans | agg: 5.02~12.77 | dmg: 12~30 @ 36
 s2 ishmael_clearance | quake_rounds | agg: 3.62~11.37 | dmg: 12~30 @ 29
 s2 outis_seven | field_command | agg: 7.13~15.91 | dmg: 14~29 @ 32
 s2 meursault_w_corp | energy_cycle | agg: 4.55~9.71 | dmg: 15~27 @ 30
