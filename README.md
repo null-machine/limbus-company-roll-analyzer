@@ -57,7 +57,3 @@ This information can then be used to generate a set of tier lists.
 A common alternative approach for approximating clashing ability is to use other sinner skills as a point of reference and pit everyone against each other to see who wins the most. While this works for providing a realistic PvP tier list, it operates under the assumption that enemies will have similar rolls to sinners.
 
 This tool is engineered to be encounter agnostic. It considers clashes and damage totals at all relevant power levels, not just those of other sinners or existing content.
-
----
-
-Made by LOWERCASE#0357.
