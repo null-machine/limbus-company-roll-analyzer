@@ -52,6 +52,8 @@ What this means is, this list will make the game experience and future stages as
 
 If one wishes to attempt to future-proof their unit choices, this is not a bad place to start. Regardless, please recognize that all tier lists, including this one, are generalizations. Cases that favour units of lower tiers will always exist, especially when it comes to playing around sin resources and type weaknesses.
 
+Please note that the writeups are geared towards experienced players. New players will still be able to use the rankings as a reroll or banner guide.
+
 **What this isn't:**
 - A mirror dungeon tier list. Animation speeds and performance in undertuned stages with arbitrary artifacts play absolutely no role in any of these rankings.
 - An autobattle tier list. Knowing how to redirect clashes, cancel enemy actions, pace skill pools and manipulate skill order within a turn is critical for maximizing certain identities.
@@ -169,7 +171,7 @@ For a condensed version, the cyan, grey and magenta lines represent a sinner's c
 "raw" → raw damage.  
 The @ refers to offense level.  
 
-Emphasis will not be placed on skill colours— there's no telling what future EGOs hold in store. Furthermore, Refraction Railway 1 has proven that simply taking strong individual identities will outperform a team that goes out of its way to align colours for EGO spam or resonance. Having rare damage types in the current state of the game will not serve as as a ranking factor for similar reasons.
+Emphasis will not be placed on skill colours— there's no telling what future EGOs hold in store. Furthermore, Refraction Railway 1 has proven that simply taking strong individual identities will outperform a team that goes out of its way to align colours for EGO spam or resonance. Having rare damage types in the current state of the game will not serve as as a ranking factor for similar reasons. Additionally, EGOs will kept in mind when determining rankings, but only mentioned if they are borderline intertwined with an identity's playstyle (e.g. G Gregor with Legerdemain or SS Heathcliff with AEDD). Micromanaging every single synergy is not practical, so determining how much a sinner's relevance is impacted by the existence of a specific strategy falls to the reader.
 
 For the sake of transparency, let it be known that the author uses G Gregor, N Sinclair, L Faust and W Don very frequently, and dislikes R Heathcliff, N Rodion and LCCB Ishmael. Everything is still kept as objective as possible.
 
@@ -251,9 +253,9 @@ The prime chart represents Heathcliff with +1 power from his charge passive and 
 \- Punished harsher against enemies that burst tremor and apply potency (but this is inherently situational and chances are he'll perform well anyways)  
 \- S3's deluge is impractical even with heavy sinking investment  
 
-![](assets/biggerlif.png)
+![](assets/EniuYQn.png)
 
-*How to aim AoE (tutorial by LIF-tan)*
+*Tutorial by LIF-tan*
 
 ---
 
@@ -266,6 +268,7 @@ The prime chart represents Heathcliff with +1 power from his charge passive and 
 \+ Evade recycles can stack 4th Match Flame, adding tempo to S3  
 \+ Viable in low-sinner and solo compositions  
 \+ No ammo or charge limitations  
+\+ Obligatory mention of her mild team healing sustain  
 
 \- Kit effects are disorganized and stage dependent (but her numbers don't rely on them)  
 \- Extremely similar to N Faust, who trades numbers for debuffs
