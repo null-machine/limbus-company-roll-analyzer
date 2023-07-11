@@ -19,17 +19,17 @@ toc_sticky: true
 
 # Yet Another Limbus Company Tier List
 
-Written and maintained by a stats-obsessed psychopath, LOWERCASE (null_machine).
+Written and maintained by a math-obsessed psychopath, LOWERCASE (null_machine).
 
 Critically reviewed by Nex (nex7448) and Kervina.
 
-[The analysis tool this tier list is based on can be found here.](https://github.com/null-machine/limbus-company-clash-tool)
+[The analysis tool this tier list is based on can be found here. Everyone's charts can be found here as well.](https://github.com/null-machine/limbus-company-clash-tool)
 
 Limbus Company belongs to Project Moon.
 
 Last update: 2023.6
 
-Note: No updates will occur until the new offense system is released, for ease of maintenance.
+Note: No new identities will be added until the new offense system is released, for ease of maintenance.
 
 ---
 
@@ -222,7 +222,7 @@ The weak chart represents Don Quixote with Rip Space uncharged.
 
 ![](assets/w_don_solo.png)
 
-*When the space is ripped (clear by Nex#7448)*
+*When the space is ripped (clear by Nex)*
 
 ---
 
@@ -286,6 +286,7 @@ The prime chart represents Faust with Representation Emitter's +2 power active.
 \+ No ammo or charge limitations  
 \+ Fares consistently and reliably with her great numbers  
 \+ Debuffs from kit effects provide easily capitalizable tempo  
+\+ Sanity restoration is a nice quality of life boost but generally unimpactful   
 
 \- Extremely similar to Chef Ryoshu, who trades debuffs for better numbers  
 
