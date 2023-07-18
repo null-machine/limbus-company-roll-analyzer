@@ -29,7 +29,7 @@ Limbus Company belongs to Project Moon.
 
 Last update: 2023.6
 
-Note: No new identities will be added until the new offense system is released, for ease of maintenance.
+Note: No new identities will be added until 2023.7.20 update is released, for ease of maintenance. Nex wishes to try out UT4 units before making judgement calls, so this update will likely take a while. However, it's likely that LOWERCASE will have generated all the charts for both UT3 and UT4 units before then, so just use their data rankings combined with common sense for the time being.
 
 ---
 
@@ -44,31 +44,36 @@ Pressing HOME on the keyboard will scroll to the top of the page.
 
 ## Introduction
 
-**What this is:**  
+This is an encounter-agnostic tier list that attempts to rank sinners by general relevance. The rankings may be used for rerolling, as a banner guide, or simply providing a second opinion. Please note that the writeups are geared towards experienced players.
 
-An encounter agnostic tier list. The rationale behind a sinner's rank will never be based solely on their performance in existing content to emphasize future viability. First and foremost, the numbers on their rolls will be analyzed in detail to approximate their ability to clash and deal damage, since this ability is universal and critical. Then, notable parts about their kit that compensate or undermine their numbers will be taken into account. Example strategies and experiences will be provided if appropriate, but won't form the basis of judgement.
+The rationale behind a sinner's rank will never be based solely on their performance in existing content to emphasize future viability. First and foremost, the numbers on their rolls will be analyzed in detail to approximate their ability to clash and deal damage, since this ability is universal and critical. Then, notable parts about their kit that compensate or undermine their numbers will be taken into account. Example strategies and experiences will be provided if appropriate.
+
+Through this metric, it becomes apparent that some sinners will likely be able to directly outperform other options in a large number of cases, and this forms the basis of evaluation. If a sinner becoming unsuitable implies that a sizable chunk of the cast will also become inviable, they probably have high relevance and will remain relatively future-proof.
 
 What this means is, this list will make the game experience and future stages as accessible as possible. Investing in high-tier units will provide a practical way to clear content. Failing that, it will illustrate the opportunity cost of not having certain units (which is usually far more acceptable than influencers would suggest).
 
-If one wishes to attempt to future-proof their unit choices, this is not a bad place to start. Regardless, please recognize that all tier lists, including this one, are generalizations. Cases that favour units of lower tiers will always exist, especially when it comes to playing around sin resources and type weaknesses.
+Regardless, please recognize that all tier lists, including this one, are generalizations. Cases that favour units of lower tiers will always exist, especially when it comes to playing around sin resources, type weaknesses and edge case synergies. It is unrealistic to expect any tier list to take every single aspect into account, but this one hopefully provides a solid analysis by combining objective numbers with veteran experience.
 
-Please note that the writeups are geared towards experienced players. New players will still be able to use the rankings as a reroll or banner guide.
-
-**What this isn't:**
-- A mirror dungeon tier list. Animation speeds and performance in undertuned stages with arbitrary artifacts play absolutely no role in any of these rankings.
-- An autobattle tier list. Knowing how to redirect clashes, cancel enemy actions, pace skill pools and manipulate skill order within a turn is critical for maximizing certain identities.
+Finally, let it be emphasized that this is __not__ an autobattle tier list. Knowing how to redirect clashes, cancel enemy actions, pace skill pools and manipulate skill order within a turn is critical for doing identities justice. Learning those skills will make content far more accessible than whaling for rarity abuse.
 
 ---
 
 ## Rankings
 
-Sinners within S tier and A tier are deliberately ordered. In other tiers, sinners are grouped by affiliation first, and then ordered based on the average power of the affiliation. This is done to emphasize that not all ordering choices are equally significant.
+Sinners within S tier and A tier are deliberately ordered. In other tiers, sinners are grouped by affiliation first, and then ordered based on the average power of the affiliation. This is done to emphasize that not all ordering choices are equally significant. 
 
-A blue badge indicates that a unit benefits significantly from technical prowess. They may gain more than usual from having multiple actions per turn, emphasize tempo control or require specific techniques to compensate for a lack of damage.
+Units have badges that denote certain changes.
 
-A yellow badge indicates that a unit has a notably good support passive. They may be impactful when benched, especially for low-sinner teams. Note that the ranking evaluates fielded performance, not support passives, so this badge serves as a footnote on how an identity may stay relevant despite their rank.
+__Cyan:__ This unit benefits significantly from technical prowess. They may gain more than usual from having multiple actions per turn, emphasize tempo control or require specific techniques to prove their worth. Their power will likely drop significantly when played by autobattle.
 
-A pink badge indicates that a unit performs abnormally well in the context of maximax strategies. They may be an option for optimizing Refraction Railway, but achieving their prime state may require too many brain-off resets to be practical in other settings.
+__Yellow:__ This unit has a notable support passive. They may be impactful when benched, especially for low-sinner teams. Note that all rankings evaluate fielded performance, so this badge serves as a footnote on how an identity may stay relevant despite their rank.
+
+__Magenta:__ This unit may be heavily reliant on RNG or have maximization requirements that can be more time-consuming than difficult. They may be an option for optimizing low turn clears, but be impractical in other settings.
+
+__Red:__ This unit's rank is highly-contested. These sinners may excel in one aspect while severely lacking another, resulting in a volatile rank that depends on what individual players value more. Individuals are highly encouraged to rank this unit themselves. Chances are, the creators probably came to a stalemate and their ranking is a compromise.
+
+__Green:__ This unit gains abnormally high power from UT4. A heavy investment cost is necessary for them to earn their rank. Certain UT4 EGOs may also be integral to their performance.
+
 
 ---
 
@@ -163,17 +168,16 @@ These units should not be prioritized for practical combat.
 
 ## Writeups
 
-[A full explanation of how to read the roll charts, as well as missing charts, can be found here.](https://github.com/null-machine/limbus-company-clash-tool) 
+This section is geared towards advanced players. New players will still be able to use the rankings as a reroll or banner guide, and will gain appreciation for high-tier units as experience with the game increases.
 
-For a condensed version, the cyan, grey and magenta lines represent a sinner's chance to beat a power at max, zero and minimum sanity. The y-axis represents chance of winning the clash, and the x-axis represents the power of the opposing skill.
+The coloured lines represent a sinner's chance to beat a power at varying sanity levels. The y-axis represents chance of winning the clash, and the x-axis represents the power of the opposing skill.
 
-"agg" → aggregate, or clash power.  
-"raw" → raw damage.  
-The @ refers to offense level.  
+"agg" → aggregate, or clash power. This accounts for offense and possible coin destructions on the ally skill.  
+"dmg" → raw damage, or the sum of all coins landing. The @ refers to offense level.  
 
-Emphasis will not be placed on skill colours— there's no telling what future EGOs hold in store. Furthermore, Refraction Railway 1 has proven that simply taking strong individual identities will outperform a team that goes out of its way to align colours for EGO spam or resonance. Having rare damage types in the current state of the game will not serve as as a ranking factor for similar reasons. Additionally, EGOs will kept in mind when determining rankings, but only mentioned if they are borderline intertwined with an identity's playstyle (e.g. G Gregor with Legerdemain or SS Heathcliff with AEDD). Micromanaging every single synergy is not practical, so determining how much a sinner's relevance is impacted by the existence of a specific strategy falls to the reader.
+It is impractical to take into account every aspect of every identity for every version of the game. Emphasis will not be placed on skill colours— there's no telling what future EGOs hold in store. Furthermore, Refraction Railway 1 has proven that simply taking strong individual identities will outperform a team that goes out of its way to align colours for EGO spam or resonance. Having rare damage types in the current state of the game will not serve as as a ranking factor for similar reasons. Additionally, EGOs will kept in mind when determining rankings, but only mentioned if they are borderline intertwined with an identity's playstyle (e.g. G Gregor with Legerdemain or SS Heathcliff with AEDD). Micromanaging every single synergy is not practical, so determining how much a sinner's relevance is impacted by the existence of a specific strategy falls to the reader.
 
-For the sake of transparency, let it be known that the author uses G Gregor, N Sinclair, L Faust and W Don very frequently, and dislikes R Heathcliff, N Rodion and LCCB Ishmael. Everything is still kept as objective as possible.
+For the sake of transparency, let it be known that the author is biased towards G Gregor, N Sinclair, L Faust and W Don, and biased against R Heathcliff, N Rodion and LCCB Ishmael. Everything is still kept as objective as possible.
 
 ---
 
@@ -186,14 +190,14 @@ The prime chart represents Sinclair with fanatic's +1 power active.
 
 \+ Minus coins provide an unprecedently strong baseline clash power, since destroyed coins are unable to lower skill clash power  
 \+ Unrolled damage coins are treated as tails rolls, giving skills a powerful first hit, which also opens up new ways to play around stagger thresholds  
-\+ Corrosion tempo tech allows him to act during stagger or manifest ego without paying resource costs  
+\+ Corrosion tempo tech allows him to act during stagger or manifest EGO without paying resource costs  
 \+ Strangely powerful defensive skill that does not interfere with sin generation and offers a means of controlling sanity when anticipating high drops  
 \+ Control over sanity scales with the number of actions he receives, increasing his consistency when being the first action recipient, or in low-sinner compositions  
-\+ Different corroded ego skills may generate with different targets, making indiscriminate targeting more lenient  
+\+ Different corroded EGO skills may generate with different targets, making indiscriminate targeting more lenient  
 
 \- Will effectively never maintain the consistency of plus coin units; kit maximization is impractical  
 \- Works relatively poorly in a full team due to the higher chance of hitting allies and worse sanity control  
-\- Skipping ego in favour of panic invokes a heavy opportunity cost, and giving up on sanity management massively reduces his consistency  
+\- Skipping EGO in favour of panic invokes a heavy opportunity cost, and giving up on sanity management massively reduces his consistency  
 \- Benefits more from being max level than usual  
 \- Strangely low defense (but offset with a high health pool)  
 
