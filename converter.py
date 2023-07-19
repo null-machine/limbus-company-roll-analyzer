@@ -23,7 +23,7 @@ for file in files:
 			skill.damage_bonuses = [0, 0, 0, 0]
 			skill.prime_bonuses = [0, 0, 0, 0]
 			skill.prime_damage_bonuses = [0, 0, 0, 0]
-			skill.weak_bonuses = [0, 0, 0, 0]
+			skill.weak_bonuses = [-1, -1, -1, -1]
 			skill.weak_damage_bonuses = [0, 0, 0, 0]
 			# del skill.name
 			del skill.base_power
@@ -31,5 +31,5 @@ for file in files:
 			del skill.coin_count
 			del skill.offense
 		data = yaml.dump(sinner, sort_keys=False)
-		output = open(f'sinners_ut3/{file}', 'w')
+		output = open(f'testfolder/{file}', 'w')
 		output.write(data)
