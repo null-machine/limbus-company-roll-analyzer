@@ -92,41 +92,16 @@ class Sinner:
 	
 	def calibrate(self):
 		for i in range(0, len(self.skills)):
-			self.skills[i].user = self.name
-			self.skills[i].type = f's{i + 1}'
-			self.skills[i].calibrate()
-		
-		if self.name.endswith('_partial'):
-			self.max_agg = (3 * self.skills[0].max_agg + 2 * self.skills[1].max_agg) / 5
-			self.min_agg = (3 * self.skills[0].min_agg + 2 * self.skills[1].min_agg) / 5
-			self.max_dmg = (3 * self.skills[0].max_dmg + 2 * self.skills[1].max_dmg) / 5
-			self.min_dmg = (3 * self.skills[0].min_dmg + 2 * self.skills[1].min_dmg) / 5
-			self.offense = (3 * self.skills[0].offense + 2 * self.skills[1].offense) / 5
+			self.skills[i].calibrate(self.name, f's{i + 1}')
 			
-			self.turn_one_max_agg = (9 * self.skills[0].max_agg + 16 * self.skills[1].max_agg) / 25
-			self.turn_one_min_agg = (9 * self.skills[0].min_agg + 16 * self.skills[1].min_agg) / 25
-			self.turn_one_max_dmg = (9 * self.skills[0].max_dmg + 16 * self.skills[1].max_dmg) / 25
-			self.turn_one_min_dmg = (9 * self.skills[0].min_dmg + 16 * self.skills[1].min_dmg) / 25
-			self.turn_one_offense = (9 * self.skills[0].offense + 16 * self.skills[1].offense) / 25
-		else:
-			self.turn_one_max_agg = (1 * self.skills[0].max_agg + 2 * self.skills[1].max_agg + self.skills[2].max_agg) / 6
-			self.turn_one_min_agg = (1 * self.skills[0].min_agg + 2 * self.skills[1].min_agg + self.skills[2].min_agg) / 6
-			self.turn_one_max_dmg = (1 * self.skills[0].max_dmg + 2 * self.skills[1].max_dmg + self.skills[2].max_dmg) / 6
-			self.turn_one_min_dmg = (1 * self.skills[0].min_dmg + 2 * self.skills[1].min_dmg + self.skills[2].min_dmg) / 6
-			self.turn_one_offense = (1 * self.skills[0].offense + 2 * self.skills[1].offense + self.skills[2].offense) / 6
-			
-			self.max_agg = (3 * self.skills[0].max_agg + 2 * self.skills[1].max_agg + self.skills[2].max_agg) / 6
-			self.min_agg = (3 * self.skills[0].min_agg + 2 * self.skills[1].min_agg + self.skills[2].min_agg) / 6
-			self.max_dmg = (3 * self.skills[0].max_dmg + 2 * self.skills[1].max_dmg + self.skills[2].max_dmg) / 6
-			self.min_dmg = (3 * self.skills[0].min_dmg + 2 * self.skills[1].min_dmg + self.skills[2].min_dmg) / 6
-			self.offense = (3 * self.skills[0].offense + 2 * self.skills[1].offense + self.skills[2].offense) / 6
-	
-	# def set_rankings(self, competitor_count, full_deck, strong_bias, s1_rank, s2_rank, s3_rank):
-	# 	self.competitor_count = competitor_count
-	# 	self.full_deck = full_deck
-	# 	self.strong_bias = strong_bias
-	# 	self.s1_rank = s1_rank
-	# 	self.s2_rank = s2_rank
-	# 	self.s3_rank = s3_rank
-	
+		# self.turn_one_max_agg = (1 * self.skills[0].max_agg + 2 * self.skills[1].max_agg + self.skills[2].max_agg) / 6
+		# self.turn_one_min_agg = (1 * self.skills[0].min_agg + 2 * self.skills[1].min_agg + self.skills[2].min_agg) / 6
+		# self.turn_one_max_dmg = (1 * self.skills[0].max_dmg + 2 * self.skills[1].max_dmg + self.skills[2].max_dmg) / 6
+		# self.turn_one_min_dmg = (1 * self.skills[0].min_dmg + 2 * self.skills[1].min_dmg + self.skills[2].min_dmg) / 6
+		# self.turn_one_offense = (1 * self.skills[0].offense + 2 * self.skills[1].offense + self.skills[2].offense) / 6
 		
+		# self.max_agg = (3 * self.skills[0].max_agg + 2 * self.skills[1].max_agg + self.skills[2].max_agg) / 6
+		# self.min_agg = (3 * self.skills[0].min_agg + 2 * self.skills[1].min_agg + self.skills[2].min_agg) / 6
+		# self.max_dmg = (3 * self.skills[0].max_dmg + 2 * self.skills[1].max_dmg + self.skills[2].max_dmg) / 6
+		# self.min_dmg = (3 * self.skills[0].min_dmg + 2 * self.skills[1].min_dmg + self.skills[2].min_dmg) / 6
+		# self.offense = (3 * self.skills[0].offense + 2 * self.skills[1].offense + self.skills[2].offense) / 6
