@@ -4,6 +4,8 @@ toc: true
 toc_sticky: true
 ---
 
+<!-- TODO include "max clash" on s1, s2, s3 -->
+
 <meta property="og:title" content="Yet Another Limbus Company Tier List">
 <meta property="og:description" content="A Limbus Company tier list based on numerical analysis, supported by experience.">
 <head>
