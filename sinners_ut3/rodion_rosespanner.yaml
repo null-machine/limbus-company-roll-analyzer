@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: rodion_rosespanner
+name: rodion_rosespanner_ut3
 skills:
 - !!python/object:skill.Skill
   coin_type: plus

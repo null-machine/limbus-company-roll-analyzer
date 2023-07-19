@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: ryoshu_lcb
+name: ryoshu_lcb_ut3
 skills:
 - !!python/object:skill.Skill
   coin_type: plus

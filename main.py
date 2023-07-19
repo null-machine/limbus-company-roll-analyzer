@@ -31,6 +31,21 @@ for file in files:
 	sinner.calibrate()
 
 for sinner in sinners:
+	sinner.competitor_count = len(sinners)
+
+for i in range(0, 3):
+	for j in range (0, 4):
+		sinners.sort(reverse=True, key=lambda x: x.elite_bias_scores_matrix[i][j])
+		for k in range(0, len(sinners)):
+			sinners[k].elite_bias_ranks_matrix[i][j] = k + 1
+
+for i in range(0, 3):
+	for j in range (0, 4):
+		sinners.sort(reverse=True, key=lambda x: x.full_deck_scores_matrix[i][j])
+		for k in range(0, len(sinners)):
+			sinners[k].full_deck_ranks_matrix[i][j] = k + 1
+
+for sinner in sinners:
 	plt = sinner.gen_chart(1)
 	plt.savefig(f'charts_ut3/{sinner.name}.png')
 	plt.close()

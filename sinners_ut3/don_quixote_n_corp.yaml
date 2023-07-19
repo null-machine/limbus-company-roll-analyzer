@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: don_quixote_n_corp
+name: don_quixote_n_corp_ut3
 skills:
 - !!python/object:skill.Skill
   coin_type: plus

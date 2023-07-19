@@ -13,12 +13,17 @@ class Skill:
 		self.weak_bonuses = weak_bonuses
 		self.weak_damage_bonuses = weak_damage_bonuses
 	
-	def gen_summary(self):
-		return f'{self.type} {self.user} | {self.gen_display()}'
+	def gen_summary(self, variant):
+		return f'{self.type} {self.user} | {self.gen_display(variant)}'
 	
-	def gen_display(self):
-		return self.name
-		# return f'{self.name} | agg: {round(self.min_agg, 2)}~{round(self.max_agg, 2)} | dmg: {round(self.min_dmg, 2)}~{round(self.max_dmg, 2)} @ {self.offense}'
+	def gen_display(self, variant):
+		# return self.name
+		offense = self.stats[3]
+		if variant == 0:
+			offense += weak_bonuses[3]
+		elif variant == 2:
+			offense += prime_bonuses[3]
+		return f'{self.name} | clash: {round(self.scores_matrix[variant][0], 2)}~{round(self.scores_matrix[variant][1], 2)} | dmg: {round(self.scores_matrix[variant][2], 2)}~{round(self.scores_matrix[variant][3], 2)} @ {offense}'
 		
 	def calibrate(self, user, slot):
 		self.user = user
@@ -37,6 +42,8 @@ class Skill:
 		self.calibrate_variant(0, self.stats[0] + self.weak_bonuses[0], self.stats[1] + self.weak_bonuses[1], self.stats[2] + self.weak_bonuses[2], self.stats[3] + self.weak_bonuses[3], self.weak_damage_bonuses)
 		self.calibrate_variant(1, self.stats[0], self.stats[1], self.stats[2], self.stats[3], self.damage_bonuses)
 		self.calibrate_variant(2, self.stats[0] + self.prime_bonuses[0], self.stats[1] + self.prime_bonuses[1], self.stats[2] + self.prime_bonuses[2], self.stats[3] + self.prime_bonuses[3], self.prime_damage_bonuses)
+		
+		self.max_clash_matrix = []
 		return
 		
 	def calibrate_variant(self, variant, base_power, coin_power, coin_count, offense, damage_bonuses):

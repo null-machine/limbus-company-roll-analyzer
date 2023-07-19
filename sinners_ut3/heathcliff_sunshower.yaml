@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: heathcliff_sunshower
+name: heathcliff_sunshower_ut3
 skills:
 - !!python/object:skill.Skill
   coin_type: minus

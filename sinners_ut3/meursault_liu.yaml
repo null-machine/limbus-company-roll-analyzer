@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: meursault_liu
+name: meursault_liu_ut3
 skills:
 - !!python/object:skill.Skill
   coin_type: plus

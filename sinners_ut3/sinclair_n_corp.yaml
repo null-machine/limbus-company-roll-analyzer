@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: sinclair_n_corp
+name: sinclair_n_corp_ut3
 skills:
 - !!python/object:skill.Skill
   coin_type: minus

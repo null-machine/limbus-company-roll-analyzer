@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: outis_g_corp
+name: outis_g_corp_ut3
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
