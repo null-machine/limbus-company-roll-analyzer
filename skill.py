@@ -17,7 +17,8 @@ class Skill:
 		return f'{self.type} {self.user} | {self.gen_display()}'
 	
 	def gen_display(self):
-		return f'{self.name} | agg: {round(self.min_agg, 2)}~{round(self.max_agg, 2)} | dmg: {round(self.min_dmg, 2)}~{round(self.max_dmg, 2)} @ {self.offense}'
+		return self.name
+		# return f'{self.name} | agg: {round(self.min_agg, 2)}~{round(self.max_agg, 2)} | dmg: {round(self.min_dmg, 2)}~{round(self.max_dmg, 2)} @ {self.offense}'
 		
 	def calibrate(self, user, slot):
 		self.user = user

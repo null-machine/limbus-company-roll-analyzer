@@ -27,5 +27,10 @@ print("Generating charts...")
 for file in files:
 	stream = open(f'sinners_ut3/{file}', 'r')
 	sinner = yaml.load(stream, yaml.Loader)
+	sinners.append(sinner)
 	sinner.calibrate()
-	
+
+for sinner in sinners:
+	plt = sinner.gen_chart(1)
+	plt.savefig(f'charts_ut3/{sinner.name}.png')
+	plt.close()
