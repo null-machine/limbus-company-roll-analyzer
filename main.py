@@ -9,16 +9,10 @@ import numpy as np
 sinners = []
 skills = []
 
-
-# def gen_ranking(title, list, key):
-# 	list.sort(reverse=True, key=key)
-# 	file = open(f'tier_lists/{title}.txt', 'w+')
-# 	for x in list:
-# 		file.write(f'{x.gen_summary()}\n')
-# 	file.close()
-	
-
-print("Generating charts...")
+variant_names = ["adverse", "expected", "prime"]
+uptie_names = ["ut3", "ut4"]
+sinner_score_names = ["clash_worst_sp", "clash_ideal_sp", "damage_worst_sp", "damage_ideal_sp"]
+skill_score_names = ["clash_worst_sp", "clash_ideal_sp", "damage_worst_sp", "damage_ideal_sp", "ceiling"]
 
 files = [file for file in listdir('sinners_ut3')]
 
@@ -35,24 +29,34 @@ for sinner in sinners:
 
 for skill in skills:
 	skill.competitor_count = len(skills)
+	
+print("Calibration complete...")
 
 for i in range(0, 3):
 	for j in range (0, 4):
 		sinners.sort(reverse=True, key=lambda x: x.elite_bias_score_matrix[i][j])
+		file = open(f'rankings_ut3/{variant_names[i]}_{sinner_score_names[j]}_elite_bias_rankings.txt', 'w')
 		for k in range(0, len(sinners)):
 			sinners[k].elite_bias_rank_matrix[i][j] = k + 1
+			file.write(f'{sinners[k].gen_summary(i)}\n')
 
 for i in range(0, 3):
 	for j in range (0, 4):
 		sinners.sort(reverse=True, key=lambda x: x.full_deck_score_matrix[i][j])
+		file = open(f'rankings_ut3/{variant_names[i]}_{sinner_score_names[j]}_full_deck_rankings.txt', 'w')
 		for k in range(0, len(sinners)):
 			sinners[k].full_deck_rank_matrix[i][j] = k + 1
+			file.write(f'{sinners[k].gen_summary(i)}\n')
 
 for i in range(0, 3):
 	for j in range (0, 5):
 			skills.sort(reverse=True, key=lambda x: x.score_matrix[i][j])
+			file = open(f'rankings_ut3/{variant_names[i]}_{skill_score_names[j]}_skill_rankings.txt', 'w')
 			for k in range(0, len(skills)):
 				skills[k].rank_matrix[i][j] = k + 1
+				file.write(f'{skills[k].gen_summary(i)}\n')
+
+print("Rankings complete...")
 
 for i in range(0, 3):
 	for sinner in sinners:
@@ -68,3 +72,5 @@ for i in range(0, 3):
 			variant_name = 'prime'
 		plt.savefig(f'charts_ut3/{sinner.name}_{variant_name}.png')
 		plt.close()
+
+print("Charts generated...")

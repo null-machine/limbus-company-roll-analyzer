@@ -14,7 +14,7 @@ class Skill:
 		self.weak_damage_bonuses = weak_damage_bonuses
 	
 	def gen_summary(self, variant):
-		return f'{self.type} {self.user} | {self.gen_display(variant)}'
+		return f'{self.slot} {self.user} | {self.gen_display(variant)}'
 	
 	def gen_display(self, variant):
 		# return self.name
