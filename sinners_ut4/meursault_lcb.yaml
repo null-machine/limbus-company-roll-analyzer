@@ -1,14 +1,14 @@
 !!python/object:sinner.Sinner
-name: meursault_lcb_ut3
+name: meursault_lcb_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
   name: un_deux
   stats:
-  - 2
+  - 3
   - 4
   - 2
-  - -9
+  - -3
   damage_bonuses:
   - 0
   - 0
@@ -38,10 +38,10 @@ skills:
   coin_type: plus
   name: nailing_fist
   stats:
-  - 5
-  - 8
+  - 6
+  - 9
   - 1
-  - -9
+  - -3
   damage_bonuses:
   - 0
   - 0
@@ -72,9 +72,9 @@ skills:
   name: des_coups
   stats:
   - 4
-  - 1
+  - 2
   - 4
-  - -9
+  - -3
   damage_bonuses:
   - 0
   - 0

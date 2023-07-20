@@ -1,12 +1,12 @@
 !!python/object:sinner.Sinner
-name: hong_lu_tingtang_ut3
+name: hong_lu_tingtang_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
   name: throat_slit
   stats:
   - 5
-  - 6
+  - 8
   - 1
   - 3
   damage_bonuses:
@@ -36,7 +36,7 @@ skills:
   - 0
 - !!python/object:skill.Skill
   coin_type: plus
-  name: shank
+  name: jag
   stats:
   - 3
   - 5

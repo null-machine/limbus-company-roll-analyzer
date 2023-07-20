@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: meursault_rosespanner_ut3
+name: meursault_rosespanner_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
@@ -8,19 +8,19 @@ skills:
   - 4
   - 6
   - 1
-  - -2
+  - 1
   damage_bonuses:
   - 0
   - 0
   - 0
   - 0
   prime_bonuses:
-  - 0
-  - 0
+  - 1
+  - 2
   - 0
   - 0
   prime_damage_bonuses:
-  - 0
+  - -1
   - 0
   - 0
   - 0
@@ -41,19 +41,19 @@ skills:
   - 5
   - 4
   - 2
-  - -2
+  - 1
   damage_bonuses:
   - 0
   - 0
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 2
   - 0
   - 0
   - 0
   prime_damage_bonuses:
-  - 0
+  - -1
   - 0
   - 0
   - 0
@@ -74,19 +74,19 @@ skills:
   - 4
   - 2
   - 4
-  - -2
+  - 1
   damage_bonuses:
   - 0
   - 0
   - 0
   - 0
   prime_bonuses:
-  - 0
-  - 0
+  - 1
+  - 1
   - 0
   - 0
   prime_damage_bonuses:
-  - 0
+  - -1
   - 0
   - 0
   - 0

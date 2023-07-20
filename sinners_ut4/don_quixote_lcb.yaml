@@ -1,11 +1,11 @@
 !!python/object:sinner.Sinner
-name: don_quixote_lcb_ut3
+name: don_quixote_lcb_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
   name: joust
   stats:
-  - 3
+  - 4
   - 7
   - 1
   - 1
@@ -15,7 +15,7 @@ skills:
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 2
   - 0
   - 0
   - 0
@@ -39,7 +39,7 @@ skills:
   name: galloping_tilt
   stats:
   - 4
-  - 10
+  - 12
   - 1
   - 1
   damage_bonuses:
@@ -48,7 +48,7 @@ skills:
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 2
   - 0
   - 0
   - 0
@@ -81,8 +81,8 @@ skills:
   - 0
   - 0
   prime_bonuses:
-  - 0
-  - 0
+  - 2
+  - 2
   - 0
   - 0
   prime_damage_bonuses:

@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: don_quixote_n_corp_ut3
+name: don_quixote_n_corp_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
@@ -8,7 +8,7 @@ skills:
   - 3
   - 4
   - 2
-  - -1
+  - 1
   damage_bonuses:
   - 0
   - 0
@@ -41,7 +41,7 @@ skills:
   - 4
   - 12
   - 1
-  - -1
+  - 1
   damage_bonuses:
   - 0
   - 0
@@ -71,10 +71,10 @@ skills:
   coin_type: plus
   name: fanatical_judgement
   stats:
-  - 4
+  - 5
   - 3
   - 3
-  - -1
+  - 1
   damage_bonuses:
   - 0
   - 0

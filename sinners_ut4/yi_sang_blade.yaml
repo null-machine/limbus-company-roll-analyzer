@@ -1,14 +1,14 @@
 !!python/object:sinner.Sinner
-name: yi_sang_blade_ut3
+name: yi_sang_blade_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
   name: strikers_stance
   stats:
-  - 5
   - 6
+  - 8
   - 1
-  - 6
+  - 5
   damage_bonuses:
   - 0
   - 0
@@ -16,7 +16,7 @@ skills:
   - 0
   prime_bonuses:
   - 0
-  - 0
+  - 2
   - 0
   - 0
   prime_damage_bonuses:
@@ -26,7 +26,7 @@ skills:
   - 0
   weak_bonuses:
   - 0
-  - 0
+  - -1
   - 0
   - 0
   weak_damage_bonuses:
@@ -39,9 +39,9 @@ skills:
   name: heel_turn
   stats:
   - 7
-  - 1
+  - 3
   - 2
-  - 6
+  - 5
   damage_bonuses:
   - 0
   - 0
@@ -49,7 +49,7 @@ skills:
   - 0
   prime_bonuses:
   - 0
-  - 0
+  - 2
   - 0
   - 0
   prime_damage_bonuses:
@@ -59,7 +59,7 @@ skills:
   - 0
   weak_bonuses:
   - 0
-  - 0
+  - -1
   - 0
   - 0
   weak_damage_bonuses:
@@ -72,9 +72,9 @@ skills:
   name: flank_thrust
   stats:
   - 8
-  - 1
   - 3
-  - 6
+  - 3
+  - 5
   damage_bonuses:
   - 0
   - 0
@@ -82,7 +82,7 @@ skills:
   - 0
   prime_bonuses:
   - 0
-  - 0
+  - 2
   - 0
   - 0
   prime_damage_bonuses:
@@ -92,7 +92,7 @@ skills:
   - 0
   weak_bonuses:
   - 0
-  - 0
+  - -1
   - 0
   - 0
   weak_damage_bonuses:

@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: ishmael_lccb_ut3
+name: ishmael_lccb_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
@@ -8,14 +8,14 @@ skills:
   - 4
   - 6
   - 1
-  - -6
+  - -1
   damage_bonuses:
   - 0
   - 0
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 2
   - 0
   - 0
   - 0
@@ -41,7 +41,7 @@ skills:
   - 4
   - 3
   - 3
-  - -6
+  - -1
   damage_bonuses:
   - 0
   - 0
@@ -74,7 +74,7 @@ skills:
   - 4
   - 2
   - 4
-  - -6
+  - -1
   damage_bonuses:
   - 0
   - 0
@@ -82,7 +82,7 @@ skills:
   - 0
   prime_bonuses:
   - 0
-  - 0
+  - 1
   - 0
   - 0
   prime_damage_bonuses:

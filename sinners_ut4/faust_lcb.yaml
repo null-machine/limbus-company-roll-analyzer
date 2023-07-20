@@ -1,14 +1,14 @@
 !!python/object:sinner.Sinner
-name: faust_lcb_ut3
+name: faust_lcb_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
   name: downward_slash
   stats:
-  - 3
+  - 4
   - 7
   - 1
-  - -7
+  - -2
   damage_bonuses:
   - 0
   - 0
@@ -38,10 +38,10 @@ skills:
   coin_type: plus
   name: upward_slash
   stats:
-  - 4
+  - 5
   - 4
   - 2
-  - -7
+  - -2
   damage_bonuses:
   - 0
   - 0
@@ -71,10 +71,10 @@ skills:
   coin_type: plus
   name: drilling_stab
   stats:
-  - 6
+  - 7
   - 2
   - 2
-  - -7
+  - -2
   damage_bonuses:
   - 0
   - 0

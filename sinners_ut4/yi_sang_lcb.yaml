@@ -1,14 +1,14 @@
 !!python/object:sinner.Sinner
-name: yi_sang_lcb_ut3
+name: yi_sang_lcb_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
   name: deflect
   stats:
-  - 3
+  - 4
   - 7
   - 1
-  - -7
+  - 0
   damage_bonuses:
   - 0
   - 0
@@ -41,7 +41,7 @@ skills:
   - 4
   - 4
   - 2
-  - -7
+  - 0
   damage_bonuses:
   - 0
   - 0
@@ -72,9 +72,9 @@ skills:
   name: enjamb
   stats:
   - 6
-  - 1
+  - 2
   - 3
-  - -7
+  - 0
   damage_bonuses:
   - 0
   - 0

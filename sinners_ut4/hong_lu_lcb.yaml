@@ -1,11 +1,11 @@
 !!python/object:sinner.Sinner
-name: hong_lu_lcb_ut3
+name: hong_lu_lcb_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
   name: downward_cleave
   stats:
-  - 3
+  - 4
   - 7
   - 1
   - 1
@@ -59,7 +59,7 @@ skills:
   - 0
   weak_bonuses:
   - 0
-  - 0
+  - -1
   - 0
   - 0
   weak_damage_bonuses:
@@ -71,7 +71,7 @@ skills:
   coin_type: plus
   name: whirlwind
   stats:
-  - 5
+  - 6
   - 6
   - 2
   - 1
@@ -92,7 +92,7 @@ skills:
   - 0
   weak_bonuses:
   - 0
-  - 0
+  - -2
   - 0
   - 0
   weak_damage_bonuses:

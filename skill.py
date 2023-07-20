@@ -23,7 +23,7 @@ class Skill:
 			offense += self.weak_bonuses[3]
 		elif variant == 2:
 			offense += self.prime_bonuses[3]
-		return f'{self.name} | clash: {round(self.score_matrix[variant][0], 2)}~{round(self.score_matrix[variant][1], 2)} | dmg: {round(self.score_matrix[variant][2], 2)}~{round(self.score_matrix[variant][3], 2)} @ {offense} | ceil: {round(self.score_matrix[variant][4], 2)}'
+		return f'{self.name} | clash: {round(self.score_matrix[variant][0], 2)}~{round(self.score_matrix[variant][1], 2)} | dmg: {round(self.score_matrix[variant][2], 2)}~{round(self.score_matrix[variant][3], 2)}, OL {offense} | ceil: {round(self.score_matrix[variant][4], 2)}'
 		
 	def calibrate(self, user, slot):
 		self.user = user

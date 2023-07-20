@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: sinclair_zwei_ut3
+name: sinclair_zwei_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
@@ -8,7 +8,7 @@ skills:
   - 4
   - 6
   - 1
-  - -6
+  - -2
   damage_bonuses:
   - 0
   - 0
@@ -39,9 +39,9 @@ skills:
   name: suppress
   stats:
   - 6
-  - 1
   - 2
-  - -6
+  - 2
+  - -2
   damage_bonuses:
   - 0
   - 0
@@ -74,7 +74,7 @@ skills:
   - 7
   - 13
   - 1
-  - -6
+  - -2
   damage_bonuses:
   - 0
   - 0

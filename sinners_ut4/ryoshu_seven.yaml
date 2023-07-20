@@ -1,21 +1,21 @@
 !!python/object:sinner.Sinner
-name: ryoshu_seven_ut3
+name: ryoshu_seven_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
   name: slash
   stats:
   - 4
-  - 6
+  - 8
   - 1
-  - 5
+  - 3
   damage_bonuses:
   - 0
   - 0
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 1
   - 0
   - 0
   - 0
@@ -39,16 +39,16 @@ skills:
   name: upper_slash
   stats:
   - 4
-  - 12
+  - 14
   - 1
-  - 5
+  - 3
   damage_bonuses:
   - 0
   - 0
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 2
   - 0
   - 0
   - 0
@@ -74,14 +74,14 @@ skills:
   - 4
   - 5
   - 3
-  - 5
+  - 3
   damage_bonuses:
   - 0
   - 0
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 1
   - 0
   - 0
   - 0

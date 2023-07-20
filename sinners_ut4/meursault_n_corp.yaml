@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: meursault_n_corp_ut3
+name: meursault_n_corp_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
@@ -8,7 +8,7 @@ skills:
   - 5
   - 1
   - 2
-  - -3
+  - 0
   damage_bonuses:
   - 0
   - 0
@@ -16,7 +16,7 @@ skills:
   - 0
   prime_bonuses:
   - 0
-  - 0
+  - 2
   - 0
   - 0
   prime_damage_bonuses:
@@ -41,7 +41,7 @@ skills:
   - 6
   - 3
   - 2
-  - -3
+  - 0
   damage_bonuses:
   - 0
   - 0
@@ -74,7 +74,7 @@ skills:
   - 8
   - 3
   - 2
-  - -3
+  - 0
   damage_bonuses:
   - 0
   - 0

@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: outis_lcb_ut3
+name: outis_lcb_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
@@ -8,7 +8,7 @@ skills:
   - 3
   - 2
   - 3
-  - 3
+  - 2
   damage_bonuses:
   - 0
   - 0
@@ -38,10 +38,10 @@ skills:
   coin_type: plus
   name: backslash
   stats:
-  - 4
+  - 5
   - 4
   - 2
-  - 3
+  - 2
   damage_bonuses:
   - 0
   - 0
@@ -71,10 +71,10 @@ skills:
   coin_type: plus
   name: piercing_thrust
   stats:
-  - 6
+  - 7
   - 14
   - 1
-  - 3
+  - 2
   damage_bonuses:
   - 0
   - 0

@@ -1,14 +1,14 @@
 !!python/object:sinner.Sinner
-name: rodion_lcb_ut3
+name: rodion_lcb_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
   name: strike_down
   stats:
-  - 3
+  - 4
   - 7
   - 1
-  - -2
+  - 0
   damage_bonuses:
   - 0
   - 0
@@ -41,7 +41,7 @@ skills:
   - 4
   - 4
   - 2
-  - -2
+  - 0
   damage_bonuses:
   - 0
   - 0
@@ -71,17 +71,17 @@ skills:
   coin_type: plus
   name: slay
   stats:
-  - 2
+  - 4
   - 2
   - 4
-  - -2
+  - 0
   damage_bonuses:
   - 0
   - 0
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 1
   - 0
   - 0
   - 0

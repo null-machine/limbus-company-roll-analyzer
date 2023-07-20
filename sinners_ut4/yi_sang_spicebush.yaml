@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: yi_sang_spicebush_ut3
+name: yi_sang_spicebush_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus

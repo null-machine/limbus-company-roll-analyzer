@@ -1,14 +1,14 @@
 !!python/object:sinner.Sinner
-name: ishmael_lcb_ut3
+name: ishmael_lcb_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
   name: loggerhead
   stats:
-  - 3
+  - 4
   - 7
   - 1
-  - -4
+  - -1
   damage_bonuses:
   - 0
   - 0
@@ -38,10 +38,10 @@ skills:
   coin_type: plus
   name: slide
   stats:
-  - 5
-  - 8
+  - 6
+  - 9
   - 1
-  - -4
+  - -1
   damage_bonuses:
   - 0
   - 0
@@ -71,10 +71,10 @@ skills:
   coin_type: plus
   name: shield_bash
   stats:
-  - 7
+  - 8
   - 12
   - 1
-  - -4
+  - -1
   damage_bonuses:
   - 0
   - 0

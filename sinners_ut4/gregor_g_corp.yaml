@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: gregor_g_corp_ut3
+name: gregor_g_corp_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
@@ -8,7 +8,7 @@ skills:
   - 4
   - 3
   - 2
-  - 6
+  - 5
   damage_bonuses:
   - 0
   - 0
@@ -16,7 +16,7 @@ skills:
   - 0
   prime_bonuses:
   - 0
-  - 0
+  - 1
   - 0
   - 0
   prime_damage_bonuses:
@@ -41,7 +41,7 @@ skills:
   - 6
   - 10
   - 1
-  - 6
+  - 5
   damage_bonuses:
   - 0
   - 0
@@ -74,7 +74,7 @@ skills:
   - 4
   - 2
   - 4
-  - 6
+  - 5
   damage_bonuses:
   - 0
   - 0
@@ -82,7 +82,7 @@ skills:
   - 0
   prime_bonuses:
   - 0
-  - 0
+  - 1
   - 0
   - 0
   prime_damage_bonuses:

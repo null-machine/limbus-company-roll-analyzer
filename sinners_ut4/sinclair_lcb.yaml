@@ -1,21 +1,21 @@
 !!python/object:sinner.Sinner
-name: sinclair_lcb_ut3
+name: sinclair_lcb_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
   name: downward_swing
   stats:
-  - 3
+  - 4
   - 7
   - 1
-  - 3
+  - 2
   damage_bonuses:
   - 0
   - 0
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 1
   - 0
   - 0
   - 0
@@ -41,14 +41,14 @@ skills:
   - 4
   - 2
   - 3
-  - 3
+  - 2
   damage_bonuses:
   - 0
   - 0
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 1
   - 0
   - 0
   - 0
@@ -72,16 +72,16 @@ skills:
   name: ravaging_cut
   stats:
   - 5
+  - 3
+  - 3
   - 2
-  - 3
-  - 3
   damage_bonuses:
   - 0
   - 0
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 1
   - 0
   - 0
   - 0

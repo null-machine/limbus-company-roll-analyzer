@@ -1,14 +1,14 @@
 !!python/object:sinner.Sinner
-name: faust_w_corp_ut3
+name: faust_w_corp_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
   name: energy_cycle
   stats:
   - 4
-  - 6
+  - 8
   - 1
-  - -6
+  - -1
   damage_bonuses:
   - 0
   - 0
@@ -38,10 +38,10 @@ skills:
   coin_type: plus
   name: leap
   stats:
-  - 5
+  - 6
   - 4
   - 2
-  - -6
+  - -1
   damage_bonuses:
   - 0
   - 0
@@ -71,12 +71,12 @@ skills:
   coin_type: plus
   name: overcharge
   stats:
-  - 6
-  - 2
+  - 8
   - 3
-  - -6
+  - 3
+  - -1
   damage_bonuses:
-  - 0
+  - -2
   - 0
   - 0
   - 0
@@ -91,7 +91,7 @@ skills:
   - 0
   - 0
   weak_bonuses:
-  - 0
+  - -2
   - 0
   - 0
   - 0

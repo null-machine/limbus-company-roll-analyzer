@@ -1,21 +1,21 @@
 !!python/object:sinner.Sinner
-name: ishmael_r_corp_ut3
+name: ishmael_r_corp_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
   name: mind_strike
   stats:
-  - 3
+  - 4
   - 5
   - 2
-  - -3
+  - 1
   damage_bonuses:
   - 0
   - 0
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 1
   - 0
   - 0
   - 0
@@ -39,16 +39,16 @@ skills:
   name: flaying_surge
   stats:
   - 6
-  - 10
+  - 12
   - 1
-  - -3
+  - 1
   damage_bonuses:
   - 0
   - 0
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 1
   - 0
   - 0
   - 0
@@ -72,16 +72,16 @@ skills:
   name: mind_whip
   stats:
   - 2
-  - 5
+  - 6
   - 4
-  - -3
+  - 1
   damage_bonuses:
   - 0
   - 0
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 1
   - 0
   - 0
   - 0

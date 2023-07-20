@@ -1,21 +1,21 @@
 !!python/object:sinner.Sinner
-name: gregor_liu_ut3
+name: gregor_liu_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
   name: single_point_stab
   stats:
   - 4
+  - 3
   - 2
-  - 2
-  - 5
+  - 4
   damage_bonuses:
   - 0
   - 0
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 1
   - 0
   - 0
   - 0
@@ -26,7 +26,7 @@ skills:
   - 0
   weak_bonuses:
   - 0
-  - 0
+  - -1
   - 0
   - 0
   weak_damage_bonuses:
@@ -39,16 +39,16 @@ skills:
   name: rush_down
   stats:
   - 5
-  - 1
   - 3
-  - 5
+  - 3
+  - 4
   damage_bonuses:
   - 0
   - 0
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 1
   - 0
   - 0
   - 0
@@ -59,7 +59,7 @@ skills:
   - 0
   weak_bonuses:
   - 0
-  - 0
+  - -1
   - 0
   - 0
   weak_damage_bonuses:
@@ -74,14 +74,14 @@ skills:
   - 4
   - 2
   - 4
-  - 5
+  - 4
   damage_bonuses:
   - 0
   - 0
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 1
   - 0
   - 0
   - 0

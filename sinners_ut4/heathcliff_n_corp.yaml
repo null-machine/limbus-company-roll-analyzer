@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: heathcliff_n_corp_ut3
+name: heathcliff_n_corp_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
@@ -8,14 +8,14 @@ skills:
   - 3
   - 4
   - 2
-  - -2
+  - 0
   damage_bonuses:
   - 0
   - 0
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 1
   - 0
   - 0
   - 0
@@ -41,14 +41,14 @@ skills:
   - 6
   - 8
   - 1
-  - -2
+  - 0
   damage_bonuses:
   - 0
   - 0
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 1
   - 0
   - 0
   - 0
@@ -74,14 +74,14 @@ skills:
   - 4
   - 4
   - 3
-  - -2
+  - 0
   damage_bonuses:
   - 0
   - 0
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 1
   - 0
   - 0
   - 0

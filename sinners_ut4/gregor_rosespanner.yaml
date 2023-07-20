@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: gregor_rosespanner_ut3
+name: gregor_rosespanner_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
@@ -8,7 +8,7 @@ skills:
   - 3
   - 4
   - 2
-  - -2
+  - 1
   damage_bonuses:
   - 0
   - 0
@@ -41,7 +41,7 @@ skills:
   - 4
   - 12
   - 1
-  - -2
+  - 1
   damage_bonuses:
   - 0
   - 0
@@ -74,7 +74,7 @@ skills:
   - 4
   - 3
   - 3
-  - -2
+  - 1
   damage_bonuses:
   - 0
   - 0
@@ -82,7 +82,7 @@ skills:
   - 0
   prime_bonuses:
   - 0
-  - 0
+  - 1
   - 0
   - 0
   prime_damage_bonuses:

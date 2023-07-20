@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: sinclair_mariachi_ut3
+name: sinclair_mariachi_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
@@ -8,7 +8,7 @@ skills:
   - 4
   - 2
   - 2
-  - -8
+  - -3
   damage_bonuses:
   - 0
   - 0
@@ -16,7 +16,7 @@ skills:
   - 0
   prime_bonuses:
   - 0
-  - 0
+  - 1
   - 0
   - 0
   prime_damage_bonuses:
@@ -41,7 +41,7 @@ skills:
   - 5
   - 1
   - 3
-  - -8
+  - -3
   damage_bonuses:
   - 0
   - 0
@@ -49,7 +49,7 @@ skills:
   - 0
   prime_bonuses:
   - 0
-  - 0
+  - 2
   - 0
   - 0
   prime_damage_bonuses:
@@ -74,7 +74,7 @@ skills:
   - 8
   - 11
   - 1
-  - -8
+  - -3
   damage_bonuses:
   - 0
   - 0

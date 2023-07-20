@@ -1,14 +1,14 @@
 !!python/object:sinner.Sinner
-name: gregor_lcb_ut3
+name: gregor_lcb_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
   name: swipe
   stats:
-  - 3
+  - 4
   - 7
   - 1
-  - -4
+  - -1
   damage_bonuses:
   - 0
   - 0
@@ -38,10 +38,10 @@ skills:
   coin_type: plus
   name: jag
   stats:
-  - 4
+  - 5
   - 10
   - 1
-  - -4
+  - -1
   damage_bonuses:
   - 0
   - 0
@@ -71,10 +71,10 @@ skills:
   coin_type: plus
   name: chop_up
   stats:
-  - 5
+  - 6
   - 4
   - 2
-  - -4
+  - -1
   damage_bonuses:
   - 0
   - 0

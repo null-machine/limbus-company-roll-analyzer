@@ -1,12 +1,12 @@
 !!python/object:sinner.Sinner
-name: faust_l_corp_ut3
+name: faust_l_corp_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
   name: sole_strike
   stats:
   - 3
-  - 6
+  - 8
   - 1
   - 2
   damage_bonuses:
@@ -38,7 +38,7 @@ skills:
   coin_type: plus
   name: deep_cuts
   stats:
-  - 4
+  - 5
   - 3
   - 3
   - 2
@@ -92,7 +92,7 @@ skills:
   - 0
   weak_bonuses:
   - 0
-  - 0
+  - -3
   - 0
   - 0
   weak_damage_bonuses:

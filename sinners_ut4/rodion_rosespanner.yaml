@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: rodion_rosespanner_ut3
+name: rodion_rosespanner_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
@@ -45,7 +45,7 @@ skills:
   damage_bonuses:
   - 0
   - 0
-  - 0
+  - 2
   - 0
   prime_bonuses:
   - 0
@@ -65,7 +65,7 @@ skills:
   weak_damage_bonuses:
   - 0
   - 0
-  - 0
+  - -2
   - 0
 - !!python/object:skill.Skill
   coin_type: plus

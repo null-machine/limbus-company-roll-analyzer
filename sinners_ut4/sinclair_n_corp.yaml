@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: sinclair_n_corp_ut3
+name: sinclair_n_corp_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: minus
@@ -15,7 +15,7 @@ skills:
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 2
   - 0
   - 0
   - 0
@@ -48,7 +48,7 @@ skills:
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 2
   - 0
   - 0
   - 0
@@ -81,7 +81,7 @@ skills:
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 2
   - 0
   - 0
   - 0

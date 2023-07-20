@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: meursault_w_corp_ut3
+name: meursault_w_corp_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
@@ -8,7 +8,7 @@ skills:
   - 5
   - 6
   - 1
-  - -5
+  - 0
   damage_bonuses:
   - 0
   - 0
@@ -39,9 +39,9 @@ skills:
   name: energy_cycle
   stats:
   - 5
-  - 2
   - 3
-  - -5
+  - 3
+  - 0
   damage_bonuses:
   - 0
   - 0
@@ -59,7 +59,7 @@ skills:
   - 0
   weak_bonuses:
   - 0
-  - 0
+  - -1
   - 0
   - 0
   weak_damage_bonuses:
@@ -72,9 +72,9 @@ skills:
   name: energy_current
   stats:
   - 5
-  - 1
+  - 3
   - 4
-  - -5
+  - 0
   damage_bonuses:
   - 0
   - 0
@@ -92,7 +92,7 @@ skills:
   - 0
   weak_bonuses:
   - 0
-  - 0
+  - -1
   - 0
   - 0
   weak_damage_bonuses:

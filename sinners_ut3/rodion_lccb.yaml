@@ -8,7 +8,7 @@ skills:
   - 4
   - 6
   - 1
-  - 5
+  - 4
   damage_bonuses:
   - 0
   - 0
@@ -41,7 +41,7 @@ skills:
   - 6
   - 1
   - 2
-  - 5
+  - 4
   damage_bonuses:
   - 0
   - 0
@@ -74,7 +74,7 @@ skills:
   - 7
   - 4
   - 2
-  - 5
+  - 4
   damage_bonuses:
   - 0
   - 0
@@ -92,7 +92,7 @@ skills:
   - 0
   weak_bonuses:
   - 0
-  - 0
+  - -2
   - 0
   - 0
   weak_damage_bonuses:

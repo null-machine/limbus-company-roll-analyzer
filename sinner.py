@@ -17,7 +17,8 @@ class Sinner:
 			variant_name = 'expected'
 		elif variant == 2:
 			variant_name = 'prime'
-		return f'{self.name} ({variant_name}) | clash: {round(self.elite_bias_score_matrix[variant][0], 2)}~{round(self.elite_bias_score_matrix[variant][1], 2)} | dmg: {round(self.elite_bias_score_matrix[variant][2], 2)}~{round(self.elite_bias_score_matrix[variant][3], 2)} @ {round(self.elite_bias_score_matrix[variant][4], 2)}'
+		ceil = max(self.skills[0].score_matrix[variant][4], self.skills[1].score_matrix[variant][4], self.skills[2].score_matrix[variant][4])
+		return f'{self.name} ({variant_name}) | clash: {round(self.elite_bias_score_matrix[variant][0], 2)}~{round(self.elite_bias_score_matrix[variant][1], 2)} | dmg: {round(self.elite_bias_score_matrix[variant][2], 2)}~{round(self.elite_bias_score_matrix[variant][3], 2)}, OL {round(self.elite_bias_score_matrix[variant][4], 2)} | ceil: {round(ceil, 2)}'
 	
 	def gen_chart(self, variant):
 	

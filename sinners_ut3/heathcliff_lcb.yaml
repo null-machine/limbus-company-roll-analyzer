@@ -5,17 +5,17 @@ skills:
   coin_type: plus
   name: bat_bash
   stats:
-  - 3
+  - 4
   - 7
   - 1
-  - -2
+  - 0
   damage_bonuses:
   - 0
   - 0
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 1
   - 0
   - 0
   - 0
@@ -41,14 +41,14 @@ skills:
   - 4
   - 4
   - 2
-  - -2
+  - 0
   damage_bonuses:
   - 0
   - 0
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 1
   - 0
   - 0
   - 0
@@ -72,16 +72,16 @@ skills:
   name: upheaval
   stats:
   - 4
-  - 6
+  - 8
   - 2
-  - -2
+  - 0
   damage_bonuses:
   - 0
   - 0
   - 0
   - 0
   prime_bonuses:
-  - 0
+  - 1
   - 0
   - 0
   - 0

@@ -1,5 +1,5 @@
 !!python/object:sinner.Sinner
-name: outis_seven_ut3
+name: outis_seven_ut4
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
@@ -8,7 +8,7 @@ skills:
   - 8
   - 4
   - 1
-  - -3
+  - 0
   damage_bonuses:
   - -2
   - 0
@@ -41,7 +41,7 @@ skills:
   - 7
   - 5
   - 2
-  - -3
+  - 0
   damage_bonuses:
   - -2
   - 0
@@ -49,7 +49,7 @@ skills:
   - 0
   prime_bonuses:
   - 0
-  - 0
+  - 2
   - 0
   - 0
   prime_damage_bonuses:
@@ -74,7 +74,7 @@ skills:
   - 8
   - 2
   - 3
-  - -3
+  - 0
   damage_bonuses:
   - -2
   - 0
