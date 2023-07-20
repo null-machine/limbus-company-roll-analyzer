@@ -1,47 +1,14 @@
 !!python/object:sinner.Sinner
-name: ishmael_l_corp_ut3
+name: rodion_zwei_ut3
 skills:
 - !!python/object:skill.Skill
   coin_type: plus
-  name: its_heavy
+  name: careful_obstruction
   stats:
-  - 4
-  - 6
-  - 1
-  - -5
-  damage_bonuses:
-  - 0
-  - 0
-  - 0
-  - 0
-  prime_bonuses:
-  - 0
-  - 0
-  - 0
-  - 0
-  prime_damage_bonuses:
-  - 0
-  - 0
-  - 0
-  - 0
-  weak_bonuses:
-  - 0
-  - 0
-  - 0
-  - 0
-  weak_damage_bonuses:
-  - 0
-  - 0
-  - 0
-  - 0
-- !!python/object:skill.Skill
-  coin_type: plus
-  name: its_churning
-  stats:
-  - 5
   - 4
   - 2
-  - -5
+  - 2
+  - -7
   damage_bonuses:
   - 0
   - 0
@@ -69,12 +36,12 @@ skills:
   - 0
 - !!python/object:skill.Skill
   coin_type: plus
-  name: corrosive_splash
+  name: focused_defense
   stats:
   - 6
-  - 16
-  - 1
-  - -5
+  - 2
+  - 2
+  - -7
   damage_bonuses:
   - 0
   - 0
@@ -83,6 +50,39 @@ skills:
   prime_bonuses:
   - 0
   - 0
+  - 0
+  - 0
+  prime_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+- !!python/object:skill.Skill
+  coin_type: plus
+  name: subdue_threat
+  stats:
+  - 5
+  - 2
+  - 3
+  - -7
+  damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_bonuses:
+  - 0
+  - 1
   - 0
   - 0
   prime_damage_bonuses:
