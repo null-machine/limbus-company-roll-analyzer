@@ -9,7 +9,6 @@ import numpy as np
 sinners = []
 skills = []
 
-files = [file for file in listdir('sinners_ut3')]
 
 # def gen_ranking(title, list, key):
 # 	list.sort(reverse=True, key=key)
@@ -20,6 +19,8 @@ files = [file for file in listdir('sinners_ut3')]
 	
 
 print("Generating charts...")
+
+files = [file for file in listdir('sinners_ut3')]
 
 for file in files:
 	stream = open(f'sinners_ut3/{file}', 'r')

@@ -12,18 +12,18 @@ class Sinner:
 		# return self.name
 		variant_name = ''
 		if variant == 0:
-			variant_name = "adverse"
+			variant_name = 'adverse'
 		elif variant == 1:
-			variant_name = "expected"
+			variant_name = 'expected'
 		elif variant == 2:
-			variant_name = "prime"
+			variant_name = 'prime'
 		return f'{self.name} ({variant_name}) | clash: {round(self.elite_bias_score_matrix[variant][0], 2)}~{round(self.elite_bias_score_matrix[variant][1], 2)} | dmg: {round(self.elite_bias_score_matrix[variant][2], 2)}~{round(self.elite_bias_score_matrix[variant][3], 2)} @ {round(self.elite_bias_score_matrix[variant][4], 2)}'
 	
 	def gen_chart(self, variant):
 	
 		plt.style.use('dark_background')
 		matplotlib.rcParams['font.family'] = ['DejaVu Sans Mono', 'monospace']
-		fig, ax = plt.subplots(3, 1, figsize=(9, 6))
+		fig, ax = plt.subplots(3, 1, figsize=(11, 6))
 		# plt.figure()
 		
 		for i in range(0, len(self.skills)):
@@ -39,34 +39,52 @@ class Sinner:
 				
 			ax[i].set(ylim=(0, 1.1), xlim=(0, 40), yticks=np.arange(0, 1.1, 0.25), xticks=np.arange(0, 40.1, 2))
 			ax[i].yaxis.set_major_formatter(matplotlib.ticker.PercentFormatter(1.0))
-			ax[i].set_title(self.skills[i].gen_display(variant), fontsize=10, loc='right')
+			# ax[i].set_title(self.skills[i].gen_display(variant), fontsize=12, loc='right')
+			ax[i].set_title(self.skills[i].gen_display(variant), fontsize=12)
 		
-		fig.suptitle(self.gen_summary(variant))
+		# fig.suptitle(self.gen_summary(variant))
 		fig.tight_layout()
-		plt.subplots_adjust(right=0.7)
+		# plt.subplots_adjust(right=0.72)
+		plt.subplots_adjust(left=0.3)
+		
+		variant_name = ''
+		if variant == 0:
+			variant_name = 'adverse'
+		elif variant == 1:
+			variant_name = 'expected'
+		elif variant == 2:
+			variant_name = 'prime'
+		
+		
+		title_text = ''
+		title_text += f'{self.name}\n'
+		title_text += f'({variant_name} state)\n'
+		title_text += f'\n'
 		
 		side_text = ''
-		side_text += f"1x|2x|1x average rankings\n"
-		side_text += f"ideal sp clash: {self.elite_bias_rank_matrix[variant][1]}/{self.competitor_count} ({round(self.elite_bias_rank_matrix[variant][1] / self.competitor_count * 100, 1)}%)\n"
-		side_text += f"ideal sp damage: {self.elite_bias_rank_matrix[variant][3]}/{self.competitor_count} ({round(self.elite_bias_rank_matrix[variant][3] / self.competitor_count * 100, 1)}%)\n"
-		side_text += f"worst sp clash: {self.elite_bias_rank_matrix[variant][0]}/{self.competitor_count} ({round(self.elite_bias_rank_matrix[variant][0] / self.competitor_count * 100, 1)}%)\n"
-		side_text += f"worst sp damage: {self.elite_bias_rank_matrix[variant][2]}/{self.competitor_count} ({round(self.elite_bias_rank_matrix[variant][2] / self.competitor_count * 100, 1)}%)\n"
-		side_text += f"\n"
-		side_text += f"3x|2x|1x average rankings\n"
-		side_text += f"ideal sp clash: {self.full_deck_rank_matrix[variant][1]}/{self.competitor_count} ({round(self.full_deck_rank_matrix[variant][1] / self.competitor_count * 100, 1)}%)\n"
-		side_text += f"ideal sp damage: {self.full_deck_rank_matrix[variant][3]}/{self.competitor_count} ({round(self.full_deck_rank_matrix[variant][3] / self.competitor_count * 100, 1)}%)\n"
-		side_text += f"worst sp clash: {self.full_deck_rank_matrix[variant][0]}/{self.competitor_count} ({round(self.full_deck_rank_matrix[variant][0] / self.competitor_count * 100, 1)}%)\n"
-		side_text += f"worst sp damage: {self.full_deck_rank_matrix[variant][2]}/{self.competitor_count} ({round(self.full_deck_rank_matrix[variant][2] / self.competitor_count * 100, 1)}%)\n"
-		side_text += f"\n"
+		side_text += f'1x|2x|1x average rankings\n'
+		side_text += f'ideal sp clash: {self.elite_bias_rank_matrix[variant][1]}/{self.competitor_count} ({round(self.elite_bias_rank_matrix[variant][1] / self.competitor_count * 100, 1)}%)\n'
+		side_text += f'ideal sp damage: {self.elite_bias_rank_matrix[variant][3]}/{self.competitor_count} ({round(self.elite_bias_rank_matrix[variant][3] / self.competitor_count * 100, 1)}%)\n'
+		side_text += f'worst sp clash: {self.elite_bias_rank_matrix[variant][0]}/{self.competitor_count} ({round(self.elite_bias_rank_matrix[variant][0] / self.competitor_count * 100, 1)}%)\n'
+		side_text += f'worst sp damage: {self.elite_bias_rank_matrix[variant][2]}/{self.competitor_count} ({round(self.elite_bias_rank_matrix[variant][2] / self.competitor_count * 100, 1)}%)\n'
+		side_text += f'\n'
+		side_text += f'3x|2x|1x average rankings\n'
+		side_text += f'ideal sp clash: {self.full_deck_rank_matrix[variant][1]}/{self.competitor_count} ({round(self.full_deck_rank_matrix[variant][1] / self.competitor_count * 100, 1)}%)\n'
+		side_text += f'ideal sp damage: {self.full_deck_rank_matrix[variant][3]}/{self.competitor_count} ({round(self.full_deck_rank_matrix[variant][3] / self.competitor_count * 100, 1)}%)\n'
+		side_text += f'worst sp clash: {self.full_deck_rank_matrix[variant][0]}/{self.competitor_count} ({round(self.full_deck_rank_matrix[variant][0] / self.competitor_count * 100, 1)}%)\n'
+		side_text += f'worst sp damage: {self.full_deck_rank_matrix[variant][2]}/{self.competitor_count} ({round(self.full_deck_rank_matrix[variant][2] / self.competitor_count * 100, 1)}%)\n'
+		side_text += f'\n'
 		for i in range(0, 3):
-			side_text += f"s{i + 1} rankings\n"
-			side_text += f"ideal sp clash: {self.skills[i].rank_matrix[variant][1]}/{self.skills[i].competitor_count} ({round(self.skills[i].rank_matrix[variant][1] / self.skills[0].competitor_count * 100, 1)}%)\n"
-			side_text += f"ideal sp damage: {self.skills[i].rank_matrix[variant][3]}/{self.skills[i].competitor_count} ({round(self.skills[i].rank_matrix[variant][3] / self.skills[0].competitor_count * 100, 1)}%)\n"
-			side_text += f"worst sp clash: {self.skills[i].rank_matrix[variant][0]}/{self.skills[i].competitor_count} ({round(self.skills[i].rank_matrix[variant][0] / self.skills[0].competitor_count * 100, 1)}%)\n"
-			side_text += f"worst sp damage: {self.skills[i].rank_matrix[variant][2]}/{self.skills[i].competitor_count} ({round(self.skills[i].rank_matrix[variant][2] / self.skills[0].competitor_count * 100, 1)}%)\n"
-			side_text += f"clash ceiling: {self.skills[i].rank_matrix[variant][4]}/{self.skills[i].competitor_count} ({round(self.skills[i].rank_matrix[variant][4] / self.skills[0].competitor_count * 100, 1)}%)\n"
-			side_text += f"\n"
-		plt.gcf().text(0.73, 0.03, side_text, fontsize=9)
+			side_text += f's{i + 1} rankings\n'
+			side_text += f'ideal sp clash: {self.skills[i].rank_matrix[variant][1]}/{self.skills[i].competitor_count} ({round(self.skills[i].rank_matrix[variant][1] / self.skills[0].competitor_count * 100, 1)}%)\n'
+			side_text += f'ideal sp damage: {self.skills[i].rank_matrix[variant][3]}/{self.skills[i].competitor_count} ({round(self.skills[i].rank_matrix[variant][3] / self.skills[0].competitor_count * 100, 1)}%)\n'
+			side_text += f'worst sp clash: {self.skills[i].rank_matrix[variant][0]}/{self.skills[i].competitor_count} ({round(self.skills[i].rank_matrix[variant][0] / self.skills[0].competitor_count * 100, 1)}%)\n'
+			side_text += f'worst sp damage: {self.skills[i].rank_matrix[variant][2]}/{self.skills[i].competitor_count} ({round(self.skills[i].rank_matrix[variant][2] / self.skills[0].competitor_count * 100, 1)}%)\n'
+			side_text += f'clash ceiling: {self.skills[i].rank_matrix[variant][4]}/{self.skills[i].competitor_count} ({round(self.skills[i].rank_matrix[variant][4] / self.skills[0].competitor_count * 100, 1)}%)\n'
+			side_text += f'\n'
+			
+		plt.gcf().text(0.02, 0.83, title_text, fontsize=13)
+		plt.gcf().text(0.02, 0.01, side_text, fontsize=9)
 		
 		
 		# plt.show()

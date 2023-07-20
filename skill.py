@@ -87,6 +87,9 @@ class Skill:
 					self.score_matrix[variant][2] += base_power
 					self.score_matrix[variant][3] += base_power + i * coin_power
 		
+		if variant == 2 and self.name == 'mutilate' and self.slot == 's3' and self.user.startswith('hong_lu_tingtang'):
+			self.score_matrix[variant][3] *= 2
+		
 		return
 	
 	def eval_chance(self, coin_count, heads_chance, required_heads):
