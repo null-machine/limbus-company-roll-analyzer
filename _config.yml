@@ -1,10 +1,12 @@
 # remote_theme: mmistakes/minimal-mistakes@4.24.0
 
-# plugins:
+plugins:
 # - jekyll-remote-theme
-# - jekyll-include-cache
+- jekyll-include-cache
 
 title: Yet Another Limbus Company Tier List
 description: A ranking based on numerical analysis, supported by experience.
 
 markdown: kramdown
+
+remote_theme: mmistakes/minimal-mistakes@4.24.0

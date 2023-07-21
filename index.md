@@ -4,20 +4,10 @@ toc: true
 toc_sticky: true
 ---
 
-<!-- TODO include "max clash" on s1, s2, s3 -->
-
 <meta property="og:title" content="Yet Another Limbus Company Tier List">
-<meta property="og:description" content="A Limbus Company tier list based on numerical analysis, supported by experience.">
-<head>
-	<link rel="shortcut icon" type="image/png" href="/assets/favicon.png?">
-	<link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico?">
-	<link rel="icon" type="image/png" href="/assets/favicon.png?">
-	<link rel="icon" type="image/x-icon" href="/assets/favicon.ico?">
-</head>
+<meta property="og:description" content="A Limbus Company tier list based on numerical analysis, augmented with veteran experience.">
 <link rel="shortcut icon" type="image/png" href="/assets/favicon.png?">
-<link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico?">
-<link rel="icon" type="image/png" href="/assets/favicon.png?">
-<link rel="icon" type="image/x-icon" href="/assets/favicon.ico?">
+
 
 # Yet Another Limbus Company Tier List
 
