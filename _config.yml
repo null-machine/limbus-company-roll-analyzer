@@ -9,4 +9,4 @@ description: A ranking based on numerical analysis, supported by experience.
 
 markdown: kramdown
 
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+# remote_theme: mmistakes/minimal-mistakes@4.24.0
