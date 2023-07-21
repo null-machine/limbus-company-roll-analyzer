@@ -15,8 +15,8 @@ rodion_zwei_ut3 (expected) | clash: 4.94~8.87 | dmg: 11.75~19.25, OL -2.0 | ceil
 rodion_n_corp_ut3 (expected) | clash: 5.92~11.13 | dmg: 11.5~22.5, OL 2.0 | ceil: 12.67
 sinclair_mariachi_ut3 (expected) | clash: 4.85~9.49 | dmg: 11.5~18.75, OL -3.0 | ceil: 18.0
 meursault_liu_ut3 (expected) | clash: 5.83~11.28 | dmg: 11.25~21.75, OL 1.0 | ceil: 14.33
-ishmael_liu_ut3 (expected) | clash: 5.57~16.32 | dmg: 11.0~36.5, OL 2.0 | ceil: 19.67
 outis_seven_ut3 (expected) | clash: 8.05~14.63 | dmg: 11.0~22.5, OL 0.0 | ceil: 17.0
+ishmael_liu_ut3 (expected) | clash: 5.39~14.42 | dmg: 11.0~32.75, OL 2.0 | ceil: 16.67
 ishmael_lccb_ut3 (expected) | clash: 4.37~11.28 | dmg: 11.0~26.5, OL -1.0 | ceil: 12.67
 rodion_lccb_ut3 (expected) | clash: 7.38~11.36 | dmg: 10.5~16.5, OL 4.0 | ceil: 16.33
 faust_w_corp_ut3 (expected) | clash: 5.17~11.32 | dmg: 10.5~21.0, OL -1.0 | ceil: 12.67

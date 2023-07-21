@@ -64,7 +64,6 @@ s3 meursault_liu_ut3 | perfected_death_fist | clash: 6.16~13.9 | dmg: 15~33, OL 
 s1 gregor_g_corp_ut3 | hack | clash: 6.1~11.37 | dmg: 8~17, OL 5 | ceil: 11.67
 s2 don_quixote_w_corp_ut3 | leap | clash: 6.1~16.43 | dmg: 12~36, OL 3 | ceil: 17.0
 s3 don_quixote_shi_ut3 | overbreathe | clash: 6.05~24.95 | dmg: 4~25, OL 3 | ceil: 26.0
-s2 ishmael_liu_ut3 | frontal_assault | clash: 6.04~18.95 | dmg: 12~42, OL 2 | ceil: 19.67
 s1 rodion_kurokumo_ut3 | sharpened_blade | clash: 5.97~11.37 | dmg: 5~11, OL 2 | ceil: 11.67
 s2 ishmael_shi_ut3 | flashing_slide | clash: 5.91~12.94 | dmg: 10~22, OL 1 | ceil: 13.33
 s2 meursault_rosespanner_ut3 | forced_break | clash: 5.91~12.94 | dmg: 10~22, OL 1 | ceil: 13.33
@@ -78,6 +77,7 @@ s3 yi_sang_seven_ut3 | moulinet | clash: 5.82~13.57 | dmg: 15~33, OL 0 | ceil: 1
 s1 sinclair_blade_ut3 | slice_then_stab | clash: 5.81~7.57 | dmg: 10~13, OL 2 | ceil: 7.67
 s3 ishmael_l_corp_ut3 | corrosive_splash | clash: 5.8~20.2 | dmg: 6~22, OL -3 | ceil: 21.0
 s2 faust_n_corp_ut3 | the_gripping | clash: 5.77~16.09 | dmg: 12~36, OL 2 | ceil: 16.67
+s2 ishmael_liu_ut3 | frontal_assault | clash: 5.77~16.09 | dmg: 12~36, OL 2 | ceil: 16.67
 s2 yi_sang_spicebush_ut3 | moments_floral_breeze | clash: 5.77~16.09 | dmg: 12~36, OL 2 | ceil: 16.67
 s2 hong_lu_k_corp_ut3 | decay_blade | clash: 5.73~14.51 | dmg: 10~25, OL 0 | ceil: 15.0
 s1 rodion_lccb_ut3 | bludgeon | clash: 5.63~11.03 | dmg: 4~10, OL 4 | ceil: 11.33
@@ -107,7 +107,6 @@ s2 faust_w_corp_ut3 | leap | clash: 5.25~12.28 | dmg: 10~22, OL -1 | ceil: 12.67
 s3 gregor_lcb_ut3 | chop_up | clash: 5.25~12.28 | dmg: 10~22, OL -1 | ceil: 12.67
 s2 outis_lcb_ut3 | backslash | clash: 5.25~12.28 | dmg: 8~20, OL 2 | ceil: 12.67
 s2 ryoshu_lcb_ut3 | splatter | clash: 5.25~12.28 | dmg: 8~20, OL 2 | ceil: 12.67
-s1 ishmael_liu_ut3 | red_kick | clash: 5.25~12.28 | dmg: 8~20, OL 2 | ceil: 12.67
 s2 sinclair_lcb_ut3 | halberd_combo | clash: 5.22~10.38 | dmg: 12~24, OL 2 | ceil: 10.67
 s3 meursault_rosespanner_ut3 | finishing_runup | clash: 5.18~11.96 | dmg: 16~36, OL 1 | ceil: 12.33
 s2 outis_g_corp_ut3 | onslaught_command | clash: 5.17~14.17 | dmg: 5~15, OL -1 | ceil: 14.67
@@ -116,6 +115,7 @@ s3 don_quixote_n_corp_ut3 | fanatical_judgement | clash: 5.16~12.9 | dmg: 12~30,
 s3 gregor_rosespanner_ut3 | lets_grind_em | clash: 5.16~12.9 | dmg: 12~30, OL 1 | ceil: 13.33
 s1 meursault_n_corp_ut3 | drive | clash: 5.15~6.9 | dmg: 10~13, OL 0 | ceil: 7.0
 s1 faust_n_corp_ut3 | cackle | clash: 5.1~10.37 | dmg: 8~17, OL 2 | ceil: 10.67
+s1 ishmael_liu_ut3 | red_kick | clash: 5.1~10.37 | dmg: 8~17, OL 2 | ceil: 10.67
 s3 heathcliff_n_corp_ut3 | infirm_retribution | clash: 5.1~15.43 | dmg: 12~36, OL 0 | ceil: 16.0
 s2 ishmael_lcb_ut3 | slide | clash: 5.07~12.27 | dmg: 5~13, OL -1 | ceil: 12.67
 s2 hong_lu_lcb_ut3 | dual_strike | clash: 5.06~13.85 | dmg: 8~23, OL 1 | ceil: 14.33

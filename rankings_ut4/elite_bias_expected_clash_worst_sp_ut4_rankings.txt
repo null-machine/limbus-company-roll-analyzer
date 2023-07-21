@@ -11,7 +11,7 @@ hong_lu_k_corp_ut4 (expected) | clash: 6.91~15.28 | dmg: 11.25~24.75, OL 0.0 | c
 rodion_rosespanner_ut4 (expected) | clash: 6.85~13.39 | dmg: 17.75~41.0, OL 3.0 | ceil: 18.0
 heathcliff_r_corp_ut4 (expected) | clash: 6.78~17.33 | dmg: 14.75~47.75, OL 5.0 | ceil: 24.67
 meursault_n_corp_ut4 (expected) | clash: 6.61~11.01 | dmg: 12.5~20.0, OL 0.0 | ceil: 14.0
-gregor_liu_ut4 (expected) | clash: 6.57~13.45 | dmg: 13.5~29.75, OL 4.0 | ceil: 15.33
+gregor_liu_ut4 (expected) | clash: 6.39~11.55 | dmg: 13.5~26.0, OL 4.0 | ceil: 13.33
 meursault_liu_ut4 (expected) | clash: 6.33~11.78 | dmg: 12.25~22.75, OL 1.0 | ceil: 14.33
 don_quixote_cinq_ut4 (expected) | clash: 6.27~14.62 | dmg: 10.0~24.25, OL 1.75 | ceil: 18.33
 outis_lcb_ut4 (expected) | clash: 6.27~14.22 | dmg: 9.0~21.5, OL 2.0 | ceil: 21.67
@@ -30,16 +30,16 @@ meursault_w_corp_ut4 (expected) | clash: 5.81~13.57 | dmg: 13.75~31.75, OL 0.0 |
 ryoshu_seven_ut4 (expected) | clash: 5.79~17.12 | dmg: 6.0~22.5, OL 3.0 | ceil: 20.0
 don_quixote_shi_ut4 (expected) | clash: 5.79~17.36 | dmg: 6.0~22.0, OL 3.0 | ceil: 26.0
 hong_lu_kurokumo_ut4 (expected) | clash: 5.77~12.15 | dmg: 16.25~41.0, OL 0.0 | ceil: 13.0
-ishmael_liu_ut4 (expected) | clash: 5.74~18.22 | dmg: 11.0~40.25, OL 2.0 | ceil: 22.67
 ishmael_shi_ut4 (expected) | clash: 5.74~13.64 | dmg: 9.5~23.0, OL 1.0 | ceil: 18.33
-hong_lu_liu_ut4 (expected) | clash: 5.69~14.04 | dmg: 10.0~24.25, OL 0.0 | ceil: 19.0
 heathcliff_shi_ut4 (expected) | clash: 5.63~14.11 | dmg: 6.0~17.0, OL 1.0 | ceil: 17.33
 yi_sang_seven_ut4 (expected) | clash: 5.58~12.61 | dmg: 10.0~22.25, OL 0.0 | ceil: 14.0
 ryoshu_lcb_ut4 (expected) | clash: 5.57~13.48 | dmg: 8.75~22.5, OL 2.0 | ceil: 14.67
+hong_lu_liu_ut4 (expected) | clash: 5.51~11.66 | dmg: 10.0~20.5, OL 0.0 | ceil: 17.0
 hong_lu_lcb_ut4 (expected) | clash: 5.5~14.11 | dmg: 8.0~21.75, OL 1.0 | ceil: 18.33
 sinclair_lcb_ut4 (expected) | clash: 5.49~11.58 | dmg: 10.75~23.0, OL 2.0 | ceil: 14.67
 sinclair_zwei_ut4 (expected) | clash: 5.47~11.5 | dmg: 8.75~16.5, OL -2.0 | ceil: 19.33
 meursault_rosespanner_ut4 (expected) | clash: 5.41~11.97 | dmg: 10.0~22.5, OL 1.0 | ceil: 13.33
+ishmael_liu_ut4 (expected) | clash: 5.39~14.42 | dmg: 11.0~32.75, OL 2.0 | ceil: 16.67
 heathcliff_n_corp_ut4 (expected) | clash: 5.37~13.31 | dmg: 7.5~20.5, OL 0.0 | ceil: 16.0
 ryoshu_chef_ut4 (expected) | clash: 5.36~15.68 | dmg: 9.5~34.25, OL 3.0 | ceil: 19.0
 meursault_r_corp_ut4 (expected) | clash: 5.19~12.35 | dmg: 13.5~28.5, OL -3.0 | ceil: 14.0

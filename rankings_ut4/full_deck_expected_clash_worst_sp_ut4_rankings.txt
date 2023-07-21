@@ -10,9 +10,9 @@ rodion_kurokumo_ut4 (expected) | clash: 7.18~15.22 | dmg: 9.0~20.25, OL 2.0 | ce
 heathcliff_r_corp_ut4 (expected) | clash: 6.78~17.33 | dmg: 14.75~47.75, OL 5.0 | ceil: 24.67
 rodion_rosespanner_ut4 (expected) | clash: 6.85~13.39 | dmg: 17.75~41.0, OL 3.0 | ceil: 18.0
 hong_lu_k_corp_ut4 (expected) | clash: 6.91~15.28 | dmg: 11.25~24.75, OL 0.0 | ceil: 20.0
-gregor_liu_ut4 (expected) | clash: 6.57~13.45 | dmg: 13.5~29.75, OL 4.0 | ceil: 15.33
 don_quixote_w_corp_ut4 (expected) | clash: 6.16~20.7 | dmg: 8.5~48.0, OL 3.0 | ceil: 32.0
 hong_lu_tingtang_ut4 (expected) | clash: 6.1~19.98 | dmg: 7.0~30.25, OL 3.0 | ceil: 31.0
+gregor_liu_ut4 (expected) | clash: 6.39~11.55 | dmg: 13.5~26.0, OL 4.0 | ceil: 13.33
 meursault_n_corp_ut4 (expected) | clash: 6.61~11.01 | dmg: 12.5~20.0, OL 0.0 | ceil: 14.0
 don_quixote_cinq_ut4 (expected) | clash: 6.27~14.62 | dmg: 10.0~24.25, OL 1.75 | ceil: 18.33
 gregor_chef_ut4 (expected) | clash: 6.05~11.37 | dmg: 10.0~18.0, OL 1.25 | ceil: 14.0
@@ -22,7 +22,6 @@ yi_sang_spicebush_ut4 (expected) | clash: 6.21~15.25 | dmg: 12.75~33.75, OL 3.0 
 ishmael_r_corp_ut4 (expected) | clash: 5.95~18.63 | dmg: 7.0~31.75, OL 1.0 | ceil: 26.33
 don_quixote_shi_ut4 (expected) | clash: 5.79~17.36 | dmg: 6.0~22.0, OL 3.0 | ceil: 26.0
 meursault_w_corp_ut4 (expected) | clash: 5.81~13.57 | dmg: 13.75~31.75, OL 0.0 | ceil: 17.0
-ishmael_liu_ut4 (expected) | clash: 5.74~18.22 | dmg: 11.0~40.25, OL 2.0 | ceil: 22.67
 outis_lcb_ut4 (expected) | clash: 6.27~14.22 | dmg: 9.0~21.5, OL 2.0 | ceil: 21.67
 faust_w_corp_ut4 (expected) | clash: 6.26~13.51 | dmg: 11.5~24.0, OL -1.0 | ceil: 16.67
 meursault_liu_ut4 (expected) | clash: 6.33~11.78 | dmg: 12.25~22.75, OL 1.0 | ceil: 14.33
@@ -33,6 +32,7 @@ ryoshu_chef_ut4 (expected) | clash: 5.36~15.68 | dmg: 9.5~34.25, OL 3.0 | ceil: 
 ryoshu_lcb_ut4 (expected) | clash: 5.57~13.48 | dmg: 8.75~22.5, OL 2.0 | ceil: 14.67
 rodion_n_corp_ut4 (expected) | clash: 5.92~11.13 | dmg: 11.5~22.5, OL 2.0 | ceil: 12.67
 sinclair_lcb_ut4 (expected) | clash: 5.49~11.58 | dmg: 10.75~23.0, OL 2.0 | ceil: 14.67
+ishmael_liu_ut4 (expected) | clash: 5.39~14.42 | dmg: 11.0~32.75, OL 2.0 | ceil: 16.67
 heathcliff_shi_ut4 (expected) | clash: 5.63~14.11 | dmg: 6.0~17.0, OL 1.0 | ceil: 17.33
 hong_lu_kurokumo_ut4 (expected) | clash: 5.77~12.15 | dmg: 16.25~41.0, OL 0.0 | ceil: 13.0
 faust_l_corp_ut4 (expected) | clash: 5.83~16.33 | dmg: 10.25~29.5, OL 2.0 | ceil: 26.67
@@ -41,7 +41,7 @@ hong_lu_lcb_ut4 (expected) | clash: 5.5~14.11 | dmg: 8.0~21.75, OL 1.0 | ceil: 1
 sinclair_l_corp_ut4 (expected) | clash: 5.19~12.83 | dmg: 9.75~24.5, OL 0.0 | ceil: 17.0
 meursault_rosespanner_ut4 (expected) | clash: 5.41~11.97 | dmg: 10.0~22.5, OL 1.0 | ceil: 13.33
 ishmael_shi_ut4 (expected) | clash: 5.74~13.64 | dmg: 9.5~23.0, OL 1.0 | ceil: 18.33
-hong_lu_liu_ut4 (expected) | clash: 5.69~14.04 | dmg: 10.0~24.25, OL 0.0 | ceil: 19.0
+hong_lu_liu_ut4 (expected) | clash: 5.51~11.66 | dmg: 10.0~20.5, OL 0.0 | ceil: 17.0
 sinclair_zwei_ut4 (expected) | clash: 5.47~11.5 | dmg: 8.75~16.5, OL -2.0 | ceil: 19.33
 yi_sang_lcb_ut4 (expected) | clash: 5.02~11.4 | dmg: 9.5~20.25, OL 0.0 | ceil: 12.0
 outis_g_corp_ut4 (expected) | clash: 5.19~14.64 | dmg: 5.0~15.5, OL -1.0 | ceil: 21.67

@@ -6,7 +6,7 @@ skills:
   name: red_kick
   stats:
   - 4
-  - 4
+  - 3
   - 2
   - 2
   damage_bonuses:
@@ -16,7 +16,7 @@ skills:
   - 0
   prime_bonuses:
   - 0
-  - 1
+  - 2
   - 0
   - 0
   prime_damage_bonuses:
@@ -26,7 +26,7 @@ skills:
   - 0
   weak_bonuses:
   - 0
-  - -1
+  - 0
   - 0
   - 0
   weak_damage_bonuses:
@@ -39,7 +39,7 @@ skills:
   name: frontal_assault
   stats:
   - 4
-  - 5
+  - 4
   - 3
   - 2
   damage_bonuses:
@@ -49,7 +49,7 @@ skills:
   - 0
   prime_bonuses:
   - 0
-  - 1
+  - 2
   - 0
   - 0
   prime_damage_bonuses:
@@ -59,7 +59,7 @@ skills:
   - 0
   weak_bonuses:
   - 0
-  - -1
+  - 0
   - 0
   - 0
   weak_damage_bonuses:

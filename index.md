@@ -72,7 +72,7 @@ __Yellow:__ This unit has a notable support passive. They may be impactful when 
 
 __Magenta:__ This unit may be heavily reliant on RNG or have maximization requirements that can be more time-consuming than difficult. They may be an option for optimizing low turn clears, but be impractical in other settings.
 
-__Red:__ This unit's rank is highly-contested. These sinners may excel in one aspect while severely lacking another, resulting in a volatile rank that depends on what individual players value more. Individuals are highly encouraged to rank this unit themselves. Chances are, the creators probably came to a stalemate and their ranking is a compromise.
+__Red:__ This unit's rank is highly-contested. These sinners may excel in one aspect while severely lacking another, resulting in a volatile rank that depends on what individual players value more. Individuals are highly encouraged to rank this unit themselves. Chances are, the creators probably came to a stalemate and this ranking is a compromise.
 
 __Green:__ This unit gains abnormally high power from UT4. A heavy investment cost is necessary for them to earn their rank. Certain UT4 EGOs may also be integral to their performance.
 

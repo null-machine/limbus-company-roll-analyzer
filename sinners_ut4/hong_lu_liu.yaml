@@ -39,7 +39,7 @@ skills:
   name: flowing_flame
   stats:
   - 6
-  - 4
+  - 2
   - 2
   - 0
   damage_bonuses:
@@ -49,7 +49,7 @@ skills:
   - 0
   prime_bonuses:
   - 0
-  - 0
+  - 2
   - 0
   - 0
   prime_damage_bonuses:
@@ -59,7 +59,7 @@ skills:
   - 0
   weak_bonuses:
   - 0
-  - -2
+  - 0
   - 0
   - 0
   weak_damage_bonuses:
@@ -72,7 +72,7 @@ skills:
   name: crimson_blaze_fist
   stats:
   - 5
-  - 7
+  - 6
   - 2
   - 0
   damage_bonuses:
@@ -82,7 +82,7 @@ skills:
   - 0
   prime_bonuses:
   - 0
-  - 0
+  - 1
   - 0
   - 0
   prime_damage_bonuses:
@@ -92,7 +92,7 @@ skills:
   - 0
   weak_bonuses:
   - 0
-  - -1
+  - 0
   - 0
   - 0
   weak_damage_bonuses:

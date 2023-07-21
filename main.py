@@ -38,7 +38,7 @@ for uptie in uptie_names:
 	for i in range(0, 3):
 		for j in range (0, 4):
 			sinners.sort(reverse=True, key=lambda x: x.elite_bias_score_matrix[i][j])
-			file = open(f'rankings_{uptie}/{variant_names[i]}_{sinner_score_names[j]}_elite_bias_{uptie}_rankings.txt', 'w')
+			file = open(f'rankings_{uptie}/elite_bias_{variant_names[i]}_{sinner_score_names[j]}_{uptie}_rankings.txt', 'w')
 			for k in range(0, len(sinners)):
 				sinners[k].elite_bias_rank_matrix[i][j] = k + 1
 				file.write(f'{sinners[k].gen_summary(i)}\n')
@@ -46,7 +46,7 @@ for uptie in uptie_names:
 	for i in range(0, 3):
 		for j in range (0, 4):
 			sinners.sort(reverse=True, key=lambda x: x.full_deck_score_matrix[i][j])
-			file = open(f'rankings_{uptie}/{variant_names[i]}_{sinner_score_names[j]}_full_deck_{uptie}_rankings.txt', 'w')
+			file = open(f'rankings_{uptie}/full_deck_{variant_names[i]}_{sinner_score_names[j]}_{uptie}_rankings.txt', 'w')
 			for k in range(0, len(sinners)):
 				sinners[k].full_deck_rank_matrix[i][j] = k + 1
 				file.write(f'{sinners[k].gen_summary(i)}\n')
@@ -54,7 +54,7 @@ for uptie in uptie_names:
 	for i in range(0, 3):
 		for j in range (0, 5):
 				skills.sort(reverse=True, key=lambda x: x.score_matrix[i][j])
-				file = open(f'rankings_{uptie}/{variant_names[i]}_{skill_score_names[j]}_skill_{uptie}_rankings.txt', 'w')
+				file = open(f'rankings_{uptie}/skill_{variant_names[i]}_{skill_score_names[j]}_{uptie}_rankings.txt', 'w')
 				for k in range(0, len(skills)):
 					skills[k].rank_matrix[i][j] = k + 1
 					file.write(f'{skills[k].gen_summary(i)}\n')
