@@ -1,3 +1,4 @@
+s3 ryoshu_chef_ut4 | i_can_cook_anything | clash: 5.28~15.44 | dmg: 92~122, OL 3 | ceil: 16.0
 s3 sinclair_n_corp_ut4 | self_destructive_purge | clash: 22.3~33.66 | dmg: 28~96, OL 5 | ceil: 33.67
 s3 don_quixote_w_corp_ut4 | rip_space | clash: 5.51~30.62 | dmg: 5~95, OL 3 | ceil: 32.0
 s3 heathcliff_r_corp_ut4 | quick_suppression | clash: 8.0~24.75 | dmg: 20~80, OL 5 | ceil: 25.67
@@ -21,7 +22,6 @@ s3 ryoshu_seven_ut4 | swash | clash: 7.37~20.28 | dmg: 15~45, OL 3 | ceil: 21.0
 s3 don_quixote_lcb_ut4 | for_justice | clash: 6.71~19.62 | dmg: 15~45, OL 1 | ceil: 20.33
 s3 yi_sang_spicebush_ut4 | bloodsteeped_scent | clash: 8.77~19.09 | dmg: 18~42, OL 5 | ceil: 19.67
 s2 don_quixote_w_corp_ut4 | leap | clash: 6.37~19.28 | dmg: 12~42, OL 3 | ceil: 20.0
-s3 ryoshu_chef_ut4 | i_can_cook_anything | clash: 5.28~15.44 | dmg: 12~42, OL 3 | ceil: 16.0
 s3 faust_l_corp_ut4 | opportunistic_slash | clash: 6.26~25.59 | dmg: 8~41, OL 2 | ceil: 26.67
 s3 gregor_liu_ut4 | perfected_palm_strike | clash: 7.18~13.96 | dmg: 20~40, OL 4 | ceil: 14.33
 s3 gregor_chef_ut4 | butcher_viand | clash: 6.85~13.63 | dmg: 20~40, OL 3 | ceil: 14.0

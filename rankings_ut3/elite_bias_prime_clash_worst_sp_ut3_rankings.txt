@@ -39,7 +39,7 @@ hong_lu_liu_ut3 (prime) | clash: 5.51~11.66 | dmg: 10.0~20.5, OL 0.0 | ceil: 17.
 meursault_w_corp_ut3 (prime) | clash: 5.46~10.23 | dmg: 13.75~23.75, OL 0.0 | ceil: 11.0
 sinclair_zwei_ut3 (prime) | clash: 5.39~10.55 | dmg: 8.75~15.0, OL -2.0 | ceil: 19.33
 heathcliff_n_corp_ut3 (prime) | clash: 5.37~13.31 | dmg: 7.5~20.5, OL 0.0 | ceil: 16.0
-ryoshu_chef_ut3 (prime) | clash: 5.36~15.68 | dmg: 9.5~34.25, OL 3.0 | ceil: 19.0
+ryoshu_chef_ut3 (prime) | clash: 5.36~15.68 | dmg: 29.5~54.25, OL 3.0 | ceil: 19.0
 faust_l_corp_ut3 (prime) | clash: 5.3~15.36 | dmg: 8.75~27.5, OL 2.0 | ceil: 26.67
 sinclair_l_corp_ut3 (prime) | clash: 5.19~12.83 | dmg: 9.75~24.5, OL 0.0 | ceil: 17.0
 ryoshu_lcb_ut3 (prime) | clash: 5.18~11.56 | dmg: 8.5~19.25, OL 2.0 | ceil: 12.67

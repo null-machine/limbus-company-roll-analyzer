@@ -1,4 +1,5 @@
 sinclair_n_corp_ut4 (prime) | clash: 15.62~20.83 | dmg: 26.5~65.0, OL 4.0 | ceil: 33.67
+ryoshu_chef_ut4 (prime) | clash: 5.36~15.68 | dmg: 29.5~54.25, OL 3.0 | ceil: 19.0
 heathcliff_r_corp_ut4 (prime) | clash: 7.78~18.33 | dmg: 18.75~51.75, OL 5.0 | ceil: 25.67
 sinclair_blade_ut4 (prime) | clash: 9.53~17.48 | dmg: 18.0~30.75, OL 2.0 | ceil: 28.67
 heathcliff_sunshower_ut4 (prime) | clash: 10.86~14.41 | dmg: 20.25~48.0, OL 2.75 | ceil: 19.0
@@ -23,7 +24,6 @@ don_quixote_cinq_ut4 (prime) | clash: 6.45~17.0 | dmg: 10.0~28.0, OL 1.75 | ceil
 outis_seven_ut4 (prime) | clash: 8.2~16.54 | dmg: 11.0~25.5, OL 0.0 | ceil: 21.0
 gregor_chef_ut4 (prime) | clash: 6.23~13.75 | dmg: 10.0~22.0, OL 1.25 | ceil: 17.0
 hong_lu_k_corp_ut4 (prime) | clash: 6.94~16.0 | dmg: 11.25~25.5, OL 0.0 | ceil: 20.0
-ryoshu_chef_ut4 (prime) | clash: 5.36~15.68 | dmg: 9.5~34.25, OL 3.0 | ceil: 19.0
 faust_w_corp_ut4 (prime) | clash: 6.26~13.51 | dmg: 11.5~24.0, OL -1.0 | ceil: 16.67
 outis_lcb_ut4 (prime) | clash: 6.27~14.22 | dmg: 9.0~21.5, OL 2.0 | ceil: 21.67
 rodion_lccb_ut4 (prime) | clash: 7.83~14.46 | dmg: 10.75~21.0, OL 4.0 | ceil: 18.33

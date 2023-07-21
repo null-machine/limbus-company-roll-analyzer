@@ -31,7 +31,7 @@ faust_n_corp_ut3 (prime) | clash: 5.96~13.74 | dmg: 12.5~29.75, OL 2.0 | ceil: 1
 yi_sang_spicebush_ut3 (prime) | clash: 6.21~15.25 | dmg: 12.75~33.75, OL 3.0 | ceil: 19.67
 heathcliff_lcb_ut3 (prime) | clash: 5.67~14.27 | dmg: 8.75~22.5, OL 0.0 | ceil: 21.0
 meursault_w_corp_ut3 (prime) | clash: 5.46~10.23 | dmg: 13.75~23.75, OL 0.0 | ceil: 11.0
-ryoshu_chef_ut3 (prime) | clash: 5.36~15.68 | dmg: 9.5~34.25, OL 3.0 | ceil: 19.0
+ryoshu_chef_ut3 (prime) | clash: 5.36~15.68 | dmg: 29.5~54.25, OL 3.0 | ceil: 19.0
 rodion_n_corp_ut3 (prime) | clash: 5.92~11.13 | dmg: 11.5~22.5, OL 2.0 | ceil: 12.67
 sinclair_l_corp_ut3 (prime) | clash: 5.19~12.83 | dmg: 9.75~24.5, OL 0.0 | ceil: 17.0
 meursault_liu_ut3 (prime) | clash: 5.83~11.28 | dmg: 11.25~21.75, OL 1.0 | ceil: 14.33

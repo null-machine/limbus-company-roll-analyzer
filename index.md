@@ -46,11 +46,11 @@ Pressing HOME on the keyboard will scroll to the top of the page.
 
 ## Introduction
 
-This is an encounter-agnostic tier list that attempts to rank sinners by general relevance. The rankings may be used for rerolling, as a banner guide, or simply providing a second opinion. Please note that the writeups are geared towards experienced players.
+This is an encounter-agnostic tier list that attempts to rank sinners by general relevance. The rankings may be used for rerolling, as a banner guide, or simply providing a second opinion. Please note that the writeups are geared towards experienced players, but beginners can still use the rankings as a way to kickstart their intuition on what sinners may be considered good.
 
 The rationale behind a sinner's rank will never be based solely on their performance in existing content to emphasize future viability. First and foremost, the numbers on their rolls will be analyzed in detail to approximate their ability to clash and deal damage, since this ability is universal and critical. Then, notable parts about their kit that compensate or undermine their numbers will be taken into account. Example strategies and experiences will be provided if appropriate.
 
-Through this metric, it becomes apparent that some sinners will likely be able to directly outperform other options in a large number of cases, and this forms the basis of evaluation. If a sinner becoming unsuitable implies that a sizable chunk of the cast will also become inviable, they probably have high relevance and will remain relatively future-proof.
+Through this metric, it becomes apparent that some sinners will likely be able to directly outperform other options in a large number of cases, and this forms the basis of evaluation. If a sinner becoming unsuitable implies that a sizable chunk of the cast will also become inviable, that sinner will likely remain relatively future-proof.
 
 What this means is, this list will make the game experience and future stages as accessible as possible. Investing in high-tier units will provide a practical way to clear content. Failing that, it will illustrate the opportunity cost of not having certain units (which is usually far more acceptable than influencers would suggest).
 
@@ -65,6 +65,8 @@ Finally, let it be emphasized that this is __not__ an autobattle tier list. Know
 Sinners within S tier and A tier are deliberately ordered. In other tiers, sinners are grouped by affiliation first, and then ordered based on the average power of the affiliation. This is done to emphasize that not all ordering choices are equally significant. 
 
 Units have badges that denote certain changes.
+
+Note: Only the first three badges are implemented in this version of the tier list.
 
 __Cyan:__ This unit benefits significantly from technical prowess. They may gain more than usual from having multiple actions per turn, emphasize tempo control or require specific techniques to prove their worth. Their power will likely drop significantly when played by autobattle.
 

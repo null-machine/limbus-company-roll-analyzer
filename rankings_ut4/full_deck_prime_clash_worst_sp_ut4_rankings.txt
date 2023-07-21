@@ -35,7 +35,7 @@ outis_lcb_ut4 (prime) | clash: 6.27~14.22 | dmg: 9.0~21.5, OL 2.0 | ceil: 21.67
 meursault_liu_ut4 (prime) | clash: 6.4~12.49 | dmg: 12.25~24.25, OL 1.0 | ceil: 17.33
 faust_w_corp_ut4 (prime) | clash: 6.26~13.51 | dmg: 11.5~24.0, OL -1.0 | ceil: 16.67
 ishmael_lcb_ut4 (prime) | clash: 6.13~14.45 | dmg: 6.0~15.25, OL -1.0 | ceil: 19.67
-ryoshu_chef_ut4 (prime) | clash: 5.36~15.68 | dmg: 9.5~34.25, OL 3.0 | ceil: 19.0
+ryoshu_chef_ut4 (prime) | clash: 5.36~15.68 | dmg: 29.5~54.25, OL 3.0 | ceil: 19.0
 ryoshu_lcb_ut4 (prime) | clash: 5.57~13.48 | dmg: 8.75~22.5, OL 2.0 | ceil: 14.67
 rodion_n_corp_ut4 (prime) | clash: 5.92~11.13 | dmg: 11.5~22.5, OL 2.0 | ceil: 12.67
 ishmael_lccb_ut4 (prime) | clash: 4.97~12.74 | dmg: 11.5~29.5, OL -1.0 | ceil: 15.67

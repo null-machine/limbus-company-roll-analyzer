@@ -61,8 +61,8 @@ s2 gregor_liu_ut4 | rush_down | clash: 8.16~15.9 | dmg: 18~36, OL 4 | ceil: 16.3
 s3 gregor_rosespanner_ut4 | lets_grind_em | clash: 5.43~15.76 | dmg: 12~36, OL 1 | ceil: 16.33
 s2 don_quixote_n_corp_ut4 | enactment | clash: 4.93~15.73 | dmg: 4~16, OL 1 | ceil: 16.33
 s2 gregor_rosespanner_ut4 | grease_chains | clash: 4.93~15.73 | dmg: 4~16, OL 1 | ceil: 16.33
+s3 ryoshu_chef_ut4 | i_can_cook_anything | clash: 5.28~15.44 | dmg: 92~122, OL 3 | ceil: 16.0
 s2 heathcliff_sunshower_ut4 | puddle_stomp | clash: 13.16~16.0 | dmg: 30~60, OL 3 | ceil: 16.0
-s3 ryoshu_chef_ut4 | i_can_cook_anything | clash: 5.28~15.44 | dmg: 12~42, OL 3 | ceil: 16.0
 s3 yi_sang_seven_ut4 | moulinet | clash: 7.82~15.57 | dmg: 15~33, OL 0 | ceil: 16.0
 s2 hong_lu_k_corp_ut4 | decay_blade | clash: 6.73~15.51 | dmg: 12~27, OL 0 | ceil: 16.0
 s2 ryoshu_kurokumo_ut4 | clean_up | clash: 6.73~15.51 | dmg: 10~25, OL 3 | ceil: 16.0

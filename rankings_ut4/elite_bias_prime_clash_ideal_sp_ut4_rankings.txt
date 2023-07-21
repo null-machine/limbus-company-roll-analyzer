@@ -17,7 +17,7 @@ gregor_g_corp_ut4 (prime) | clash: 7.38~16.18 | dmg: 9.0~24.5, OL 5.0 | ceil: 17
 outis_g_corp_ut4 (prime) | clash: 6.22~16.12 | dmg: 6.0~17.0, OL -1.0 | ceil: 22.67
 heathcliff_shi_ut4 (prime) | clash: 7.63~16.11 | dmg: 8.5~19.5, OL 1.0 | ceil: 19.33
 hong_lu_k_corp_ut4 (prime) | clash: 6.94~16.0 | dmg: 11.25~25.5, OL 0.0 | ceil: 20.0
-ryoshu_chef_ut4 (prime) | clash: 5.36~15.68 | dmg: 9.5~34.25, OL 3.0 | ceil: 19.0
+ryoshu_chef_ut4 (prime) | clash: 5.36~15.68 | dmg: 29.5~54.25, OL 3.0 | ceil: 19.0
 yi_sang_spicebush_ut4 (prime) | clash: 6.21~15.25 | dmg: 12.75~33.75, OL 3.0 | ceil: 19.67
 meursault_rosespanner_ut4 (prime) | clash: 7.04~14.9 | dmg: 11.0~26.5, OL 1.0 | ceil: 17.33
 ryoshu_kurokumo_ut4 (prime) | clash: 7.33~14.83 | dmg: 10.25~22.25, OL 3.0 | ceil: 17.0

@@ -1,3 +1,4 @@
+s3 ryoshu_chef_ut4 | i_can_cook_anything | clash: 5.28~15.44 | dmg: 92~122, OL 3 | ceil: 16.0
 s2 sinclair_n_corp_ut4 | amoral_enactment | clash: 15.54~19.33 | dmg: 32~72, OL 4 | ceil: 19.33
 s2 heathcliff_sunshower_ut4 | puddle_stomp | clash: 13.16~16.0 | dmg: 30~60, OL 3 | ceil: 16.0
 s3 sinclair_n_corp_ut4 | self_destructive_purge | clash: 22.3~33.66 | dmg: 28~96, OL 5 | ceil: 33.67
@@ -65,7 +66,6 @@ s2 faust_n_corp_ut4 | the_gripping | clash: 5.77~16.09 | dmg: 12~36, OL 2 | ceil
 s2 yi_sang_spicebush_ut4 | moments_floral_breeze | clash: 5.77~16.09 | dmg: 12~36, OL 2 | ceil: 16.67
 s3 gregor_rosespanner_ut4 | lets_grind_em | clash: 5.43~15.76 | dmg: 12~36, OL 1 | ceil: 16.33
 s2 hong_lu_k_corp_ut4 | decay_blade | clash: 6.73~15.51 | dmg: 12~27, OL 0 | ceil: 16.0
-s3 ryoshu_chef_ut4 | i_can_cook_anything | clash: 5.28~15.44 | dmg: 12~42, OL 3 | ceil: 16.0
 s2 meursault_rosespanner_ut4 | forced_break | clash: 7.91~14.94 | dmg: 12~24, OL 1 | ceil: 15.33
 s2 hong_lu_liu_ut4 | flowing_flame | clash: 6.58~13.61 | dmg: 12~24, OL 0 | ceil: 14.0
 s2 faust_w_corp_ut4 | leap | clash: 6.25~13.28 | dmg: 12~24, OL -1 | ceil: 13.67

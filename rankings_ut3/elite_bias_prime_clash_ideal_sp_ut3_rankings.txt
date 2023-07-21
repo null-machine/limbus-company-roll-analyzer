@@ -8,7 +8,7 @@ ishmael_r_corp_ut3 (prime) | clash: 6.55~17.48 | dmg: 8.5~29.75, OL 1.0 | ceil: 
 ryoshu_seven_ut3 (prime) | clash: 6.72~16.7 | dmg: 7.5~22.5, OL 3.0 | ceil: 21.0
 heathcliff_shi_ut3 (prime) | clash: 7.63~16.11 | dmg: 8.5~19.5, OL 1.0 | ceil: 19.33
 don_quixote_lcb_ut3 (prime) | clash: 6.51~15.82 | dmg: 8.0~22.25, OL 1.0 | ceil: 20.33
-ryoshu_chef_ut3 (prime) | clash: 5.36~15.68 | dmg: 9.5~34.25, OL 3.0 | ceil: 19.0
+ryoshu_chef_ut3 (prime) | clash: 5.36~15.68 | dmg: 29.5~54.25, OL 3.0 | ceil: 19.0
 outis_g_corp_ut3 (prime) | clash: 6.19~15.64 | dmg: 6.0~16.5, OL -1.0 | ceil: 22.67
 faust_l_corp_ut3 (prime) | clash: 5.3~15.36 | dmg: 8.75~27.5, OL 2.0 | ceil: 26.67
 yi_sang_spicebush_ut3 (prime) | clash: 6.21~15.25 | dmg: 12.75~33.75, OL 3.0 | ceil: 19.67

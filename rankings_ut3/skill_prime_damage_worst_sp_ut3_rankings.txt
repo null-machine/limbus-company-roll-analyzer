@@ -1,3 +1,4 @@
+s3 ryoshu_chef_ut3 | i_can_cook_anything | clash: 5.28~15.44 | dmg: 92~122, OL 3 | ceil: 16.0
 s2 sinclair_n_corp_ut3 | amoral_enactment | clash: 15.54~19.33 | dmg: 32~72, OL 4 | ceil: 19.33
 s3 sinclair_n_corp_ut3 | self_destructive_purge | clash: 22.3~33.66 | dmg: 28~96, OL 5 | ceil: 33.67
 s2 rodion_rosespanner_ut3 | vibration_compression | clash: 7.58~14.61 | dmg: 24~64, OL 3 | ceil: 15.0
@@ -53,7 +54,6 @@ s2 hong_lu_tingtang_ut3 | shank | clash: 5.37~18.28 | dmg: 12~62, OL 3 | ceil: 1
 s2 don_quixote_w_corp_ut3 | leap | clash: 6.1~16.43 | dmg: 12~36, OL 3 | ceil: 17.0
 s2 faust_n_corp_ut3 | the_gripping | clash: 5.77~16.09 | dmg: 12~36, OL 2 | ceil: 16.67
 s2 yi_sang_spicebush_ut3 | moments_floral_breeze | clash: 5.77~16.09 | dmg: 12~36, OL 2 | ceil: 16.67
-s3 ryoshu_chef_ut3 | i_can_cook_anything | clash: 5.28~15.44 | dmg: 12~42, OL 3 | ceil: 16.0
 s3 heathcliff_n_corp_ut3 | infirm_retribution | clash: 5.1~15.43 | dmg: 12~36, OL 0 | ceil: 16.0
 s3 ishmael_shi_ut3 | catch_breath | clash: 6.91~13.94 | dmg: 12~24, OL 1 | ceil: 14.33
 s2 faust_l_corp_ut3 | deep_cuts | clash: 5.49~13.24 | dmg: 12~30, OL 2 | ceil: 13.67

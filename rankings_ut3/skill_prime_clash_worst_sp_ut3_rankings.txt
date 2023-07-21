@@ -116,7 +116,7 @@ s1 heathcliff_lcb_ut3 | bat_bash | clash: 5.35~11.65 | dmg: 5~12, OL 0 | ceil: 1
 s1 hong_lu_k_corp_ut3 | impede_the_intruder | clash: 5.3~10.7 | dmg: 5~11, OL 0 | ceil: 11.0
 s1 meursault_w_corp_ut3 | rip | clash: 5.3~10.7 | dmg: 5~11, OL 0 | ceil: 11.0
 s1 don_quixote_shi_ut3 | catch_breath | clash: 5.3~10.7 | dmg: 4~10, OL 3 | ceil: 11.0
-s3 ryoshu_chef_ut3 | i_can_cook_anything | clash: 5.28~15.44 | dmg: 12~42, OL 3 | ceil: 16.0
+s3 ryoshu_chef_ut3 | i_can_cook_anything | clash: 5.28~15.44 | dmg: 92~122, OL 3 | ceil: 16.0
 s1 sinclair_l_corp_ut3 | magnify_wound | clash: 5.25~9.75 | dmg: 5~10, OL 0 | ceil: 10.0
 s2 faust_w_corp_ut3 | leap | clash: 5.25~12.28 | dmg: 10~22, OL -1 | ceil: 12.67
 s3 gregor_lcb_ut3 | chop_up | clash: 5.25~12.28 | dmg: 10~22, OL -1 | ceil: 12.67

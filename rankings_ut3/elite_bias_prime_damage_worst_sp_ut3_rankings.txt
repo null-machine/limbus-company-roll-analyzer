@@ -1,3 +1,4 @@
+ryoshu_chef_ut3 (prime) | clash: 5.36~15.68 | dmg: 29.5~54.25, OL 3.0 | ceil: 19.0
 sinclair_n_corp_ut3 (prime) | clash: 15.62~20.83 | dmg: 26.5~65.0, OL 4.0 | ceil: 33.67
 heathcliff_r_corp_ut3 (prime) | clash: 7.78~18.33 | dmg: 18.75~51.75, OL 5.0 | ceil: 25.67
 sinclair_blade_ut3 (prime) | clash: 9.27~14.15 | dmg: 18.0~25.25, OL 2.0 | ceil: 24.67
@@ -29,7 +30,6 @@ hong_lu_liu_ut3 (prime) | clash: 5.51~11.66 | dmg: 10.0~20.5, OL 0.0 | ceil: 17.
 gregor_chef_ut3 (prime) | clash: 6.05~11.37 | dmg: 10.0~18.0, OL 1.25 | ceil: 14.0
 sinclair_l_corp_ut3 (prime) | clash: 5.19~12.83 | dmg: 9.75~24.5, OL 0.0 | ceil: 17.0
 yi_sang_seven_ut3 (prime) | clash: 7.18~12.22 | dmg: 9.75~18.75, OL 0.0 | ceil: 16.0
-ryoshu_chef_ut3 (prime) | clash: 5.36~15.68 | dmg: 9.5~34.25, OL 3.0 | ceil: 19.0
 ishmael_shi_ut3 (prime) | clash: 5.66~12.69 | dmg: 9.5~21.5, OL 1.0 | ceil: 14.33
 yi_sang_lcb_ut3 (prime) | clash: 4.7~10.43 | dmg: 9.25~18.5, OL 0.0 | ceil: 12.0
 gregor_g_corp_ut3 (prime) | clash: 7.24~14.75 | dmg: 9.0~21.25, OL 5.0 | ceil: 17.67

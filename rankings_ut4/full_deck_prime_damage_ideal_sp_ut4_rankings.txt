@@ -1,5 +1,6 @@
 sinclair_n_corp_ut4 (prime) | clash: 15.62~20.83 | dmg: 26.5~65.0, OL 4.0 | ceil: 33.67
 heathcliff_r_corp_ut4 (prime) | clash: 7.78~18.33 | dmg: 18.75~51.75, OL 5.0 | ceil: 25.67
+ryoshu_chef_ut4 (prime) | clash: 5.36~15.68 | dmg: 29.5~54.25, OL 3.0 | ceil: 19.0
 ishmael_liu_ut4 (prime) | clash: 6.02~21.08 | dmg: 11.0~46.5, OL 2.0 | ceil: 25.67
 heathcliff_sunshower_ut4 (prime) | clash: 10.86~14.41 | dmg: 20.25~48.0, OL 2.75 | ceil: 19.0
 hong_lu_tingtang_ut4 (prime) | clash: 6.1~19.98 | dmg: 8.5~49.25, OL 3.0 | ceil: 31.0
@@ -8,7 +9,6 @@ rodion_rosespanner_ut4 (prime) | clash: 6.85~13.39 | dmg: 17.75~41.0, OL 3.0 | c
 hong_lu_kurokumo_ut4 (prime) | clash: 5.77~12.15 | dmg: 16.25~41.0, OL 0.0 | ceil: 13.0
 ishmael_r_corp_ut4 (prime) | clash: 6.95~19.63 | dmg: 9.0~33.75, OL 1.0 | ceil: 27.33
 yi_sang_spicebush_ut4 (prime) | clash: 6.21~15.25 | dmg: 12.75~33.75, OL 3.0 | ceil: 19.67
-ryoshu_chef_ut4 (prime) | clash: 5.36~15.68 | dmg: 9.5~34.25, OL 3.0 | ceil: 19.0
 sinclair_blade_ut4 (prime) | clash: 9.53~17.48 | dmg: 18.0~30.75, OL 2.0 | ceil: 28.67
 gregor_liu_ut4 (prime) | clash: 7.57~14.45 | dmg: 16.5~32.75, OL 4.0 | ceil: 16.33
 yi_sang_blade_ut4 (prime) | clash: 9.5~19.37 | dmg: 14.5~32.0, OL 5.0 | ceil: 24.67

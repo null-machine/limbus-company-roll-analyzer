@@ -20,7 +20,7 @@ faust_l_corp_ut4 (prime) | clash: 5.83~16.33 | dmg: 10.25~29.5, OL 2.0 | ceil: 2
 yi_sang_seven_ut4 (prime) | clash: 7.58~14.61 | dmg: 10.0~22.25, OL 0.0 | ceil: 16.0
 rodion_lccb_ut4 (prime) | clash: 7.83~14.46 | dmg: 10.75~21.0, OL 4.0 | ceil: 18.33
 meursault_rosespanner_ut4 (prime) | clash: 7.04~14.9 | dmg: 11.0~26.5, OL 1.0 | ceil: 17.33
-ryoshu_chef_ut4 (prime) | clash: 5.36~15.68 | dmg: 9.5~34.25, OL 3.0 | ceil: 19.0
+ryoshu_chef_ut4 (prime) | clash: 5.36~15.68 | dmg: 29.5~54.25, OL 3.0 | ceil: 19.0
 ryoshu_kurokumo_ut4 (prime) | clash: 7.33~14.83 | dmg: 10.25~22.25, OL 3.0 | ceil: 17.0
 gregor_liu_ut4 (prime) | clash: 7.57~14.45 | dmg: 16.5~32.75, OL 4.0 | ceil: 16.33
 outis_blade_ut4 (prime) | clash: 6.38~13.68 | dmg: 10.0~21.25, OL 1.0 | ceil: 16.33

@@ -48,7 +48,7 @@ s2 don_quixote_n_corp_ut3 | enactment | clash: 4.93~15.73 | dmg: 4~16, OL 1 | ce
 s2 gregor_rosespanner_ut3 | grease_chains | clash: 4.93~15.73 | dmg: 4~16, OL 1 | ceil: 16.33
 s3 yi_sang_seven_ut3 | moulinet | clash: 7.82~15.57 | dmg: 15~33, OL 0 | ceil: 16.0
 s2 ryoshu_kurokumo_ut3 | clean_up | clash: 6.73~15.51 | dmg: 10~25, OL 3 | ceil: 16.0
-s3 ryoshu_chef_ut3 | i_can_cook_anything | clash: 5.28~15.44 | dmg: 12~42, OL 3 | ceil: 16.0
+s3 ryoshu_chef_ut3 | i_can_cook_anything | clash: 5.28~15.44 | dmg: 92~122, OL 3 | ceil: 16.0
 s3 heathcliff_n_corp_ut3 | infirm_retribution | clash: 5.1~15.43 | dmg: 12~36, OL 0 | ceil: 16.0
 s2 outis_g_corp_ut3 | onslaught_command | clash: 6.17~15.17 | dmg: 6~16, OL -1 | ceil: 15.67
 s2 rodion_rosespanner_ut3 | vibration_compression | clash: 7.58~14.61 | dmg: 24~64, OL 3 | ceil: 15.0
