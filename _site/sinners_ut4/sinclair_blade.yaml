@@ -1,0 +1,102 @@
+!!python/object:sinner.Sinner
+name: sinclair_blade_ut4
+skills:
+- !!python/object:skill.Skill
+  coin_type: plus
+  name: slice_then_stab
+  stats:
+  - 5
+  - 2
+  - 2
+  - 2
+  damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_bonuses:
+  - 2
+  - 1
+  - 0
+  - 0
+  prime_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+- !!python/object:skill.Skill
+  coin_type: plus
+  name: slash_series
+  stats:
+  - 6
+  - 2
+  - 3
+  - 2
+  damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_bonuses:
+  - 2
+  - 0
+  - 0
+  - 0
+  prime_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+- !!python/object:skill.Skill
+  coin_type: plus
+  name: to_claim_their_bones
+  stats:
+  - 8
+  - 18
+  - 1
+  - 2
+  damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_bonuses:
+  - 2
+  - 0
+  - 0
+  - 0
+  prime_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0

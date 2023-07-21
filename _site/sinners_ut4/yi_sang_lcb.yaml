@@ -1,0 +1,102 @@
+!!python/object:sinner.Sinner
+name: yi_sang_lcb_ut4
+skills:
+- !!python/object:skill.Skill
+  coin_type: plus
+  name: deflect
+  stats:
+  - 4
+  - 7
+  - 1
+  - 0
+  damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+- !!python/object:skill.Skill
+  coin_type: plus
+  name: end_stop_stab
+  stats:
+  - 4
+  - 4
+  - 2
+  - 0
+  damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+- !!python/object:skill.Skill
+  coin_type: plus
+  name: enjamb
+  stats:
+  - 6
+  - 2
+  - 3
+  - 0
+  damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0

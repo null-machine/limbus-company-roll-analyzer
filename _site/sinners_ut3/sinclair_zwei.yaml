@@ -1,0 +1,102 @@
+!!python/object:sinner.Sinner
+name: sinclair_zwei_ut3
+skills:
+- !!python/object:skill.Skill
+  coin_type: plus
+  name: baton
+  stats:
+  - 4
+  - 6
+  - 1
+  - -2
+  damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+- !!python/object:skill.Skill
+  coin_type: plus
+  name: suppress
+  stats:
+  - 6
+  - 1
+  - 2
+  - -2
+  damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+- !!python/object:skill.Skill
+  coin_type: plus
+  name: strong_strike
+  stats:
+  - 7
+  - 13
+  - 1
+  - -2
+  damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0

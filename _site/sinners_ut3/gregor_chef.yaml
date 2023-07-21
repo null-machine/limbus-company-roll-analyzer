@@ -1,0 +1,102 @@
+!!python/object:sinner.Sinner
+name: gregor_chef_ut3
+skills:
+- !!python/object:skill.Skill
+  coin_type: plus
+  name: keep_it_fresh
+  stats:
+  - 4
+  - 2
+  - 2
+  - 2
+  damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+- !!python/object:skill.Skill
+  coin_type: plus
+  name: you_fresh_enough
+  stats:
+  - 6
+  - 8
+  - 1
+  - 0
+  damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+- !!python/object:skill.Skill
+  coin_type: plus
+  name: butcher_viand
+  stats:
+  - 5
+  - 1
+  - 4
+  - 3
+  damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0

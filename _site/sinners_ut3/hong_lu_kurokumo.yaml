@@ -1,0 +1,102 @@
+!!python/object:sinner.Sinner
+name: hong_lu_kurokumo_ut3
+skills:
+- !!python/object:skill.Skill
+  coin_type: plus
+  name: cleave
+  stats:
+  - 4
+  - 7
+  - 1
+  - 0
+  damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+- !!python/object:skill.Skill
+  coin_type: plus
+  name: cloud_cutter
+  stats:
+  - 5
+  - 4
+  - 2
+  - 0
+  damage_bonuses:
+  - 0
+  - 0
+  - 2
+  - 0
+  prime_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_bonuses:
+  - 0
+  - 0
+  - -2
+  - 0
+  weak_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+- !!python/object:skill.Skill
+  coin_type: plus
+  name: cloudburst
+  stats:
+  - 6
+  - 2
+  - 3
+  - 0
+  damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0

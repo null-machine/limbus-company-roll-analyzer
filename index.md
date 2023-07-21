@@ -31,7 +31,7 @@ Limbus Company belongs to Project Moon.
 
 Last update: 2023.6
 
-Note: No new identities will be added until 2023.7.20 update is released, for ease of maintenance. Nex wishes to try out UT4 units before making judgement calls, so this update will likely take a while. However, it's LOWERCASE will probably have generated all the charts for both UT3 and UT4 units before then, so just use their data rankings combined with common sense for the time being.
+Note: No new identities will be added until 2023.7.20 update is released, for ease of maintenance. Nex wishes to try out UT4 units before making judgement calls, so this update will likely take a while. However, LOWERCASE will probably have generated all the charts for both UT3 and UT4 units before then, so just use their data rankings combined with common sense for the time being.
 
 ---
 

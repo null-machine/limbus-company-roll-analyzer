@@ -1,0 +1,102 @@
+!!python/object:sinner.Sinner
+name: meursault_rosespanner_ut4
+skills:
+- !!python/object:skill.Skill
+  coin_type: plus
+  name: saddled_tasks
+  stats:
+  - 4
+  - 6
+  - 1
+  - 1
+  damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_bonuses:
+  - 1
+  - 2
+  - 0
+  - 0
+  prime_damage_bonuses:
+  - -1
+  - 0
+  - 0
+  - 0
+  weak_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+- !!python/object:skill.Skill
+  coin_type: plus
+  name: forced_break
+  stats:
+  - 5
+  - 4
+  - 2
+  - 1
+  damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_bonuses:
+  - 2
+  - 0
+  - 0
+  - 0
+  prime_damage_bonuses:
+  - -1
+  - 0
+  - 0
+  - 0
+  weak_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+- !!python/object:skill.Skill
+  coin_type: plus
+  name: finishing_runup
+  stats:
+  - 4
+  - 2
+  - 4
+  - 1
+  damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_bonuses:
+  - 1
+  - 1
+  - 0
+  - 0
+  prime_damage_bonuses:
+  - -1
+  - 0
+  - 0
+  - 0
+  weak_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
