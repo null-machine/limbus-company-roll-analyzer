@@ -10,6 +10,7 @@ don_quixote_w_corp_ut3 (adverse) | clash: 5.42~14.02 | dmg: 8.5~29.5, OL 3.0 | c
 meursault_r_corp_ut3 (adverse) | clash: 5.94~13.1 | dmg: 13.25~28.25, OL 0.0 | ceil: 15.0
 ishmael_r_corp_ut3 (adverse) | clash: 5.55~16.48 | dmg: 6.5~27.75, OL 1.0 | ceil: 22.33
 ishmael_lccb_ut3 (adverse) | clash: 4.37~11.28 | dmg: 11.0~26.5, OL -1.0 | ceil: 12.67
+ishmael_boat_ut3 (adverse) | clash: 6.23~15.17 | dmg: 9.25~26.5, OL 3.5 | ceil: 19.67
 faust_l_corp_ut3 (adverse) | clash: 5.19~13.93 | dmg: 8.75~25.25, OL 2.0 | ceil: 20.67
 rodion_rosespanner_ut3 (adverse) | clash: 6.63~10.53 | dmg: 11.75~24.5, OL 3.0 | ceil: 18.0
 sinclair_l_corp_ut3 (adverse) | clash: 5.19~12.83 | dmg: 9.75~24.5, OL 0.0 | ceil: 17.0

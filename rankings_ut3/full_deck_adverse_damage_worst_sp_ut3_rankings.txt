@@ -18,6 +18,7 @@ heathcliff_sunshower_ut3 (adverse) | clash: 8.36~11.91 | dmg: 11.25~38.0, OL 2.7
 outis_seven_ut3 (adverse) | clash: 8.05~14.63 | dmg: 11.0~22.5, OL 0.0 | ceil: 17.0
 gregor_chef_ut3 (adverse) | clash: 6.05~11.37 | dmg: 10.0~18.0, OL 1.25 | ceil: 14.0
 ryoshu_chef_ut3 (adverse) | clash: 5.36~15.68 | dmg: 9.5~34.25, OL 3.0 | ceil: 19.0
+ishmael_boat_ut3 (adverse) | clash: 6.23~15.17 | dmg: 9.25~26.5, OL 3.5 | ceil: 19.67
 gregor_g_corp_ut3 (adverse) | clash: 7.24~14.75 | dmg: 9.0~21.25, OL 5.0 | ceil: 17.67
 hong_lu_liu_ut3 (adverse) | clash: 5.51~11.66 | dmg: 10.0~20.5, OL 0.0 | ceil: 17.0
 ishmael_lccb_ut3 (adverse) | clash: 4.37~11.28 | dmg: 11.0~26.5, OL -1.0 | ceil: 12.67

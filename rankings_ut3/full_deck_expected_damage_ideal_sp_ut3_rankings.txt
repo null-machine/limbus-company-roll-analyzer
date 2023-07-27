@@ -11,6 +11,7 @@ faust_n_corp_ut3 (expected) | clash: 5.96~13.74 | dmg: 12.5~29.75, OL 2.0 | ceil
 ishmael_r_corp_ut3 (expected) | clash: 5.55~16.48 | dmg: 6.5~27.75, OL 1.0 | ceil: 22.33
 meursault_r_corp_ut3 (expected) | clash: 6.33~14.78 | dmg: 13.5~31.5, OL 0.0 | ceil: 21.0
 hong_lu_tingtang_ut3 (expected) | clash: 6.07~19.5 | dmg: 7.0~29.75, OL 3.0 | ceil: 31.0
+ishmael_boat_ut3 (expected) | clash: 6.23~15.17 | dmg: 9.25~26.5, OL 3.5 | ceil: 19.67
 faust_l_corp_ut3 (expected) | clash: 5.3~15.36 | dmg: 8.75~27.5, OL 2.0 | ceil: 26.67
 rodion_n_corp_ut3 (expected) | clash: 5.92~11.13 | dmg: 11.5~22.5, OL 2.0 | ceil: 12.67
 ishmael_lccb_ut3 (expected) | clash: 4.37~11.28 | dmg: 11.0~26.5, OL -1.0 | ceil: 12.67

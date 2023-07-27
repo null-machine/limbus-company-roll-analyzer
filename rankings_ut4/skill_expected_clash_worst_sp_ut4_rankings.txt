@@ -41,6 +41,7 @@ s2 ishmael_r_corp_ut4 | flaying_surge | clash: 6.93~17.73 | dmg: 6~18, OL 1 | ce
 s3 outis_blade_ut4 | decisive_dive | clash: 6.91~13.94 | dmg: 12~24, OL 1 | ceil: 14.33
 s2 gregor_liu_ut4 | rush_down | clash: 6.88~12.05 | dmg: 15~27, OL 4 | ceil: 12.33
 s2 hong_lu_k_corp_ut4 | decay_blade | clash: 6.73~15.51 | dmg: 12~27, OL 0 | ceil: 16.0
+s2 ishmael_boat_ut4 | explosive_blast | clash: 6.73~15.51 | dmg: 10~25, OL 3 | ceil: 16.0
 s2 ryoshu_kurokumo_ut4 | clean_up | clash: 6.73~15.51 | dmg: 10~25, OL 3 | ceil: 16.0
 s1 rodion_lccb_ut4 | bludgeon | clash: 6.63~12.03 | dmg: 5~11, OL 4 | ceil: 12.33
 s3 faust_lcb_ut4 | drilling_stab | clash: 6.62~10.14 | dmg: 14~20, OL -2 | ceil: 10.33
@@ -74,6 +75,7 @@ s2 ishmael_lcb_ut4 | slide | clash: 6.12~14.22 | dmg: 6~15, OL -1 | ceil: 14.67
 s1 gregor_g_corp_ut4 | hack | clash: 6.1~11.37 | dmg: 8~17, OL 5 | ceil: 11.67
 s2 don_quixote_cinq_ut4 | fleche | clash: 6.06~14.85 | dmg: 10~25, OL 1 | ceil: 15.33
 s3 don_quixote_shi_ut4 | overbreathe | clash: 6.05~24.95 | dmg: 4~25, OL 3 | ceil: 26.0
+s3 ishmael_boat_ut4 | risky_judgement | clash: 6.04~18.95 | dmg: 9~39, OL 5 | ceil: 19.67
 s1 rodion_kurokumo_ut4 | sharp_edge | clash: 5.97~11.37 | dmg: 5~14, OL 2 | ceil: 11.67
 s1 sinclair_blade_ut4 | slice_then_stab | clash: 5.96~9.47 | dmg: 10~16, OL 2 | ceil: 9.67
 s2 rodion_zwei_ut4 | focused_defense | clash: 5.91~12.94 | dmg: 12~24, OL -2 | ceil: 13.33
@@ -100,6 +102,7 @@ s2 yi_sang_seven_ut4 | riposte | clash: 5.58~12.61 | dmg: 10~22, OL 0 | ceil: 13
 s3 rodion_n_corp_ut4 | ironclad_retribution | clash: 5.52~12.29 | dmg: 16~36, OL 2 | ceil: 12.67
 s3 don_quixote_w_corp_ut4 | rip_space | clash: 5.51~30.62 | dmg: 5~95, OL 3 | ceil: 32.0
 s2 meursault_lcb_ut4 | nailing_fist | clash: 5.45~13.55 | dmg: 6~15, OL -3 | ceil: 14.0
+s1 ishmael_boat_ut4 | ready_to_crush | clash: 5.44~10.71 | dmg: 8~17, OL 3 | ceil: 11.0
 s1 rodion_rosespanner_ut4 | rev_up | clash: 5.44~10.71 | dmg: 8~17, OL 3 | ceil: 11.0
 s1 ryoshu_chef_ut4 | cooking_prep | clash: 5.44~10.71 | dmg: 8~17, OL 3 | ceil: 11.0
 s1 ryoshu_seven_ut4 | slash | clash: 5.4~12.6 | dmg: 4~12, OL 3 | ceil: 13.0

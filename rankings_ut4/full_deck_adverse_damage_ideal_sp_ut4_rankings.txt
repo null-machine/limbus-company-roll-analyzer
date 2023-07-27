@@ -7,6 +7,7 @@ ryoshu_chef_ut4 (adverse) | clash: 5.36~15.68 | dmg: 9.5~34.25, OL 3.0 | ceil: 1
 ishmael_liu_ut4 (adverse) | clash: 5.39~14.42 | dmg: 11.0~32.75, OL 2.0 | ceil: 16.67
 faust_n_corp_ut4 (adverse) | clash: 5.96~13.74 | dmg: 12.5~29.75, OL 2.0 | ceil: 16.67
 hong_lu_tingtang_ut4 (adverse) | clash: 6.1~19.98 | dmg: 7.0~30.25, OL 3.0 | ceil: 31.0
+ishmael_boat_ut4 (adverse) | clash: 6.23~15.17 | dmg: 9.25~26.5, OL 3.5 | ceil: 19.67
 don_quixote_w_corp_ut4 (adverse) | clash: 5.42~14.02 | dmg: 8.5~29.5, OL 3.0 | ceil: 17.0
 sinclair_blade_ut4 (adverse) | clash: 7.49~15.0 | dmg: 13.5~25.5, OL 2.0 | ceil: 26.67
 gregor_liu_ut4 (adverse) | clash: 6.39~11.55 | dmg: 13.5~26.0, OL 4.0 | ceil: 13.33

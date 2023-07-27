@@ -15,6 +15,7 @@ don_quixote_cinq_ut4 (adverse) | clash: 6.27~14.62 | dmg: 10.0~24.25, OL 1.75 | 
 heathcliff_r_corp_ut4 (adverse) | clash: 6.27~13.04 | dmg: 14.75~35.25, OL 5.0 | ceil: 14.67
 outis_lcb_ut4 (adverse) | clash: 6.27~14.22 | dmg: 9.0~21.5, OL 2.0 | ceil: 21.67
 meursault_liu_ut4 (adverse) | clash: 6.26~11.07 | dmg: 12.25~21.25, OL 1.0 | ceil: 11.33
+ishmael_boat_ut4 (adverse) | clash: 6.23~15.17 | dmg: 9.25~26.5, OL 3.5 | ceil: 19.67
 yi_sang_spicebush_ut4 (adverse) | clash: 6.21~15.25 | dmg: 12.75~33.75, OL 3.0 | ceil: 19.67
 ishmael_lcb_ut4 (adverse) | clash: 6.13~14.45 | dmg: 6.0~15.25, OL -1.0 | ceil: 19.67
 hong_lu_tingtang_ut4 (adverse) | clash: 6.1~19.98 | dmg: 7.0~30.25, OL 3.0 | ceil: 31.0

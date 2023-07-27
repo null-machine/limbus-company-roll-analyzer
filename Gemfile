@@ -5,5 +5,3 @@ gem "jekyll-include-cache"
 # gem "jekyll"
 # gem "wdm"
 gem "webrick"
-
-gem "minimal-mistakes-jekyll"

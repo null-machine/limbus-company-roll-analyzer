@@ -1,12 +1,17 @@
 ---
-title: Yet Another Limbus Company Tier List
 toc: true
 toc_sticky: true
 ---
 
 <meta property="og:title" content="Yet Another Limbus Company Tier List">
-<meta property="og:description" content="A Limbus Company tier list based on numerical analysis, augmented with veteran experience.">
-<link rel="shortcut icon" type="image/png" href="/assets/favicon.png?">
+<meta property="og:description" content="A Limbus Company tier list based on numerical analysis, supplemented with veteran experience.">
+<link rel="shortcut icon" type="image/png" href="./assets/favicon.png?">
+
+<!-- <details> -->
+	<summary>Test summary</summary>
+	hello hello hello
+	among us
+<!-- </details> -->
 
 
 # Yet Another Limbus Company Tier List

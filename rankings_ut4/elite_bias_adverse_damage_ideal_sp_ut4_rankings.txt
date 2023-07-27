@@ -11,6 +11,7 @@ don_quixote_w_corp_ut4 (adverse) | clash: 5.42~14.02 | dmg: 8.5~29.5, OL 3.0 | c
 faust_l_corp_ut4 (adverse) | clash: 5.72~14.91 | dmg: 10.25~27.25, OL 2.0 | ceil: 20.67
 meursault_r_corp_ut4 (adverse) | clash: 4.87~11.39 | dmg: 13.25~26.75, OL -3.0 | ceil: 13.0
 ishmael_lccb_ut4 (adverse) | clash: 4.37~11.28 | dmg: 11.0~26.5, OL -1.0 | ceil: 12.67
+ishmael_boat_ut4 (adverse) | clash: 6.23~15.17 | dmg: 9.25~26.5, OL 3.5 | ceil: 19.67
 meursault_w_corp_ut4 (adverse) | clash: 5.56~11.19 | dmg: 13.75~26.25, OL 0.0 | ceil: 13.0
 gregor_liu_ut4 (adverse) | clash: 6.39~11.55 | dmg: 13.5~26.0, OL 4.0 | ceil: 13.33
 sinclair_blade_ut4 (adverse) | clash: 7.49~15.0 | dmg: 13.5~25.5, OL 2.0 | ceil: 26.67

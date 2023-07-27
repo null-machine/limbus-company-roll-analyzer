@@ -20,6 +20,7 @@ rodion_n_corp_ut3 (prime) | clash: 5.92~11.13 | dmg: 11.5~22.5, OL 2.0 | ceil: 1
 meursault_liu_ut3 (prime) | clash: 5.83~11.28 | dmg: 11.25~21.75, OL 1.0 | ceil: 14.33
 outis_seven_ut3 (prime) | clash: 8.05~14.63 | dmg: 11.0~22.5, OL 0.0 | ceil: 17.0
 gregor_chef_ut3 (prime) | clash: 6.05~11.37 | dmg: 10.0~18.0, OL 1.25 | ceil: 14.0
+ishmael_boat_ut3 (prime) | clash: 6.3~15.88 | dmg: 9.25~28.0, OL 3.5 | ceil: 22.67
 gregor_g_corp_ut3 (prime) | clash: 7.24~14.75 | dmg: 9.0~21.25, OL 5.0 | ceil: 17.67
 hong_lu_liu_ut3 (prime) | clash: 5.51~11.66 | dmg: 10.0~20.5, OL 0.0 | ceil: 17.0
 ishmael_lccb_ut3 (prime) | clash: 4.37~11.28 | dmg: 11.0~26.5, OL -1.0 | ceil: 12.67

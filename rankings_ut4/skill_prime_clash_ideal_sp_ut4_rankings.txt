@@ -7,16 +7,17 @@ s3 ishmael_r_corp_ut4 | mind_whip | clash: 5.89~26.21 | dmg: 12~72, OL 1 | ceil:
 s3 faust_l_corp_ut4 | opportunistic_slash | clash: 6.26~25.59 | dmg: 8~41, OL 2 | ceil: 26.67
 s3 rodion_kurokumo_ut4 | sky_clearing_cut | clash: 8.57~24.77 | dmg: 7~25, OL 2 | ceil: 25.67
 s3 heathcliff_r_corp_ut4 | quick_suppression | clash: 8.0~24.75 | dmg: 20~80, OL 5 | ceil: 25.67
+s3 ishmael_boat_ut4 | risky_judgement | clash: 6.59~24.66 | dmg: 9~51, OL 5 | ceil: 25.67
 s2 ishmael_liu_ut4 | frontal_assault | clash: 6.59~24.66 | dmg: 12~54, OL 2 | ceil: 25.67
 s3 yi_sang_blade_ut4 | flank_thrust | clash: 11.04~23.95 | dmg: 24~54, OL 5 | ceil: 24.67
 s3 don_quixote_cinq_ut4 | salut | clash: 7.64~23.45 | dmg: 12~39, OL 1 | ceil: 24.33
 s3 outis_g_corp_ut4 | focus | clash: 7.47~21.87 | dmg: 7~23, OL -1 | ceil: 22.67
 s3 outis_lcb_ut4 | piercing_thrust | clash: 8.37~20.97 | dmg: 7~21, OL 2 | ceil: 21.67
-s2 outis_seven_ut4 | field_command | clash: 8.02~20.32 | dmg: 10~31, OL 0 | ceil: 21.0
 s2 ryoshu_seven_ut4 | upper_slash | clash: 7.7~20.3 | dmg: 6~20, OL 3 | ceil: 21.0
 s3 ryoshu_seven_ut4 | swash | clash: 7.37~20.28 | dmg: 15~45, OL 3 | ceil: 21.0
 s3 ishmael_l_corp_ut4 | corrosive_splash | clash: 5.8~20.2 | dmg: 6~22, OL -3 | ceil: 21.0
 s3 don_quixote_lcb_ut4 | for_justice | clash: 6.71~19.62 | dmg: 15~45, OL 1 | ceil: 20.33
+s3 outis_seven_ut4 | exploit_the_gap | clash: 9.1~19.43 | dmg: 18~42, OL 0 | ceil: 20.0
 s3 hong_lu_k_corp_ut4 | excise_target | clash: 8.87~19.41 | dmg: 16~34, OL 0 | ceil: 20.0
 s2 sinclair_n_corp_ut4 | amoral_enactment | clash: 15.54~19.33 | dmg: 32~72, OL 4 | ceil: 19.33
 s2 don_quixote_w_corp_ut4 | leap | clash: 6.37~19.28 | dmg: 12~42, OL 3 | ceil: 20.0
@@ -45,6 +46,7 @@ s2 heathcliff_shi_ut4 | flying_sword | clash: 7.83~16.83 | dmg: 7~17, OL 1 | cei
 s3 meursault_rosespanner_ut4 | finishing_runup | clash: 6.61~16.77 | dmg: 16~46, OL 1 | ceil: 17.33
 s3 meursault_liu_ut4 | perfected_death_fist | clash: 6.43~16.76 | dmg: 15~39, OL 1 | ceil: 17.33
 s3 ryoshu_kurokumo_ut4 | lenticular_swirl | clash: 9.58~16.61 | dmg: 16~28, OL 3 | ceil: 17.0
+s2 outis_seven_ut4 | field_command | clash: 7.73~16.51 | dmg: 10~25, OL 0 | ceil: 17.0
 s2 gregor_chef_ut4 | you_fresh_enough | clash: 6.55~16.45 | dmg: 6~17, OL 0 | ceil: 17.0
 s3 meursault_w_corp_ut4 | energy_current | clash: 6.28~16.44 | dmg: 20~50, OL 0 | ceil: 17.0
 s3 heathcliff_n_corp_ut4 | infirm_retribution | clash: 6.1~16.43 | dmg: 15~39, OL 0 | ceil: 17.0
@@ -64,6 +66,7 @@ s2 don_quixote_n_corp_ut4 | enactment | clash: 4.93~15.73 | dmg: 4~16, OL 1 | ce
 s2 gregor_rosespanner_ut4 | grease_chains | clash: 4.93~15.73 | dmg: 4~16, OL 1 | ceil: 16.33
 s3 yi_sang_seven_ut4 | moulinet | clash: 7.82~15.57 | dmg: 15~33, OL 0 | ceil: 16.0
 s2 hong_lu_k_corp_ut4 | decay_blade | clash: 6.73~15.51 | dmg: 12~27, OL 0 | ceil: 16.0
+s2 ishmael_boat_ut4 | explosive_blast | clash: 6.73~15.51 | dmg: 10~25, OL 3 | ceil: 16.0
 s2 ryoshu_kurokumo_ut4 | clean_up | clash: 6.73~15.51 | dmg: 10~25, OL 3 | ceil: 16.0
 s3 ryoshu_chef_ut4 | i_can_cook_anything | clash: 5.28~15.44 | dmg: 92~122, OL 3 | ceil: 16.0
 s3 sinclair_lcb_ut4 | ravaging_cut | clash: 7.49~15.24 | dmg: 18~36, OL 2 | ceil: 15.67
@@ -86,7 +89,6 @@ s3 gregor_liu_ut4 | perfected_palm_strike | clash: 7.18~13.96 | dmg: 20~40, OL 4
 s1 rodion_lccb_ut4 | bludgeon | clash: 6.73~13.93 | dmg: 5~13, OL 4 | ceil: 14.33
 s3 don_quixote_n_corp_ut4 | fanatical_judgement | clash: 6.16~13.9 | dmg: 15~33, OL 1 | ceil: 14.33
 s2 hong_lu_lcb_ut4 | dual_strike | clash: 5.06~13.85 | dmg: 8~23, OL 1 | ceil: 14.33
-s3 outis_seven_ut4 | exploit_the_gap | clash: 8.55~13.71 | dmg: 18~30, OL 0 | ceil: 14.0
 s3 meursault_n_corp_ut4 | annihilate_heretics | clash: 8.44~13.71 | dmg: 16~25, OL 0 | ceil: 14.0
 s1 yi_sang_seven_ut4 | fleche | clash: 7.35~13.65 | dmg: 5~12, OL 0 | ceil: 14.0
 s3 gregor_chef_ut4 | butcher_viand | clash: 6.85~13.63 | dmg: 20~40, OL 3 | ceil: 14.0
@@ -150,6 +152,7 @@ s1 don_quixote_n_corp_ut4 | rightful_purge | clash: 3.91~10.94 | dmg: 6~18, OL 1
 s1 gregor_rosespanner_ut4 | rev_up | clash: 3.91~10.94 | dmg: 6~18, OL 1 | ceil: 11.33
 s1 ishmael_shi_ut4 | flying_sword | clash: 3.91~10.94 | dmg: 6~18, OL 1 | ceil: 11.33
 s1 meursault_liu_ut4 | assault | clash: 3.91~10.94 | dmg: 6~18, OL 1 | ceil: 11.33
+s1 ishmael_boat_ut4 | ready_to_crush | clash: 5.44~10.71 | dmg: 8~17, OL 3 | ceil: 11.0
 s1 rodion_rosespanner_ut4 | rev_up | clash: 5.44~10.71 | dmg: 8~17, OL 3 | ceil: 11.0
 s1 ryoshu_chef_ut4 | cooking_prep | clash: 5.44~10.71 | dmg: 8~17, OL 3 | ceil: 11.0
 s1 meursault_n_corp_ut4 | drive | clash: 5.44~10.71 | dmg: 10~19, OL 0 | ceil: 11.0

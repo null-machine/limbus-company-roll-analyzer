@@ -14,6 +14,7 @@ hong_lu_tingtang_ut4 (adverse) | clash: 6.1~19.98 | dmg: 7.0~30.25, OL 3.0 | cei
 gregor_liu_ut4 (adverse) | clash: 6.39~11.55 | dmg: 13.5~26.0, OL 4.0 | ceil: 13.33
 meursault_n_corp_ut4 (adverse) | clash: 6.61~11.01 | dmg: 12.5~20.0, OL 0.0 | ceil: 14.0
 don_quixote_cinq_ut4 (adverse) | clash: 6.27~14.62 | dmg: 10.0~24.25, OL 1.75 | ceil: 18.33
+ishmael_boat_ut4 (adverse) | clash: 6.23~15.17 | dmg: 9.25~26.5, OL 3.5 | ceil: 19.67
 don_quixote_w_corp_ut4 (adverse) | clash: 5.42~14.02 | dmg: 8.5~29.5, OL 3.0 | ceil: 17.0
 gregor_chef_ut4 (adverse) | clash: 6.05~11.37 | dmg: 10.0~18.0, OL 1.25 | ceil: 14.0
 faust_n_corp_ut4 (adverse) | clash: 5.96~13.74 | dmg: 12.5~29.75, OL 2.0 | ceil: 16.67

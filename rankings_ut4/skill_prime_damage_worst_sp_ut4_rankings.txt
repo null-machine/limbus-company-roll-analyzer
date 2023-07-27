@@ -13,11 +13,11 @@ s3 gregor_liu_ut4 | perfected_palm_strike | clash: 7.18~13.96 | dmg: 20~40, OL 4
 s3 gregor_chef_ut4 | butcher_viand | clash: 6.85~13.63 | dmg: 20~40, OL 3 | ceil: 14.0
 s3 rodion_lcb_ut4 | slay | clash: 5.85~12.63 | dmg: 20~40, OL 0 | ceil: 13.0
 s2 hong_lu_kurokumo_ut4 | cloud_cutter | clash: 5.58~12.61 | dmg: 20~60, OL 0 | ceil: 13.0
+s3 outis_seven_ut4 | exploit_the_gap | clash: 9.1~19.43 | dmg: 18~42, OL 0 | ceil: 20.0
 s3 yi_sang_spicebush_ut4 | bloodsteeped_scent | clash: 8.77~19.09 | dmg: 18~42, OL 5 | ceil: 19.67
 s3 faust_w_corp_ut4 | overcharge | clash: 8.49~16.24 | dmg: 18~36, OL -1 | ceil: 16.67
 s2 gregor_liu_ut4 | rush_down | clash: 8.16~15.9 | dmg: 18~36, OL 4 | ceil: 16.33
 s3 sinclair_lcb_ut4 | ravaging_cut | clash: 7.49~15.24 | dmg: 18~36, OL 2 | ceil: 15.67
-s3 outis_seven_ut4 | exploit_the_gap | clash: 8.55~13.71 | dmg: 18~30, OL 0 | ceil: 14.0
 s3 meursault_r_corp_ut4 | rhino_ram | clash: 5.82~13.57 | dmg: 18~36, OL -3 | ceil: 14.0
 s3 faust_n_corp_ut4 | execution | clash: 7.22~12.38 | dmg: 18~30, OL 2 | ceil: 12.67
 s3 yi_sang_lcb_ut4 | enjamb | clash: 6.55~11.71 | dmg: 18~30, OL 0 | ceil: 12.0
@@ -78,9 +78,10 @@ s2 meursault_n_corp_ut4 | you_are_cleansed_of_sin | clash: 6.44~11.71 | dmg: 12~
 s2 rodion_n_corp_ut4 | zealous_purge | clash: 6.96~10.47 | dmg: 12~18, OL 2 | ceil: 10.67
 s2 sinclair_zwei_ut4 | suppress | clash: 5.62~9.14 | dmg: 12~18, OL -2 | ceil: 9.33
 s3 sinclair_blade_ut4 | to_claim_their_bones | clash: 11.57~27.77 | dmg: 10~28, OL 2 | ceil: 28.67
-s2 outis_seven_ut4 | field_command | clash: 8.02~20.32 | dmg: 10~31, OL 0 | ceil: 21.0
 s3 hong_lu_liu_ut4 | crimson_blaze_fist | clash: 6.02~18.32 | dmg: 10~31, OL 0 | ceil: 19.0
+s2 outis_seven_ut4 | field_command | clash: 7.73~16.51 | dmg: 10~25, OL 0 | ceil: 17.0
 s3 sinclair_l_corp_ut4 | rupturing_talisman | clash: 5.87~16.41 | dmg: 10~28, OL 0 | ceil: 17.0
+s2 ishmael_boat_ut4 | explosive_blast | clash: 6.73~15.51 | dmg: 10~25, OL 3 | ceil: 16.0
 s2 ryoshu_kurokumo_ut4 | clean_up | clash: 6.73~15.51 | dmg: 10~25, OL 3 | ceil: 16.0
 s2 don_quixote_cinq_ut4 | fleche | clash: 6.06~14.85 | dmg: 10~25, OL 1 | ceil: 15.33
 s1 ishmael_r_corp_ut4 | mind_strike | clash: 6.06~14.85 | dmg: 10~25, OL 1 | ceil: 15.33
@@ -93,6 +94,7 @@ s2 faust_lcb_ut4 | upward_slash | clash: 4.91~11.94 | dmg: 10~22, OL -2 | ceil: 
 s2 ishmael_l_corp_ut4 | its_churning | clash: 4.58~11.61 | dmg: 10~22, OL -3 | ceil: 12.0
 s1 meursault_n_corp_ut4 | drive | clash: 5.44~10.71 | dmg: 10~19, OL 0 | ceil: 11.0
 s3 don_quixote_shi_ut4 | overbreathe | clash: 11.05~29.95 | dmg: 9~30, OL 3 | ceil: 31.0
+s3 ishmael_boat_ut4 | risky_judgement | clash: 6.59~24.66 | dmg: 9~51, OL 5 | ceil: 25.67
 s2 ryoshu_chef_ut4 | ingredient_hunt | clash: 5.37~18.28 | dmg: 9~39, OL 3 | ceil: 19.0
 s1 yi_sang_spicebush_ut4 | sprouting_bud | clash: 4.55~9.71 | dmg: 9~21, OL 3 | ceil: 10.0
 s1 outis_lcb_ut4 | pulled_blade | clash: 4.22~9.38 | dmg: 9~21, OL 2 | ceil: 9.67
@@ -110,6 +112,7 @@ s2 rodion_lcb_ut4 | axe_combo | clash: 4.58~11.61 | dmg: 8~20, OL 0 | ceil: 12.0
 s2 yi_sang_lcb_ut4 | end_stop_stab | clash: 4.58~11.61 | dmg: 8~20, OL 0 | ceil: 12.0
 s1 heathcliff_n_corp_ut4 | gawky_nailing | clash: 4.58~11.61 | dmg: 8~20, OL 0 | ceil: 12.0
 s2 heathcliff_lcb_ut4 | smackdown | clash: 3.91~10.94 | dmg: 8~20, OL -2 | ceil: 11.33
+s1 ishmael_boat_ut4 | ready_to_crush | clash: 5.44~10.71 | dmg: 8~17, OL 3 | ceil: 11.0
 s1 rodion_rosespanner_ut4 | rev_up | clash: 5.44~10.71 | dmg: 8~17, OL 3 | ceil: 11.0
 s1 ryoshu_chef_ut4 | cooking_prep | clash: 5.44~10.71 | dmg: 8~17, OL 3 | ceil: 11.0
 s1 faust_n_corp_ut4 | cackle | clash: 5.1~10.37 | dmg: 8~17, OL 2 | ceil: 10.67

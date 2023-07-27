@@ -7,6 +7,7 @@ ishmael_liu_ut3 (adverse) | clash: 5.39~14.42 | dmg: 11.0~32.75, OL 2.0 | ceil: 
 faust_n_corp_ut3 (adverse) | clash: 5.96~13.74 | dmg: 12.5~29.75, OL 2.0 | ceil: 16.67
 ishmael_r_corp_ut3 (adverse) | clash: 5.55~16.48 | dmg: 6.5~27.75, OL 1.0 | ceil: 22.33
 hong_lu_tingtang_ut3 (adverse) | clash: 6.07~19.5 | dmg: 7.0~29.75, OL 3.0 | ceil: 31.0
+ishmael_boat_ut3 (adverse) | clash: 6.23~15.17 | dmg: 9.25~26.5, OL 3.5 | ceil: 19.67
 don_quixote_w_corp_ut3 (adverse) | clash: 5.42~14.02 | dmg: 8.5~29.5, OL 3.0 | ceil: 17.0
 meursault_r_corp_ut3 (adverse) | clash: 5.94~13.1 | dmg: 13.25~28.25, OL 0.0 | ceil: 15.0
 rodion_rosespanner_ut3 (adverse) | clash: 6.63~10.53 | dmg: 11.75~24.5, OL 3.0 | ceil: 18.0
