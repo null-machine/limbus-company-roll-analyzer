@@ -7,6 +7,7 @@ s3 heathcliff_r_corp_ut3 | quick_suppression | clash: 8.0~24.75 | dmg: 20~80, OL
 s3 sinclair_blade_ut3 | to_claim_their_bones | clash: 11.37~23.97 | dmg: 10~24, OL 2 | ceil: 24.67
 s3 rodion_kurokumo_ut3 | sky_clearing_cut | clash: 8.47~22.87 | dmg: 7~23, OL 2 | ceil: 23.67
 s3 ishmael_r_corp_ut3 | mind_whip | clash: 5.46~22.4 | dmg: 12~62, OL 1 | ceil: 23.33
+s3 don_quixote_cinq_ut3 | salut | clash: 8.49~22.55 | dmg: 12~36, OL 4 | ceil: 23.33
 s2 ishmael_liu_ut3 | frontal_assault | clash: 6.32~21.81 | dmg: 12~48, OL 2 | ceil: 22.67
 s3 ishmael_boat_ut3 | risky_judgement | clash: 6.32~21.81 | dmg: 9~45, OL 5 | ceil: 22.67
 s3 outis_g_corp_ut3 | focus | clash: 7.47~21.87 | dmg: 7~23, OL -1 | ceil: 22.67
@@ -44,9 +45,12 @@ s2 faust_n_corp_ut3 | the_gripping | clash: 5.77~16.09 | dmg: 12~36, OL 2 | ceil
 s2 yi_sang_spicebush_ut3 | moments_floral_breeze | clash: 5.77~16.09 | dmg: 12~36, OL 2 | ceil: 16.67
 s3 outis_blade_ut3 | decisive_dive | clash: 8.91~15.94 | dmg: 16~28, OL 1 | ceil: 16.33
 s3 rodion_lccb_ut3 | suppress | clash: 8.91~15.94 | dmg: 14~26, OL 4 | ceil: 16.33
+s3 sinclair_boat_ut3 | gamble | clash: 5.2~15.75 | dmg: 8~26, OL 1 | ceil: 16.33
+s2 don_quixote_cinq_ut3 | fleche | clash: 7.06~15.85 | dmg: 10~25, OL 4 | ceil: 16.33
 s2 don_quixote_lcb_ut3 | galloping_tilt | clash: 6.83~15.83 | dmg: 6~16, OL 1 | ceil: 16.33
 s2 don_quixote_n_corp_ut3 | enactment | clash: 4.93~15.73 | dmg: 4~16, OL 1 | ceil: 16.33
 s2 gregor_rosespanner_ut3 | grease_chains | clash: 4.93~15.73 | dmg: 4~16, OL 1 | ceil: 16.33
+s2 sinclair_boat_ut3 | steady | clash: 4.93~15.73 | dmg: 4~16, OL 1 | ceil: 16.33
 s3 ryoshu_chef_ut3 | i_can_cook_anything | clash: 5.28~15.44 | dmg: 92~122, OL 3 | ceil: 16.0
 s3 heathcliff_n_corp_ut3 | infirm_retribution | clash: 5.1~15.43 | dmg: 12~36, OL 0 | ceil: 16.0
 s3 yi_sang_seven_ut3 | moulinet | clash: 7.82~15.57 | dmg: 15~33, OL 0 | ceil: 16.0
@@ -76,6 +80,7 @@ s3 don_quixote_n_corp_ut3 | fanatical_judgement | clash: 5.16~12.9 | dmg: 12~30,
 s3 gregor_rosespanner_ut3 | lets_grind_em | clash: 5.16~12.9 | dmg: 12~30, OL 1 | ceil: 13.33
 s2 ishmael_shi_ut3 | flashing_slide | clash: 5.91~12.94 | dmg: 10~22, OL 1 | ceil: 13.33
 s2 outis_blade_ut3 | acupuncture | clash: 5.91~12.94 | dmg: 10~22, OL 1 | ceil: 13.33
+s1 don_quixote_cinq_ut3 | remise | clash: 5.91~12.94 | dmg: 8~20, OL 4 | ceil: 13.33
 s2 hong_lu_kurokumo_ut3 | cloud_cutter | clash: 5.58~12.61 | dmg: 20~60, OL 0 | ceil: 13.0
 s2 heathcliff_sunshower_ut3 | puddle_stomp | clash: 10.16~13.0 | dmg: 18~48, OL 3 | ceil: 13.0
 s2 sinclair_l_corp_ut3 | proliferating_talismans | clash: 4.82~12.57 | dmg: 12~30, OL 0 | ceil: 13.0
@@ -143,6 +148,7 @@ s1 faust_n_corp_ut3 | cackle | clash: 5.1~10.37 | dmg: 8~17, OL 2 | ceil: 10.67
 s1 outis_g_corp_ut3 | order | clash: 4.97~10.37 | dmg: 5~11, OL -1 | ceil: 10.67
 s2 yi_sang_blade_ut3 | heel_turn | clash: 8.81~10.57 | dmg: 14~17, OL 5 | ceil: 10.67
 s1 ryoshu_lcb_ut3 | paint | clash: 4.02~10.32 | dmg: 3~10, OL 2 | ceil: 10.67
+s1 sinclair_boat_ut3 | fierce_assault | clash: 3.18~9.96 | dmg: 8~28, OL 1 | ceil: 10.33
 s1 hong_lu_lcb_ut3 | downward_cleave | clash: 3.68~9.98 | dmg: 3~10, OL 1 | ceil: 10.33
 s2 gregor_liu_ut3 | rush_down | clash: 7.61~10.19 | dmg: 18~24, OL 4 | ceil: 10.33
 s2 meursault_liu_ut3 | stalwart_stance | clash: 6.62~10.14 | dmg: 12~18, OL 1 | ceil: 10.33

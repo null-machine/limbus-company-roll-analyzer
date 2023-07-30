@@ -41,7 +41,7 @@ for uptie in uptie_names:
 			file = open(f'rankings_{uptie}/elite_bias_{variant_names[i]}_{sinner_score_names[j]}_{uptie}_rankings.txt', 'w')
 			for k in range(0, len(sinners)):
 				sinners[k].elite_bias_rank_matrix[i][j] = k + 1
-				file.write(f'{sinners[k].gen_summary(i)}\n')
+				file.write(f'{sinners[k].gen_summary(i, "elite_bias")}\n')
 
 	for i in range(0, 3):
 		for j in range (0, 4):
@@ -49,7 +49,7 @@ for uptie in uptie_names:
 			file = open(f'rankings_{uptie}/full_deck_{variant_names[i]}_{sinner_score_names[j]}_{uptie}_rankings.txt', 'w')
 			for k in range(0, len(sinners)):
 				sinners[k].full_deck_rank_matrix[i][j] = k + 1
-				file.write(f'{sinners[k].gen_summary(i)}\n')
+				file.write(f'{sinners[k].gen_summary(i, "full_deck")}\n')
 
 	for i in range(0, 3):
 		for j in range (0, 5):

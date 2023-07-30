@@ -4,6 +4,7 @@ don_quixote_shi_ut3 (adverse) | clash: 5.77~17.12 | dmg: 6.0~21.75, OL 3.0 | cei
 ishmael_r_corp_ut3 (adverse) | clash: 5.55~16.48 | dmg: 6.5~27.75, OL 1.0 | ceil: 22.33
 ryoshu_seven_ut3 (adverse) | clash: 5.72~15.7 | dmg: 6.0~21.0, OL 3.0 | ceil: 20.0
 ryoshu_chef_ut3 (adverse) | clash: 5.36~15.68 | dmg: 9.5~34.25, OL 3.0 | ceil: 19.0
+don_quixote_cinq_ut3 (adverse) | clash: 7.02~15.37 | dmg: 10.0~24.25, OL 4.0 | ceil: 19.33
 yi_sang_spicebush_ut3 (adverse) | clash: 6.21~15.25 | dmg: 12.75~33.75, OL 3.0 | ceil: 19.67
 ishmael_boat_ut3 (adverse) | clash: 6.23~15.17 | dmg: 9.25~26.5, OL 3.5 | ceil: 19.67
 ryoshu_kurokumo_ut3 (adverse) | clash: 7.33~14.83 | dmg: 10.25~22.25, OL 3.0 | ceil: 17.0
@@ -20,6 +21,7 @@ don_quixote_n_corp_ut3 (adverse) | clash: 4.73~13.83 | dmg: 6.5~20.0, OL 1.0 | c
 gregor_rosespanner_ut3 (adverse) | clash: 4.73~13.83 | dmg: 6.5~20.0, OL 1.0 | ceil: 16.33
 faust_n_corp_ut3 (adverse) | clash: 5.96~13.74 | dmg: 12.5~29.75, OL 2.0 | ceil: 16.67
 outis_lcb_ut3 (adverse) | clash: 5.52~13.47 | dmg: 7.75~20.25, OL 2.0 | ceil: 20.67
+sinclair_boat_ut3 (adverse) | clash: 4.46~13.34 | dmg: 6.0~19.0, OL 1.0 | ceil: 16.33
 heathcliff_n_corp_ut3 (adverse) | clash: 5.37~13.31 | dmg: 7.5~20.5, OL 0.0 | ceil: 16.0
 heathcliff_lcb_ut3 (adverse) | clash: 4.67~13.27 | dmg: 7.0~20.75, OL 0.0 | ceil: 20.0
 meursault_r_corp_ut3 (adverse) | clash: 5.94~13.1 | dmg: 13.25~28.25, OL 0.0 | ceil: 15.0

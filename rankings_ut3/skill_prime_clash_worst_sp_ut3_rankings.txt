@@ -14,6 +14,7 @@ s2 yi_sang_blade_ut3 | heel_turn | clash: 8.81~10.57 | dmg: 14~17, OL 5 | ceil: 
 s3 yi_sang_spicebush_ut3 | bloodsteeped_scent | clash: 8.77~19.09 | dmg: 18~42, OL 5 | ceil: 19.67
 s3 hong_lu_k_corp_ut3 | excise_target | clash: 8.73~17.51 | dmg: 16~31, OL 0 | ceil: 18.0
 s3 outis_seven_ut3 | exploit_the_gap | clash: 8.55~13.71 | dmg: 18~30, OL 0 | ceil: 14.0
+s3 don_quixote_cinq_ut3 | salut | clash: 8.49~22.55 | dmg: 12~36, OL 4 | ceil: 23.33
 s3 rodion_kurokumo_ut3 | sky_clearing_cut | clash: 8.47~22.87 | dmg: 7~23, OL 2 | ceil: 23.67
 s3 meursault_n_corp_ut3 | annihilate_heretics | clash: 8.44~13.71 | dmg: 16~25, OL 0 | ceil: 14.0
 s3 heathcliff_shi_ut3 | flashing_strike | clash: 8.2~18.75 | dmg: 14~32, OL 1 | ceil: 19.33
@@ -43,6 +44,7 @@ s1 heathcliff_r_corp_ut3 | graze_the_grass | clash: 7.22~12.38 | dmg: 15~27, OL 
 s3 gregor_liu_ut3 | perfected_palm_strike | clash: 7.18~13.96 | dmg: 20~40, OL 4 | ceil: 14.33
 s2 rodion_kurokumo_ut3 | scattering_slash | clash: 7.1~12.37 | dmg: 12~21, OL 2 | ceil: 12.67
 s3 rodion_rosespanner_ut3 | lets_rack_up_some_scores | clash: 7.1~17.43 | dmg: 15~39, OL 3 | ceil: 18.0
+s2 don_quixote_cinq_ut3 | fleche | clash: 7.06~15.85 | dmg: 10~25, OL 4 | ceil: 16.33
 s3 sinclair_zwei_ut3 | strong_strike | clash: 6.98~18.68 | dmg: 7~20, OL -2 | ceil: 19.33
 s1 yi_sang_blade_ut3 | strikers_stance | clash: 6.97~12.37 | dmg: 5~11, OL 5 | ceil: 12.67
 s2 rodion_n_corp_ut3 | zealous_purge | clash: 6.96~10.47 | dmg: 12~18, OL 2 | ceil: 10.67
@@ -86,6 +88,7 @@ s2 don_quixote_w_corp_ut3 | leap | clash: 6.1~16.43 | dmg: 12~36, OL 3 | ceil: 1
 s1 rodion_kurokumo_ut3 | sharpened_blade | clash: 5.97~11.37 | dmg: 5~11, OL 2 | ceil: 11.67
 s2 ishmael_shi_ut3 | flashing_slide | clash: 5.91~12.94 | dmg: 10~22, OL 1 | ceil: 13.33
 s2 outis_blade_ut3 | acupuncture | clash: 5.91~12.94 | dmg: 10~22, OL 1 | ceil: 13.33
+s1 don_quixote_cinq_ut3 | remise | clash: 5.91~12.94 | dmg: 8~20, OL 4 | ceil: 13.33
 s3 hong_lu_liu_ut3 | crimson_blaze_fist | clash: 5.87~16.41 | dmg: 10~28, OL 0 | ceil: 17.0
 s3 sinclair_l_corp_ut3 | rupturing_talisman | clash: 5.87~16.41 | dmg: 10~28, OL 0 | ceil: 17.0
 s2 don_quixote_shi_ut3 | dual_strike | clash: 5.87~16.41 | dmg: 8~26, OL 3 | ceil: 17.0
@@ -125,6 +128,7 @@ s2 faust_w_corp_ut3 | leap | clash: 5.25~12.28 | dmg: 10~22, OL -1 | ceil: 12.67
 s3 gregor_lcb_ut3 | chop_up | clash: 5.25~12.28 | dmg: 10~22, OL -1 | ceil: 12.67
 s2 outis_lcb_ut3 | backslash | clash: 5.25~12.28 | dmg: 8~20, OL 2 | ceil: 12.67
 s2 ryoshu_lcb_ut3 | splatter | clash: 5.25~12.28 | dmg: 8~20, OL 2 | ceil: 12.67
+s3 sinclair_boat_ut3 | gamble | clash: 5.2~15.75 | dmg: 8~26, OL 1 | ceil: 16.33
 s3 don_quixote_n_corp_ut3 | fanatical_judgement | clash: 5.16~12.9 | dmg: 12~30, OL 1 | ceil: 13.33
 s3 gregor_rosespanner_ut3 | lets_grind_em | clash: 5.16~12.9 | dmg: 12~30, OL 1 | ceil: 13.33
 s3 rodion_zwei_ut3 | subdue_threat | clash: 5.16~12.9 | dmg: 15~33, OL -2 | ceil: 13.33
@@ -139,6 +143,7 @@ s1 outis_g_corp_ut3 | order | clash: 4.97~10.37 | dmg: 5~11, OL -1 | ceil: 10.67
 s1 gregor_chef_ut3 | keep_it_fresh | clash: 4.96~8.47 | dmg: 8~14, OL 2 | ceil: 8.67
 s2 don_quixote_n_corp_ut3 | enactment | clash: 4.93~15.73 | dmg: 4~16, OL 1 | ceil: 16.33
 s2 gregor_rosespanner_ut3 | grease_chains | clash: 4.93~15.73 | dmg: 4~16, OL 1 | ceil: 16.33
+s2 sinclair_boat_ut3 | steady | clash: 4.93~15.73 | dmg: 4~16, OL 1 | ceil: 16.33
 s2 sinclair_l_corp_ut3 | proliferating_talismans | clash: 4.82~12.57 | dmg: 12~30, OL 0 | ceil: 13.0
 s1 heathcliff_sunshower_ut3 | umbrella_thwack | clash: 4.77~6.67 | dmg: 6~18, OL 2 | ceil: 6.67
 s1 outis_blade_ut3 | draw_of_the_sword | clash: 4.63~10.03 | dmg: 4~10, OL 1 | ceil: 10.33
@@ -174,6 +179,7 @@ s1 rodion_lcb_ut3 | strike_down | clash: 3.35~9.65 | dmg: 3~10, OL 0 | ceil: 10.
 s1 yi_sang_lcb_ut3 | deflect | clash: 3.35~9.65 | dmg: 3~10, OL 0 | ceil: 10.0
 s1 ishmael_l_corp_ut3 | its_heavy | clash: 3.3~8.7 | dmg: 4~10, OL -3 | ceil: 9.0
 s1 sinclair_mariachi_ut3 | baile_y_rola | clash: 3.29~6.8 | dmg: 8~14, OL -3 | ceil: 7.0
+s1 sinclair_boat_ut3 | fierce_assault | clash: 3.18~9.96 | dmg: 8~28, OL 1 | ceil: 10.33
 s1 gregor_lcb_ut3 | swipe | clash: 3.02~9.32 | dmg: 3~10, OL -1 | ceil: 9.67
 s1 ishmael_lcb_ut3 | loggerhead | clash: 3.02~9.32 | dmg: 3~10, OL -1 | ceil: 9.67
 s1 faust_lcb_ut3 | downward_slash | clash: 2.68~8.98 | dmg: 3~10, OL -2 | ceil: 9.33

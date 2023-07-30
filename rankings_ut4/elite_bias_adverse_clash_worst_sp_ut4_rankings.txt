@@ -7,11 +7,11 @@ sinclair_blade_ut4 (adverse) | clash: 7.49~15.0 | dmg: 13.5~25.5, OL 2.0 | ceil:
 ryoshu_kurokumo_ut4 (adverse) | clash: 7.33~14.83 | dmg: 10.25~22.25, OL 3.0 | ceil: 17.0
 gregor_g_corp_ut4 (adverse) | clash: 7.24~14.75 | dmg: 9.0~21.25, OL 5.0 | ceil: 17.67
 rodion_kurokumo_ut4 (adverse) | clash: 7.18~15.22 | dmg: 9.0~20.25, OL 2.0 | ceil: 25.67
+don_quixote_cinq_ut4 (adverse) | clash: 7.02~15.37 | dmg: 10.0~24.25, OL 4.0 | ceil: 19.33
 rodion_rosespanner_ut4 (adverse) | clash: 6.85~13.39 | dmg: 11.75~24.5, OL 3.0 | ceil: 18.0
 hong_lu_k_corp_ut4 (adverse) | clash: 6.83~14.33 | dmg: 11.25~23.25, OL 0.0 | ceil: 16.0
 meursault_n_corp_ut4 (adverse) | clash: 6.61~11.01 | dmg: 12.5~20.0, OL 0.0 | ceil: 14.0
 gregor_liu_ut4 (adverse) | clash: 6.39~11.55 | dmg: 13.5~26.0, OL 4.0 | ceil: 13.33
-don_quixote_cinq_ut4 (adverse) | clash: 6.27~14.62 | dmg: 10.0~24.25, OL 1.75 | ceil: 18.33
 heathcliff_r_corp_ut4 (adverse) | clash: 6.27~13.04 | dmg: 14.75~35.25, OL 5.0 | ceil: 14.67
 outis_lcb_ut4 (adverse) | clash: 6.27~14.22 | dmg: 9.0~21.5, OL 2.0 | ceil: 21.67
 meursault_liu_ut4 (adverse) | clash: 6.26~11.07 | dmg: 12.25~21.25, OL 1.0 | ceil: 11.33
@@ -56,6 +56,7 @@ gregor_rosespanner_ut4 (adverse) | clash: 4.73~13.83 | dmg: 6.5~20.0, OL 1.0 | c
 don_quixote_lcb_ut4 (adverse) | clash: 4.68~13.59 | dmg: 5.25~17.5, OL 1.0 | ceil: 16.33
 rodion_lcb_ut4 (adverse) | clash: 4.59~11.37 | dmg: 9.0~21.75, OL 0.0 | ceil: 12.0
 ishmael_l_corp_ut4 (adverse) | clash: 4.57~13.03 | dmg: 7.5~19.0, OL -3.0 | ceil: 21.0
+sinclair_boat_ut3 (adverse) | clash: 4.46~13.34 | dmg: 6.0~19.0, OL 1.0 | ceil: 16.33
 ishmael_lccb_ut4 (adverse) | clash: 4.37~11.28 | dmg: 11.0~26.5, OL -1.0 | ceil: 12.67
 meursault_lcb_ut4 (adverse) | clash: 4.33~11.83 | dmg: 8.5~21.0, OL -3.0 | ceil: 14.0
 heathcliff_lcb_ut4 (adverse) | clash: 3.68~11.4 | dmg: 6.75~19.0, OL -2.0 | ceil: 15.33

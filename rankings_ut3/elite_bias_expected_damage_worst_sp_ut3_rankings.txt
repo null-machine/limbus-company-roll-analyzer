@@ -23,6 +23,7 @@ faust_w_corp_ut3 (expected) | clash: 5.17~11.32 | dmg: 10.5~21.0, OL -1.0 | ceil
 sinclair_lcb_ut3 (expected) | clash: 5.17~10.61 | dmg: 10.5~21.25, OL 2.0 | ceil: 11.67
 ryoshu_kurokumo_ut3 (expected) | clash: 7.33~14.83 | dmg: 10.25~22.25, OL 3.0 | ceil: 17.0
 hong_lu_k_corp_ut3 (expected) | clash: 6.37~14.31 | dmg: 10.25~23.0, OL 0.0 | ceil: 18.0
+don_quixote_cinq_ut3 (expected) | clash: 7.02~15.37 | dmg: 10.0~24.25, OL 4.0 | ceil: 19.33
 meursault_rosespanner_ut3 (expected) | clash: 5.41~11.97 | dmg: 10.0~22.5, OL 1.0 | ceil: 13.33
 hong_lu_liu_ut3 (expected) | clash: 5.51~11.66 | dmg: 10.0~20.5, OL 0.0 | ceil: 17.0
 gregor_chef_ut3 (expected) | clash: 6.05~11.37 | dmg: 10.0~18.0, OL 1.25 | ceil: 14.0
@@ -54,6 +55,7 @@ gregor_rosespanner_ut3 (expected) | clash: 4.73~13.83 | dmg: 6.5~20.0, OL 1.0 | 
 don_quixote_shi_ut3 (expected) | clash: 5.77~17.12 | dmg: 6.0~21.75, OL 3.0 | ceil: 26.0
 ryoshu_seven_ut3 (expected) | clash: 5.72~15.7 | dmg: 6.0~21.0, OL 3.0 | ceil: 20.0
 heathcliff_shi_ut3 (expected) | clash: 5.63~14.11 | dmg: 6.0~17.0, OL 1.0 | ceil: 17.33
+sinclair_boat_ut3 (expected) | clash: 4.46~13.34 | dmg: 6.0~19.0, OL 1.0 | ceil: 16.33
 gregor_lcb_ut3 (expected) | clash: 4.15~11.98 | dmg: 5.25~15.0, OL -1.0 | ceil: 13.67
 outis_g_corp_ut3 (expected) | clash: 5.19~14.64 | dmg: 5.0~15.5, OL -1.0 | ceil: 21.67
 ishmael_lcb_ut3 (expected) | clash: 5.1~12.98 | dmg: 5.0~13.75, OL -1.0 | ceil: 18.67

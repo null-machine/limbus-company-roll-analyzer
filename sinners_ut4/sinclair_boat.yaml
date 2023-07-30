@@ -1,0 +1,102 @@
+!!python/object:sinner.Sinner
+name: sinclair_boat_ut3
+skills:
+- !!python/object:skill.Skill
+  coin_type: plus
+  name: fierce_assault
+  stats:
+  - 2
+  - 1
+  - 4
+  - 1
+  damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_bonuses:
+  - 0
+  - 1
+  - 0
+  - 0
+  prime_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+- !!python/object:skill.Skill
+  coin_type: plus
+  name: steady
+  stats:
+  - 4
+  - 12
+  - 1
+  - 1
+  damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+- !!python/object:skill.Skill
+  coin_type: plus
+  name: gamble
+  stats:
+  - 4
+  - 6
+  - 2
+  - 1
+  damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  prime_bonuses:
+  - 0
+  - 2
+  - 0
+  - 0
+  prime_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0
+  weak_damage_bonuses:
+  - 0
+  - 0
+  - 0
+  - 0

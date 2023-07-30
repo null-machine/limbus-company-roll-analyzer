@@ -8,7 +8,7 @@ class Sinner:
 		self.name = name
 		self.skills = skills
 	
-	def gen_summary(self, variant):
+	def gen_summary(self, variant, weighting):
 		# return self.name
 		variant_name = ''
 		if variant == 0:
@@ -18,7 +18,11 @@ class Sinner:
 		elif variant == 2:
 			variant_name = 'prime'
 		ceil = max(self.skills[0].score_matrix[variant][4], self.skills[1].score_matrix[variant][4], self.skills[2].score_matrix[variant][4])
-		return f'{self.name} ({variant_name}) | clash: {round(self.elite_bias_score_matrix[variant][0], 2)}~{round(self.elite_bias_score_matrix[variant][1], 2)} | dmg: {round(self.elite_bias_score_matrix[variant][2], 2)}~{round(self.elite_bias_score_matrix[variant][3], 2)}, OL {round(self.elite_bias_score_matrix[variant][4], 2)} | ceil: {round(ceil, 2)}'
+
+		if weighting == 'elite_bias':
+			return f'{self.name} ({variant_name}) | clash: {round(self.elite_bias_score_matrix[variant][0], 2)}~{round(self.elite_bias_score_matrix[variant][1], 2)} | dmg: {round(self.elite_bias_score_matrix[variant][2], 2)}~{round(self.elite_bias_score_matrix[variant][3], 2)}, OL {round(self.elite_bias_score_matrix[variant][4], 2)} | ceil: {round(ceil, 2)}'
+		elif weighting == 'full_deck':
+			return f'{self.name} ({variant_name}) | clash: {round(self.full_deck_score_matrix[variant][0], 2)}~{round(self.full_deck_score_matrix[variant][1], 2)} | dmg: {round(self.full_deck_score_matrix[variant][2], 2)}~{round(self.full_deck_score_matrix[variant][3], 2)}, OL {round(self.full_deck_score_matrix[variant][4], 2)} | ceil: {round(ceil, 2)}'
 	
 	def gen_chart(self, variant):
 	

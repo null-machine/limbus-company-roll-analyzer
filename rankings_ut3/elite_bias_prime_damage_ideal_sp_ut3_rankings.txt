@@ -14,6 +14,7 @@ ishmael_r_corp_ut3 (prime) | clash: 6.55~17.48 | dmg: 8.5~29.75, OL 1.0 | ceil: 
 ishmael_boat_ut3 (prime) | clash: 6.3~15.88 | dmg: 9.25~28.0, OL 3.5 | ceil: 22.67
 faust_l_corp_ut3 (prime) | clash: 5.3~15.36 | dmg: 8.75~27.5, OL 2.0 | ceil: 26.67
 ishmael_lccb_ut3 (prime) | clash: 4.37~11.28 | dmg: 11.0~26.5, OL -1.0 | ceil: 12.67
+don_quixote_cinq_ut3 (prime) | clash: 7.13~16.8 | dmg: 10.0~26.5, OL 4.0 | ceil: 23.33
 gregor_liu_ut3 (prime) | clash: 7.26~11.12 | dmg: 16.5~26.0, OL 4.0 | ceil: 14.33
 sinclair_blade_ut3 (prime) | clash: 9.27~14.15 | dmg: 18.0~25.25, OL 2.0 | ceil: 24.67
 sinclair_l_corp_ut3 (prime) | clash: 5.19~12.83 | dmg: 9.75~24.5, OL 0.0 | ceil: 17.0
@@ -30,6 +31,7 @@ ryoshu_kurokumo_ut3 (prime) | clash: 7.33~14.83 | dmg: 10.25~22.25, OL 3.0 | cei
 don_quixote_lcb_ut3 (prime) | clash: 6.51~15.82 | dmg: 8.0~22.25, OL 1.0 | ceil: 20.33
 meursault_liu_ut3 (prime) | clash: 5.83~11.28 | dmg: 11.25~21.75, OL 1.0 | ceil: 14.33
 ishmael_shi_ut3 (prime) | clash: 5.66~12.69 | dmg: 9.5~21.5, OL 1.0 | ceil: 14.33
+sinclair_boat_ut3 (prime) | clash: 4.56~14.29 | dmg: 6.0~21.5, OL 1.0 | ceil: 16.33
 gregor_g_corp_ut3 (prime) | clash: 7.24~14.75 | dmg: 9.0~21.25, OL 5.0 | ceil: 17.67
 faust_w_corp_ut3 (prime) | clash: 5.17~11.32 | dmg: 10.5~21.0, OL -1.0 | ceil: 12.67
 hong_lu_lcb_ut3 (prime) | clash: 5.0~13.61 | dmg: 7.25~21.0, OL 1.0 | ceil: 17.33

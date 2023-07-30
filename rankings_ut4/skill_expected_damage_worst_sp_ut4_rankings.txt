@@ -45,7 +45,7 @@ s2 meursault_liu_ut4 | stalwart_stance | clash: 7.62~11.14 | dmg: 14~20, OL 1 | 
 s3 faust_lcb_ut4 | drilling_stab | clash: 6.62~10.14 | dmg: 14~20, OL -2 | ceil: 10.33
 s3 ryoshu_seven_ut4 | swash | clash: 6.37~19.28 | dmg: 12~42, OL 3 | ceil: 20.0
 s2 don_quixote_w_corp_ut4 | leap | clash: 6.37~19.28 | dmg: 12~42, OL 3 | ceil: 20.0
-s3 don_quixote_cinq_ut4 | salut | clash: 7.2~17.75 | dmg: 12~30, OL 1 | ceil: 18.33
+s3 don_quixote_cinq_ut4 | salut | clash: 8.2~18.75 | dmg: 12~30, OL 4 | ceil: 19.33
 s3 ishmael_shi_ut4 | catch_breath | clash: 7.2~17.75 | dmg: 12~30, OL 1 | ceil: 18.33
 s3 hong_lu_lcb_ut4 | whirlwind | clash: 7.2~17.75 | dmg: 12~30, OL 1 | ceil: 18.33
 s2 faust_n_corp_ut4 | the_gripping | clash: 5.77~16.09 | dmg: 12~36, OL 2 | ceil: 16.67
@@ -74,9 +74,9 @@ s3 heathcliff_shi_ut4 | flashing_strike | clash: 6.2~16.75 | dmg: 10~28, OL 1 | 
 s2 outis_seven_ut4 | field_command | clash: 7.73~16.51 | dmg: 10~25, OL 0 | ceil: 17.0
 s3 hong_lu_liu_ut4 | crimson_blaze_fist | clash: 5.87~16.41 | dmg: 10~28, OL 0 | ceil: 17.0
 s3 sinclair_l_corp_ut4 | rupturing_talisman | clash: 5.87~16.41 | dmg: 10~28, OL 0 | ceil: 17.0
+s2 don_quixote_cinq_ut4 | fleche | clash: 7.06~15.85 | dmg: 10~25, OL 4 | ceil: 16.33
 s2 ishmael_boat_ut4 | explosive_blast | clash: 6.73~15.51 | dmg: 10~25, OL 3 | ceil: 16.0
 s2 ryoshu_kurokumo_ut4 | clean_up | clash: 6.73~15.51 | dmg: 10~25, OL 3 | ceil: 16.0
-s2 don_quixote_cinq_ut4 | fleche | clash: 6.06~14.85 | dmg: 10~25, OL 1 | ceil: 15.33
 s2 outis_lcb_ut4 | backslash | clash: 6.25~13.28 | dmg: 10~22, OL 2 | ceil: 13.67
 s2 ishmael_shi_ut4 | flashing_slide | clash: 5.91~12.94 | dmg: 10~22, OL 1 | ceil: 13.33
 s2 meursault_rosespanner_ut4 | forced_break | clash: 5.91~12.94 | dmg: 10~22, OL 1 | ceil: 13.33
@@ -99,6 +99,7 @@ s3 ishmael_r_corp_ut4 | mind_whip | clash: 4.89~25.21 | dmg: 8~68, OL 1 | ceil: 
 s3 ishmael_lcb_ut4 | shield_bash | clash: 8.27~19.07 | dmg: 8~20, OL -1 | ceil: 19.67
 s3 sinclair_mariachi_ut4 | pinata_party | clash: 7.55~17.45 | dmg: 8~19, OL -3 | ceil: 18.0
 s2 don_quixote_shi_ut4 | dual_strike | clash: 5.87~16.41 | dmg: 8~26, OL 3 | ceil: 17.0
+s3 sinclair_boat_ut3 | gamble | clash: 5.2~15.75 | dmg: 8~26, OL 1 | ceil: 16.33
 s3 heathcliff_lcb_ut4 | upheaval | clash: 4.2~14.75 | dmg: 8~26, OL -2 | ceil: 15.33
 s2 ryoshu_lcb_ut4 | splatter | clash: 5.39~14.18 | dmg: 8~23, OL 2 | ceil: 14.67
 s1 ishmael_r_corp_ut4 | mind_strike | clash: 5.06~13.85 | dmg: 8~23, OL 1 | ceil: 14.33
@@ -117,6 +118,7 @@ s1 gregor_liu_ut4 | single_point_stab | clash: 5.62~9.14 | dmg: 8~14, OL 4 | cei
 s1 gregor_chef_ut4 | keep_it_fresh | clash: 4.96~8.47 | dmg: 8~14, OL 2 | ceil: 8.67
 s1 rodion_zwei_ut4 | careful_obstruction | clash: 3.62~7.14 | dmg: 8~14, OL -2 | ceil: 7.33
 s1 sinclair_mariachi_ut4 | baile_y_rola | clash: 3.29~6.8 | dmg: 8~14, OL -3 | ceil: 7.0
+s1 sinclair_boat_ut3 | fierce_assault | clash: 2.76~6.15 | dmg: 8~18, OL 1 | ceil: 6.33
 s3 rodion_kurokumo_ut4 | sky_clearing_cut | clash: 8.57~24.77 | dmg: 7~25, OL 2 | ceil: 25.67
 s3 outis_lcb_ut4 | piercing_thrust | clash: 8.37~20.97 | dmg: 7~21, OL 2 | ceil: 21.67
 s3 sinclair_zwei_ut4 | strong_strike | clash: 6.98~18.68 | dmg: 7~20, OL -2 | ceil: 19.33
@@ -159,6 +161,7 @@ s2 ryoshu_seven_ut4 | upper_slash | clash: 5.7~18.3 | dmg: 4~18, OL 3 | ceil: 19
 s2 don_quixote_lcb_ut4 | galloping_tilt | clash: 4.93~15.73 | dmg: 4~16, OL 1 | ceil: 16.33
 s2 don_quixote_n_corp_ut4 | enactment | clash: 4.93~15.73 | dmg: 4~16, OL 1 | ceil: 16.33
 s2 gregor_rosespanner_ut4 | grease_chains | clash: 4.93~15.73 | dmg: 4~16, OL 1 | ceil: 16.33
+s2 sinclair_boat_ut3 | steady | clash: 4.93~15.73 | dmg: 4~16, OL 1 | ceil: 16.33
 s1 ryoshu_seven_ut4 | slash | clash: 5.4~12.6 | dmg: 4~12, OL 3 | ceil: 13.0
 s1 don_quixote_shi_ut4 | catch_breath | clash: 5.35~11.65 | dmg: 4~11, OL 3 | ceil: 12.0
 s1 ryoshu_lcb_ut4 | paint | clash: 5.02~11.32 | dmg: 4~11, OL 2 | ceil: 11.67

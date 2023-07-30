@@ -15,9 +15,7 @@ Critically reviewed by Nex (nex7448) and Kervina.
 
 Limbus Company belongs to Project Moon.
 
-Last update: 2023.6
-
-Note: No new identities will be added until 2023.7.20 update is released, for ease of maintenance. Nex wishes to try out UT4 units before making judgement calls, so this update will likely take a while. However, LOWERCASE will probably have generated all the charts for both UT3 and UT4 units before then, so just use their data rankings combined with common sense for the time being.
+Last update: 2023.7
 
 ---
 
@@ -40,7 +38,7 @@ Through this metric, it becomes apparent that some sinners will likely be able t
 
 What this means is, this list will make the game experience and future stages as accessible as possible. Investing in high-tier units will provide a practical way to clear content. Failing that, it will illustrate the opportunity cost of not having certain units (which is usually far more acceptable than influencers would suggest).
 
-Regardless, please recognize that all tier lists, including this one, are generalizations. Cases that favour units of lower tiers will always exist, especially when it comes to playing around sin resources, type weaknesses and edge case synergies. It is unrealistic to expect any tier list to take every single aspect into account, but this one hopefully provides a solid analysis by combining objective numbers with veteran experience.
+Regardless, please recognize that all tier lists, including this one, are generalizations. Cases that favour units of lower tiers will always exist, especially when it comes to playing around sin resources, type weaknesses and edge case synergies. It is unrealistic to expect any tier list to take every single aspect into account, but this one hopefully provides a solid analysis by combining objective numbers with veteran experience. To reiterate, these rankings are not presented as objective fact, but they are still based on rigorous analysis.
 
 Finally, let it be emphasized that this is __not__ an autobattle tier list. Knowing how to redirect clashes, cancel enemy actions, pace skill pools and manipulate skill order within a turn is critical for doing identities justice. Learning those skills will make content far more accessible than whaling for rarity abuse.
 
@@ -48,22 +46,21 @@ Finally, let it be emphasized that this is __not__ an autobattle tier list. Know
 
 ## Rankings
 
-Sinners within S tier and A tier are deliberately ordered. In other tiers, sinners are grouped by affiliation first, and then ordered based on the average power of the affiliation. This is done to emphasize that not all ordering choices are equally significant. 
+Sinners within S tier and A tier are deliberately ordered. In other tiers, sinners are grouped by affiliation first, and then ordered based on the average power of the affiliation. This is done to emphasize that not all ordering choices are equally significant.
 
 Units have badges that denote certain changes.
 
-Note: Only the first three badges are implemented in this version of the tier list.
+__Cyan:__ This unit benefits significantly from technical prowess. They may emphasize tempo control, resource management or clash redirection, causing them to degrade under autobattle and excel when getting the first action.
 
-__Cyan:__ This unit benefits significantly from technical prowess. They may gain more than usual from having multiple actions per turn, emphasize tempo control or require specific techniques to prove their worth. Their power will likely drop significantly when played by autobattle.
+__Yellow:__ This unit has a notable general-use support passive. They may be impactful when taken but not fielded, especially with small teams or solos. Since rankings evaluate fielded performance only, this badge is fairly arbitrary.
 
-__Yellow:__ This unit has a notable support passive. They may be impactful when benched, especially for low-sinner teams. Note that all rankings evaluate fielded performance, so this badge serves as a footnote on how an identity may stay relevant despite their rank.
+__Magenta:__ This unit benefits significantly from resetting. They may be reliant on turn order, drawing a certain skill or have a dicey mechanic, making them reliant on chance and time-consuming to optimize.
 
-__Magenta:__ This unit may be heavily reliant on RNG or have maximization requirements that can be more time-consuming than difficult. They may be an option for optimizing low turn clears, but be impractical in other settings.
-
-__Red:__ This unit's rank is highly-contested. These sinners may excel in one aspect while severely lacking another, resulting in a volatile rank that depends on what individual players value more. Individuals are highly encouraged to rank this unit themselves. Chances are, the creators probably came to a stalemate and this ranking is a compromise.
+__Red:__ This unit relies heavily on synergies. They may be strongly associated with a team composition or debuff, often causing their prime state to greatly exceed their expected state.
 
 __Green:__ This unit gains abnormally high power from UT4. A heavy investment cost is necessary for them to earn their rank. Certain UT4 EGOs may also be integral to their performance.
 
+__Blue:__ This unit's rank is highly contested. These sinners may excel in one aspect at a massive cost, resulting in a volatile rank that depends on what individuals value more. Individuals should think and rank this unit themselves.
 
 ---
 
@@ -71,14 +68,13 @@ __Green:__ This unit gains abnormally high power from UT4. A heavy investment co
 
 Units in this tier tend to directly outperform or invalidate units in lower tiers. Typing aside, if they can't make a clear work, it's unlikely replacing them will help. At some points, using them almost feels like cheating. This tier is ordered deliberately.
 
-![N Sinclair](assets/sink.png)
+![N Sinclair](assets/11005.png)
 ![W Don](assets/10302.png)
-![R Heathcliff](assets/10703.png)
-![Spicebush Yi Sang](assets/spicesang.png)
-![Chef Ryoshu](assets/10404.png)
-![N Faust](assets/10204.png)
-![Rose Rodion](assets/rod_rose.png)
 ![TT Hong Lu](assets/10603.png)
+![R Ishmael](assets/10802.png)
+![R Heathcliff](assets/10703.png)
+![Chef Ryoshu](assets/10404.png)
+![Spicebush Yi Sang](assets/10104.png)
 
 ---
 
@@ -86,49 +82,58 @@ Units in this tier tend to directly outperform or invalidate units in lower tier
 
 These units win clashes that units in lower tiers couldn't, and can be relied upon to hold their own and pull their weight. They feel solid to pilot and their kits are easily appreciated. This tier is ordered deliberately.
 
-![G Gregor](assets/11203.png)
-![7S Outis](assets/11104.png)
+![N Faust](assets/10204.png)
+![Rose Rodion](assets/10905.png)
 ![KK Hong Lu](assets/10602.png)
+![Boat Ishmael](assets/10807.png)
+![Liu Ishmael](assets/10806.png)
+![G Gregor](assets/11203.png)
+![Cinq Don](assets/10305.png)
+![BL Yi Sang](assets/10103.png)
+![K Hong Lu](assets/10605.png)
 ![7S Ryoshu](assets/10402.png)
 ![L Faust](assets/10203.png)
-![R Ishmael](assets/10802.png)
-![Sunshower Heathcliff](assets/suncliff.png)
-![Shi Ishmael](assets/10803.png)
-![KK Ryoshu](assets/10403.png)
 ![Shi Don](assets/10303.png)
+![Shi Ishmael](assets/10803.png)
+![Sunshower Heathcliff](assets/10705.png)
 
 ---
 
 **B TIER — MEDIOCRE**
 
-Neither great nor terrible, these units may leave a player idly wishing they were someone else. That being said, they aren't liabilities.
+Neither great nor terrible, these units may leave a player idly wishing they were someone else. That being said, they aren't liabilities. This tier is unordered.
 
 ![LCB Outis](assets/11101.png)
+![R Meursault](assets/10506.png)
 ![LCB Hong Lu](assets/10601.png)
 ![KK Rodion](assets/10902.png)
 ![BL Sinclair](assets/11002.png)
-![BL Yi Sang](assets/10103.png)
-![Rosespanner Gregor](assets/rosegreg.png)
+![KK Ryoshu](assets/10403.png)
+![7S Outis](assets/11104.png)
+![Rosespanner Gregor](assets/11205.png)
 ![Shi Heathcliff](assets/10702.png)
 ![Liu Gregor](assets/11202.png)
 ![Liu Hong Lu](assets/10604.png)
 ![Liu Meursault](assets/10502.png)
 ![LCCB Ishmael](assets/10804.png)
-![Rose Meursault](assets/meur_rose.png)
+![Rose Meursault](assets/10505.png)
 ![N Heathcliff](assets/10704.png)
-![N Don Quixote](assets/donk.png)
+![N Don Quixote](assets/10304.png)
 ![N Rodion](assets/10904.png)
 ![N Meursault](assets/10504.png)
+![L Sinclair](assets/11006.png)
+![Boat Sinclair](assets/11007.png)
+![Zwei Rodion](assets/10906.png)
 
 ---
 
 **C TIER — TECHNICAL**
 
-One must go out of their way to get these sinners to outperform other options. Whatever specialties they have are likely to be easily made redundant, and their rolls are subpar.
+One must go out of their way to get these sinners to outperform other options. Whatever specialties they have are likely to be easily made redundant, and their rolls are subpar. This tier is unordered.
 
 ![BL Outis](assets/11102.png)
 ![LCCB Rodion](assets/10903.png)
-![Slime Ishmael](assets/slimeishmael.png)
+![Slime Ishmael](assets/10805.png)
 ![G Outis](assets/11103.png)
 ![7S Yi Sang](assets/10102.png)
 ![LCB Heathcliff](assets/10701.png)
@@ -142,7 +147,7 @@ One must go out of their way to get these sinners to outperform other options. W
 
 **D TIER — CHALLENGING**
 
-These units should not be prioritized for practical combat.
+These units should not be prioritized for practical combat. This tier is unordered.
 
 ![Chef Gregor](assets/11204.png)
 ![W Faust](assets/10202.png)
@@ -158,16 +163,15 @@ These units should not be prioritized for practical combat.
 
 ## Writeups
 
-This section is geared towards advanced players. New players will still be able to use the rankings as a reroll or banner guide, and will gain appreciation for high-tier units as experience with the game increases.
+This section is geared towards advanced players. New players will still be able to use the rankings as a reroll or banner guide, and will gain appreciation for high-tier units as experience with the game increases. 
 
-The coloured lines represent a sinner's chance to beat a power at varying sanity levels. The y-axis represents chance of winning the clash, and the x-axis represents the power of the opposing skill.
-
-"agg" → aggregate, or clash power. This accounts for offense and possible coin destructions on the ally skill.  
-"dmg" → raw damage, or the sum of all coins landing. The @ refers to offense level.  
+The coloured lines represent a sinner's chance to beat a power at varying sanity levels. The y-axis represents chance of winning the clash, and the x-axis represents the power of the opposing skill. `clash` is an integral of the skill winrates. `damage` is the sum of a roll's values.j `ceil` is the theoretical max clash of a skill.
 
 It is impractical to take into account every aspect of every identity for every version of the game. Emphasis will not be placed on skill colours— there's no telling what future EGOs hold in store. Furthermore, Refraction Railway 1 has proven that simply taking strong individual identities will outperform a team that goes out of its way to align colours for EGO spam or resonance. Having rare damage types in the current state of the game will not serve as as a ranking factor for similar reasons. Additionally, EGOs will kept in mind when determining rankings, but only mentioned if they are borderline intertwined with an identity's playstyle (e.g. G Gregor with Legerdemain or SS Heathcliff with AEDD). Micromanaging every single synergy is not practical, so determining how much a sinner's relevance is impacted by the existence of a specific strategy falls to the reader.
 
-For the sake of transparency, let it be known that the author is biased towards G Gregor, N Sinclair, L Faust and W Don, and biased against R Heathcliff, N Rodion and LCCB Ishmael. Everything is still kept as objective as possible.
+Writeups will only be available for S tier and A tier units. Other units are generally unremarkable and do not have much nuance outside of what the average player can figure out by reading their pages and looking at their roll numbers. (The same could honestly be said of several high tier units, but high tiers tend to be scrutinized, so justification will be provided anyways.)
+
+For the sake of transparency, let it be known that the author is biased towards G Gregor, L Faust and W Don, and biased against R Heathcliff and LCCB Ishmael. Everything is still kept as objective as possible.
 
 ---
 
@@ -649,11 +653,6 @@ The Liu Association can be summarized as favouring damage over clashes. Due to h
 \- Terrible roll numbers and ammo limitations make her generally impractical  
 \- Used almost exclusively to reset until she can fire S3 turn one in battles that take less than a couple turns  
 
----
-
-### Unavailable Writeups
-
-Writeups will not be available for the rest of the units, since they are generally unremarkable and do not have much nuance outside of what the average player can figure out by reading their pages and looking at their roll numbers. [Of course, their roll charts and numerical rankings will still be available here.](https://github.com/null-machine/limbus-company-clash-tool)
 
 ---
 
