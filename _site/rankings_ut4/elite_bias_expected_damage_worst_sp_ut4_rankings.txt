@@ -34,6 +34,7 @@ ryoshu_chef_ut4 (expected) | clash: 5.36~15.68 | dmg: 9.5~34.25, OL 3.0 | ceil: 
 ishmael_shi_ut4 (expected) | clash: 5.74~13.64 | dmg: 9.5~23.0, OL 1.0 | ceil: 18.33
 yi_sang_lcb_ut4 (expected) | clash: 5.02~11.4 | dmg: 9.5~20.25, OL 0.0 | ceil: 12.0
 faust_lcb_ut4 (expected) | clash: 5.03~11.0 | dmg: 9.5~18.75, OL -2.0 | ceil: 12.33
+ishmael_boat_ut4 (expected) | clash: 6.23~15.17 | dmg: 9.25~26.5, OL 3.5 | ceil: 19.67
 rodion_kurokumo_ut4 (expected) | clash: 7.18~15.22 | dmg: 9.0~20.25, OL 2.0 | ceil: 25.67
 gregor_g_corp_ut4 (expected) | clash: 7.24~14.75 | dmg: 9.0~21.25, OL 5.0 | ceil: 17.67
 outis_lcb_ut4 (expected) | clash: 6.27~14.22 | dmg: 9.0~21.5, OL 2.0 | ceil: 21.67

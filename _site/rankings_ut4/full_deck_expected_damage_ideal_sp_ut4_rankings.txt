@@ -11,6 +11,7 @@ ishmael_liu_ut4 (expected) | clash: 5.39~14.42 | dmg: 11.0~32.75, OL 2.0 | ceil:
 faust_n_corp_ut4 (expected) | clash: 5.96~13.74 | dmg: 12.5~29.75, OL 2.0 | ceil: 16.67
 meursault_w_corp_ut4 (expected) | clash: 5.81~13.57 | dmg: 13.75~31.75, OL 0.0 | ceil: 17.0
 hong_lu_tingtang_ut4 (expected) | clash: 6.1~19.98 | dmg: 7.0~30.25, OL 3.0 | ceil: 31.0
+ishmael_boat_ut4 (expected) | clash: 6.23~15.17 | dmg: 9.25~26.5, OL 3.5 | ceil: 19.67
 faust_l_corp_ut4 (expected) | clash: 5.83~16.33 | dmg: 10.25~29.5, OL 2.0 | ceil: 26.67
 meursault_r_corp_ut4 (expected) | clash: 5.19~12.35 | dmg: 13.5~28.5, OL -3.0 | ceil: 14.0
 sinclair_blade_ut4 (expected) | clash: 7.49~15.0 | dmg: 13.5~25.5, OL 2.0 | ceil: 26.67

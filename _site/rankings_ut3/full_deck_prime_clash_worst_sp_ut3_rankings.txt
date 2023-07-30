@@ -22,6 +22,7 @@ don_quixote_shi_ut3 (prime) | clash: 6.52~17.87 | dmg: 6.75~22.5, OL 3.0 | ceil:
 don_quixote_w_corp_ut3 (prime) | clash: 6.0~18.79 | dmg: 8.5~44.5, OL 3.0 | ceil: 32.0
 ishmael_r_corp_ut3 (prime) | clash: 6.55~17.48 | dmg: 8.5~29.75, OL 1.0 | ceil: 23.33
 hong_lu_k_corp_ut3 (prime) | clash: 6.37~14.31 | dmg: 10.25~23.0, OL 0.0 | ceil: 18.0
+ishmael_boat_ut3 (prime) | clash: 6.3~15.88 | dmg: 9.25~28.0, OL 3.5 | ceil: 22.67
 outis_g_corp_ut3 (prime) | clash: 6.19~15.64 | dmg: 6.0~16.5, OL -1.0 | ceil: 22.67
 sinclair_lcb_ut3 (prime) | clash: 6.17~11.61 | dmg: 13.0~23.75, OL 2.0 | ceil: 12.67
 outis_blade_ut3 (prime) | clash: 6.34~12.97 | dmg: 10.0~20.5, OL 1.0 | ceil: 16.33

@@ -11,6 +11,7 @@ yi_sang_blade_ut4 (expected) | clash: 9.19~15.56 | dmg: 14.5~25.5, OL 5.0 | ceil
 hong_lu_k_corp_ut4 (expected) | clash: 6.91~15.28 | dmg: 11.25~24.75, OL 0.0 | ceil: 20.0
 yi_sang_spicebush_ut4 (expected) | clash: 6.21~15.25 | dmg: 12.75~33.75, OL 3.0 | ceil: 19.67
 rodion_kurokumo_ut4 (expected) | clash: 7.18~15.22 | dmg: 9.0~20.25, OL 2.0 | ceil: 25.67
+ishmael_boat_ut4 (expected) | clash: 6.23~15.17 | dmg: 9.25~26.5, OL 3.5 | ceil: 19.67
 sinclair_blade_ut4 (expected) | clash: 7.49~15.0 | dmg: 13.5~25.5, OL 2.0 | ceil: 26.67
 ryoshu_kurokumo_ut4 (expected) | clash: 7.33~14.83 | dmg: 10.25~22.25, OL 3.0 | ceil: 17.0
 gregor_g_corp_ut4 (expected) | clash: 7.24~14.75 | dmg: 9.0~21.25, OL 5.0 | ceil: 17.67

@@ -10,6 +10,7 @@ s3 ishmael_l_corp_ut4 | corrosive_splash | clash: 5.8~20.2 | dmg: 6~22, OL -3 | 
 s3 faust_l_corp_ut4 | opportunistic_slash | clash: 5.83~19.89 | dmg: 8~32, OL 2 | ceil: 20.67
 s3 ryoshu_seven_ut4 | swash | clash: 6.37~19.28 | dmg: 12~42, OL 3 | ceil: 20.0
 s3 yi_sang_spicebush_ut4 | bloodsteeped_scent | clash: 8.77~19.09 | dmg: 18~42, OL 5 | ceil: 19.67
+s3 ishmael_boat_ut4 | risky_judgement | clash: 6.04~18.95 | dmg: 9~39, OL 5 | ceil: 19.67
 s3 ishmael_lcb_ut4 | shield_bash | clash: 8.27~19.07 | dmg: 8~20, OL -1 | ceil: 19.67
 s3 sinclair_zwei_ut4 | strong_strike | clash: 6.98~18.68 | dmg: 7~20, OL -2 | ceil: 19.33
 s3 heathcliff_sunshower_ut4 | spread_out | clash: 12.37~19.0 | dmg: 15~54, OL 3 | ceil: 19.0
@@ -40,6 +41,7 @@ s3 ryoshu_chef_ut4 | i_can_cook_anything | clash: 5.28~15.44 | dmg: 12~42, OL 3 
 s3 heathcliff_n_corp_ut4 | infirm_retribution | clash: 5.1~15.43 | dmg: 12~36, OL 0 | ceil: 16.0
 s3 hong_lu_k_corp_ut4 | excise_target | clash: 8.58~15.61 | dmg: 16~28, OL 0 | ceil: 16.0
 s2 hong_lu_k_corp_ut4 | decay_blade | clash: 6.73~15.51 | dmg: 12~27, OL 0 | ceil: 16.0
+s2 ishmael_boat_ut4 | explosive_blast | clash: 6.73~15.51 | dmg: 10~25, OL 3 | ceil: 16.0
 s2 ryoshu_kurokumo_ut4 | clean_up | clash: 6.73~15.51 | dmg: 10~25, OL 3 | ceil: 16.0
 s3 ishmael_liu_ut4 | inner_gate_elbow_strike | clash: 4.94~15.1 | dmg: 12~42, OL 2 | ceil: 15.67
 s3 yi_sang_blade_ut4 | flank_thrust | clash: 10.22~15.38 | dmg: 24~36, OL 5 | ceil: 15.67
@@ -136,6 +138,7 @@ s3 meursault_r_corp_ut4 | rhino_ram | clash: 5.55~10.71 | dmg: 18~30, OL -3 | ce
 s2 meursault_w_corp_ut4 | energy_cycle | clash: 5.55~10.71 | dmg: 15~27, OL 0 | ceil: 11.0
 s1 heathcliff_n_corp_ut4 | gawky_nailing | clash: 3.58~10.61 | dmg: 6~18, OL 0 | ceil: 11.0
 s1 hong_lu_liu_ut4 | warm_up | clash: 3.58~10.61 | dmg: 6~18, OL 0 | ceil: 11.0
+s1 ishmael_boat_ut4 | ready_to_crush | clash: 5.44~10.71 | dmg: 8~17, OL 3 | ceil: 11.0
 s1 rodion_rosespanner_ut4 | rev_up | clash: 5.44~10.71 | dmg: 8~17, OL 3 | ceil: 11.0
 s1 ryoshu_chef_ut4 | cooking_prep | clash: 5.44~10.71 | dmg: 8~17, OL 3 | ceil: 11.0
 s1 hong_lu_k_corp_ut4 | impede_the_intruder | clash: 5.3~10.7 | dmg: 5~11, OL 0 | ceil: 11.0

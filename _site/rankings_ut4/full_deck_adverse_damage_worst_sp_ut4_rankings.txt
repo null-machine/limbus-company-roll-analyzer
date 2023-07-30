@@ -21,6 +21,7 @@ gregor_chef_ut4 (adverse) | clash: 6.05~11.37 | dmg: 10.0~18.0, OL 1.25 | ceil: 
 hong_lu_k_corp_ut4 (adverse) | clash: 6.83~14.33 | dmg: 11.25~23.25, OL 0.0 | ceil: 16.0
 ryoshu_chef_ut4 (adverse) | clash: 5.36~15.68 | dmg: 9.5~34.25, OL 3.0 | ceil: 19.0
 outis_lcb_ut4 (adverse) | clash: 6.27~14.22 | dmg: 9.0~21.5, OL 2.0 | ceil: 21.67
+ishmael_boat_ut4 (adverse) | clash: 6.23~15.17 | dmg: 9.25~26.5, OL 3.5 | ceil: 19.67
 hong_lu_kurokumo_ut4 (adverse) | clash: 5.77~12.15 | dmg: 11.25~22.0, OL 0.0 | ceil: 13.0
 rodion_lccb_ut4 (adverse) | clash: 7.55~10.66 | dmg: 10.75~15.25, OL 4.0 | ceil: 12.33
 gregor_g_corp_ut4 (adverse) | clash: 7.24~14.75 | dmg: 9.0~21.25, OL 5.0 | ceil: 17.67

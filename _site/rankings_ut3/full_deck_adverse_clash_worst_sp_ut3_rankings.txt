@@ -13,6 +13,7 @@ hong_lu_tingtang_ut3 (adverse) | clash: 6.07~19.5 | dmg: 7.0~29.75, OL 3.0 | cei
 meursault_n_corp_ut3 (adverse) | clash: 6.61~11.01 | dmg: 12.5~20.0, OL 0.0 | ceil: 14.0
 gregor_liu_ut3 (adverse) | clash: 6.26~10.12 | dmg: 13.5~23.0, OL 4.0 | ceil: 13.33
 hong_lu_k_corp_ut3 (adverse) | clash: 6.33~13.83 | dmg: 10.25~22.25, OL 0.0 | ceil: 16.0
+ishmael_boat_ut3 (adverse) | clash: 6.23~15.17 | dmg: 9.25~26.5, OL 3.5 | ceil: 19.67
 meursault_r_corp_ut3 (adverse) | clash: 5.94~13.1 | dmg: 13.25~28.25, OL 0.0 | ceil: 15.0
 don_quixote_w_corp_ut3 (adverse) | clash: 5.42~14.02 | dmg: 8.5~29.5, OL 3.0 | ceil: 17.0
 gregor_chef_ut3 (adverse) | clash: 6.05~11.37 | dmg: 10.0~18.0, OL 1.25 | ceil: 14.0

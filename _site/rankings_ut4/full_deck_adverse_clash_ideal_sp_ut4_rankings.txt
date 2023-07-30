@@ -9,6 +9,7 @@ yi_sang_blade_ut4 (adverse) | clash: 9.04~13.66 | dmg: 14.5~22.25, OL 5.0 | ceil
 ryoshu_kurokumo_ut4 (adverse) | clash: 7.33~14.83 | dmg: 10.25~22.25, OL 3.0 | ceil: 17.0
 faust_l_corp_ut4 (adverse) | clash: 5.72~14.91 | dmg: 10.25~27.25, OL 2.0 | ceil: 20.67
 outis_seven_ut4 (adverse) | clash: 8.05~14.63 | dmg: 11.0~22.5, OL 0.0 | ceil: 17.0
+ishmael_boat_ut4 (adverse) | clash: 6.23~15.17 | dmg: 9.25~26.5, OL 3.5 | ceil: 19.67
 gregor_g_corp_ut4 (adverse) | clash: 7.24~14.75 | dmg: 9.0~21.25, OL 5.0 | ceil: 17.67
 don_quixote_cinq_ut4 (adverse) | clash: 6.27~14.62 | dmg: 10.0~24.25, OL 1.75 | ceil: 18.33
 yi_sang_spicebush_ut4 (adverse) | clash: 6.21~15.25 | dmg: 12.75~33.75, OL 3.0 | ceil: 19.67

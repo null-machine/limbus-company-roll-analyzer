@@ -8,6 +8,7 @@ don_quixote_shi_ut3 (prime) | clash: 6.52~17.87 | dmg: 6.75~22.5, OL 3.0 | ceil:
 ryoshu_seven_ut3 (prime) | clash: 6.72~16.7 | dmg: 7.5~22.5, OL 3.0 | ceil: 21.0
 heathcliff_shi_ut3 (prime) | clash: 7.63~16.11 | dmg: 8.5~19.5, OL 1.0 | ceil: 19.33
 don_quixote_lcb_ut3 (prime) | clash: 6.51~15.82 | dmg: 8.0~22.25, OL 1.0 | ceil: 20.33
+ishmael_boat_ut3 (prime) | clash: 6.3~15.88 | dmg: 9.25~28.0, OL 3.5 | ceil: 22.67
 ryoshu_chef_ut3 (prime) | clash: 5.36~15.68 | dmg: 29.5~54.25, OL 3.0 | ceil: 19.0
 outis_g_corp_ut3 (prime) | clash: 6.19~15.64 | dmg: 6.0~16.5, OL -1.0 | ceil: 22.67
 ryoshu_kurokumo_ut3 (prime) | clash: 7.33~14.83 | dmg: 10.25~22.25, OL 3.0 | ceil: 17.0

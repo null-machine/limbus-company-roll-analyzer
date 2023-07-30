@@ -11,6 +11,7 @@ yi_sang_spicebush_ut3 (prime) | clash: 6.21~15.25 | dmg: 12.75~33.75, OL 3.0 | c
 ishmael_r_corp_ut3 (prime) | clash: 6.55~17.48 | dmg: 8.5~29.75, OL 1.0 | ceil: 23.33
 faust_n_corp_ut3 (prime) | clash: 5.96~13.74 | dmg: 12.5~29.75, OL 2.0 | ceil: 16.67
 meursault_r_corp_ut3 (prime) | clash: 6.33~14.78 | dmg: 13.5~31.5, OL 0.0 | ceil: 21.0
+ishmael_boat_ut3 (prime) | clash: 6.3~15.88 | dmg: 9.25~28.0, OL 3.5 | ceil: 22.67
 gregor_liu_ut3 (prime) | clash: 7.26~11.12 | dmg: 16.5~26.0, OL 4.0 | ceil: 14.33
 sinclair_blade_ut3 (prime) | clash: 9.27~14.15 | dmg: 18.0~25.25, OL 2.0 | ceil: 24.67
 faust_l_corp_ut3 (prime) | clash: 5.3~15.36 | dmg: 8.75~27.5, OL 2.0 | ceil: 26.67

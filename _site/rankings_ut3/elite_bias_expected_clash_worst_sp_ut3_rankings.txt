@@ -13,6 +13,7 @@ meursault_n_corp_ut3 (expected) | clash: 6.61~11.01 | dmg: 12.5~20.0, OL 0.0 | c
 hong_lu_k_corp_ut3 (expected) | clash: 6.37~14.31 | dmg: 10.25~23.0, OL 0.0 | ceil: 18.0
 meursault_r_corp_ut3 (expected) | clash: 6.33~14.78 | dmg: 13.5~31.5, OL 0.0 | ceil: 21.0
 gregor_liu_ut3 (expected) | clash: 6.26~10.12 | dmg: 13.5~23.0, OL 4.0 | ceil: 13.33
+ishmael_boat_ut3 (expected) | clash: 6.23~15.17 | dmg: 9.25~26.5, OL 3.5 | ceil: 19.67
 yi_sang_spicebush_ut3 (expected) | clash: 6.21~15.25 | dmg: 12.75~33.75, OL 3.0 | ceil: 19.67
 hong_lu_tingtang_ut3 (expected) | clash: 6.07~19.5 | dmg: 7.0~29.75, OL 3.0 | ceil: 31.0
 gregor_chef_ut3 (expected) | clash: 6.05~11.37 | dmg: 10.0~18.0, OL 1.25 | ceil: 14.0

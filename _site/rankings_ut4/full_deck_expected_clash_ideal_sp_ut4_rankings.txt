@@ -12,6 +12,7 @@ rodion_kurokumo_ut4 (expected) | clash: 7.18~15.22 | dmg: 9.0~20.25, OL 2.0 | ce
 ryoshu_kurokumo_ut4 (expected) | clash: 7.33~14.83 | dmg: 10.25~22.25, OL 3.0 | ceil: 17.0
 hong_lu_k_corp_ut4 (expected) | clash: 6.91~15.28 | dmg: 11.25~24.75, OL 0.0 | ceil: 20.0
 outis_seven_ut4 (expected) | clash: 8.05~14.63 | dmg: 11.0~22.5, OL 0.0 | ceil: 17.0
+ishmael_boat_ut4 (expected) | clash: 6.23~15.17 | dmg: 9.25~26.5, OL 3.5 | ceil: 19.67
 gregor_g_corp_ut4 (expected) | clash: 7.24~14.75 | dmg: 9.0~21.25, OL 5.0 | ceil: 17.67
 don_quixote_cinq_ut4 (expected) | clash: 6.27~14.62 | dmg: 10.0~24.25, OL 1.75 | ceil: 18.33
 yi_sang_spicebush_ut4 (expected) | clash: 6.21~15.25 | dmg: 12.75~33.75, OL 3.0 | ceil: 19.67

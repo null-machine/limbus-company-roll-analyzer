@@ -16,6 +16,7 @@ s2 don_quixote_w_corp_ut4 | leap | clash: 6.37~19.28 | dmg: 12~42, OL 3 | ceil: 
 s3 yi_sang_spicebush_ut4 | bloodsteeped_scent | clash: 8.77~19.09 | dmg: 18~42, OL 5 | ceil: 19.67
 s3 ishmael_lcb_ut4 | shield_bash | clash: 8.27~19.07 | dmg: 8~20, OL -1 | ceil: 19.67
 s3 heathcliff_sunshower_ut4 | spread_out | clash: 12.37~19.0 | dmg: 15~54, OL 3 | ceil: 19.0
+s3 ishmael_boat_ut4 | risky_judgement | clash: 6.04~18.95 | dmg: 9~39, OL 5 | ceil: 19.67
 s3 sinclair_zwei_ut4 | strong_strike | clash: 6.98~18.68 | dmg: 7~20, OL -2 | ceil: 19.33
 s2 ryoshu_seven_ut4 | upper_slash | clash: 5.7~18.3 | dmg: 4~18, OL 3 | ceil: 19.0
 s2 hong_lu_tingtang_ut4 | jag | clash: 5.37~18.28 | dmg: 9~39, OL 3 | ceil: 19.0
@@ -46,6 +47,7 @@ s2 don_quixote_lcb_ut4 | galloping_tilt | clash: 4.93~15.73 | dmg: 4~16, OL 1 | 
 s2 don_quixote_n_corp_ut4 | enactment | clash: 4.93~15.73 | dmg: 4~16, OL 1 | ceil: 16.33
 s2 gregor_rosespanner_ut4 | grease_chains | clash: 4.93~15.73 | dmg: 4~16, OL 1 | ceil: 16.33
 s2 hong_lu_k_corp_ut4 | decay_blade | clash: 6.73~15.51 | dmg: 12~27, OL 0 | ceil: 16.0
+s2 ishmael_boat_ut4 | explosive_blast | clash: 6.73~15.51 | dmg: 10~25, OL 3 | ceil: 16.0
 s2 ryoshu_kurokumo_ut4 | clean_up | clash: 6.73~15.51 | dmg: 10~25, OL 3 | ceil: 16.0
 s3 ryoshu_chef_ut4 | i_can_cook_anything | clash: 5.28~15.44 | dmg: 12~42, OL 3 | ceil: 16.0
 s3 heathcliff_n_corp_ut4 | infirm_retribution | clash: 5.1~15.43 | dmg: 12~36, OL 0 | ceil: 16.0
@@ -133,6 +135,7 @@ s1 don_quixote_n_corp_ut4 | rightful_purge | clash: 3.91~10.94 | dmg: 6~18, OL 1
 s1 gregor_rosespanner_ut4 | rev_up | clash: 3.91~10.94 | dmg: 6~18, OL 1 | ceil: 11.33
 s1 ishmael_shi_ut4 | flying_sword | clash: 3.91~10.94 | dmg: 6~18, OL 1 | ceil: 11.33
 s1 meursault_liu_ut4 | assault | clash: 3.91~10.94 | dmg: 6~18, OL 1 | ceil: 11.33
+s1 ishmael_boat_ut4 | ready_to_crush | clash: 5.44~10.71 | dmg: 8~17, OL 3 | ceil: 11.0
 s1 rodion_rosespanner_ut4 | rev_up | clash: 5.44~10.71 | dmg: 8~17, OL 3 | ceil: 11.0
 s1 ryoshu_chef_ut4 | cooking_prep | clash: 5.44~10.71 | dmg: 8~17, OL 3 | ceil: 11.0
 s1 hong_lu_k_corp_ut4 | impede_the_intruder | clash: 5.3~10.7 | dmg: 5~11, OL 0 | ceil: 11.0

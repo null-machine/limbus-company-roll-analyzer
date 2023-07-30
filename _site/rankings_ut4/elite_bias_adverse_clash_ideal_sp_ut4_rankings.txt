@@ -6,6 +6,7 @@ ryoshu_seven_ut4 (adverse) | clash: 5.79~17.12 | dmg: 6.0~22.5, OL 3.0 | ceil: 2
 ryoshu_chef_ut4 (adverse) | clash: 5.36~15.68 | dmg: 9.5~34.25, OL 3.0 | ceil: 19.0
 yi_sang_spicebush_ut4 (adverse) | clash: 6.21~15.25 | dmg: 12.75~33.75, OL 3.0 | ceil: 19.67
 rodion_kurokumo_ut4 (adverse) | clash: 7.18~15.22 | dmg: 9.0~20.25, OL 2.0 | ceil: 25.67
+ishmael_boat_ut4 (adverse) | clash: 6.23~15.17 | dmg: 9.25~26.5, OL 3.5 | ceil: 19.67
 sinclair_blade_ut4 (adverse) | clash: 7.49~15.0 | dmg: 13.5~25.5, OL 2.0 | ceil: 26.67
 faust_l_corp_ut4 (adverse) | clash: 5.72~14.91 | dmg: 10.25~27.25, OL 2.0 | ceil: 20.67
 ryoshu_kurokumo_ut4 (adverse) | clash: 7.33~14.83 | dmg: 10.25~22.25, OL 3.0 | ceil: 17.0
