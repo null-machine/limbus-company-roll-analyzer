@@ -7,13 +7,6 @@ toc_sticky: true
 <meta property="og:description" content="A Limbus Company tier list based on numerical analysis, supplemented with veteran experience.">
 <link rel="shortcut icon" type="image/png" href="./assets/favicon.png?">
 
-<!-- <details> -->
-	<summary>Test summary</summary>
-	hello hello hello
-	among us
-<!-- </details> -->
-
-
 # Yet Another Limbus Company Tier List
 
 Written and maintained by a math-obsessed psychopath, LOWERCASE (null_machine).
