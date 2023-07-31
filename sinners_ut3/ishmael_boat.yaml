@@ -39,7 +39,7 @@ skills:
   name: explosive_blast
   stats:
   - 5
-  - 5
+  - 6
   - 2
   - 3
   damage_bonuses:
@@ -59,7 +59,7 @@ skills:
   - 0
   weak_bonuses:
   - 0
-  - 0
+  - -1
   - 0
   - 0
   weak_damage_bonuses:
@@ -72,7 +72,7 @@ skills:
   name: risky_judgement
   stats:
   - 3
-  - 5
+  - 6
   - 3
   - 5
   damage_bonuses:
@@ -82,7 +82,7 @@ skills:
   - 0
   prime_bonuses:
   - 0
-  - 1
+  - 0
   - 0
   - 0
   prime_damage_bonuses:
@@ -92,7 +92,7 @@ skills:
   - 0
   weak_bonuses:
   - 0
-  - 0
+  - -1
   - 0
   - 0
   weak_damage_bonuses:

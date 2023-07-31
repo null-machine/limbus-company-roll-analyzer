@@ -20,9 +20,9 @@ s2 hong_lu_tingtang_ut4 | jag | clash: 5.37~18.28 | dmg: 9~39, OL 3 | ceil: 19.0
 s2 ryoshu_chef_ut4 | ingredient_hunt | clash: 5.37~18.28 | dmg: 9~39, OL 3 | ceil: 19.0
 s3 ishmael_shi_ut4 | catch_breath | clash: 7.2~17.75 | dmg: 12~30, OL 1 | ceil: 18.33
 s2 ishmael_r_corp_ut4 | flaying_surge | clash: 6.93~17.73 | dmg: 6~18, OL 1 | ceil: 18.33
+s2 sinclair_n_corp_ut4 | amoral_enactment | clash: 13.88~17.67 | dmg: 24~64, OL 5 | ceil: 17.67
 s3 sinclair_mariachi_ut4 | pinata_party | clash: 7.55~17.45 | dmg: 8~19, OL -3 | ceil: 18.0
 s3 rodion_rosespanner_ut4 | lets_rack_up_some_scores | clash: 7.1~17.43 | dmg: 15~39, OL 3 | ceil: 18.0
-s2 sinclair_n_corp_ut4 | amoral_enactment | clash: 13.54~17.33 | dmg: 24~64, OL 4 | ceil: 17.33
 s2 gregor_g_corp_ut4 | dismember | clash: 8.17~17.17 | dmg: 6~16, OL 5 | ceil: 17.67
 s2 faust_n_corp_ut4 | the_gripping | clash: 6.43~16.76 | dmg: 12~36, OL 4 | ceil: 17.33
 s3 heathcliff_shi_ut4 | flashing_strike | clash: 6.2~16.75 | dmg: 10~28, OL 1 | ceil: 17.33
@@ -120,7 +120,7 @@ s1 faust_l_corp_ut4 | sole_strike | clash: 4.4~11.6 | dmg: 3~11, OL 3 | ceil: 12
 s3 don_quixote_w_corp_ut4 | rip_space | clash: 3.17~11.54 | dmg: 5~35, OL 3 | ceil: 12.0
 s1 heathcliff_r_corp_ut4 | graze_the_grass | clash: 6.22~11.38 | dmg: 12~24, OL 5 | ceil: 11.67
 s1 gregor_g_corp_ut4 | hack | clash: 6.1~11.37 | dmg: 8~17, OL 5 | ceil: 11.67
-s1 rodion_kurokumo_ut4 | sharp_edge | clash: 5.97~11.37 | dmg: 5~14, OL 2 | ceil: 11.67
+s1 rodion_kurokumo_ut4 | sharp_edge | clash: 5.97~11.37 | dmg: 5~11, OL 2 | ceil: 11.67
 s1 don_quixote_lcb_ut4 | joust | clash: 5.02~11.32 | dmg: 4~11, OL 2 | ceil: 11.67
 s1 hong_lu_lcb_ut4 | downward_cleave | clash: 5.02~11.32 | dmg: 4~11, OL 2 | ceil: 11.67
 s1 ryoshu_lcb_ut4 | paint | clash: 5.02~11.32 | dmg: 4~11, OL 2 | ceil: 11.67

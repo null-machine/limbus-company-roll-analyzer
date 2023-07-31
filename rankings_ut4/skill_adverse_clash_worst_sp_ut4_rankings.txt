@@ -1,5 +1,5 @@
 s3 sinclair_n_corp_ut4 | self_destructive_purge | clash: 20.3~31.66 | dmg: 24~90, OL 5 | ceil: 31.67
-s2 sinclair_n_corp_ut4 | amoral_enactment | clash: 13.54~17.33 | dmg: 24~64, OL 4 | ceil: 17.33
+s2 sinclair_n_corp_ut4 | amoral_enactment | clash: 13.88~17.67 | dmg: 24~64, OL 5 | ceil: 17.67
 s3 heathcliff_sunshower_ut4 | spread_out | clash: 12.37~19.0 | dmg: 15~54, OL 3 | ceil: 19.0
 s3 yi_sang_blade_ut4 | flank_thrust | clash: 10.22~15.38 | dmg: 24~36, OL 5 | ceil: 15.67
 s3 ryoshu_kurokumo_ut4 | lenticular_swirl | clash: 9.58~16.61 | dmg: 16~28, OL 3 | ceil: 17.0
@@ -77,7 +77,7 @@ s2 don_quixote_w_corp_ut4 | leap | clash: 6.1~16.43 | dmg: 12~36, OL 3 | ceil: 1
 s1 ryoshu_seven_ut4 | slash | clash: 6.07~13.27 | dmg: 4~12, OL 5 | ceil: 13.67
 s3 don_quixote_shi_ut4 | overbreathe | clash: 6.05~24.95 | dmg: 4~25, OL 3 | ceil: 26.0
 s3 ishmael_boat_ut4 | risky_judgement | clash: 6.04~18.95 | dmg: 9~39, OL 5 | ceil: 19.67
-s1 rodion_kurokumo_ut4 | sharp_edge | clash: 5.97~11.37 | dmg: 5~14, OL 2 | ceil: 11.67
+s1 rodion_kurokumo_ut4 | sharp_edge | clash: 5.97~11.37 | dmg: 5~11, OL 2 | ceil: 11.67
 s1 gregor_liu_ut4 | single_point_stab | clash: 5.96~9.47 | dmg: 8~14, OL 5 | ceil: 9.67
 s1 sinclair_blade_ut4 | slice_then_stab | clash: 5.96~9.47 | dmg: 10~16, OL 2 | ceil: 9.67
 s2 ishmael_shi_ut4 | flashing_slide | clash: 5.91~12.94 | dmg: 10~22, OL 1 | ceil: 13.33

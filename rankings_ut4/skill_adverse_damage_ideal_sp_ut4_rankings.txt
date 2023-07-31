@@ -1,6 +1,6 @@
 s3 sinclair_n_corp_ut4 | self_destructive_purge | clash: 20.3~31.66 | dmg: 24~90, OL 5 | ceil: 31.67
 s3 ishmael_r_corp_ut4 | mind_whip | clash: 4.89~25.21 | dmg: 8~68, OL 1 | ceil: 26.33
-s2 sinclair_n_corp_ut4 | amoral_enactment | clash: 13.54~17.33 | dmg: 24~64, OL 4 | ceil: 17.33
+s2 sinclair_n_corp_ut4 | amoral_enactment | clash: 13.88~17.67 | dmg: 24~64, OL 5 | ceil: 17.67
 s3 heathcliff_sunshower_ut4 | spread_out | clash: 12.37~19.0 | dmg: 15~54, OL 3 | ceil: 19.0
 s3 heathcliff_r_corp_ut4 | quick_suppression | clash: 5.84~14.21 | dmg: 15~45, OL 5 | ceil: 14.67
 s3 yi_sang_spicebush_ut4 | bloodsteeped_scent | clash: 8.77~19.09 | dmg: 18~42, OL 5 | ceil: 19.67
@@ -149,7 +149,6 @@ s1 rodion_zwei_ut4 | careful_obstruction | clash: 3.62~7.14 | dmg: 8~14, OL -2 |
 s1 sinclair_mariachi_ut4 | baile_y_rola | clash: 3.29~6.8 | dmg: 8~14, OL -3 | ceil: 7.0
 s2 gregor_chef_ut4 | you_fresh_enough | clash: 6.4~13.6 | dmg: 6~14, OL 0 | ceil: 14.0
 s2 heathcliff_n_corp_ut4 | purify | clash: 6.4~13.6 | dmg: 6~14, OL 0 | ceil: 14.0
-s1 rodion_kurokumo_ut4 | sharp_edge | clash: 5.97~11.37 | dmg: 5~14, OL 2 | ceil: 11.67
 s1 meursault_n_corp_ut4 | drive | clash: 5.15~6.9 | dmg: 10~13, OL 0 | ceil: 7.0
 s1 yi_sang_blade_ut4 | strikers_stance | clash: 8.02~14.32 | dmg: 6~13, OL 5 | ceil: 14.67
 s1 hong_lu_tingtang_ut4 | throat_slit | clash: 6.4~13.6 | dmg: 5~13, OL 3 | ceil: 14.0
@@ -159,6 +158,7 @@ s1 faust_w_corp_ut4 | energy_cycle | clash: 4.07~11.27 | dmg: 4~12, OL -1 | ceil
 s1 rodion_lccb_ut4 | bludgeon | clash: 6.97~12.37 | dmg: 5~11, OL 5 | ceil: 12.67
 s1 don_quixote_w_corp_ut4 | rip | clash: 6.3~11.7 | dmg: 5~11, OL 3 | ceil: 12.0
 s1 ryoshu_kurokumo_ut4 | focus_strike | clash: 6.3~11.7 | dmg: 5~11, OL 3 | ceil: 12.0
+s1 rodion_kurokumo_ut4 | sharp_edge | clash: 5.97~11.37 | dmg: 5~11, OL 2 | ceil: 11.67
 s1 hong_lu_k_corp_ut4 | impede_the_intruder | clash: 5.3~10.7 | dmg: 5~11, OL 0 | ceil: 11.0
 s1 meursault_w_corp_ut4 | rip | clash: 5.3~10.7 | dmg: 5~11, OL 0 | ceil: 11.0
 s1 meursault_r_corp_ut4 | weighty_bash | clash: 4.3~9.7 | dmg: 5~11, OL -3 | ceil: 10.0

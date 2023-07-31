@@ -5,6 +5,7 @@ sinclair_blade_ut3 (prime) | clash: 9.27~14.15 | dmg: 18.0~25.25, OL 2.0 | ceil:
 rodion_rosespanner_ut3 (prime) | clash: 6.92~14.34 | dmg: 17.75~46.0, OL 3.0 | ceil: 18.0
 gregor_liu_ut3 (prime) | clash: 7.59~11.45 | dmg: 16.5~26.0, OL 5.0 | ceil: 14.67
 hong_lu_kurokumo_ut3 (prime) | clash: 5.52~11.9 | dmg: 15.5~40.25, OL 0.0 | ceil: 13.0
+ishmael_shi_ut3 (prime) | clash: 6.22~16.51 | dmg: 14.5~40.5, OL 1.0 | ceil: 21.33
 heathcliff_sunshower_ut3 (prime) | clash: 9.36~12.91 | dmg: 14.25~42.0, OL 2.75 | ceil: 19.0
 yi_sang_blade_ut3 (prime) | clash: 8.63~11.51 | dmg: 14.25~18.75, OL 5.0 | ceil: 12.67
 meursault_w_corp_ut3 (prime) | clash: 5.46~10.23 | dmg: 13.75~23.75, OL 0.0 | ceil: 11.0
@@ -24,15 +25,14 @@ rodion_lccb_ut3 (prime) | clash: 7.71~11.7 | dmg: 10.5~16.5, OL 5.0 | ceil: 16.6
 faust_w_corp_ut3 (prime) | clash: 5.17~11.32 | dmg: 10.5~21.0, OL -1.0 | ceil: 12.67
 ryoshu_kurokumo_ut3 (prime) | clash: 7.33~14.83 | dmg: 10.25~22.25, OL 3.0 | ceil: 17.0
 hong_lu_k_corp_ut3 (prime) | clash: 6.37~14.31 | dmg: 10.25~23.0, OL 0.0 | ceil: 18.0
-don_quixote_cinq_ut3 (prime) | clash: 7.13~16.8 | dmg: 10.0~26.5, OL 4.0 | ceil: 23.33
+don_quixote_cinq_ut3 (prime) | clash: 8.13~17.8 | dmg: 10.0~26.5, OL 4.0 | ceil: 24.33
 meursault_rosespanner_ut3 (prime) | clash: 6.41~12.97 | dmg: 10.0~22.5, OL 1.0 | ceil: 14.33
 outis_blade_ut3 (prime) | clash: 6.34~12.97 | dmg: 10.0~20.5, OL 1.0 | ceil: 16.33
 hong_lu_liu_ut3 (prime) | clash: 5.51~11.66 | dmg: 10.0~20.5, OL 0.0 | ceil: 17.0
 gregor_chef_ut3 (prime) | clash: 6.05~11.37 | dmg: 10.0~18.0, OL 1.25 | ceil: 14.0
 sinclair_l_corp_ut3 (prime) | clash: 5.19~12.83 | dmg: 9.75~24.5, OL 0.0 | ceil: 17.0
 yi_sang_seven_ut3 (prime) | clash: 7.18~12.22 | dmg: 9.75~18.75, OL 0.0 | ceil: 16.0
-ishmael_shi_ut3 (prime) | clash: 5.66~12.69 | dmg: 9.5~21.5, OL 1.0 | ceil: 14.33
-ishmael_boat_ut3 (prime) | clash: 6.3~15.88 | dmg: 9.25~28.0, OL 3.5 | ceil: 22.67
+ishmael_boat_ut3 (prime) | clash: 6.37~16.84 | dmg: 9.25~29.5, OL 3.5 | ceil: 22.67
 yi_sang_lcb_ut3 (prime) | clash: 4.7~10.43 | dmg: 9.25~18.5, OL 0.0 | ceil: 12.0
 gregor_g_corp_ut3 (prime) | clash: 7.24~14.75 | dmg: 9.0~21.25, OL 5.0 | ceil: 17.67
 rodion_kurokumo_ut3 (prime) | clash: 7.16~14.75 | dmg: 9.0~19.0, OL 2.0 | ceil: 23.67

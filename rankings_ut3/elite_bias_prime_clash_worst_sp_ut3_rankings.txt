@@ -2,6 +2,7 @@ sinclair_n_corp_ut3 (prime) | clash: 15.79~21.0 | dmg: 26.5~65.0, OL 4.5 | ceil:
 heathcliff_sunshower_ut3 (prime) | clash: 9.36~12.91 | dmg: 14.25~42.0, OL 2.75 | ceil: 19.0
 sinclair_blade_ut3 (prime) | clash: 9.27~14.15 | dmg: 18.0~25.25, OL 2.0 | ceil: 24.67
 yi_sang_blade_ut3 (prime) | clash: 8.63~11.51 | dmg: 14.25~18.75, OL 5.0 | ceil: 12.67
+don_quixote_cinq_ut3 (prime) | clash: 8.13~17.8 | dmg: 10.0~26.5, OL 4.0 | ceil: 24.33
 outis_seven_ut3 (prime) | clash: 8.05~14.63 | dmg: 11.0~22.5, OL 0.0 | ceil: 17.0
 heathcliff_r_corp_ut3 (prime) | clash: 7.78~18.33 | dmg: 18.75~51.75, OL 5.0 | ceil: 25.67
 rodion_lccb_ut3 (prime) | clash: 7.71~11.7 | dmg: 10.5~16.5, OL 5.0 | ceil: 16.67
@@ -12,7 +13,6 @@ ryoshu_kurokumo_ut3 (prime) | clash: 7.33~14.83 | dmg: 10.25~22.25, OL 3.0 | cei
 gregor_g_corp_ut3 (prime) | clash: 7.24~14.75 | dmg: 9.0~21.25, OL 5.0 | ceil: 17.67
 yi_sang_seven_ut3 (prime) | clash: 7.18~12.22 | dmg: 9.75~18.75, OL 0.0 | ceil: 16.0
 rodion_kurokumo_ut3 (prime) | clash: 7.16~14.75 | dmg: 9.0~19.0, OL 2.0 | ceil: 23.67
-don_quixote_cinq_ut3 (prime) | clash: 7.13~16.8 | dmg: 10.0~26.5, OL 4.0 | ceil: 23.33
 rodion_rosespanner_ut3 (prime) | clash: 6.92~14.34 | dmg: 17.75~46.0, OL 3.0 | ceil: 18.0
 don_quixote_lcb_ut3 (prime) | clash: 6.85~16.15 | dmg: 8.0~22.25, OL 2.0 | ceil: 20.67
 faust_n_corp_ut3 (prime) | clash: 6.63~14.4 | dmg: 12.5~29.75, OL 4.0 | ceil: 17.33
@@ -21,12 +21,13 @@ ishmael_r_corp_ut3 (prime) | clash: 6.55~17.48 | dmg: 8.5~29.75, OL 1.0 | ceil: 
 don_quixote_shi_ut3 (prime) | clash: 6.52~17.87 | dmg: 6.75~22.5, OL 3.0 | ceil: 29.0
 sinclair_lcb_ut3 (prime) | clash: 6.5~11.95 | dmg: 13.0~23.75, OL 3.0 | ceil: 13.0
 meursault_rosespanner_ut3 (prime) | clash: 6.41~12.97 | dmg: 10.0~22.5, OL 1.0 | ceil: 14.33
+ishmael_boat_ut3 (prime) | clash: 6.37~16.84 | dmg: 9.25~29.5, OL 3.5 | ceil: 22.67
 hong_lu_k_corp_ut3 (prime) | clash: 6.37~14.31 | dmg: 10.25~23.0, OL 0.0 | ceil: 18.0
 outis_blade_ut3 (prime) | clash: 6.34~12.97 | dmg: 10.0~20.5, OL 1.0 | ceil: 16.33
 meursault_r_corp_ut3 (prime) | clash: 6.33~14.78 | dmg: 13.5~31.5, OL 0.0 | ceil: 21.0
-ishmael_boat_ut3 (prime) | clash: 6.3~15.88 | dmg: 9.25~28.0, OL 3.5 | ceil: 22.67
 yi_sang_spicebush_ut3 (prime) | clash: 6.3~15.33 | dmg: 12.75~33.75, OL 3.25 | ceil: 19.67
 rodion_n_corp_ut3 (prime) | clash: 6.25~11.46 | dmg: 11.5~22.5, OL 3.0 | ceil: 13.0
+ishmael_shi_ut3 (prime) | clash: 6.22~16.51 | dmg: 14.5~40.5, OL 1.0 | ceil: 21.33
 outis_g_corp_ut3 (prime) | clash: 6.19~15.64 | dmg: 6.0~16.5, OL -1.0 | ceil: 22.67
 hong_lu_tingtang_ut3 (prime) | clash: 6.07~19.5 | dmg: 8.5~48.75, OL 3.0 | ceil: 31.0
 gregor_chef_ut3 (prime) | clash: 6.05~11.37 | dmg: 10.0~18.0, OL 1.25 | ceil: 14.0
@@ -35,7 +36,6 @@ outis_lcb_ut3 (prime) | clash: 5.85~13.81 | dmg: 7.75~20.25, OL 3.0 | ceil: 21.0
 ishmael_liu_ut3 (prime) | clash: 5.85~19.18 | dmg: 11.0~42.75, OL 2.0 | ceil: 22.67
 meursault_liu_ut3 (prime) | clash: 5.83~11.28 | dmg: 11.25~21.75, OL 1.0 | ceil: 14.33
 heathcliff_lcb_ut3 (prime) | clash: 5.67~14.27 | dmg: 8.75~22.5, OL 0.0 | ceil: 21.0
-ishmael_shi_ut3 (prime) | clash: 5.66~12.69 | dmg: 9.5~21.5, OL 1.0 | ceil: 14.33
 faust_l_corp_ut3 (prime) | clash: 5.64~15.69 | dmg: 8.75~27.5, OL 3.0 | ceil: 27.0
 hong_lu_kurokumo_ut3 (prime) | clash: 5.52~11.9 | dmg: 15.5~40.25, OL 0.0 | ceil: 13.0
 hong_lu_liu_ut3 (prime) | clash: 5.51~11.66 | dmg: 10.0~20.5, OL 0.0 | ceil: 17.0

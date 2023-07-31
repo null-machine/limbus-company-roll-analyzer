@@ -6,7 +6,7 @@ skills:
   name: slice_then_stab
   stats:
   - 5
-  - 2
+  - 3
   - 2
   - 2
   damage_bonuses:
@@ -16,7 +16,7 @@ skills:
   - 0
   prime_bonuses:
   - 2
-  - 1
+  - 0
   - 0
   - 0
   prime_damage_bonuses:
@@ -26,7 +26,7 @@ skills:
   - 0
   weak_bonuses:
   - 0
-  - 0
+  - -1
   - 0
   - 0
   weak_damage_bonuses:

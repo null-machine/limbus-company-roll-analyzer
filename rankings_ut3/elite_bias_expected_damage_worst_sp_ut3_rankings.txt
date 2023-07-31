@@ -31,7 +31,7 @@ sinclair_l_corp_ut3 (expected) | clash: 5.19~12.83 | dmg: 9.75~24.5, OL 0.0 | ce
 yi_sang_seven_ut3 (expected) | clash: 5.18~10.22 | dmg: 9.75~18.75, OL 0.0 | ceil: 14.0
 ryoshu_chef_ut3 (expected) | clash: 5.36~15.68 | dmg: 9.5~34.25, OL 3.0 | ceil: 19.0
 ishmael_shi_ut3 (expected) | clash: 5.66~12.69 | dmg: 9.5~21.5, OL 1.0 | ceil: 14.33
-ishmael_boat_ut3 (expected) | clash: 6.23~15.17 | dmg: 9.25~26.5, OL 3.5 | ceil: 19.67
+ishmael_boat_ut3 (expected) | clash: 6.37~16.84 | dmg: 9.25~29.5, OL 3.5 | ceil: 22.67
 yi_sang_lcb_ut3 (expected) | clash: 4.7~10.43 | dmg: 9.25~18.5, OL 0.0 | ceil: 12.0
 gregor_g_corp_ut3 (expected) | clash: 7.24~14.75 | dmg: 9.0~21.25, OL 5.0 | ceil: 17.67
 rodion_kurokumo_ut3 (expected) | clash: 7.16~14.75 | dmg: 9.0~19.0, OL 2.0 | ceil: 23.67

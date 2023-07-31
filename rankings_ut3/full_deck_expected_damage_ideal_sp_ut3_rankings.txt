@@ -9,9 +9,9 @@ ryoshu_chef_ut3 (expected) | clash: 5.39~14.02 | dmg: 9.0~28.5, OL 3.0 | ceil: 1
 ishmael_liu_ut3 (expected) | clash: 5.3~13.07 | dmg: 10.0~27.5, OL 2.0 | ceil: 16.67
 faust_n_corp_ut3 (expected) | clash: 6.34~13.28 | dmg: 11.0~25.5, OL 4.0 | ceil: 17.33
 ishmael_r_corp_ut3 (expected) | clash: 5.05~15.27 | dmg: 6.33~25.5, OL 1.0 | ceil: 22.33
+ishmael_boat_ut3 (expected) | clash: 6.06~14.79 | dmg: 8.83~25.33, OL 3.33 | ceil: 22.67
 meursault_r_corp_ut3 (expected) | clash: 6.32~13.75 | dmg: 11.0~25.0, OL 0.0 | ceil: 21.0
 hong_lu_tingtang_ut3 (expected) | clash: 6.15~16.9 | dmg: 6.33~23.5, OL 3.0 | ceil: 31.0
-ishmael_boat_ut3 (expected) | clash: 5.97~13.68 | dmg: 8.83~23.33, OL 3.33 | ceil: 19.67
 don_quixote_cinq_ut3 (expected) | clash: 6.6~13.93 | dmg: 9.33~21.83, OL 4.0 | ceil: 19.33
 faust_l_corp_ut3 (expected) | clash: 5.19~13.69 | dmg: 6.83~21.33, OL 3.0 | ceil: 27.0
 rodion_n_corp_ut3 (expected) | clash: 5.7~11.51 | dmg: 9.67~21.0, OL 3.0 | ceil: 13.0

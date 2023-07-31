@@ -20,7 +20,7 @@ don_quixote_cinq_ut3 (expected) | clash: 6.6~13.93 | dmg: 9.33~21.83, OL 4.0 | c
 outis_seven_ut3 (expected) | clash: 8.1~13.69 | dmg: 9.33~18.33, OL 0.0 | ceil: 17.0
 gregor_chef_ut3 (expected) | clash: 5.68~10.4 | dmg: 9.33~16.67, OL 1.5 | ceil: 14.0
 ryoshu_chef_ut3 (expected) | clash: 5.39~14.02 | dmg: 9.0~28.5, OL 3.0 | ceil: 19.0
-ishmael_boat_ut3 (expected) | clash: 5.97~13.68 | dmg: 8.83~23.33, OL 3.33 | ceil: 19.67
+ishmael_boat_ut3 (expected) | clash: 6.06~14.79 | dmg: 8.83~25.33, OL 3.33 | ceil: 22.67
 gregor_g_corp_ut3 (expected) | clash: 6.86~13.62 | dmg: 8.67~19.83, OL 5.0 | ceil: 17.67
 hong_lu_liu_ut3 (expected) | clash: 4.87~11.31 | dmg: 8.67~19.67, OL 0.0 | ceil: 17.0
 ishmael_lccb_ut3 (expected) | clash: 4.23~10.64 | dmg: 8.67~21.0, OL -1.0 | ceil: 12.67

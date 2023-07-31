@@ -1,12 +1,12 @@
-sinclair_n_corp_ut4 (expected) | clash: 11.45~15.55 | dmg: 17.0~44.33, OL 3.67 | ceil: 31.67
+sinclair_n_corp_ut4 (expected) | clash: 11.56~15.66 | dmg: 17.0~44.33, OL 4.0 | ceil: 31.67
 yi_sang_blade_ut4 (expected) | clash: 8.82~15.46 | dmg: 11.67~21.67, OL 5.0 | ceil: 18.67
 heathcliff_sunshower_ut4 (expected) | clash: 8.17~11.17 | dmg: 12.83~35.33, OL 2.5 | ceil: 19.0
 outis_seven_ut4 (expected) | clash: 8.1~13.69 | dmg: 9.33~18.33, OL 0.0 | ceil: 17.0
 rodion_lccb_ut4 (expected) | clash: 7.65~12.4 | dmg: 8.83~15.33, OL 5.0 | ceil: 18.67
+sinclair_blade_ut4 (expected) | clash: 7.05~14.11 | dmg: 12.33~23.83, OL 2.0 | ceil: 26.67
 ryoshu_kurokumo_ut4 (expected) | clash: 6.99~13.79 | dmg: 8.5~18.5, OL 3.0 | ceil: 17.0
-sinclair_blade_ut4 (expected) | clash: 6.98~13.16 | dmg: 12.33~22.33, OL 2.0 | ceil: 26.67
 gregor_g_corp_ut4 (expected) | clash: 6.86~13.62 | dmg: 8.67~19.83, OL 5.0 | ceil: 17.67
-rodion_kurokumo_ut4 (expected) | clash: 6.78~13.94 | dmg: 7.67~18.17, OL 2.0 | ceil: 25.67
+rodion_kurokumo_ut4 (expected) | clash: 6.78~13.94 | dmg: 7.67~16.67, OL 2.0 | ceil: 25.67
 don_quixote_cinq_ut4 (expected) | clash: 6.6~13.93 | dmg: 9.33~21.83, OL 4.0 | ceil: 19.33
 heathcliff_r_corp_ut4 (expected) | clash: 6.59~15.35 | dmg: 13.83~39.83, OL 5.0 | ceil: 24.67
 gregor_liu_ut4 (expected) | clash: 6.47~11.08 | dmg: 11.67~22.0, OL 5.0 | ceil: 13.67
@@ -17,7 +17,7 @@ ryoshu_seven_ut4 (expected) | clash: 6.33~16.28 | dmg: 5.33~19.0, OL 5.0 | ceil:
 don_quixote_w_corp_ut4 (expected) | clash: 6.24~18.33 | dmg: 7.33~36.33, OL 3.0 | ceil: 32.0
 hong_lu_tingtang_ut4 (expected) | clash: 6.2~17.85 | dmg: 6.33~24.5, OL 3.0 | ceil: 31.0
 meursault_n_corp_ut4 (expected) | clash: 6.12~9.64 | dmg: 11.67~17.67, OL 0.0 | ceil: 14.0
-ishmael_boat_ut4 (expected) | clash: 5.97~13.68 | dmg: 8.83~23.33, OL 3.33 | ceil: 19.67
+ishmael_boat_ut4 (expected) | clash: 6.06~14.79 | dmg: 8.83~25.33, OL 3.33 | ceil: 22.67
 outis_lcb_ut4 (expected) | clash: 5.92~12.94 | dmg: 9.0~21.33, OL 3.0 | ceil: 22.0
 yi_sang_spicebush_ut4 (expected) | clash: 5.82~13.57 | dmg: 11.5~29.5, OL 3.5 | ceil: 19.67
 rodion_n_corp_ut4 (expected) | clash: 5.7~11.51 | dmg: 9.67~21.0, OL 3.0 | ceil: 13.0

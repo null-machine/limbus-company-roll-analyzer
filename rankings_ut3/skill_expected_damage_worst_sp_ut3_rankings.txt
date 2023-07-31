@@ -65,13 +65,13 @@ s2 rodion_lccb_ut3 | thrust | clash: 7.81~9.57 | dmg: 12~15, OL 5 | ceil: 9.67
 s3 faust_lcb_ut3 | drilling_stab | clash: 5.96~9.47 | dmg: 12~18, OL -1 | ceil: 9.67
 s2 rodion_zwei_ut3 | focused_defense | clash: 5.62~9.14 | dmg: 12~18, OL -2 | ceil: 9.33
 s2 sinclair_zwei_ut3 | suppress | clash: 5.48~7.24 | dmg: 12~15, OL -2 | ceil: 7.33
+s2 ishmael_boat_ut3 | explosive_blast | clash: 6.87~17.41 | dmg: 10~28, OL 3 | ceil: 18.0
 s3 hong_lu_lcb_ut3 | whirlwind | clash: 6.54~17.08 | dmg: 10~28, OL 2 | ceil: 17.67
 s3 heathcliff_shi_ut3 | flashing_strike | clash: 6.2~16.75 | dmg: 10~28, OL 1 | ceil: 17.33
 s2 outis_seven_ut3 | field_command | clash: 7.73~16.51 | dmg: 10~25, OL 0 | ceil: 17.0
 s3 hong_lu_liu_ut3 | crimson_blaze_fist | clash: 5.87~16.41 | dmg: 10~28, OL 0 | ceil: 17.0
 s3 sinclair_l_corp_ut3 | rupturing_talisman | clash: 5.87~16.41 | dmg: 10~28, OL 0 | ceil: 17.0
 s2 don_quixote_cinq_ut3 | fleche | clash: 7.06~15.85 | dmg: 10~25, OL 4 | ceil: 16.33
-s2 ishmael_boat_ut3 | explosive_blast | clash: 6.73~15.51 | dmg: 10~25, OL 3 | ceil: 16.0
 s2 ryoshu_kurokumo_ut3 | clean_up | clash: 6.73~15.51 | dmg: 10~25, OL 3 | ceil: 16.0
 s2 hong_lu_k_corp_ut3 | decay_blade | clash: 5.73~14.51 | dmg: 10~25, OL 0 | ceil: 15.0
 s2 ishmael_shi_ut3 | flashing_slide | clash: 5.91~12.94 | dmg: 10~22, OL 1 | ceil: 13.33
@@ -84,7 +84,7 @@ s1 sinclair_n_corp_ut3 | coerced_judgement | clash: 7.1~8.99 | dmg: 10~16, OL 3 
 s2 yi_sang_seven_ut3 | riposte | clash: 5.29~8.8 | dmg: 10~16, OL 0 | ceil: 9.0
 s1 sinclair_blade_ut3 | slice_then_stab | clash: 5.81~7.57 | dmg: 10~13, OL 2 | ceil: 7.67
 s1 meursault_n_corp_ut3 | drive | clash: 5.15~6.9 | dmg: 10~13, OL 0 | ceil: 7.0
-s3 ishmael_boat_ut3 | risky_judgement | clash: 6.04~18.95 | dmg: 9~39, OL 5 | ceil: 19.67
+s3 ishmael_boat_ut3 | risky_judgement | clash: 6.32~21.81 | dmg: 9~45, OL 5 | ceil: 22.67
 s2 hong_lu_tingtang_ut3 | shank | clash: 5.37~18.28 | dmg: 9~39, OL 3 | ceil: 19.0
 s2 ryoshu_chef_ut3 | ingredient_hunt | clash: 5.37~18.28 | dmg: 9~39, OL 3 | ceil: 19.0
 s3 don_quixote_lcb_ut3 | for_justice | clash: 4.49~12.24 | dmg: 9~27, OL 2 | ceil: 12.67

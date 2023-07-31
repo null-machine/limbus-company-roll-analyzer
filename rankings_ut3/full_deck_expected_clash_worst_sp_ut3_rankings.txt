@@ -17,8 +17,8 @@ ryoshu_seven_ut3 (expected) | clash: 6.25~14.7 | dmg: 5.33~17.33, OL 5.0 | ceil:
 hong_lu_tingtang_ut3 (expected) | clash: 6.15~16.9 | dmg: 6.33~23.5, OL 3.0 | ceil: 31.0
 meursault_n_corp_ut3 (expected) | clash: 6.12~9.64 | dmg: 11.67~17.67, OL 0.0 | ceil: 14.0
 don_quixote_w_corp_ut3 (expected) | clash: 6.1~16.43 | dmg: 7.33~33.33, OL 3.0 | ceil: 32.0
+ishmael_boat_ut3 (expected) | clash: 6.06~14.79 | dmg: 8.83~25.33, OL 3.33 | ceil: 22.67
 hong_lu_k_corp_ut3 (expected) | clash: 6.01~13.11 | dmg: 8.5~19.0, OL 0.0 | ceil: 18.0
-ishmael_boat_ut3 (expected) | clash: 5.97~13.68 | dmg: 8.83~23.33, OL 3.33 | ceil: 19.67
 yi_sang_spicebush_ut3 (expected) | clash: 5.82~13.57 | dmg: 11.5~29.5, OL 3.5 | ceil: 19.67
 rodion_n_corp_ut3 (expected) | clash: 5.7~11.51 | dmg: 9.67~21.0, OL 3.0 | ceil: 13.0
 gregor_chef_ut3 (expected) | clash: 5.68~10.4 | dmg: 9.33~16.67, OL 1.5 | ceil: 14.0

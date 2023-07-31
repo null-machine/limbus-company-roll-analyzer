@@ -9,13 +9,13 @@ s3 heathcliff_sunshower_ut3 | spread_out | clash: 12.37~19.0 | dmg: 15~54, OL 3 
 s3 meursault_r_corp_ut3 | rhino_ram | clash: 7.37~20.28 | dmg: 18~48, OL 0 | ceil: 21.0
 s2 heathcliff_sunshower_ut3 | puddle_stomp | clash: 10.16~13.0 | dmg: 18~48, OL 3 | ceil: 13.0
 s2 heathcliff_r_corp_ut3 | concentrated_fire | clash: 6.94~17.1 | dmg: 16~46, OL 5 | ceil: 17.67
+s3 ishmael_boat_ut3 | risky_judgement | clash: 6.32~21.81 | dmg: 9~45, OL 5 | ceil: 22.67
 s3 yi_sang_spicebush_ut3 | bloodsteeped_scent | clash: 8.77~19.09 | dmg: 18~42, OL 5 | ceil: 19.67
 s3 ryoshu_seven_ut3 | swash | clash: 7.04~19.95 | dmg: 12~42, OL 5 | ceil: 20.67
 s3 ryoshu_chef_ut3 | i_can_cook_anything | clash: 5.28~15.44 | dmg: 12~42, OL 3 | ceil: 16.0
 s3 ishmael_liu_ut3 | inner_gate_elbow_strike | clash: 4.94~15.1 | dmg: 12~42, OL 2 | ceil: 15.67
 s3 faust_l_corp_ut3 | opportunistic_slash | clash: 6.6~25.93 | dmg: 8~41, OL 3 | ceil: 27.0
 s3 rodion_rosespanner_ut3 | lets_rack_up_some_scores | clash: 7.1~17.43 | dmg: 15~39, OL 3 | ceil: 18.0
-s3 ishmael_boat_ut3 | risky_judgement | clash: 6.04~18.95 | dmg: 9~39, OL 5 | ceil: 19.67
 s2 hong_lu_tingtang_ut3 | shank | clash: 5.37~18.28 | dmg: 9~39, OL 3 | ceil: 19.0
 s2 ryoshu_chef_ut3 | ingredient_hunt | clash: 5.37~18.28 | dmg: 9~39, OL 3 | ceil: 19.0
 s3 gregor_g_corp_ut3 | eviscerate | clash: 6.52~13.29 | dmg: 16~36, OL 5 | ceil: 13.67
@@ -48,6 +48,7 @@ s2 sinclair_l_corp_ut3 | proliferating_talismans | clash: 4.82~12.57 | dmg: 12~3
 s2 ishmael_lccb_ut3 | quake_rounds | clash: 4.49~12.24 | dmg: 12~30, OL -1 | ceil: 12.67
 s3 hong_lu_tingtang_ut3 | mutilate | clash: 7.25~29.75 | dmg: 5~30, OL 3 | ceil: 31.0
 s3 ryoshu_kurokumo_ut3 | lenticular_swirl | clash: 9.58~16.61 | dmg: 16~28, OL 3 | ceil: 17.0
+s2 ishmael_boat_ut3 | explosive_blast | clash: 6.87~17.41 | dmg: 10~28, OL 3 | ceil: 18.0
 s3 hong_lu_lcb_ut3 | whirlwind | clash: 6.54~17.08 | dmg: 10~28, OL 2 | ceil: 17.67
 s3 heathcliff_shi_ut3 | flashing_strike | clash: 6.2~16.75 | dmg: 10~28, OL 1 | ceil: 17.33
 s3 hong_lu_liu_ut3 | crimson_blaze_fist | clash: 5.87~16.41 | dmg: 10~28, OL 0 | ceil: 17.0
@@ -65,7 +66,6 @@ s3 sinclair_boat_ut3 | gamble | clash: 5.2~15.75 | dmg: 8~26, OL 1 | ceil: 16.33
 s3 meursault_n_corp_ut3 | annihilate_heretics | clash: 8.44~13.71 | dmg: 16~25, OL 0 | ceil: 14.0
 s2 outis_seven_ut3 | field_command | clash: 7.73~16.51 | dmg: 10~25, OL 0 | ceil: 17.0
 s2 don_quixote_cinq_ut3 | fleche | clash: 7.06~15.85 | dmg: 10~25, OL 4 | ceil: 16.33
-s2 ishmael_boat_ut3 | explosive_blast | clash: 6.73~15.51 | dmg: 10~25, OL 3 | ceil: 16.0
 s2 ryoshu_kurokumo_ut3 | clean_up | clash: 6.73~15.51 | dmg: 10~25, OL 3 | ceil: 16.0
 s2 hong_lu_k_corp_ut3 | decay_blade | clash: 5.73~14.51 | dmg: 10~25, OL 0 | ceil: 15.0
 s3 don_quixote_shi_ut3 | overbreathe | clash: 6.05~24.95 | dmg: 4~25, OL 3 | ceil: 26.0

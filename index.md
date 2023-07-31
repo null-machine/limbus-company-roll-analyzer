@@ -48,7 +48,7 @@ Finally, let it be emphasized that this is __not__ an autobattle tier list. Know
 
 Units have badges that denote certain changes.
 
-__Blue:__ This unit benefits significantly from technical prowess. They may emphasize tempo control, resource management or clash redirection, causing them to degrade under autobattle and excel when getting the first action.
+__Blue:__ This unit benefits significantly from technical prowess. They may emphasize tempo control, resource management or clash redirection, causing them to degrade under autobattle and often excel when getting the first action.
 
 __Red:__ This unit benefits significantly from resetting. They may rely on going first, drawing a certain skill or have a dicey mechanic, making them time-consuming to optimize.
 
@@ -74,6 +74,7 @@ Units in this tier tend to directly outperform or invalidate units in lower tier
 ![TT Hong Lu](assets/10603.png)
 ![R Ishmael](assets/10802.png)
 ![Liu Ishmael](assets/10806.png)
+![Boat Ishmael](assets/10807.png)
 
 ---
 
@@ -84,15 +85,14 @@ These units win clashes that units in lower tiers couldn't, and can be relied up
 ![K Hong Lu](assets/10605.png)
 ![N Faust](assets/10204.png)
 ![Rose Rodion](assets/10905.png)
-![Boat Ishmael](assets/10807.png)
-![7S Ryoshu](assets/10402.png)
 ![Cinq Don](assets/10305.png)
 ![L Faust](assets/10203.png)
+![BL Yi Sang](assets/10103.png)
 ![G Gregor](assets/11203.png)
 ![7S Outis](assets/11104.png)
+![7S Ryoshu](assets/10402.png)
 ![Shi Don](assets/10303.png)
 ![KK Hong Lu](assets/10602.png)
-![BL Yi Sang](assets/10103.png)
 
 ---
 
@@ -100,8 +100,8 @@ These units win clashes that units in lower tiers couldn't, and can be relied up
 
 Neither great nor terrible, these units may leave a player idly wishing they were someone else. That being said, they aren't liabilities. This tier is unordered.
 
-![W Meursault](assets/10503.png)
 ![BL Sinclair](assets/11002.png)
+![W Meursault](assets/10503.png)
 ![Sunshower Heathcliff](assets/10705.png)
 ![Shi Ishmael](assets/10803.png)
 ![Liu Gregor](assets/11202.png)
@@ -167,31 +167,32 @@ The coloured lines represent a sinner's chance to beat a power at varying sanity
 
 It is impractical to take into account every aspect of every identity for every version of the game. Emphasis will not be placed on skill colours— there's no telling what future EGOs hold in store. Furthermore, Refraction Railway 1 has proven that simply taking strong individual identities will outperform a team that goes out of its way to align colours for EGO spam or resonance. Having rare damage types in the current state of the game will not serve as as a ranking factor for similar reasons. Additionally, EGOs will kept in mind when determining rankings, but only mentioned if they are borderline intertwined with an identity's playstyle (e.g. G Gregor with Legerdemain or SS Heathcliff with AEDD). Micromanaging every single synergy is not practical, so determining how much a sinner's relevance is impacted by the existence of a specific strategy falls to the reader.
 
-Writeups will only be available for S tier and A tier units. Other units are generally unremarkable and do not have much nuance outside of what the average player can figure out by reading their pages and looking at their roll numbers. (The same could honestly be said of several high tier units, but high tiers tend to be scrutinized, so justification will be provided anyways.)
+Writeups will only be guaranteed for S tier and A tier units, with a few exceptions (e.g. units who already had writeups in previous versions). Other units are generally unremarkable and do not have much nuance outside of what the average player can figure out by reading their pages and looking at their roll numbers. (The same could honestly be said of several high tier units, but high tiers tend to be scrutinized, so justification will be provided anyways.) 
 
 For the sake of transparency, let it be known that the author is biased towards G Gregor, L Faust and W Don, and biased against R Heathcliff and LCCB Ishmael. Everything is still kept as objective as possible.
+
+[UT3 charts are only displayed here for units with a UT4 badge to reduce clutter. In general, the differences in UT3 and UT4 charts are minor enough to be handwaved (exceptions made for most units ranked with a UT4 badge). To view UT3 charts for everyone, please visit this link.](https://github.com/null-machine/limbus-company-clash-tool)
 
 ---
 
 ### S Tier: Sinclair - The One Who Shall Grip
 
-The prime chart represents Sinclair with fanatic's +1 power active.
+The prime charts include +2 base power from fanatic and S3's blunt power up. Since neither of those are practical at all, this ranking ignores his prime state... not like it matters.
 
-![](charts/sinclair_n_corp.png)
-![](charts/sinclair_n_corp_prime.png)
+![](charts_ut4/sinclair_n_corp_ut4_expected.png)
+![](charts_ut4/sinclair_n_corp_ut4_prime.png)
 
 \+ Minus coins provide an unprecedently strong baseline clash power, since destroyed coins are unable to lower skill clash power  
 \+ Unrolled damage coins are treated as tails rolls, giving skills a powerful first hit, which also opens up new ways to play around stagger thresholds  
 \+ Corrosion tempo tech allows him to act during stagger or manifest EGO without paying resource costs  
 \+ Strangely powerful defensive skill that does not interfere with sin generation and offers a means of controlling sanity when anticipating high drops  
-\+ Control over sanity scales with the number of actions he receives, increasing his consistency when being the first action recipient, or in low-sinner compositions  
+\+ Control over sanity scales with the number of actions he receives, increasing his consistency when getting the first action or being in small teams  
 \+ Different corroded EGO skills may generate with different targets, making indiscriminate targeting more lenient  
-\+ Defense skill rolls big and also has a high defense value, making it surprisingly practical for a shield
+\+ Defense skill rolls big and also has a high defense value, making it surprisingly practical for a shield  
 
 \- Will effectively never maintain the consistency of plus coin units; kit maximization is impractical  
-\- Works relatively poorly in a full team due to the higher chance of hitting allies and worse sanity control  
+\- Works relatively poorly in a full team due to the higher chance of hitting allies and marginally worse sanity control  
 \- Skipping EGO in favour of panic invokes a heavy opportunity cost, and giving up on sanity management massively reduces his consistency  
-\- Benefits more from being max level than usual  
 \- Strangely low defense (but offset with a high health pool)  
 
 `Skill 2 and 3 are simply fantastic, Great clasher.`
@@ -200,20 +201,20 @@ The prime chart represents Sinclair with fanatic's +1 power active.
 
 ### S Tier: Don Quixote - W Corp. L3 Cleanup Agent
 
-The weak chart represents Don Quixote with Rip Space uncharged.
+The adverse chart shows Rip Space with insufficient charge.
 
-![](charts/don_quixote_w_corp.png)
-![](charts/don_quixote_w_corp_weak.png)
+![](charts_ut4/don_quixote_w_corp_ut4_expected.png)
+![](charts_ut4/don_quixote_w_corp_ut4_adverse.png)
 
 \+ Rewards technical play more than any other identity  
 \+ Playing around S3 tempo sets the standard for what high DPS should look like  
-\+ Being a charge unit with an evade lends well to high performance solo or low-sinner clears, and causes her to benefit from being the first action recipient
+\+ Being a charge unit with an evade lends well to high performance solo or small team clears, and causes her to benefit from getting the first action  
 \+ S2 inflicts fragile, rewarding tempo control even further  
 \+ Manipulating skill order allows charging and firing S3 on the same turn, resulting in good fragile usage and less dead turns  
 \+ Well-known synergy with Telepole and a lesser-known synergy with W Faust's support passive, but relies on neither  
 \+ S2 and S3 are great at clashing, as befitting an S tier unit  
 
-\- Miserable S1 and charge limitations can result in dead turns  
+\- Without UT4, miserable S1 and charge limitations can result in dead turns  
 \- Performance degrades significantly or has increased reliance on Telepole when only given one action a turn  
 \- Impractical for autobattle (worth mentioning, but does not factor into her ranking)  
 
@@ -225,11 +226,11 @@ The weak chart represents Don Quixote with Rip Space uncharged.
 
 ### S Tier: Heathcliff - R Corp. 4th Pack Rabbit
 
-The prime chart represents Heathcliff with +1 power from his charge passive and +1 power from Bodysack. The weak chart represents him with less than 6 speed.
+The prime chart includes +1 power from the passive and +1 power from Bodysack. The adverse chart shows performance at less than 6 speed.
 
-![](charts/heathcliff_r_corp.png)
-![](charts/heathcliff_r_corp_prime.png)
-![](charts/heathcliff_r_corp_weak.png)
+![](charts_ut4/heathcliff_r_corp_ut4_expected.png)
+![](charts_ut4/heathcliff_r_corp_ut4_prime.png)
+![](charts_ut4/heathcliff_r_corp_ut4_adverse.png)
 
 \+ Quick Suppression at 6+ speed performs a similar role to Rip Space  
 \+ Tech exists to conserve ammo, such as making him the last action recipient, or using Bodysack to cycle S1 and S2  
@@ -240,9 +241,29 @@ The prime chart represents Heathcliff with +1 power from his charge passive and 
 
 ---
 
+### S Tier: Ryoshu - R.B. Chef de Cuisine
+
+The prime chart represents Ryoshu with max damage from ICCA's missing health bonus. Due to reversed offense, please note how this may be misleading.
+
+![](charts_ut4/ryoshu_chef_ut4_expected.png)
+![](charts_ut4/ryoshu_chef_ut4_prime.png)
+
+\+ Consistently strong fighter that can be expected to clash and deal damage reliably  
+\+ S3 has reversed scaling with enemy defense  
+\+ Evade recycles can stack 4th Match Flame, adding tempo to S3  
+\+ Viable in low-sinner and solo compositions  
+\+ No ammo or charge limitations  
+\+ Obligatory mention of her mild team healing sustain  
+\+ S3's additional missing health damage experiences reversed offense scaling for some reason  
+
+\- Kit effects are disorganized and stage dependent (but her numbers don't rely on them)  
+\- Extremely similar to N Faust, who trades numbers for debuffs
+
+---
+
 ### S Tier: Yi Sang - Effloresced E.G.O::Spicebush
 
-![](charts/yi_sang_spicebush.png)
+![](charts_ut4/yi_sang_spicebush_ut4_expected.png)
 
 \+ Great clash and damage power from raw roll numbers alone  
 \+ Multicoin AoE is insane but situational  
@@ -256,45 +277,113 @@ The prime chart represents Heathcliff with +1 power from his charge passive and 
 
 ---
 
-### S Tier: Ryoshu - R.B. Chef de Cuisine
+### S Tier: Hong Lu - Tingtang Gangleader
 
-![](charts/ryoshu_chef.png)
+The prime chart includes the additional coin on S2 and the full recycle from S3.
 
-\+ Consistently strong fighter that can be expected to clash and deal damage reliably  
-\+ S3 has reversed scaling with enemy defense  
-\+ Evade recycles can stack 4th Match Flame, adding tempo to S3  
-\+ Viable in low-sinner and solo compositions  
-\+ No ammo or charge limitations  
-\+ Obligatory mention of her mild team healing sustain  
+![](charts_ut4/hong_lu_tingtang_ut4_expected.png)
+![](charts_ut4/hong_lu_tingtang_ut4_prime.png)
 
-\- Kit effects are disorganized and stage dependent (but her numbers don't rely on them)  
-\- Extremely similar to N Faust, who trades numbers for debuffs
+\+ S3's unprecedented clash ceiling reduces dependence on enemy low rolls  
+\+ S2's extra coin appears when attacking broken abnormality parts  
+\+ Having an evade opens up low-sinner compositions  
+\+ Has high defense for some reason  
+\+ Kit contributes more damage than usual  
+\+ No charge or ammo limitations  
+
+\- Does not tolerate low sanity well (but is slightly offset by his passive)  
 
 ---
 
-### S Tier: Faust - The One Who Grips
+### S Tier: Ishmael - R Corp. 4th Pack Reindeer
 
-The prime chart represents Faust with Representation Emitter's +2 power active.
+The prime chart includes +1 base power from the passive. Snagharpoon is not represented.
 
-![](charts/faust_n_corp.png)
-![](charts/faust_n_corp_prime.png)
+![](charts_ut4/ishmael_r_corp_ut4_expected.png)
+![](charts_ut4/ishmael_r_corp_ut4_prime.png)
+
+\+ Charge is practically a non-issue with UT4  
+\+ Well-rounded kit and powerful tempo  
+\+ High rolls make for straightforward fights  
+\+ Suffers no consequences when firing uncharged S3 when solo, albeit without being able to clash or choose a target  
+
+\- UT3 is miserable compared to UT4's S3 charge cost and sanity loss reductions  
+\- Since S3 deducts charge before the turn begins to resolve, turn order manipulation for charge is not possible (this can be disregarded but is worth mentioning for completeness)  
+
+---
+
+### S Tier: Ishmael - Liu Association South Section 4
+
+The prime chart includes +1 coin power on S3 and +2 coin power on S1 and S2, which are obtained from kit effects.
+
+![](charts_ut4/ishmael_liu_ut4_expected.png)
+![](charts_ut4/ishmael_liu_ut4_prime.png)
+
+\+ Has strong numbers and cohesive kit effects  
+\+ Above average contributions from kit effects  
+\+ Capable of operating as a standalone burn unit in a pinch  
+
+\- Exaggerated burn dependence results in volatile performance and team dependency  
+\- S3's plus coin boost is only obtained if the fourth coin in the skill performs the stagger or kill, making it impractical to play around  
+
+---
+
+### S Tier: Ishmael - Molar Boatworks Fixer
+
+The adverse chart excludes all coin power, the prime chart includes all coin power, and the expected chart has +1 coin power on S2 and S3.
+
+![](charts_ut4/ishmael_boat_ut4_expected.png)
+![](charts_ut4/ishmael_boat_ut4_prime.png)
+
+\+ Has powerful kit effects from S3 and S2 on top of solid rolls  
+\+ Obligatory mention to her funny high evade min-roll  
+\+ Tremor count tempo creates highs and lows to play around (which can be a bad thing)  
+
+\- Passive procs before S2's sinking increase, resulting in 7/1 sinking instead of 6/2 sinking  
+\- Stacking sinking or rupture tends to be rather clunky (but generally results in better burst)  
+
+---
+
+### A Tier: Hong Lu - K Corp. Class 3 Excision Staff
+
+The prime chart includes S1's +3 coin power. The adverse chart excludes S3's +2 coin power.
+
+![](charts_ut4/hong_lu_k_corp_ut4_expected.png)
+![](charts_ut4/hong_lu_k_corp_ut4_prime.png)
+![](charts_ut4/hong_lu_k_corp_ut4_adverse.png)
+
+\+ Designated taker of Ls  
+\+ Unprecedented survivability from kit effects and health, defense and stagger stats  
+\+ Aggro and decent speed allow for high taunt coverage, exploiting the previous point  
+\+ Still has decent rolls despite everything  
+\+ Reviving from a ampule related death using Dimension Shredder's passive results in obtaining an extra ampule (this has not been verified by any of the authors)  
+
+\- Likely outcompeted when optimizing speed clears due to a lack of focus on damage  
+
+---
+
+### A Tier: Faust - The One Who Grips
+
+![](charts_ut4/faust_n_corp_ut4_expected.png)
 
 \+ S2 oriented with high damage from multicoins  
 \+ No ammo or charge limitations  
 \+ Fares consistently and reliably with her great numbers  
 \+ Debuffs from kit effects provide easily capitalizable tempo  
-\+ Sanity restoration is a nice quality of life boost but generally unimpactful   
+\+ Highest potential for sanity restoration to fuel EGO spam  
 
+\- Passives demand building around lust resonance  
 \- Extremely similar to Chef Ryoshu, who trades debuffs for better numbers  
+\- Gained less than most identities after offense changes, even after the second patch  
 
 ---
 
-### S Tier: Rodion - Rosespanner Workshop Representative
+### A Tier: Rodion - Rosespanner Workshop Representative
 
-Due to technical limitations, use the normal chart for evaluating aggregate and the prime chart for evaluating raw damage when S2 gains additional coins.
+The adverse chart excludes S2's extra coins.
 
-![](charts/rodion_rosespanner.png)
-![](charts/rodion_rosespanner_prime.png)
+![](charts_ut4/rodion_rosespanner_ut4_expected.png)
+![](charts_ut4/rodion_rosespanner_ut4_adverse.png)
 
 \+ Well-rounded damage spread across all three skills, with bias to S2  
 \+ Consistently powerful damage rolls  
@@ -305,78 +394,12 @@ Due to technical limitations, use the normal chart for evaluating aggregate and 
 
 ---
 
-### S Tier: Hong Lu - Tingtang Gangleader
-
-Due to technical limitations, use the normal chart for evaluating aggregate and the prime chart for evaluating raw damage when S2 and S3 gain additional coins.
-
-![](charts/hong_lu_tingtang.png)
-![](charts/hong_lu_tingtang_prime.png)
-
-\+ Often tops the raw data clash aggregate rankings due to insane performance at max sanity  
-\+ S3's unprecedented clash ceiling reduces dependence on enemy low rolls  
-\+ S2's extra coin appears when attacking broken abnormality parts  
-\+ Having an evade opens up low-sinner compositions  
-\+ Has high defense for some reason  
-\+ Kit contributes more damage than usual  
-\+ No charge or ammo limitations  
-
-\- Does not tolerate low sanity well (but is slightly offset by his passive)  
-\- More of a clash tank than a pure damage conduit  
-
----
-
-### A Tier: Gregor - G Corp. Manager Corporal
-
-![](charts/gregor_g_corp.png)
-
-\+ Contrary to intuition, has virtually identical clashes to 7S Outis due to their difference in offense level  
-\+ Kit provides so much healing that he will generally be able to shrug off lost clashes with little to no consequence  
-\+ Surprisingly fast for a tank, giving him the ability to pull dangerous skills away from core units  
-\+ Deliberately allowing him to stagger and healing him up during low pressure effectively removes his own stagger thresholds for later rounds  
-\+ Piloting him feels like giving the team a regenerating frontal shield, enabling heavy damage payloads (e.g. Cloud Cutter) to land without risking a clash  
-\+ Building around Legerdemain allows him to take on a damage role  
-
-\- Does not have S tier roll numbers  
-\- Happens to be the author's favourite unit (so take that bias as you will)  
-
----
-
-### A Tier: Outis - Seven Association South Section 6 Director
-
-Due to technical limitations, the normal chart should be used to evaluate clashes, and the weak chart should be used to evaluate damage.
-
-![](charts/outis_seven.png)
-![](charts/outis_seven_weak.png)
-
-\+ Can be thought of as a less durable but more explicitly supportive version of G Gregor  
-\+ Kit has far more debuffs than usual  
-\+ Paralysis on S1 and offense down on S3 make it easier for the team to win clashes  
-\+ High speed allows her to pull clashes reliably  
-\+ High defense and only one stagger threshold also allows her to tank the clashes she can't win  
-
-\- Despite her public opinion of being a great clasher, the numerical truth is that her clash power is not that remarkable  
-\- Damage attributed to her defense level down and weakness analyzed debuffs often does not compensate for her poor numbers  
-\- Having lots of effective health is rarely preferable to G Gregor's regeneration, who competes for her role  
-
----
-
-### A Tier: Hong Lu - Kurokumo Wakashu
-
-Due to technical limitations, use the normal chart for evaluating aggregate and the prime chart for evaluating raw damage.
-
-![](charts/hong_lu_kurokumo.png)
-![](charts/hong_lu_kurokumo_prime.png)
-
-\+ Cloud cutter.
-
----
-
 ### A Tier: Ryoshu - Seven Association South Section 6
 
 The prime chart represents Ryoshu with Upper Slash's effect and next turn +1 attack power active.
 
-![](charts/ryoshu_seven.png)
-![](charts/ryoshu_seven_prime.png)
+![](charts_ut4/ryoshu_seven_ut4_expected.png)
+![](charts_ut4/ryoshu_seven_ut4_prime.png)
 
 \+ Part of the low rarity clash god trio with L Faust and Shi Don, who all play similarly  
 \+ Above average roll numbers make her solid to pilot  
@@ -388,13 +411,27 @@ The prime chart represents Ryoshu with Upper Slash's effect and next turn +1 att
 
 ---
 
+### A Tier: Don Quixote - Cinq Association South Section 5 Director
+
+The prime chart includes her coin power on S1 and S3, as well as +1 clash power from S3.
+
+![](charts_ut4/don_quixote_cinq_ut4_expected.png)
+![](charts_ut4/don_quixote_cinq_ut4_prime.png)
+
+\+ Decent rolls and unique targeting pressure from declared duel  
+\+ Speed shenanigans increase player agency  
+\+ Clash count damage scaling opens up tie gambling for low-turn clears which hopefully will not become a thing for the sake of player sanity  
+
+\- Kit effects typically contribute less damage than usual  
+
+---
+
 ### A Tier: Faust - Lobotomy Corp. Remnant
 
-The prime chart represents Faust with Representation Emitter's +2 power active, and the weak chart excludes Opportunistic Slash's +3 coin power.
+The adverse chart excludes S3's +3 coin power.
 
-![](charts/faust_l_corp.png)
-![](charts/faust_l_corp_prime.png)
-![](charts/faust_l_corp_weak.png)
+![](charts_ut4/faust_l_corp_ut4_expected.png)
+![](charts_ut4/faust_l_corp_ut4_adverse.png)
 
 \+ Part of the low rarity clash god trio with 7S Ryoshu and Shi Don, who all play similarly  
 \+ High-end rolls translate to solid clashes and acceptable damage  
@@ -404,30 +441,91 @@ The prime chart represents Faust with Representation Emitter's +2 power active, 
 
 ---
 
-### A Tier: Ishmael - R Corp. 4th Pack Reindeer
+### A Tier: Gregor - G Corp. Manager Corporal
 
-The prime chart can be used to evaluate Ishmael's clashes while Snagharpoon is active. Note that the normal chart should still be used to evaluate damage.
+The prime chart includes his coin power on S1 and S3.
 
-![](charts/ishmael_r_corp.png)
-![](charts/ishmael_r_corp_prime.png)
+![](charts_ut4/gregor_g_corp_ut4_expected.png)
+![](charts_ut4/gregor_g_corp_ut4_prime.png)
 
-\+ Plays similarly to W Don, but with worse numbers  
-\+ Well-rounded kit with a strong S1  
-\+ Suffers no consequences when firing uncharged S3 when solo, albeit without being able to clash or choose a target  
-\+ Combat passive drains sanity for attack power, which can be easily offset through support passives or clash wins  
+\+ Contrary to intuition, has virtually identical clashes to 7S Outis due to their difference in offense level  
+\+ Kit provides so much healing that he will generally be able to shrug off lost clashes with little to no consequence  
+\+ Surprisingly fast for a tank, giving him the ability to pull dangerous skills away from core units  
+\+ Deliberately allowing him to stagger and healing him up during low pressure effectively removes his own stagger thresholds for later rounds  
+\+ Piloting him feels like giving the team a regenerating frontal shield, enabling heavy damage payloads (e.g. Cloud Cutter) to land without risking a clash (but this applies to tanks in general)  
+\+ Building around Legerdemain allows him to take on a damage role  
 
-\- Held back by her somewhat miserable 32 offense  
-\- Below average contributions from kit effects  
-\- Charge limitations are exaggerated by poor generation from her kit  
+\- Happens to be the author's favourite unit (so take that bias as you will)  
 
 ---
 
-### A Tier: Heathcliff - Lobotomy E.G.O::Sunshower
+### A Tier: Outis - Seven Association South Section 6 Director
 
-The prime chart represents Heathcliff with his S2 power and +1 power to all skills from Bodysack.
+The prime chart includes her coin power on S3.
 
-![](charts/heathcliff_sunshower.png)
-![](charts/heathcliff_sunshower_prime.png)
+![](charts_ut4/outis_seven_ut4_expected.png)
+![](charts_ut4/outis_seven_ut4_prime.png)
+
+\+ Can be thought of as a less durable but more explicitly supportive version of G Gregor  
+\+ Kit has far more debuffs than usual  
+\+ Paralysis on S1 and offense down on S3 make it easier for the team to win clashes  
+\+ High speed allows her to pull clashes reliably  
+\+ High defense and only one stagger threshold also allows her to tank the clashes she can't win  
+
+\- Despite her public opinion of being a great clasher, the numerical truth is that her clash power is not that remarkable  
+\- Damage attributed to her defense level down and weakness analyzed debuffs often does not compensate for her poor numbers  
+\- Having lots of effective health is rarely preferable to regeneration  
+
+---
+
+### A Tier: Don Quixote - Shi Section 5 Director
+
+The prime chart includes S3's base power.
+
+![](charts_ut4/don_quixote_shi_ut4_expected.png)
+![](charts_ut4/don_quixote_shi_ut4_prime.png)
+
+\+ Part of the low rarity clash god trio with L Faust and 7S Ryoshu, who all play similarly  
+\+ Has the highest clash power of the trio at the cost of having the lowest damage  
+\+ Gains haste from her S2 and passive, giving her the speed she needs to maximize her clashes  
+\+ Only has two stagger thresholds, making her more forgiving than intuition would suggest  
+
+\- Outstanding clash power often does not compensate for having poor damage  
+
+---
+
+### A Tier: Hong Lu - Kurokumo Wakashu
+
+![](charts_ut4/hong_lu_kurokumo_ut4_expected.png)
+
+\+ Cloud cutter.
+
+---
+
+### A Tier: Yi Sang - Blade Lineage Salsu
+
+The adverse, expected and prime charts include 0, +1 and +3 coin power respectively.
+
+![](charts_ut4/yi_sang_blade_ut4_adverse.png)
+![](charts_ut4/yi_sang_blade_ut4_expected.png)
+![](charts_ut4/yi_sang_blade_ut4_prime.png)
+
+\+ Cohesive poise kit  
+\+ Performs consistently regardless of sanity without poise  
+\+ S2 and S3 scale well with the coin power provided by his passive  
+
+\- Obtaining too much poise potency makes it difficult to accumulate poise count (but the extra damage may make up for it)
+\- Relative lack of poise count and complete lack of coin power make his UT3 miserable  
+
+---
+
+### B Tier: Heathcliff - Lobotomy E.G.O::Sunshower
+
+The adverse, expected and prime charts include 0, +2 and +3 base power on S2 respectively.
+
+![](charts_ut4/heathcliff_sunshower_ut4_adverse.png)
+![](charts_ut4/heathcliff_sunshower_ut4_expected.png)
+![](charts_ut4/heathcliff_sunshower_ut4_prime.png)
 
 \+ Very high theoretical damage output  
 \+ Kit effects are synergistic and contribute much more damage and survivability than is standard  
@@ -446,12 +544,12 @@ The prime chart represents Heathcliff with his S2 power and +1 power to all skil
 
 ---
 
-### A Tier: Ishmael - Shi Section 5
+### B Tier: Ishmael - Shi Section 5
 
-The prime chart represents Ishmael with Flashing Strike's additional coins. Snagharpoon's passive is not included in the prime chart for ease of evaluating damage.
+The prime chart represents Ishmael with Flashing Strike's additional coins.
 
-![](charts/ishmael_shi.png)
-![](charts/ishmael_shi_prime.png)
+![](charts_ut4/ishmael_shi_ut4_expected.png)
+![](charts_ut4/ishmael_shi_ut4_prime.png)
 
 \+ Decent clash power while above her health threshold  
 \+ Gains incredibly high numbers and performance in her prime state  
@@ -464,56 +562,38 @@ The prime chart represents Ishmael with Flashing Strike's additional coins. Snag
 
 ---
 
-### A Tier: Ryoshu - Kurokumo Wakashu
+### B Tier: Ryoshu - Kurokumo Wakashu
 
-![](charts/ryoshu_kurokumo.png)
+![](charts_ut4/ryoshu_kurokumo_ut4_expected.png)
 
-\+ Above average rolls  
+\+ Decent rolls  
 \+ Inflicts bleed count, making the status effect more impactful  
 
 \- Damage contributed by bleed is substandard compared to just using skills with bigger numbers  
 \- Doubling down on more bleed invokes a greater opportunity cost (but this applies to status teams in general)  
 \- Bleed relies on the target to attack, making it miserable when targeting a broken part or staggered enemy  
-\- Has a minor amount of anti-synergy with KK Hong Lu, since Cloud Cutter checks bleed count  
 \- Other parts of her kit apply on the same turn and are relatively unimpactful  
-
----
-
-### A Tier: Don Quixote - Shi Section 5 Director
-
-The prime chart represents Don with Overbreathe's effect active. The activation condition is extremely restrictive, so it is added for the sake of completeness, and does not factor into her ranking.
-
-![](charts/don_quixote_shi.png)
-![](charts/don_quixote_shi_prime.png)
-
-\+ Part of the low rarity clash god trio with L Faust and 7S Ryoshu, who all play similarly  
-\+ Has the highest clash power of the trio at the cost of having the lowest damage  
-\+ Gains haste from her S2 and passive, giving her the speed she needs to maximize her clashes  
-\+ Only has two stagger thresholds, making her more forgiving than intuition would suggest  
-
-\- Outstanding clash power often does not compensate for having poor damage  
 
 ---
 
 ### B Tier: Outis - LCB Sinner
 
-![](charts/outis_lcb.png)
+![](charts_ut4/outis_lcb_ut4_expected.png)
 
 \+ Great damage and decent clashes make for a surprisingly workable identity  
 \+ Workable S1 gives her a rare tempo, and serves as a solid tool to clean up staggered targets or exploit skills that are easy to clash  
 \+ Hit effects contribute a lot more damage than is standard  
 
-\- Only 26 defense makes her glassy  
 \- May be directly outperformed by higher tier damage-oriented identities  
 
 ---
 
 ### B Tier: Hong Lu - LCB Sinner
 
-The weak chart represents Hong Lu without the additional coin power on S2 and S3.
+The adverse chart represents Hong Lu without the additional coin power on S2 and S3.
 
-![](charts/hong_lu_lcb.png)
-![](charts/hong_lu_lcb_weak.png)
+![](charts_ut4/hong_lu_lcb_ut4_expected.png)
+![](charts_ut4/hong_lu_lcb_ut4_adverse.png)
 
 \+ Decent damage and reliable clashes  
 \+ S2 and S3 behave similarly and provide a powerful baseline performance  
@@ -525,10 +605,12 @@ The weak chart represents Hong Lu without the additional coin power on S2 and S3
 
 ### B Tier: Rodion - Kurokumo Wakashu
 
-![](charts/rodion_kurokumo.png)
+![](charts_ut4/rodion_kurokumo_ut4_expected.png)
+![](charts_ut4/rodion_kurokumo_ut4_prime.png)
 
 \+ Serviceable rolls and a mildly clunky kit make her playable but generally unremarkable  
 \+ Notably high base power on her S2 and S3, lessening dependence on RNG in low sanity scenarios  
+\+ Gains a slew of kit effects and roll bonuses at UT4
 
 \- S3 effects are restrictive due to lacking count for both her bleed and poise, requiring additional effort to build around for maximization  
 \- Passive theoretically has a powerful tempo, but finding situations that favour countering over clashing requires creativity  
@@ -537,60 +619,36 @@ The weak chart represents Hong Lu without the additional coin power on S2 and S3
 
 ### B Tier: Sinclair - Blade Lineage Salsu
 
-![](charts/sinclair_blade.png)
+The prime chart includes +2 base power from S2. The adverse chart excludes the coin power from S1.
+
+![](charts_ut4/sinclair_blade_ut4_expected.png)
+![](charts_ut4/sinclair_blade_ut4_prime.png)
+![](charts_ut4/sinclair_blade_ut4_adverse.png)
 
 A bit about Blade Lineage identities:
 
 While L Faust, 7S Ryoshu and Shi Don achieve excellence at their best, BL Yi Sang and BL Sinclair are capable of performing consistently in dicey situations. The distinction comes from how their skills are balanced— the former has high highs and low lows, and vice versa. Furthermore, most of the former have evades, and these two have counters, furthering this "constant output" philosophy. This causes the former trio to have amazing rolls once scaled to max sanity, while the latter will remain consistent but relatively unimpactful. This is represented by the former's high variance, and vice versa. If consistency is what one seeks, these two are likely to perform the same regardless of whether they're rolling heads or tails, giving them fairly good low sanity tolerance. 
 
-However, in this snowball, high sanity meta where 95% heads is common, units that favour base power tend to underperform. Despite how consistently these skills can achieve their expected clash power, they probably will still rely on the opposing skill to low roll due to their low aggregate, ironically making them arguably less consistent than coin power oriented units. 
+However, in this snowball, high sanity meta where 95% heads is common, units that favour base power tend to underperform. Despite how consistently these skills can achieve their expected clash power, they probably will still rely on the opposing skill to low roll due to their low aggregate, ironically making them arguably less consistent than coin power oriented units.
+
+Edit: This was written in the early days of Limbus Company.
 
 \+ S3 can function as a pseudo-ego  
-\+ Kit effects are functional, providing the rare poise count on S1 and a solid passive  
+\+ Kit effects are functional  
 
-\- Does not make use of max sanity remotely as well as units with coin power
-
----
-
-### B Tier: Yi Sang - Blade Lineage Salsu
-
-![](charts/yi_sang_blade.png)
-
-\+ Can be thought of as an exaggeration of BL Sinclair, with the lowest variance of all plus coin units but no clash aggregate to make use of it  
-\+ S2 and S3 can be expected to perform the same regardless of sanity  
-\+ Having poise count on both his S2 and passive makes him relatively okay at stacking it as well, giving him a decent amount of power from kit effects  
-\+ Flank Thrust has decent raw damage, which can be attributed to being a multicoin with high offense level  
-
-\- Horrendous lack of high rolls will make his clashes either extremely safe or reliant on the enemy to flip tails— most often the latter  
-\- Analysis that applies to BL Sinclair can typically apply to BL Yi Sang, and vice versa  
-
----
-
-### B Tier: Gregor - Rosespanner Workshop Fixer
-
-![](charts/gregor_rosespanner.png)
-
-\+ Decent rolls  
-\+ Below average contributions from kit effects  
-
-\- Rolls are more sanity reliant than usual  
-\- Mediocre and easily replacable  
-
----
+\- Does not make use of max sanity remotely as well as units with coin power  
 
 ### B Tier: Heathcliff - Shi Section 5
 
-The prime chart represents Heathcliff under 25% HP and with Bodysack active.
+The prime chart includes the base power bonuses from his health threshold.
 
-![](charts/heathcliff_shi.png)
-![](charts/heathcliff_shi_prime.png)
+![](charts_ut4/heathcliff_shi_ut4_expected.png)
+![](charts_ut4/heathcliff_shi_ut4_prime.png)
 
-\+ Despite his poor reputation, Shi Heathcliff's clashes are actually relatively pretty great  
-\+ Might be viable if he's played like a normal fighter, and is given a source of healing to keep him topped off from the S3 self-damage  
+\+ Despite his poor reputation prior to the UT4 update, Shi Heathcliff's clashes are relatively okay  
+\+ Viable when played normally and gains attack weight in prime conditions
 
-\- But, after consulting someone who has an UT3 Shi Heathcliff, there are probably safer investments than this...  
-
-![](assets/shi_heathcliff_review.png)
+\- Health threshold micro often makes healing impractical
 
 ---
 
@@ -598,8 +656,8 @@ The prime chart represents Heathcliff under 25% HP and with Bodysack active.
 
 The prime chart represents Gregor with +1 power from his S2 effects.
 
-![](charts/gregor_liu.png)
-![](charts/gregor_liu_prime.png)
+![](charts_ut4/gregor_liu_ut4_expected.png)
+![](charts_ut4/gregor_liu_ut4_prime.png)
 
 A bit about Liu Association identities:
 
@@ -614,34 +672,9 @@ The Liu Association can be summarized as favouring damage over clashes. Due to h
 
 ---
 
-### B Tier: Hong Lu - Liu Section 5
-
-![](charts/hong_lu_liu.png)
-
-\+ Most clash-oriented of the Liu trio, while still playing into the philosophy of multicoin damage  
-\+ Contributes the much needed burn count for burn funnel, but the least burn potency  
-\+ Surprisingly tanky too— has higher defense and one less stagger threshold than Liu Meursault  
-
-\- Slightly miserable offense level, making his damage deceptively lower than raws would suggest  
-
----
-
-### B Tier: Meursault - Liu Association South Section 6
-
-![](charts/meursault_liu.png)
-
-\+ Forms the middle ground of the three Liu identities  
-\+ Contributes both potency and count, but cannot practically sustain the burn count on his own with only one or two actions  
-\+ S2 and S3 effects are capable of choosing the same target multiple times, maintaining his kit effect contributions in encounters with fewer enemies  
-
-\- Being mediocre at everything makes for a rather mediocre unit  
-\- Arguably the easiest one to bench  
-
----
-
 ### B Tier: Ishmael - LCCB Assistant Manager
 
-![](charts/ishmael_clearance.png)
+![](charts_ut4/ishmael_lccb_ut4_expected.png)
 
 \+ Contributions come almost entirely from powerful debuffs on S3  
 \+ Opens up extreme low-turn strategies in reset heavy contexts  
@@ -652,17 +685,41 @@ The Liu Association can be summarized as favouring damage over clashes. Due to h
 \- Terrible roll numbers and ammo limitations make her generally impractical  
 \- Used almost exclusively to reset until she can fire S3 turn one in battles that take less than a couple turns  
 
+---
+
+### C Tier: Hong Lu - Liu Section 5
+
+The prime chart includes coin power on S2 and S3.
+
+![](charts_ut4/hong_lu_liu_ut4_expected.png)
+![](charts_ut4/hong_lu_liu_ut4_prime.png)
+
+\+ Most clash-oriented of the Liu trio, while still playing into the philosophy of multicoin damage  
+\+ Contributes the much needed burn count for burn funnel, but the least burn potency  
+\+ Surprisingly tanky too— has higher defense and one less stagger threshold than Liu Meursault  
+
+\- Slightly miserable offense level, making his damage deceptively lower than raws would suggest  
+
+---
+
+### C Tier: Meursault - Liu Association South Section 6
+
+The prime chart includes coin power on S3.
+
+![](charts_ut4/meursault_liu_ut4_expected.png)
+![](charts_ut4/meursault_liu_ut4_prime.png)
+
+\+ Forms the middle ground of the three Liu identities  
+\+ Contributes both potency and count, but cannot practically sustain the burn count on his own with only one or two actions  
+\+ S2 and S3 effects are capable of choosing the same target multiple times, maintaining his kit effect contributions in encounters with fewer enemies  
+
+\- Being mediocre at everything makes for a rather mediocre unit  
+\- Arguably the easiest one to bench  
 
 ---
 
 ## Additional Notes
 
-KK Hong Lu used to be placed in S tier, which was heavily contested by Nex and heavily defended by the other two. However, the addition of Rose Rodion (and even N Sinclair) edged heavily into his niche of having a nova S2. This creep, combined with his glaring lack of clash power, edged him into A tier. That being said, his turn one damage potential remains relatively uncontested, so his placement is something individual players are encouraged to decide for themselves.
-
-LCB Outis and LCB Hong Lu used to be firmly placed in A tier by LOWERCASE, but that was contested by Kervina and Nex. Both have been dropped to B tier to make A tier more exclusive.
-
-Shi Ishmael used to be in high B tier but was moved to low A tier after discussion in the Project Moon community server. The fact that she shares the same raw as Shi Don without needing her health threshold, alongside her prime performance, was enough to barely edge her in. That being said, individual players are encouraged to evaluate whether sacrificing the stability that high clash power and speed brings makes her worth prioritizing her over the other A tier units.
-
-Whether G Gregor and Chef Ryoshu should receive a yellow badge was discussed. A slight preference was given to G Gregor, but it was decided that neither of them should receive one for fairness. Their healing is unlikely to make or break a clear, but both are definitely situationally impactful.
-
 One thing to keep in mind is that stronger units do not necessarily correlate with more enjoyment. Weaker sinners tend to compensate their lack of power in their own strange ways, and giving them a chance tends to lead to making some funny memories. Additionally, the game in its current state is easy enough to comfortably clear with just a support unit, so there's no need to worry about accessibility yet.
+
+Some of the authors are disappointed in Project Moon. The authors will post future updates when they feel like it.

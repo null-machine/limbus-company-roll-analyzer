@@ -1,5 +1,5 @@
 s3 sinclair_n_corp_ut4 | self_destructive_purge | clash: 20.3~31.66 | dmg: 24~90, OL 5 | ceil: 31.67
-s2 sinclair_n_corp_ut4 | amoral_enactment | clash: 13.54~17.33 | dmg: 24~64, OL 4 | ceil: 17.33
+s2 sinclair_n_corp_ut4 | amoral_enactment | clash: 13.88~17.67 | dmg: 24~64, OL 5 | ceil: 17.67
 s3 yi_sang_blade_ut4 | flank_thrust | clash: 10.22~15.38 | dmg: 24~36, OL 5 | ceil: 15.67
 s3 hong_lu_kurokumo_ut4 | cloudburst | clash: 7.55~12.71 | dmg: 21~33, OL 0 | ceil: 13.0
 s3 meursault_w_corp_ut4 | energy_current | clash: 5.85~12.63 | dmg: 20~40, OL 0 | ceil: 13.0
@@ -151,7 +151,7 @@ s1 don_quixote_w_corp_ut4 | rip | clash: 6.3~11.7 | dmg: 5~11, OL 3 | ceil: 12.0
 s1 ryoshu_kurokumo_ut4 | focus_strike | clash: 6.3~11.7 | dmg: 5~11, OL 3 | ceil: 12.0
 s1 yi_sang_seven_ut4 | fleche | clash: 5.35~11.65 | dmg: 5~12, OL 0 | ceil: 12.0
 s3 don_quixote_w_corp_ut4 | rip_space | clash: 3.17~11.54 | dmg: 5~35, OL 3 | ceil: 12.0
-s1 rodion_kurokumo_ut4 | sharp_edge | clash: 5.97~11.37 | dmg: 5~14, OL 2 | ceil: 11.67
+s1 rodion_kurokumo_ut4 | sharp_edge | clash: 5.97~11.37 | dmg: 5~11, OL 2 | ceil: 11.67
 s1 hong_lu_k_corp_ut4 | impede_the_intruder | clash: 5.3~10.7 | dmg: 5~11, OL 0 | ceil: 11.0
 s1 meursault_w_corp_ut4 | rip | clash: 5.3~10.7 | dmg: 5~11, OL 0 | ceil: 11.0
 s1 sinclair_l_corp_ut4 | magnify_wound | clash: 5.25~9.75 | dmg: 5~10, OL 0 | ceil: 10.0

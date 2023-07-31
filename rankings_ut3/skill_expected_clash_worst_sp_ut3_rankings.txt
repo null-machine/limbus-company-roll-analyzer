@@ -38,8 +38,8 @@ s2 sinclair_blade_ut3 | slash_series | clash: 6.94~9.52 | dmg: 18~24, OL 2 | cei
 s2 gregor_liu_ut3 | rush_down | clash: 6.94~9.52 | dmg: 15~21, OL 5 | ceil: 9.67
 s3 ishmael_shi_ut3 | catch_breath | clash: 6.91~13.94 | dmg: 12~24, OL 1 | ceil: 14.33
 s3 outis_blade_ut3 | decisive_dive | clash: 6.91~13.94 | dmg: 12~24, OL 1 | ceil: 14.33
+s2 ishmael_boat_ut3 | explosive_blast | clash: 6.87~17.41 | dmg: 10~28, OL 3 | ceil: 18.0
 s2 ishmael_r_corp_ut3 | flaying_surge | clash: 6.83~15.83 | dmg: 6~16, OL 1 | ceil: 16.33
-s2 ishmael_boat_ut3 | explosive_blast | clash: 6.73~15.51 | dmg: 10~25, OL 3 | ceil: 16.0
 s2 ryoshu_kurokumo_ut3 | clean_up | clash: 6.73~15.51 | dmg: 10~25, OL 3 | ceil: 16.0
 s2 meursault_liu_ut3 | stalwart_stance | clash: 6.62~10.14 | dmg: 12~18, OL 1 | ceil: 10.33
 s3 faust_l_corp_ut3 | opportunistic_slash | clash: 6.6~25.93 | dmg: 8~41, OL 3 | ceil: 27.0
@@ -55,6 +55,7 @@ s2 faust_n_corp_ut3 | the_gripping | clash: 6.43~16.76 | dmg: 12~36, OL 4 | ceil
 s3 gregor_chef_ut3 | butcher_viand | clash: 6.43~9.81 | dmg: 20~30, OL 3 | ceil: 10.0
 s2 gregor_chef_ut3 | you_fresh_enough | clash: 6.4~13.6 | dmg: 6~14, OL 0 | ceil: 14.0
 s2 heathcliff_n_corp_ut3 | purify | clash: 6.4~13.6 | dmg: 6~14, OL 0 | ceil: 14.0
+s3 ishmael_boat_ut3 | risky_judgement | clash: 6.32~21.81 | dmg: 9~45, OL 5 | ceil: 22.67
 s1 don_quixote_w_corp_ut3 | rip | clash: 6.3~11.7 | dmg: 5~11, OL 3 | ceil: 12.0
 s1 hong_lu_tingtang_ut3 | throat_slit | clash: 6.3~11.7 | dmg: 5~11, OL 3 | ceil: 12.0
 s1 ryoshu_kurokumo_ut3 | focus_strike | clash: 6.3~11.7 | dmg: 5~11, OL 3 | ceil: 12.0
@@ -70,7 +71,6 @@ s3 meursault_liu_ut3 | perfected_death_fist | clash: 6.16~13.9 | dmg: 15~33, OL 
 s1 gregor_g_corp_ut3 | hack | clash: 6.1~11.37 | dmg: 8~17, OL 5 | ceil: 11.67
 s2 don_quixote_w_corp_ut3 | leap | clash: 6.1~16.43 | dmg: 12~36, OL 3 | ceil: 17.0
 s3 don_quixote_shi_ut3 | overbreathe | clash: 6.05~24.95 | dmg: 4~25, OL 3 | ceil: 26.0
-s3 ishmael_boat_ut3 | risky_judgement | clash: 6.04~18.95 | dmg: 9~39, OL 5 | ceil: 19.67
 s1 rodion_kurokumo_ut3 | sharpened_blade | clash: 5.97~11.37 | dmg: 5~11, OL 2 | ceil: 11.67
 s1 rodion_lccb_ut3 | bludgeon | clash: 5.97~11.37 | dmg: 4~10, OL 5 | ceil: 11.67
 s1 ryoshu_seven_ut3 | slash | clash: 5.97~11.37 | dmg: 4~10, OL 5 | ceil: 11.67

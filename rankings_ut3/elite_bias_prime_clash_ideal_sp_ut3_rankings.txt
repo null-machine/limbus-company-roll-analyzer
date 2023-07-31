@@ -4,12 +4,13 @@ ishmael_liu_ut3 (prime) | clash: 5.85~19.18 | dmg: 11.0~42.75, OL 2.0 | ceil: 22
 don_quixote_w_corp_ut3 (prime) | clash: 6.0~18.79 | dmg: 8.5~44.5, OL 3.0 | ceil: 32.0
 heathcliff_r_corp_ut3 (prime) | clash: 7.78~18.33 | dmg: 18.75~51.75, OL 5.0 | ceil: 25.67
 don_quixote_shi_ut3 (prime) | clash: 6.52~17.87 | dmg: 6.75~22.5, OL 3.0 | ceil: 29.0
+don_quixote_cinq_ut3 (prime) | clash: 8.13~17.8 | dmg: 10.0~26.5, OL 4.0 | ceil: 24.33
 ishmael_r_corp_ut3 (prime) | clash: 6.55~17.48 | dmg: 8.5~29.75, OL 1.0 | ceil: 23.33
 ryoshu_seven_ut3 (prime) | clash: 7.39~17.36 | dmg: 7.5~22.5, OL 5.0 | ceil: 21.67
-don_quixote_cinq_ut3 (prime) | clash: 7.13~16.8 | dmg: 10.0~26.5, OL 4.0 | ceil: 23.33
+ishmael_boat_ut3 (prime) | clash: 6.37~16.84 | dmg: 9.25~29.5, OL 3.5 | ceil: 22.67
+ishmael_shi_ut3 (prime) | clash: 6.22~16.51 | dmg: 14.5~40.5, OL 1.0 | ceil: 21.33
 don_quixote_lcb_ut3 (prime) | clash: 6.85~16.15 | dmg: 8.0~22.25, OL 2.0 | ceil: 20.67
 heathcliff_shi_ut3 (prime) | clash: 7.63~16.11 | dmg: 8.5~19.5, OL 1.0 | ceil: 19.33
-ishmael_boat_ut3 (prime) | clash: 6.3~15.88 | dmg: 9.25~28.0, OL 3.5 | ceil: 22.67
 faust_l_corp_ut3 (prime) | clash: 5.64~15.69 | dmg: 8.75~27.5, OL 3.0 | ceil: 27.0
 ryoshu_chef_ut3 (prime) | clash: 5.36~15.68 | dmg: 29.5~54.25, OL 3.0 | ceil: 19.0
 outis_g_corp_ut3 (prime) | clash: 6.19~15.64 | dmg: 6.0~16.5, OL -1.0 | ceil: 22.67
@@ -36,7 +37,6 @@ meursault_rosespanner_ut3 (prime) | clash: 6.41~12.97 | dmg: 10.0~22.5, OL 1.0 |
 outis_blade_ut3 (prime) | clash: 6.34~12.97 | dmg: 10.0~20.5, OL 1.0 | ceil: 16.33
 heathcliff_sunshower_ut3 (prime) | clash: 9.36~12.91 | dmg: 14.25~42.0, OL 2.75 | ceil: 19.0
 sinclair_l_corp_ut3 (prime) | clash: 5.19~12.83 | dmg: 9.75~24.5, OL 0.0 | ceil: 17.0
-ishmael_shi_ut3 (prime) | clash: 5.66~12.69 | dmg: 9.5~21.5, OL 1.0 | ceil: 14.33
 yi_sang_seven_ut3 (prime) | clash: 7.18~12.22 | dmg: 9.75~18.75, OL 0.0 | ceil: 16.0
 gregor_lcb_ut3 (prime) | clash: 4.15~11.98 | dmg: 5.25~15.0, OL -1.0 | ceil: 13.67
 sinclair_lcb_ut3 (prime) | clash: 6.5~11.95 | dmg: 13.0~23.75, OL 3.0 | ceil: 13.0
