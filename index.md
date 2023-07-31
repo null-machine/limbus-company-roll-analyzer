@@ -15,7 +15,7 @@ Critically reviewed by Nex (nex7448) and Kervina.
 
 Limbus Company belongs to Project Moon.
 
-Last update: 2023.7
+Last update: 2023.7.31
 
 ---
 
@@ -38,7 +38,9 @@ Through this metric, it becomes apparent that some sinners will likely be able t
 
 What this means is, this list will make the game experience and future stages as accessible as possible. Investing in high-tier units will provide a practical way to clear content. Failing that, it will illustrate the opportunity cost of not having certain units (which is usually far more acceptable than influencers would suggest).
 
-Regardless, please recognize that all tier lists, including this one, are generalizations. Cases that favour units of lower tiers will always exist, especially when it comes to playing around sin resources, type weaknesses and edge case synergies. It is unrealistic to expect any tier list to take every single aspect into account, but this one hopefully provides a solid analysis by combining objective numbers with veteran experience. To reiterate, these rankings are not presented as objective fact (even if they may as well be compared to certain sources).
+However, it is impractical to take into account every aspect of every identity for every version of the game. Emphasis will not be placed on skill colours— there's no telling what future EGOs hold in store. Furthermore, Refraction Railway 1 has proven that simply taking strong individual identities will outperform a team that goes out of its way to align colours for EGO spam or resonance. Having rare damage types in the current state of the game will not serve as as a ranking factor for similar reasons. Additionally, EGOs will kept in mind when determining rankings, but only mentioned if they are borderline intertwined with an identity's playstyle (e.g. G Gregor with Legerdemain or SS Heathcliff with AEDD). Micromanaging every single synergy is not practical, so determining how much a sinner's relevance is impacted by the existence of a specific strategy falls to the reader.
+
+On that note, please recognize that all tier lists, including this one, are generalizations. Cases that favour units of lower tiers will always exist, especially when it comes to playing around sin resources, type weaknesses and edge case synergies. It is unrealistic to expect any tier list to take every single aspect into account, but this one hopefully provides a solid analysis by combining objective numbers with veteran experience. To reiterate, these rankings are not presented as objective fact (even if they may as well be relative to certain sources).
 
 Finally, let it be emphasized that this is __not__ an autobattle tier list. Knowing how to redirect clashes, cancel enemy actions, pace skill pools and manipulate skill order within a turn is critical for doing identities justice. Learning those skills will make content far more accessible than whaling for rarity abuse.
 
@@ -46,7 +48,7 @@ Finally, let it be emphasized that this is __not__ an autobattle tier list. Know
 
 ## Rankings
 
-Units have badges that denote certain changes.
+Units have badges that denote certain traits. From a technical perspective, the blue, red, orange and green badges are not an indicator of greater power. They imply a sinner has more requirements to earn their rank.
 
 __Blue:__ This unit benefits significantly from technical prowess. They may emphasize tempo control, resource management or clash redirection, causing them to degrade under autobattle and often excel when getting the first action.
 
@@ -93,6 +95,7 @@ These units win clashes that units in lower tiers couldn't, and can be relied up
 ![7S Ryoshu](assets/10402.png)
 ![Shi Don](assets/10303.png)
 ![KK Hong Lu](assets/10602.png)
+![Sunshower Heathcliff](assets/10705.png)
 
 ---
 
@@ -102,7 +105,6 @@ Neither great nor terrible, these units may leave a player idly wishing they wer
 
 ![BL Sinclair](assets/11002.png)
 ![W Meursault](assets/10503.png)
-![Sunshower Heathcliff](assets/10705.png)
 ![Shi Ishmael](assets/10803.png)
 ![Liu Gregor](assets/11202.png)
 ![LCCB Ishmael](assets/10804.png)
@@ -139,6 +141,7 @@ One must go out of their way to get these sinners to outperform other options. W
 ![LCB Ishmael](assets/10801.png)
 ![N Rodion](assets/10904.png)
 ![N Meursault](assets/10504.png)
+![BL Outis](assets/11102.png)
 
 ---
 
@@ -146,7 +149,6 @@ One must go out of their way to get these sinners to outperform other options. W
 
 These units should not be prioritized for practical combat. This tier is unordered.
 
-![BL Outis](assets/11102.png)
 ![Mariachi Sinclair](assets/11004.png)
 ![LCB Rodion](assets/10901.png)
 ![Chef Gregor](assets/11204.png)
@@ -161,23 +163,19 @@ These units should not be prioritized for practical combat. This tier is unorder
 
 ## Writeups
 
-This section is geared towards advanced players. New players will still be able to use the rankings as a reroll or banner guide, and will gain appreciation for high-tier units as experience with the game increases. 
+This section is geared towards advanced players. New players will still be able to use the rankings as a reroll or banner guide, and will likely appreciate high-tier units more as experience deepens.
 
-The coloured lines represent a sinner's chance to beat a power at varying sanity levels. The y-axis represents chance of winning the clash, and the x-axis represents the power of the opposing skill. `clash` is an integral of the skill winrates. `damage` is the sum of a roll's values.j `ceil` is the theoretical max clash of a skill.
+The coloured lines represent a sinner's chance to beat a power at varying sanity levels. The y-axis represents chance of winning the clash, and the x-axis represents the power of the opposing skill. `clash` is an integral of the skill winrates. `damage` is the sum of a roll's values. `ceil` is the theoretical max clash of a skill.
 
-It is impractical to take into account every aspect of every identity for every version of the game. Emphasis will not be placed on skill colours— there's no telling what future EGOs hold in store. Furthermore, Refraction Railway 1 has proven that simply taking strong individual identities will outperform a team that goes out of its way to align colours for EGO spam or resonance. Having rare damage types in the current state of the game will not serve as as a ranking factor for similar reasons. Additionally, EGOs will kept in mind when determining rankings, but only mentioned if they are borderline intertwined with an identity's playstyle (e.g. G Gregor with Legerdemain or SS Heathcliff with AEDD). Micromanaging every single synergy is not practical, so determining how much a sinner's relevance is impacted by the existence of a specific strategy falls to the reader.
+Writeups will only be guaranteed for S tier and A tier units, with a few exceptions (e.g. units who already had writeups in previous versions). Other units are generally unremarkable and do not have much nuance outside of what the average player can figure out by reading their pages and looking at their roll numbers. (The same could honestly be said of several high tier units, but high tiers tend to be scrutinized, so justification will be provided anyways.)
 
-Writeups will only be guaranteed for S tier and A tier units, with a few exceptions (e.g. units who already had writeups in previous versions). Other units are generally unremarkable and do not have much nuance outside of what the average player can figure out by reading their pages and looking at their roll numbers. (The same could honestly be said of several high tier units, but high tiers tend to be scrutinized, so justification will be provided anyways.) 
-
-For the sake of transparency, let it be known that the author is biased towards G Gregor, L Faust and W Don, and biased against R Heathcliff and LCCB Ishmael. Everything is still kept as objective as possible.
-
-[UT3 charts are only displayed here for units with a UT4 badge to reduce clutter. In general, the differences in UT3 and UT4 charts are minor enough to be handwaved (exceptions made for most units ranked with a UT4 badge). To view UT3 charts for everyone, please visit this link.](https://github.com/null-machine/limbus-company-clash-tool)
+[UT3 charts are not displayed to avoid clutter. In general, the differences in UT3 and UT4 charts are minor enough to be handwaved (exceptions made for most units ranked with a UT4 badge). To view UT3 charts, please visit this link.](https://github.com/null-machine/limbus-company-clash-tool)
 
 ---
 
 ### S Tier: Sinclair - The One Who Shall Grip
 
-The prime charts include +2 base power from fanatic and S3's blunt power up. Since neither of those are practical at all, this ranking ignores his prime state... not like it matters.
+The prime charts include +2 base power from fanatic and S3's blunt power up. Since neither of those are practical at all, this ranking ignores his prime state... not like it'd make a difference.
 
 ![](charts_ut4/sinclair_n_corp_ut4_expected.png)
 ![](charts_ut4/sinclair_n_corp_ut4_prime.png)
@@ -189,9 +187,10 @@ The prime charts include +2 base power from fanatic and S3's blunt power up. Sin
 \+ Control over sanity scales with the number of actions he receives, increasing his consistency when getting the first action or being in small teams  
 \+ Different corroded EGO skills may generate with different targets, making indiscriminate targeting more lenient  
 \+ Defense skill rolls big and also has a high defense value, making it surprisingly practical for a shield  
+\+ Numerous and simple sanity tools keep his kit functional (at least in comparison to Suncliff)  
 
 \- Will effectively never maintain the consistency of plus coin units; kit maximization is impractical  
-\- Works relatively poorly in a full team due to the higher chance of hitting allies and marginally worse sanity control  
+\- Works worse in a full team due to the higher chance of hitting allies and marginally worse sanity control  
 \- Skipping EGO in favour of panic invokes a heavy opportunity cost, and giving up on sanity management massively reduces his consistency  
 \- Strangely low defense (but offset with a high health pool)  
 
@@ -394,23 +393,6 @@ The adverse chart excludes S2's extra coins.
 
 ---
 
-### A Tier: Ryoshu - Seven Association South Section 6
-
-The prime chart represents Ryoshu with Upper Slash's effect and next turn +1 attack power active.
-
-![](charts_ut4/ryoshu_seven_ut4_expected.png)
-![](charts_ut4/ryoshu_seven_ut4_prime.png)
-
-\+ Part of the low rarity clash god trio with L Faust and Shi Don, who all play similarly  
-\+ Above average roll numbers make her solid to pilot  
-\+ Kit provides an unprecedented amount of slash fragility, contributing a significant amount of damage  
-\+ Clash win effects in her kit press her advantage of having excellent rolls  
-\+ S3 contributes even more in low-sinner teams (but having a counter instead of an evade can reduce her effectiveness)  
-
-\- Raw damage is more concentrated in S3 and lower overall compared to L Faust and Shi Don  
-
----
-
 ### A Tier: Don Quixote - Cinq Association South Section 5 Director
 
 The prime chart includes her coin power on S1 and S3, as well as +1 clash power from S3.
@@ -438,6 +420,23 @@ The adverse chart excludes S3's +3 coin power.
 \+ Haste from S2 provides great pulling power, allowing her to put her insane clash power to use, making her an extremely competent fighter  
 
 \- Remarkably poor stagger thresholds, making her feel somewhat glassy  
+
+---
+
+### A Tier: Yi Sang - Blade Lineage Salsu
+
+The adverse, expected and prime charts include 0, +1 and +3 coin power respectively.
+
+![](charts_ut4/yi_sang_blade_ut4_adverse.png)
+![](charts_ut4/yi_sang_blade_ut4_expected.png)
+![](charts_ut4/yi_sang_blade_ut4_prime.png)
+
+\+ Cohesive kit that plays around S1 to stack passive  
+\+ Performs consistently regardless of sanity without poise  
+\+ S2 and S3 scale well with the coin power provided by his passive  
+
+\- Obtaining too much poise potency and blindly firing S3 makes it clunky to accumulate poise count (but the extra damage may make up for it)  
+\- Relative lack of poise count and complete lack of coin power make his UT3 miserable  
 
 ---
 
@@ -478,6 +477,23 @@ The prime chart includes her coin power on S3.
 
 ---
 
+### A Tier: Ryoshu - Seven Association South Section 6
+
+The prime chart represents Ryoshu with Upper Slash's effect and next turn +1 attack power active.
+
+![](charts_ut4/ryoshu_seven_ut4_expected.png)
+![](charts_ut4/ryoshu_seven_ut4_prime.png)
+
+\+ Part of the low rarity clash god trio with L Faust and Shi Don, who all play similarly  
+\+ Above average roll numbers make her solid to pilot  
+\+ Kit provides an unprecedented amount of slash fragility, contributing a significant amount of damage  
+\+ Clash win effects in her kit press her advantage of having excellent rolls  
+\+ S3 contributes even more in low-sinner teams (but having a counter instead of an evade can reduce her effectiveness)  
+
+\- Raw damage is more concentrated in S3 and lower overall compared to L Faust and Shi Don  
+
+---
+
 ### A Tier: Don Quixote - Shi Section 5 Director
 
 The prime chart includes S3's base power.
@@ -502,24 +518,7 @@ The prime chart includes S3's base power.
 
 ---
 
-### A Tier: Yi Sang - Blade Lineage Salsu
-
-The adverse, expected and prime charts include 0, +1 and +3 coin power respectively.
-
-![](charts_ut4/yi_sang_blade_ut4_adverse.png)
-![](charts_ut4/yi_sang_blade_ut4_expected.png)
-![](charts_ut4/yi_sang_blade_ut4_prime.png)
-
-\+ Cohesive poise kit  
-\+ Performs consistently regardless of sanity without poise  
-\+ S2 and S3 scale well with the coin power provided by his passive  
-
-\- Obtaining too much poise potency makes it difficult to accumulate poise count (but the extra damage may make up for it)
-\- Relative lack of poise count and complete lack of coin power make his UT3 miserable  
-
----
-
-### B Tier: Heathcliff - Lobotomy E.G.O::Sunshower
+### A Tier: Heathcliff - Lobotomy E.G.O::Sunshower
 
 The adverse, expected and prime charts include 0, +2 and +3 base power on S2 respectively.
 
@@ -527,20 +526,19 @@ The adverse, expected and prime charts include 0, +2 and +3 base power on S2 res
 ![](charts_ut4/heathcliff_sunshower_ut4_expected.png)
 ![](charts_ut4/heathcliff_sunshower_ut4_prime.png)
 
-\+ Very high theoretical damage output  
+\+ Theoretical damage output rivals that of S tier units (but is held back by an extremely clunky kit)  
 \+ Kit effects are synergistic and contribute much more damage and survivability than is standard  
-\+ Most viable Heathcliff identity to spam EGOs that consume sanity  
+\+ Most viable Heathcliff identity for EGO spam  
 \+ Similar to G Gregor with Legerdemain, Suncliff has notable synergy with AEDD  
 \+ Strong counter skill is inherent to his gameplay without sacrificing damage tempo  
 \+ Like Ninclair, benefits greatly from being the first action recipient  
 
-\- Clashes are surprisingly bad, even for a negative coin unit (but his counter and consuming sinking via getting hit somewhat offset this)  
+\- Clashes are surprisingly bad, even for a negative coin unit (but many aspects of his kit can play off this)  
 \- Sinking micro does not so much reward forward thinking as punish a lack of it  
 \- Sinking stacks are not preserved between fights, exacerbating his slow ramping time  
 \- Somewhat reliant on being hit to accelerate sinking, which can lead to unintentional corrosions or staggers (but the latter is offset slightly from AEDD's passive or other sources of healing)  
 \- Requires the team to be built around him and will not be able to function smoothly in random squads  
 \- Benefits more from being max level than usual  
-\- Seems to be tuned for the sanity changes that ended up being reverted  
 
 ---
 
@@ -722,4 +720,4 @@ The prime chart includes coin power on S3.
 
 One thing to keep in mind is that stronger units do not necessarily correlate with more enjoyment. Weaker sinners tend to compensate their lack of power in their own strange ways, and giving them a chance tends to lead to making some funny memories. Additionally, the game in its current state is easy enough to comfortably clear with just a support unit, so there's no need to worry about accessibility yet.
 
-Some of the authors are disappointed in Project Moon. The authors will post future updates when they feel like it.
+As of late July, some of the authors are disappointed in Project Moon. Future updates will be posted when the authors feel like it.
