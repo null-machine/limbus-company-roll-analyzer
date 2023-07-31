@@ -51,6 +51,11 @@ for uptie in uptie_names:
 				sinners[k].full_deck_rank_matrix[i][j] = k + 1
 				file.write(f'{sinners[k].gen_summary(i, "full_deck")}\n')
 
+	sinners.sort(reverse=False, key=lambda x: 4 * (x.elite_bias_rank_matrix[1][1] + x.elite_bias_rank_matrix[1][3] + x.elite_bias_rank_matrix[2][1] + x.elite_bias_rank_matrix[2][3]) + x.elite_bias_rank_matrix[2][4])
+	file = open(f'rankings_{uptie}/_general_sort_please_ignore.txt', 'w')
+	for k in range(0, len(sinners)):
+		file.write(f'{sinners[k].gen_summary(1, "elite_bias")}\n')
+
 	for i in range(0, 3):
 		for j in range (0, 5):
 				skills.sort(reverse=True, key=lambda x: x.score_matrix[i][j])

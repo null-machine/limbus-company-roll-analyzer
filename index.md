@@ -30,7 +30,7 @@ Pressing HOME on the keyboard will scroll to the top of the page.
 
 ## Introduction
 
-This is an encounter-agnostic tier list that attempts to rank sinners by general relevance. The rankings may be used for rerolling, as a banner guide, or simply providing a second opinion. Please note that the writeups are geared towards experienced players, but beginners can still use the rankings as a way to kickstart their intuition on what sinners may be considered good.
+This is an encounter-agnostic tier list that attempts to rank sinners by general relevance. The rankings may be used for rerolling, as a banner guide, or simply providing a second opinion. Please note that the writeups are geared towards experienced players, but beginners can still use the rankings as a way to kickstart their intuition on what sinners may be considered good in difficult content.
 
 The rationale behind a sinner's rank will never be based solely on their performance in existing content to emphasize future viability. First and foremost, the numbers on their rolls will be analyzed in detail to approximate their ability to clash and deal damage, since this ability is universal and critical. Then, notable parts about their kit that compensate or undermine their numbers will be taken into account. Example strategies and experiences will be provided if appropriate.
 
@@ -38,7 +38,7 @@ Through this metric, it becomes apparent that some sinners will likely be able t
 
 What this means is, this list will make the game experience and future stages as accessible as possible. Investing in high-tier units will provide a practical way to clear content. Failing that, it will illustrate the opportunity cost of not having certain units (which is usually far more acceptable than influencers would suggest).
 
-Regardless, please recognize that all tier lists, including this one, are generalizations. Cases that favour units of lower tiers will always exist, especially when it comes to playing around sin resources, type weaknesses and edge case synergies. It is unrealistic to expect any tier list to take every single aspect into account, but this one hopefully provides a solid analysis by combining objective numbers with veteran experience. To reiterate, these rankings are not presented as objective fact, but they are still based on rigorous analysis.
+Regardless, please recognize that all tier lists, including this one, are generalizations. Cases that favour units of lower tiers will always exist, especially when it comes to playing around sin resources, type weaknesses and edge case synergies. It is unrealistic to expect any tier list to take every single aspect into account, but this one hopefully provides a solid analysis by combining objective numbers with veteran experience. To reiterate, these rankings are not presented as objective fact (even if they may as well be compared to certain sources).
 
 Finally, let it be emphasized that this is __not__ an autobattle tier list. Knowing how to redirect clashes, cancel enemy actions, pace skill pools and manipulate skill order within a turn is critical for doing identities justice. Learning those skills will make content far more accessible than whaling for rarity abuse.
 
@@ -46,21 +46,19 @@ Finally, let it be emphasized that this is __not__ an autobattle tier list. Know
 
 ## Rankings
 
-Sinners within S tier and A tier are deliberately ordered. In other tiers, sinners are grouped by affiliation first, and then ordered based on the average power of the affiliation. This is done to emphasize that not all ordering choices are equally significant.
-
 Units have badges that denote certain changes.
 
-__Cyan:__ This unit benefits significantly from technical prowess. They may emphasize tempo control, resource management or clash redirection, causing them to degrade under autobattle and excel when getting the first action.
+__Blue:__ This unit benefits significantly from technical prowess. They may emphasize tempo control, resource management or clash redirection, causing them to degrade under autobattle and excel when getting the first action.
+
+__Red:__ This unit benefits significantly from resetting. They may rely on going first, drawing a certain skill or have a dicey mechanic, making them time-consuming to optimize.
+
+__Orange:__ This unit is reliant on synergies. They may be strongly associated with a team composition or debuff, often causing their prime state to greatly exceed their expected state.
 
 __Yellow:__ This unit has a notable general-use support passive. They may be impactful when taken but not fielded, especially with small teams or solos. Since rankings evaluate fielded performance only, this badge is fairly arbitrary.
 
-__Magenta:__ This unit benefits significantly from resetting. They may be reliant on turn order, drawing a certain skill or have a dicey mechanic, making them reliant on chance and time-consuming to optimize.
-
-__Red:__ This unit relies heavily on synergies. They may be strongly associated with a team composition or debuff, often causing their prime state to greatly exceed their expected state.
-
 __Green:__ This unit gains abnormally high power from UT4. A heavy investment cost is necessary for them to earn their rank. Certain UT4 EGOs may also be integral to their performance.
 
-__Blue:__ This unit's rank is highly contested. These sinners may excel in one aspect at a massive cost, resulting in a volatile rank that depends on what individuals value more. Individuals should think and rank this unit themselves.
+__Purple:__ This unit's rank is highly contestable. These sinners may excel in certain aspects at a massive cost to others, resulting in a volatile rank that depends on what individuals value more. Individuals should think and rank this unit themselves.
 
 ---
 
@@ -70,11 +68,12 @@ Units in this tier tend to directly outperform or invalidate units in lower tier
 
 ![N Sinclair](assets/11005.png)
 ![W Don](assets/10302.png)
-![TT Hong Lu](assets/10603.png)
-![R Ishmael](assets/10802.png)
 ![R Heathcliff](assets/10703.png)
 ![Chef Ryoshu](assets/10404.png)
 ![Spicebush Yi Sang](assets/10104.png)
+![TT Hong Lu](assets/10603.png)
+![R Ishmael](assets/10802.png)
+![Liu Ishmael](assets/10806.png)
 
 ---
 
@@ -82,20 +81,18 @@ Units in this tier tend to directly outperform or invalidate units in lower tier
 
 These units win clashes that units in lower tiers couldn't, and can be relied upon to hold their own and pull their weight. They feel solid to pilot and their kits are easily appreciated. This tier is ordered deliberately.
 
+![K Hong Lu](assets/10605.png)
 ![N Faust](assets/10204.png)
 ![Rose Rodion](assets/10905.png)
-![KK Hong Lu](assets/10602.png)
 ![Boat Ishmael](assets/10807.png)
-![Liu Ishmael](assets/10806.png)
-![G Gregor](assets/11203.png)
-![Cinq Don](assets/10305.png)
-![BL Yi Sang](assets/10103.png)
-![K Hong Lu](assets/10605.png)
 ![7S Ryoshu](assets/10402.png)
+![Cinq Don](assets/10305.png)
 ![L Faust](assets/10203.png)
+![G Gregor](assets/11203.png)
+![7S Outis](assets/11104.png)
 ![Shi Don](assets/10303.png)
-![Shi Ishmael](assets/10803.png)
-![Sunshower Heathcliff](assets/10705.png)
+![KK Hong Lu](assets/10602.png)
+![BL Yi Sang](assets/10103.png)
 
 ---
 
@@ -103,27 +100,27 @@ These units win clashes that units in lower tiers couldn't, and can be relied up
 
 Neither great nor terrible, these units may leave a player idly wishing they were someone else. That being said, they aren't liabilities. This tier is unordered.
 
-![LCB Outis](assets/11101.png)
-![R Meursault](assets/10506.png)
-![LCB Hong Lu](assets/10601.png)
-![KK Rodion](assets/10902.png)
+![W Meursault](assets/10503.png)
 ![BL Sinclair](assets/11002.png)
-![KK Ryoshu](assets/10403.png)
-![7S Outis](assets/11104.png)
-![Rosespanner Gregor](assets/11205.png)
-![Shi Heathcliff](assets/10702.png)
+![Sunshower Heathcliff](assets/10705.png)
+![Shi Ishmael](assets/10803.png)
 ![Liu Gregor](assets/11202.png)
-![Liu Hong Lu](assets/10604.png)
-![Liu Meursault](assets/10502.png)
 ![LCCB Ishmael](assets/10804.png)
+![KK Rodion](assets/10902.png)
+![KK Ryoshu](assets/10403.png)
+![Shi Heathcliff](assets/10702.png)
+![W Faust](assets/10202.png)
+![LCB Outis](assets/11101.png)
 ![Rose Meursault](assets/10505.png)
-![N Heathcliff](assets/10704.png)
-![N Don Quixote](assets/10304.png)
-![N Rodion](assets/10904.png)
-![N Meursault](assets/10504.png)
+![R Meursault](assets/10506.png)
+![LCB Don Quixote](assets/10301.png)
 ![L Sinclair](assets/11006.png)
+![LCB Hong Lu](assets/10601.png)
+![LCB Sinclair](assets/11001.png)
+![7S Yi Sang](assets/10102.png)
 ![Boat Sinclair](assets/11007.png)
-![Zwei Rodion](assets/10906.png)
+![LCB Ryoshu](assets/10401.png)
+![Rose Gregor](assets/11205.png)
 
 ---
 
@@ -131,17 +128,17 @@ Neither great nor terrible, these units may leave a player idly wishing they wer
 
 One must go out of their way to get these sinners to outperform other options. Whatever specialties they have are likely to be easily made redundant, and their rolls are subpar. This tier is unordered.
 
-![BL Outis](assets/11102.png)
-![LCCB Rodion](assets/10903.png)
-![Slime Ishmael](assets/10805.png)
 ![G Outis](assets/11103.png)
-![7S Yi Sang](assets/10102.png)
-![LCB Heathcliff](assets/10701.png)
-![LCB Ryoshu](assets/10401.png)
-![LCB Don Quixote](assets/10301.png)
+![N Don Quixote](assets/10304.png)
+![Liu Meursault](assets/10502.png)
+![N Heathcliff](assets/10704.png)
+![Liu Hong Lu](assets/10604.png)
+![Zwei Rodion](assets/10906.png)
+![L Ishmael](assets/10805.png)
+![LCCB Rodion](assets/10903.png)
 ![LCB Ishmael](assets/10801.png)
-![LCB Gregor](assets/11201.png)
-![LCB Sinclair](assets/11001.png)
+![N Rodion](assets/10904.png)
+![N Meursault](assets/10504.png)
 
 ---
 
@@ -149,15 +146,16 @@ One must go out of their way to get these sinners to outperform other options. W
 
 These units should not be prioritized for practical combat. This tier is unordered.
 
-![Chef Gregor](assets/11204.png)
-![W Faust](assets/10202.png)
-![W Meursault](assets/10503.png)
+![BL Outis](assets/11102.png)
 ![Mariachi Sinclair](assets/11004.png)
-![Zwei Sinclair](assets/11003.png)
 ![LCB Rodion](assets/10901.png)
-![LCB Faust](assets/10201.png)
+![Chef Gregor](assets/11204.png)
 ![LCB Meursault](assets/10501.png)
+![LCB Gregor](assets/11201.png)
 ![LCB Yi Sang](assets/10101.png)
+![LCB Heathcliff](assets/10701.png)
+![Zwei Sinclair](assets/11003.png)
+![LCB Faust](assets/10201.png)
 
 ---
 
@@ -188,6 +186,7 @@ The prime chart represents Sinclair with fanatic's +1 power active.
 \+ Strangely powerful defensive skill that does not interfere with sin generation and offers a means of controlling sanity when anticipating high drops  
 \+ Control over sanity scales with the number of actions he receives, increasing his consistency when being the first action recipient, or in low-sinner compositions  
 \+ Different corroded EGO skills may generate with different targets, making indiscriminate targeting more lenient  
+\+ Defense skill rolls big and also has a high defense value, making it surprisingly practical for a shield
 
 \- Will effectively never maintain the consistency of plus coin units; kit maximization is impractical  
 \- Works relatively poorly in a full team due to the higher chance of hitting allies and worse sanity control  
