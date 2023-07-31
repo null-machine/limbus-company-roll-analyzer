@@ -48,7 +48,7 @@ Finally, let it be emphasized that this is __not__ an autobattle tier list. Know
 
 ## Rankings
 
-Units have badges that denote certain traits. From a technical perspective, the blue, red, orange and green badges are not an indicator of greater power. They imply a sinner has more requirements to earn their rank.
+Units have badges that denote certain traits. The blue, red, orange and green badges are not an indicator of greater power. They imply a sinner has more requirements to earn their rank.
 
 __Blue:__ This unit benefits significantly from technical prowess. They may emphasize tempo control, resource management or clash redirection, causing them to degrade under autobattle and often excel when getting the first action.
 
@@ -608,7 +608,8 @@ The adverse chart represents Hong Lu without the additional coin power on S2 and
 
 \+ Serviceable rolls and a mildly clunky kit make her playable but generally unremarkable  
 \+ Notably high base power on her S2 and S3, lessening dependence on RNG in low sanity scenarios  
-\+ Gains a slew of kit effects and roll bonuses at UT4
+\+ Gains a slew of kit effects and roll bonuses at UT4  
+\+ Notable synergy with BL Yi Sang's support passive  
 
 \- S3 effects are restrictive due to lacking count for both her bleed and poise, requiring additional effort to build around for maximization  
 \- Passive theoretically has a powerful tempo, but finding situations that favour countering over clashing requires creativity  
