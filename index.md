@@ -568,8 +568,7 @@ The prime chart represents Ishmael with Flashing Strike's additional coins.
 \+ Inflicts bleed count, making the status effect more impactful  
 
 \- Damage contributed by bleed is substandard compared to just using skills with bigger numbers  
-\- Doubling down on more bleed invokes a greater opportunity cost (but this applies to status teams in general)  
-\- Bleed relies on the target to attack, making it miserable when targeting a broken part or staggered enemy  
+\- Bleed relies on the target to attack, making it miserable when targeting a broken part or staggered enemy, or at least less controllable compared to other statuses  
 \- Other parts of her kit apply on the same turn and are relatively unimpactful  
 
 ---
