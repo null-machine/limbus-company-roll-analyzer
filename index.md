@@ -38,7 +38,7 @@ Through this metric, it becomes apparent that some sinners will likely be able t
 
 What this means is, this list will make the game experience and future stages as accessible as possible. Investing in high-tier units will provide a practical way to clear content. Failing that, it will illustrate the opportunity cost of not having certain units (which is usually far more acceptable than influencers would suggest).
 
-However, it is impractical to take into account every aspect of every identity for every version of the game. Emphasis will not be placed on skill colours— there's no telling what future EGOs hold in store. Furthermore, Refraction Railway 1 has proven that simply taking strong individual identities will outperform a team that goes out of its way to align colours for EGO spam or resonance. Having rare damage types in the current state of the game will not serve as as a ranking factor for similar reasons. Additionally, EGOs will kept in mind when determining rankings, but only mentioned if they are borderline intertwined with an identity's playstyle (e.g. G Gregor with Legerdemain or SS Heathcliff with AEDD). Micromanaging every single synergy is not practical, so determining how much a sinner's relevance is impacted by the existence of a specific strategy falls to the reader.
+However, it is impractical to take into account every aspect of every identity for every version of the game. Emphasis will not be placed on skill colours— there's no telling what future EGOs hold in store. Furthermore, Refraction Railway 1 has proven that simply taking strong individual identities will outperform a team that goes out of its way to align colours for EGO spam or resonance. Having rare damage types in the current state of the game will not serve as as a ranking factor for similar reasons. Additionally, EGOs will be kept in mind when determining rankings, but only mentioned if they are borderline intertwined with an identity's playstyle (e.g. G Gregor with Legerdemain or SS Heathcliff with AEDD). Micromanaging every single synergy is not practical, so determining how much a sinner's relevance is impacted by the existence of a specific strategy falls to the reader.
 
 On that note, please recognize that all tier lists, including this one, are generalizations. Cases that favour units of lower tiers will always exist, especially when it comes to playing around sin resources, type weaknesses and edge case synergies. It is unrealistic to expect any tier list to take every single aspect into account, but this one hopefully provides a solid analysis by combining objective numbers with veteran experience. To reiterate, these rankings are not presented as objective fact (even if they may as well be relative to certain sources).
 
@@ -427,8 +427,8 @@ The adverse chart excludes S3's +3 coin power.
 
 The adverse, expected and prime charts include 0, +1 and +3 coin power respectively.
 
-![](charts_ut4/yi_sang_blade_ut4_adverse.png)
 ![](charts_ut4/yi_sang_blade_ut4_expected.png)
+![](charts_ut4/yi_sang_blade_ut4_adverse.png)
 ![](charts_ut4/yi_sang_blade_ut4_prime.png)
 
 \+ Cohesive kit that plays around S1 to stack passive  
@@ -522,8 +522,8 @@ The prime chart includes S3's base power.
 
 The adverse, expected and prime charts include 0, +2 and +3 base power on S2 respectively.
 
-![](charts_ut4/heathcliff_sunshower_ut4_adverse.png)
 ![](charts_ut4/heathcliff_sunshower_ut4_expected.png)
+![](charts_ut4/heathcliff_sunshower_ut4_adverse.png)
 ![](charts_ut4/heathcliff_sunshower_ut4_prime.png)
 
 \+ Theoretical damage output rivals that of S tier units (but is held back by an extremely clunky kit)  
@@ -717,6 +717,8 @@ The prime chart includes coin power on S3.
 ---
 
 ## Additional Notes
+
+The 000 Ishmael identities have been grouped together to emphasize that owning one of them is likely sufficient for most accounts. Their differences in power pale in comparison to whatever influences enemy weaknesses would impose. If this statement were disregarded, a case could be made for dropping Boat Ishmael to A tier and maybe having K Corp Hong Lu take her place.
 
 One thing to keep in mind is that stronger units do not necessarily correlate with more enjoyment. Weaker sinners tend to compensate their lack of power in their own strange ways, and giving them a chance tends to lead to making some funny memories. Additionally, the game in its current state is easy enough to comfortably clear with just a support unit, so there's no need to worry about accessibility yet.
 
